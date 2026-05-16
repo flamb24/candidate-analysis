@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Literata } from "next/font/google";
 import Link from "next/link";
+import { Analytics } from "@vercel/analytics/next";
 import HVToggle from "@/components/HVToggle";
 import ShareButton from "@/components/ShareButton";
 import "./globals.css";
@@ -56,6 +57,7 @@ export default function RootLayout({
         <footer className="border-t border-border py-6 text-center text-xs text-muted">
           Data compiled from public sources. Editorial assessments — not predictions.
         </footer>
+        <Analytics />
       </body>
     </html>
   );
