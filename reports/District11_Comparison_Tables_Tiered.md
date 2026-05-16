@@ -63,7 +63,7 @@ PN: Bernard Grech, Ivan Bartolo, Rebekah Borg
 | Candidate | Prior Office/Role | Key Documented Achievement | Principle vs Delivery Gap | Rating |
 |---|---|---|---|---|
 | **Alex Muscat** | MP (2022–, casual election replacing Miriam Dalli who left for cabinet); digital economy professional | Elected via casual election mechanism; active on digital economy | Limited independent legislative profile | ⭐⭐ |
-| **Miriam Dalli** 🏛️ Gov. | See D5 report | See D5 report | See D5 report | ⭐⭐⭐ |
+| **Miriam Dalli** 🏛️ Gov. | Energy/Environment/Public Cleanliness Minister (2022–); MEP (2014–20); MP (co-opted 2020); D5 roots through Karmenu Vella family | Energy subsidy scheme maintained; White Rocks first phase completed (national park); Project Green tree-planting initiative; Council of Europe youth presidency environmental work | Is-Siċċa project: pledged 2 days before 2022 election as €40m flagship, four years on only cleaning of tanks commenced; €1m Project Green direct orders to political associates (Cuschieri controversy); ARMS eco-reduction billing failure | ⭐⭐⭐ |
 | **Bernard Grech** | PN Leader (2020–25); Hospitals concession court case co-plaintiff; lawyer; MP (co-opted 2020, elected 2022) | Hospitals concession annulled — Adrian Delia litigated, Grech co-plaintiff; narrowed Labour's polling gap in 2024 local/MEP elections | Lost 2022 election by even larger margin than 2017; resigned June 2025 after trust rating collapsed to 18.8%; legacy contested | ⭐⭐ |
 | **Ivan Bartolo** | MP (2022–); Shadow Min. Social/Affordable Housing, Pensions | Pensions and social housing advocacy | First term only; limited legislative output | ⭐⭐ |
 | **Rebekah Borg** | MP via 52A (2022–); Shadow Min. Environment | Environment and ODZ advocacy; first term | Entered via gender mechanism; first direct election attempt | ⭐⭐ |
@@ -76,7 +76,9 @@ PN: Bernard Grech, Ivan Bartolo, Rebekah Borg
 |---|---|---|---|
 | **Bernard Grech** | Resigned as PN leader June 2025 after trust rating fell to 18.8% — widely seen as a failed leadership; earlier controversy over legal bill expenses | 🟡 Medium | MaltaToday, June 2025 |
 | **Bernard Grech** | 2022 general election loss — Labour's biggest majority ever under his leadership | 🟡 Medium | Multiple sources |
-| **Miriam Dalli** | See D5 report (is-Siċċa; Project Green) | 🔴 High | See D5 report |
+| **Miriam Dalli** 🏛️ Gov. | Is-Siċċa project: announced 2 days before 2022 election; €40m investment pledged; Pininfarina admitted only a desktop design was commissioned; no funding earmarked in 2026 budget | 🔴 High | Electoral deception; undelivered flagship promise | [The Shift News, Feb 2026](https://theshiftnews.com/2026/02/17/dalli-revives-pre-election-birzebbuga-proposal-as-elections-near/) |
+| **Miriam Dalli** 🏛️ Gov. | Project Green: CEO Joseph Cuschieri (disgraced former MFSA chief) appointed by Dalli; €1m in direct orders to political associates in 6 months (2025) | 🔴 High | Patronage; public procurement abuse | [The Shift News, 27 Apr 2026](https://theshiftnews.com/2026/04/27/dalli-cuschieri-dish-out-e1-million-in-project-green-direct-orders/) |
+| **Miriam Dalli** 🏛️ Gov. | ARMS eco-reduction billing failure — consumers losing the discount for 2 years; minister said to have "gone into hiding" when crisis emerged | 🟡 Medium | Ministerial accountability | [Malta Independent, Jan 2026](https://www.independent.com.mt/articles/2026-01-17/local-news/Minister-Miriam-Dalli-goes-into-hiding-once-again-PN-says-6736286447) |
 | **Alex Muscat** | No documented controversy | 🟢 None/Low | — |
 | **Ivan Bartolo** | No documented controversy | 🟢 None/Low | — |
 | **Rebekah Borg** | No documented controversy | 🟢 None/Low | — |

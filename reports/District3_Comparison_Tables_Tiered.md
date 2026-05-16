@@ -72,7 +72,7 @@ Note: Stephen Spiteri is primarily a D2 MP contesting D3 as his second district 
 | **Carmelo Abela** | Minister for Foreign Affairs (2017–22); Minister for Home Affairs (2014–17); MP (2008–) | Long Labour service; foreign affairs; home affairs; multiple ministerial portfolios over 18 years | Less prominent in this legislature; profile diminished post-2022 | ⭐⭐⭐ |
 | **Andy Ellul** 🏛️ Gov. | Parliamentary Secretary for Social Dialogue & Consumer Affairs (2022–); Government Whip (2022–); MP (2022–, via casual election replacing Silvio Grixti) | Government Whip — effective legislative manager; Consumer Affairs and Competition authority added to portfolio (2025); pragmatic operator | Entered parliament via casual election (Grixti fraud case) 2020; limited independent legislative footprint | ⭐⭐ |
 | **Janice Abela Chetcuti** | MP (2022–); Shadow Min. Consumer Rights & Animal Rights (Grech era); Shadow Min. Animal Welfare (Borg era) | Animal welfare advocacy; consumer rights portfolio; first-term MP | Limited legislative output; no major public interventions documented | ⭐⭐ |
-| **Stephen Spiteri** | MP (2008–); Shadow Min. Health (2022–24); Shadow Min. Social Policy (2024–); medical doctor | See D2 report; PN's most experienced D3 candidate | See D2 report (medical certificates controversy; attendance issues) | ⭐⭐ |
+| **Stephen Spiteri** | MP (2008–); Shadow Min. Health (2022–24); Shadow Min. Social Policy (2024–); medical doctor | PN's only D2 MP for four consecutive elections; longest-serving PN representative in Labour stronghold; health policy advocacy | Medical Council inquiry (2018) over bogus sick certificates at Brown's Pharmacy Kalkara; missed 81% of parliamentary sittings (2011 — per Times of Malta); shadow roles shifted under reshuffle | ⭐⭐ |
 
 ---
 
@@ -87,7 +87,8 @@ Note: Stephen Spiteri is primarily a D2 MP contesting D3 as his second district 
 | **Carmelo Abela** | No major documented controversy in this legislature | 🟢 None/Low | — | — |
 | **Andy Ellul** | Entered parliament via casual election replacing Silvio Grixti (convicted of fraud); no personal controversy | 🟢 None/Low | — | — |
 | **Janice Abela Chetcuti** | No documented controversy | 🟢 None/Low | — | — |
-| **Stephen Spiteri** | See D2 report (medical certificates; attendance) | 🔴 High | Professional misconduct | See D2 report |
+| **Stephen Spiteri** | Medical Council inquiry (2018): investigation for issuing sick certificates at €5 without examining patients at Brown's Pharmacy, Kalkara | 🔴 High | Professional misconduct | [MaltaToday](https://www.maltatoday.com.mt/news/national/89935/shadow_health_minister_faces_inquiry_over_bogus_sick_certificates) |
+| **Stephen Spiteri** | Missed 81% of parliamentary sittings in 2011 — worst attendance record of any MP that year | 🟡 Medium | Parliamentary conduct | Times of Malta, 2011 |
 
 ---
 
@@ -153,7 +154,7 @@ ADPD: Brian Decelis
 | **Ray Abela** | MP (2022–); business/tech background; CEO of learning academy | Technology and digital economy; LinkedIn profile shows policy engagement with AI/digital sectors | Limited independent legislative footprint as backbencher | ⭐⭐ |
 | **Andrew Agius** | First-time candidate; veterinarian; son of former MP Dr Francis Agius | 11 years serving southern Malta communities as vet; President, Veterinary Association; studied abroad 8 years | No prior elected office | ⭐ |
 | **Miriana Calleja Testaferrata de Noto** | Former MŻPN President; 2024 MEP candidate (408 votes) | PN youth wing leadership; European Studies background | Low vote count in 2024 MEP election; no elected office | ⭐ |
-| **John Baptist Camilleri** | See D2 report; Marsaskala PN councillor | See D2 report | D2 primary; D3 secondary | ⭐⭐ |
+| **John Baptist Camilleri** | PN Marsaskala Minority Leader; aviation engineer; contested 2017 and 2022 | Long-standing PN local presence in Marsaskala; advocated for PN offshore maritime fuel hub; known for constituency engagement on local issues | D2 primary; D3 secondary | ⭐⭐ |
 | **Raymond Gatt** | Orthopaedic consultant; new candidate | Medical professional | No prior elected record | ⭐ |
 | **Mark Philip Camilleri Gambin** | Momentum candidate | No elected record | Information gap | ⭐ |
 | **Brian Decelis** | ADPD candidate D3 and D4 | ADPD green platform | No elected record | ⭐ |

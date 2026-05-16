@@ -138,8 +138,8 @@ PN: Conrad Borg Manché, Miriana Calleja Testaferrata de Noto, Duncan Borg Myatt
 
 | Candidate | Prior Role | Key Achievement | Rating |
 |---|---|---|---|
-| **Robert Abela** 🏛️ Gov. | PM (D2 primary) | See D2 report | ⭐⭐⭐ |
-| **Owen Bonnici** 🏛️ Gov. | Culture Minister (D3 primary) | See D3 report | ⭐⭐⭐⭐ |
+| **Robert Abela** 🏛️ Gov. | PM (D2 primary) | Led Malta through COVID; maintained energy subsidies (€320m/yr); economy maintained AAA/A+ rating (Scope Ratings confirmed May 2026); oversaw Vitals hospital denationalisation (court-mandated); introduced 2022 abortion medical exception | ⭐⭐⭐ |
+| **Owen Bonnici** 🏛️ Gov. | Culture Minister (D3 primary) | Valletta 2018 European Capital of Culture; MICAS (Malta's first contemporary art museum — €30m); drug law reform (2013–17); whistleblower act (second in EU); judicial appointment reform | ⭐⭐⭐⭐ |
 | **Remenda Grech** | New candidate 2026; partner of Owen Bonnici | No prior elected office | ⭐ |
 | **Conrad Borg Manché** | Former Gżira Mayor 2016–23 (Labour); D10 primary PN candidate | Manoel Island foreshore win; Council of Europe Garden victory; 60% re-election as mayor | ⭐⭐⭐⭐⭐ (see D10 report) |
 | **Miriana Calleja Testaferrata de Noto** | Former MŻPN President; 2024 MEP candidate (408 votes) | No elected national record | ⭐ |
@@ -154,8 +154,11 @@ PN: Conrad Borg Manché, Miriana Calleja Testaferrata de Noto, Duncan Borg Myatt
 
 | Candidate | Controversy | Severity |
 |---|---|---|
-| **Robert Abela** | See D2 report (Vitals; Planning Authority fees) | 🔴 High |
-| **Owen Bonnici** | See D3 report (vigil flowers; Arts Council contract) | 🔴 High |
+| **Robert Abela** | Planning Authority paid €17,000/month to Abela's family law firm before he became PM | 🔴 High | Conflict of interest | [MaltaToday](https://www.maltatoday.com.mt/news/national/99697/explainer__who_is_maltas_new_prime_minister_robert_abela) · [Newsbook](https://newsbook.com.mt/en/no-place-for-hatred-in-politics-according-to-glenn-bedingfield/) |
+| **Robert Abela** | Accused by PN of knowing in 2021 the Vitals hospitals deal was fraudulent but continuing payments; Muscat subsequently charged criminally | 🔴 High | Governance/accountability | [The Malta Independent — Vitals inquiry](https://www.independent.com.mt/articles/2024-05-27/local-news/PN-leader-accuses-PM-of-withholding-hospitals-inquiry-to-conceal-involvement-6736261469) |
+| **Robert Abela** | Attacked magistrate overseeing Vitals inquiry; described "the establishment" as conspiring against Labour — widely condemned as undermining judicial independence | 🔴 High | Rule of law/institutional | [MaltaToday](https://www.maltatoday.com.mt/news/national/128939/watch_abela_claims_the_establishment_is_using_the_vitals_inquiry_to_disrupt_elections) |
+| **Owen Bonnici** 🏛️ Gov. | Arts Council Malta awarded €25,000 contract to blogger Mark Camilleri; described as nepotism/political favoritism by critics | 🟡 Medium | Conflict of interest/political patronage | [MaltaToday](https://www.maltatoday.com.mt/news/national/135163/robert_abela_mulls_cabinet_changes_as_byron_camilleri_wants_out_of_home_affairs) |
+| **Owen Bonnici** 🏛️ Gov. | Daphne Caruana Galizia vigil flowers removal: Bonnici, as justice minister, repeatedly ordered police to remove flowers placed as vigil memorial outside Castille — widely condemned internationally | 🔴 High | Rule of law; press freedom | Multiple international sources; documented by Reporters Without Borders |
 | **All PN second-tier** | No documented controversy | 🟢 None/Low |
 | **Remenda Grech** | No documented controversy | 🟢 None/Low |
 

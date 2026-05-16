@@ -63,7 +63,7 @@ PN: Alex Borg, Ivan Castillo, Graziella Galea
 
 | Candidate | Prior Office/Role | Key Documented Achievement | Principle vs Delivery Gap | Rating |
 |---|---|---|---|---|
-| **Jonathan Attard** 🏛️ Gov. | See D4 report | See D4 report | See D4 report | ⭐⭐⭐ |
+| **Jonathan Attard** 🏛️ Gov. | Justice Minister & Construction Sector Reform (2022–); MP (co-opted 2021, elected 2022); lawyer; former journalist; born Tarxien | First parliamentary register of interests (March 2026); Health & Safety at Work reform; mason licensing reform; Council of Europe PACE vice-president; doctoral research on parliamentary accountability | Ministers' asset declaration rollback controversy — Attard introduced amendments scrapping more detailed ministerial declarations | ⭐⭐⭐ |
 | **Alicia Bugeja Said** 🏛️ Gov. | Parliamentary Secretary Fisheries (2022–); Director of Fisheries (prior); scientist | Scientific background applied to fisheries policy; animal welfare; secured EU funds for fisheries | D3 primary; D12 is secondary; limited D12 local profile | ⭐⭐⭐ |
 | **Naomi Cachia** 🏛️ Gov. | Government Whip (2024–); MP via 52A (2022–) | First woman Government Whip; D7 primary; D12 secondary | D7 primary; limited D12-specific work | ⭐⭐⭐ |
 | **Alex Borg** | PN leader (2025–); MP (2022–); Shadow Min. Gozo; Mr World Malta (2020); lawyer | Won PN leadership in September 2025 (44-vote margin); first mass PN rally after election announcement; promising new hospital in the north as flagship D12 pledge | Youngest PN leader; no government record; opposition limits delivery | ⭐⭐ |
@@ -76,7 +76,8 @@ PN: Alex Borg, Ivan Castillo, Graziella Galea
 
 | Candidate | Controversy | Severity | Source |
 |---|---|---|---|
-| **Jonathan Attard** | See D4 report | 🟡 Medium | See D4 |
+| **Jonathan Attard** 🏛️ Gov. | Ethics code amendment introduced to scrap more detailed ministerial asset declarations — criticised as transparency rollback | 🟡 Medium | Governance/transparency | [Malta Post](https://themaltapost.com/posts/malta-quietly-hides-ministers-assets-what-this-transparency-rollback-means-for-you) |
+| **Jonathan Attard** 🏛️ Gov. | Standards Commissioner rejected his complaint against two PN MPs over criminal libel claims | 🟢 None/Low | Standards process | [Malta Independent, Dec 2024](https://www.independent.com.mt/articles/2024-12-17/local-news/Standards-czar-rejects-Jonathan-Attard-complaint-against-two-PN-MPs-PN-6736266588) |
 | **Alex Borg** | Cannabis photo circulated (AI-manipulated image — noted by Wikipedia); AI-edited images mocking him flooded social media after election announcement | 🟢 None/Low (victim of disinformation, not perpetrator) | Wikipedia D2026 article |
 | **Alex Borg** | Endorsed Trump as "more pro-business"; praised Trump's pro-life stance — some see this as divisive | 🟡 Medium | [Wikipedia — Alex Borg](https://en.wikipedia.org/wiki/Alex_Borg_(politician)) |
 | **Graziella Galea** | Was PN St Paul's Bay mayor subject to vote of no confidence — resigned, causing controversy | 🟡 Medium | Lovin Malta — D12 Spotlight 2022 |

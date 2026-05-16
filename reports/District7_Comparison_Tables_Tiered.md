@@ -61,9 +61,9 @@ PN: Rebekah Borg, Adrian Delia (D7 and D8)
 
 | Candidate | Prior Office/Role | Key Documented Achievement | Principle vs Delivery Gap | Rating |
 |---|---|---|---|---|
-| **Ian Borg** 🏛️ Gov. | See D6 report | See D6 report | See D6 report | ⭐⭐⭐⭐ |
+| **Ian Borg** 🏛️ Gov. | Deputy PM & Min. Foreign Affairs & Tourism (2024–); Min. Foreign Affairs (2022–24); Min. Transport & Infrastructure (2017–22); Parliamentary Secretary EU Funds (2013–17); Mayor of Dingli (2005–13) | 100% EU funds absorption 2007–13; UN Security Council Chair (2023, 2024); OSCE Chair-in-Office (2024); EU Presidency (2017); launched Malta's first metro plan; OSCE ministerial council in Malta (Dec 2024); Forbes 30 Under 30 (2016) | Infrastructure ministry era: rampant construction, overdevelopment criticism — though Borg was popular; transit from infrastructure to diplomacy created some policy continuity gaps | ⭐⭐⭐⭐ |
 | **Naomi Cachia** 🏛️ Gov. | Government Whip (2024–); MP via 52A (2022–); former FŻL president | First woman Government Whip in Maltese parliamentary history; lawyer by profession; youth wing leadership | Entered via gender mechanism in 2022; limited individual legislative record prior to Whip role | ⭐⭐⭐ |
-| **Julia Farrugia** 🏛️ Gov. | See D5 report | See D5 report | See D5 report | ⭐⭐⭐ |
+| **Julia Farrugia** 🏛️ Gov. | Minister for Inclusion (2022–); Tourism Minister (2020–22); Parliamentary Secretary (2017–20); MP (2017–); VOTE16 reform | VOTE16 reform (Malta 2nd EU state to lower voting age to 16); National Strategy for Disability Rights; hate speech law extended to disability | €10,000 fine for disability meme — critics said overreach; contested D5 and D7 simultaneously — neither her primary district | ⭐⭐⭐ |
 | **Silvio Schembri** | Min. Digital Economy (2017–22); MP | Promoted Malta's digital and igaming sectors internationally; launched digital economy strategy | Portfolio less prominent post-2022; D6/D7 secondary figure | ⭐⭐⭐ |
 | **Rebekah Borg** | MP via 52A (2022–); Shadow Min. Environment | Environment and ODZ advocacy; Parliamentary committee work | First term; limited legislative output | ⭐⭐ |
 | **Adrian Delia** | Former PN leader (2017–20); MP (co-opted 2020, elected 2022); lawyer | Won landmark court case annulling Vitals hospitals concession — major rule of law achievement; Shadow Min. Finance (2025–) | Controversial leadership tenure: internal PN crisis, leaked calls with Yorgen Fenech; removed as leader by rebel MPs | ⭐⭐⭐ |
@@ -74,11 +74,12 @@ PN: Rebekah Borg, Adrian Delia (D7 and D8)
 
 | Candidate | Controversy | Severity | Source |
 |---|---|---|---|
-| **Ian Borg** | See D6 report | 🟡 Medium | See D6 |
+| **Ian Borg** 🏛️ Gov. | Nominated Trump for Nobel Peace Prize during OSCE chairmanship (later qualified) | 🟡 Medium | Political judgment | [Malta Independent, Jan 2026](https://www.independent.com.mt/articles/2026-01-12/local-news/Foreign-Minister-defends-Malta-s-silence-on-Trump-s-Greenland-threats-6736286292) |
+| **Ian Borg** 🏛️ Gov. | Oversaw infrastructure era linked to rampant overdevelopment and traffic — though popular among voters | 🟡 Medium | Policy legacy | Multiple sources, 2017–22 |
 | **Adrian Delia** | Leaked audio of call with Yorgen Fenech (murder suspect) during his leadership — claimed to show him seeking information; PN rebels used this to oust him | 🔴 High | Multiple sources, 2020–22 |
 | **Adrian Delia** | Controversial PN leadership tenure (2017–20): internal civil war, Standards Commissioner investigations, allegations of personal misconduct | 🔴 High | MaltaToday, Malta Independent |
 | **Naomi Cachia** | No documented controversy | 🟢 None/Low | — |
-| **Julia Farrugia** | See D5 report | 🟡 Medium | See D5 |
+| **Julia Farrugia** 🏛️ Gov. | Proposed €10,000 fine for sharing disability meme — criticised as disproportionate censorship | 🟡 Medium | Free speech concerns | [Lovin Malta, Sep 2023](https://lovinmalta.com/opinion/opinion-is-julia-farrugia-portelli-out-of-her-mind/) |
 | **Silvio Schembri** | Direct orders and government patronage practices within digital economy portfolio | 🟡 Medium | Various reports |
 | **Rebekah Borg** | No documented controversy | 🟢 None/Low | — |
 
