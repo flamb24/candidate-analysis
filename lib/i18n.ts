@@ -93,7 +93,7 @@ const en = {
   viewCards: "Cards",
   viewTable: "Table",
   filterDistrict: "DISTRICT",
-  filterTier: "TIER",
+  filterTier: "Candidate public profile",
   filterParty: "PARTY",
   candidatesCount: (n: number) => `${n} candidates`,
 
@@ -217,7 +217,7 @@ const mt: typeof en = {
   viewCards: "Karti",
   viewTable: "Tabella",
   filterDistrict: "DISTRETT",
-  filterTier: "LIVELL",
+  filterTier: "Profil pubbliku tal-kandidat",
   filterParty: "PARTIT",
   candidatesCount: (n: number) => `${n} kandidati`,
 
