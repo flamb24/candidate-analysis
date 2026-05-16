@@ -26,7 +26,7 @@ export default function SiteHeader() {
         </Link>
         <nav className="flex items-center gap-2 sm:gap-3 text-sm text-muted">
           <ShareButton shareLabel={t.share} copiedLabel={t.copied} />
-          <LangToggle />
+          {/* <LangToggle /> — hidden until translations are reviewed */}
           <HVToggle label={t.highVis} />
         </nav>
       </div>
