@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { getAllDistricts } from "@/lib/data";
 import MasterComparison from "@/components/MasterComparison";
-import ScrollReset from "@/components/ScrollReset";
 import { getT } from "@/lib/i18n";
 import type { Lang } from "@/lib/i18n";
 
@@ -17,7 +16,6 @@ export default function AllCandidatesPageContent({ lang }: { lang: Lang }) {
 
   return (
     <div className="mx-auto w-full max-w-6xl flex flex-col gap-6 px-4 py-6 sm:px-6 sm:py-8">
-      <ScrollReset />
       <nav aria-label="breadcrumb" className="flex items-center gap-2 text-sm text-muted">
         <Link
           href={`${prefix}/districts`}

@@ -4,6 +4,7 @@ import Script from "next/script";
 import { Analytics } from "@vercel/analytics/next";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
+import ScrollReset from "@/components/ScrollReset";
 import "./globals.css";
 
 const literata = Literata({
@@ -57,6 +58,7 @@ export default function RootLayout({
         <script dangerouslySetInnerHTML={{ __html: `try{if(localStorage.getItem('hv')==='1')document.documentElement.classList.add('hv')}catch(e){}` }} />
         {/* Language preference: auto-redirect to /mt if user previously chose Maltese */}
         <script dangerouslySetInnerHTML={{ __html: `try{if(localStorage.getItem('lang')==='mt'&&!location.pathname.startsWith('/mt'))location.replace('/mt'+location.pathname)}catch(e){}` }} />
+        <ScrollReset />
         <SiteHeader />
         <main className="w-full flex-1">
           {children}
