@@ -6,6 +6,7 @@
 import { getAllDistricts } from "@/lib/data";
 import { getT } from "@/lib/i18n";
 import type { Lang } from "@/lib/i18n";
+import ElectionCountdown from "@/components/ElectionCountdown";
 
 const PARTIES: Array<{ name: string; code: string; varName: string }> = [
   { name: "Partit Laburista",       code: "PL",   varName: "--party-pl"   },
@@ -46,12 +47,12 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
         ivvota
       </span>
 
-      <div className="relative mx-auto max-w-[1440px] px-6 sm:px-10 lg:px-16 pt-6 lg:pt-8 pb-10 lg:pb-12 min-h-[100svh] flex flex-col">
+      <div className="relative mx-auto max-w-[1440px] px-6 sm:px-10 lg:px-16 pt-6 lg:pt-8 pb-2 lg:pb-4 min-h-[100svh] flex flex-col">
 
         {/* ── Masthead ─────────────────────────────────────────────── */}
         <header className="flex flex-col gap-3">
           <div className="flex flex-col gap-0.5">
-            <span className="font-serif font-extrabold text-4xl lg:text-5xl -tracking-[0.02em]">
+            <span className="font-serif font-extrabold text-5xl lg:text-7xl -tracking-[0.02em]">
               Distrett<span className="text-[var(--cta)]">.</span>
             </span>
             <span className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)]">
@@ -151,8 +152,8 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
           <div className="h-px bg-[var(--fg)]" />
           <div className="flex items-center gap-6 pt-5 lg:pt-6">
 
-            {/* Date lockup */}
-            <div className="flex flex-col gap-1">
+            {/* Date lockup + countdown */}
+            <div className="flex flex-col gap-2">
               <span className="font-mono text-[10px] uppercase tracking-[0.3em] text-[var(--muted)]">
                 {t.pollsOpen}
               </span>
@@ -162,6 +163,7 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
               >
                 {t.electionDateTime}
               </time>
+              <ElectionCountdown />
             </div>
 
 

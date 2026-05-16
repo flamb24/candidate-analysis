@@ -11,7 +11,7 @@ export default function Home() {
       <HeroSection lang="en" />
 
       {/* ── Sources credit ─────────────────────────────────────────────── */}
-      <section className="mx-auto w-full max-w-6xl px-4 py-12 sm:px-6 sm:py-16 flex flex-col gap-6">
+      <section className="mx-auto w-full max-w-6xl px-4 pt-4 pb-12 sm:px-6 sm:pt-4 sm:pb-16 flex flex-col gap-6">
         <div className="flex flex-col gap-2">
           <p className="font-mono text-[11px] uppercase tracking-[0.25em] text-muted">
             {t.sourcesSectionLabel}

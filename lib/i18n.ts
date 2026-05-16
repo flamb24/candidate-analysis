@@ -19,10 +19,10 @@ const en = {
   headlineLine2Bold: "represent",
   headlineLine3: "you?",
   subhead:
-    "On election day, most names on the ballot are strangers — and there are far too many to research from scratch. Distrett does the groundwork: every candidate is profiled by public record, rated by media presence, and labelled so you can quickly separate the serious contenders from the ballot-fillers. Filter down to who matters, find the candidate who reflects your values, then dig deeper. Read more. Make an informed choice. Malta deserves better.",
-  inThisIssue: "What this is",
-  issueBlurb: (n: number) =>
-    `An independent guide to every candidate running across all ${n} electoral districts — profiled by track record, controversy, and public presence, so you can vote with confidence.`,
+    "Too many unknown names, not enough time to research them all. Distrett profiles every candidate — track record, controversies, electability — so you can cut through the noise and vote for someone who actually represents you.",
+  inThisIssue: "Who we are",
+  issueBlurb: (_n: number) =>
+    `No party. No agenda. Just people who got tired of manually digging through years of coverage to figure out if a candidate was even worth voting for. Politicians across every party have long relied on a poorly-informed electorate to coast to re-election — it keeps them comfortable and unaccountable. This is our small attempt to change that.`,
   statCandidates: "Candidates",
   statDistricts: "Districts",
   statSeats: "Seats in parliament",
@@ -143,9 +143,9 @@ const mt: typeof en = {
   headlineLine3: "verament?",
   subhead:
     "Fil-jum tal-elezzjoni, il-biċċa l-kbira tal-ismijiet fuq il-ballot huma barranin — u hemm wisq biex tirriċerka minn daqshekk. Distrett jagħmel ix-xogħol tal-bażi: kull kandidat huwa proffilat, ivvalutat bil-preżenza fil-midja, u ttikkettat biex tifred malajr il-kandidati serji mill-mimlejn lista. Iffiltja biex issib dak li jgħodd, imbagħad iqdim. Aqra aktar. Agħmel għażla infurmata. Malta tistħoqqilha aħjar.",
-  inThisIssue: "X’inhu dan",
-  issueBlurb: (n: number) =>
-    `Gwida indipendenti għal kull kandidat li jikkontesta fit-${n} distretti elettorali kollha — proffilati bir-rekord, il-kontroversji, u l-preżenza pubblika, biex tivvota b’fiduċja.`,
+  inThisIssue: "Min aħna",
+  issueBlurb: (_n: number) =>
+    `L-ebda partit. L-ebda aġenda. Sempliċement nies li qegudin jitħabtu jfittxu snin ta’ artikli biex jifhmu jekk kandidat jistħoqqilhomx il-vot. Il-politiċi ta’ kull partit ilhom jiddependu fuq elettorat li m’għandux informazzjoni biżżejjed — u dan iżommhom komdi u mhux responsabbli. Dan huwa t-tentattiv żgħir tagħna biex nibdlu dan.`,
   statCandidates: "Kandidati",
   statDistricts: "Distretti",
   statSeats: "Siġġijiet fil-Parlament",
