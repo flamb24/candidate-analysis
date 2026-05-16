@@ -260,26 +260,31 @@ export default function MasterComparison({
         />
       </div>
 
-      <div className="flex items-center justify-between text-sm text-muted">
-        <span>{strings.candidatesCount(filtered.length)}</span>
-        <div className="flex rounded-md border border-border bg-background p-0.5 text-sm">
-          <button
-            onClick={() => setView("cards")}
-            className={`rounded px-2.5 py-1 ${
-              view === "cards" ? "bg-foreground text-background" : "text-muted"
-            }`}
-            aria-pressed={view === "cards"}>
-            {strings.viewCards}
-          </button>
-          <button
-            onClick={() => setView("table")}
-            className={`rounded px-2.5 py-1 ${
-              view === "table" ? "bg-foreground text-background" : "text-muted"
-            }`}
-            aria-pressed={view === "table"}>
-            {strings.viewTable}
-          </button>
+      <div className="flex flex-col gap-1.5">
+        <div className="flex items-center justify-between text-sm text-muted">
+          <span>{strings.candidatesCount(filtered.length)}</span>
+          <div className="flex rounded-md border border-border bg-background p-0.5 text-sm">
+            <button
+              onClick={() => setView("cards")}
+              className={`rounded px-2.5 py-1 ${
+                view === "cards" ? "bg-foreground text-background" : "text-muted"
+              }`}
+              aria-pressed={view === "cards"}>
+              {strings.viewCards}
+            </button>
+            <button
+              onClick={() => setView("table")}
+              className={`rounded px-2.5 py-1 ${
+                view === "table" ? "bg-foreground text-background" : "text-muted"
+              }`}
+              aria-pressed={view === "table"}>
+              {strings.viewTable}
+            </button>
+          </div>
         </div>
+        <p className="text-xs text-muted">
+          <span className="font-medium">Tip:</span> filter by Candidate Public Profile to simplify your research
+        </p>
       </div>
 
       {view === "cards" ? (
