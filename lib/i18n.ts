@@ -59,7 +59,7 @@ const en = {
   districtNotable: "notable",
   districtSecondTier: "second-tier",
   districtFillers: "list-fillers",
-  districtContext: "District context",
+  districtContext: "Information about this district",
   issueMatrixTitle: "Issue stance matrix",
   issueMatrixSubtext: (n: number) =>
     `Where each party stands across the issues most likely to drive votes in D${n}.`,
@@ -92,6 +92,7 @@ const en = {
   searchPlaceholder: "Search candidate name…",
   viewCards: "Cards",
   viewTable: "Table",
+  filtersLabel: "Filters",
   filterDistrict: "DISTRICT",
   filterTier: "Candidate public profile",
   filterParty: "PARTY",
@@ -183,7 +184,7 @@ const mt: typeof en = {
   districtNotable: "notevoli",
   districtSecondTier: "tieni livell",
   districtFillers: "mimlejn lista",
-  districtContext: "Kuntest tad-Distrett",
+  districtContext: "Informazzjoni dwar dan id-Distrett",
   issueMatrixTitle: "Matriċi tal-PoŻizzjonijiet",
   issueMatrixSubtext: (n: number) =>
     `Fejn jinsab kull partit fuq l-issues li aktarx se jmexxu l-voti fid-D${n}.`,
@@ -216,6 +217,7 @@ const mt: typeof en = {
   searchPlaceholder: "Fittex isem il-kandidat…",
   viewCards: "Karti",
   viewTable: "Tabella",
+  filtersLabel: "Filtri",
   filterDistrict: "DISTRETT",
   filterTier: "Profil pubbliku tal-kandidat",
   filterParty: "PARTIT",

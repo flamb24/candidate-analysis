@@ -49,14 +49,14 @@ export default function MtHomePage() {
                   <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-[var(--muted)]">
                     District {d.number}
                   </span>
-                  <span className="font-mono text-[10px] text-[var(--muted)]">
+                  <span className="font-mono text-xs text-[var(--muted)]">
                     {d.candidates.length} {t.candidatesUnit}
                   </span>
                 </div>
                 <p className="text-sm leading-snug text-[var(--fg)] group-hover:text-[var(--accent)] transition-colors">
                   {d.localities || `District ${d.number}`}
                 </p>
-                <div className="mt-auto pt-3 flex gap-3 text-[10px] font-mono uppercase tracking-[0.1em] text-[var(--muted)]">
+                <div className="mt-auto pt-3 flex gap-3 text-xs font-mono uppercase tracking-[0.1em] text-[var(--muted)]">
                   <span>{d.tierCounts.Notable} {t.notableUnit}</span>
                   <span>·</span>
                   <span>{d.tierCounts["Second-tier"]} {t.secondTierUnit}</span>

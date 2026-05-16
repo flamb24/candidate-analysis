@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getDistrict } from "@/lib/data";
+import { getDistrict, getAllDistricts } from "@/lib/data";
 import IssueMatrix from "@/components/IssueMatrix";
 import MasterComparison from "@/components/MasterComparison";
 import {
@@ -193,6 +193,29 @@ export default function DistrictPageContent({
           <IssueMatrix data={district.issueMatrix} />
         </section>
       )}
+
+      {/* District chip navigation */}
+      <nav aria-label="Jump to district" className="border-t border-border pt-6">
+        <p className="text-xs font-medium uppercase tracking-wide text-muted mb-3">
+          All districts
+        </p>
+        <div className="flex gap-1.5 overflow-x-auto pb-1 -mb-1 scrollbar-none">
+          {getAllDistricts().map((d) => (
+            <Link
+              key={d.number}
+              href={`${prefix}/district/${d.number}`}
+              aria-current={d.number === districtNum ? "page" : undefined}
+              className={`shrink-0 inline-flex items-center rounded-full border px-3 py-1.5 text-sm font-medium transition-colors ${
+                d.number === districtNum
+                  ? "bg-foreground text-background border-foreground"
+                  : "border-border text-muted hover:border-foreground hover:text-foreground"
+              }`}
+            >
+              D{d.number}
+            </Link>
+          ))}
+        </div>
+      </nav>
     </div>
   );
 }

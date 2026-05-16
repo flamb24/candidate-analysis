@@ -61,7 +61,7 @@ export function GovBadge() {
     <span
       data-gov-badge
       title="Currently in government"
-      className="inline-flex items-center gap-1 rounded-md border border-purple-200 bg-purple-50 px-1.5 pt-[2px] pb-[3px] text-[10px] font-semibold leading-none text-purple-700 dark:border-purple-900 dark:bg-purple-950/40 dark:text-purple-300"
+      className="inline-flex items-center gap-1 rounded-md border border-purple-200 bg-purple-50 px-1.5 pt-[2px] pb-[3px] text-xs font-semibold leading-none text-purple-700 dark:border-purple-900 dark:bg-purple-950/40 dark:text-purple-300"
     >
       <Landmark size={10} aria-hidden />
       Gov

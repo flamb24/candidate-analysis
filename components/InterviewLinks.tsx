@@ -51,7 +51,7 @@ export function InterviewLinks({
               className="group flex items-center gap-3 rounded-lg border border-border bg-background px-4 py-3 text-sm transition hover:border-foreground/40 hover:shadow-sm"
             >
               <span
-                className={`shrink-0 inline-flex items-center gap-1 rounded-md border px-2 pt-[2px] pb-[3px] text-[10px] font-semibold leading-none ${cfg.cls}`}
+                className={`shrink-0 inline-flex items-center gap-1 rounded-md border px-2 pt-[2px] pb-[3px] text-xs font-semibold leading-none ${cfg.cls}`}
               >
                 {cfg.icon}
                 {cfg.label}

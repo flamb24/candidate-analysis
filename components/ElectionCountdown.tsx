@@ -40,7 +40,7 @@ export default function ElectionCountdown() {
 
   if (phase === "open") {
     return (
-      <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--cta)]">
+      <p className="font-mono text-xs uppercase tracking-[0.2em] text-[var(--cta)]">
         Polls are open today · 07:00–22:00
       </p>
     );
@@ -48,7 +48,7 @@ export default function ElectionCountdown() {
 
   if (phase === "concluded" || !remaining) {
     return (
-      <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-muted">
+      <p className="font-mono text-xs uppercase tracking-[0.2em] text-muted">
         Election concluded · 30 May 2026
       </p>
     );
@@ -66,7 +66,7 @@ export default function ElectionCountdown() {
       ].map(({ value, label }, i) => (
         <div key={label} className="flex items-end gap-1">
           {i > 0 && (
-            <span className="font-mono text-[10px] text-[var(--muted)] mb-[3px] -ml-1.5">·</span>
+            <span className="font-mono text-xs text-[var(--muted)] mb-[3px] -ml-1.5">·</span>
           )}
           <div className="flex flex-col items-center leading-none">
             <span className="font-serif font-bold text-xl -tracking-[0.02em]">

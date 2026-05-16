@@ -55,7 +55,7 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
             <span className="font-serif font-extrabold text-5xl lg:text-7xl -tracking-[0.02em]">
               Distrett<span className="text-[var(--cta)]">.</span>
             </span>
-            <span className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)]">
+            <span className="font-mono text-xs uppercase tracking-[0.2em] text-[var(--muted)]">
               distrett.com · {t.tagline}
             </span>
           </div>
@@ -96,7 +96,7 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
           {/* Issue-brief side column */}
           <aside className="lg:col-span-4 lg:border-l lg:border-[var(--border)] lg:pl-7 flex flex-col gap-5">
             <div>
-              <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)] mb-2.5">
+              <p className="font-mono text-xs uppercase tracking-[0.2em] text-[var(--muted)] mb-2.5">
                 {t.inThisIssue}
               </p>
               <p className="font-serif italic text-lg leading-[1.35]">
@@ -113,7 +113,7 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
                   <dd className="font-serif font-extrabold text-[2.25rem] leading-none tracking-[-0.03em]">
                     {n}
                   </dd>
-                  <p className="font-mono text-[10px] uppercase tracking-[0.15em] text-[var(--muted)] mt-1">
+                  <p className="font-mono text-xs uppercase tracking-[0.15em] text-[var(--muted)] mt-1">
                     {l}
                   </p>
                 </div>
@@ -123,7 +123,7 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
             <div className="h-px bg-[var(--border)]" />
 
             <div className="flex flex-col gap-2.5">
-              <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)]">
+              <p className="font-mono text-xs uppercase tracking-[0.2em] text-[var(--muted)]">
                 {t.onTheBallot}
               </p>
               <ul className="flex flex-col gap-2 list-none p-0 m-0">
@@ -140,7 +140,7 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
                       />
                       {p.name}
                     </span>
-                    <span className="font-mono text-[10px] tracking-[0.1em] text-[var(--muted)]">
+                    <span className="font-mono text-xs tracking-[0.1em] text-[var(--muted)]">
                       {p.code}
                     </span>
                   </li>
@@ -157,7 +157,7 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
 
             {/* Date lockup + countdown */}
             <div className="flex flex-col gap-2">
-              <span className="font-mono text-[10px] uppercase tracking-[0.3em] text-[var(--muted)]">
+              <span className="font-mono text-xs uppercase tracking-[0.3em] text-[var(--muted)]">
                 {t.pollsOpen}
               </span>
               <time

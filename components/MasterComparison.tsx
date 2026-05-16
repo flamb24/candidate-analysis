@@ -1,7 +1,7 @@
 "use client";
 
 import { useMemo, useState, type ReactNode } from "react";
-import { Crown, Ghost, Medal } from "lucide-react";
+import { ChevronDown, Crown, Ghost, Medal } from "lucide-react";
 import Link from "next/link";
 import type { Candidate, Tier } from "@/lib/types";
 import { getT } from "@/lib/i18n";
@@ -84,6 +84,7 @@ export default function MasterComparison({
     new Set(districts ?? [])
   );
   const [search, setSearch] = useState("");
+  const [filtersOpen, setFiltersOpen] = useState(true);
   const [view, setView] = useState<"cards" | "table">("cards");
   const [sortKey, setSortKey] = useState<SortKey>("default");
   const [sortDesc, setSortDesc] = useState(true);
@@ -175,48 +176,65 @@ export default function MasterComparison({
     <div className="flex flex-col gap-4">
       {/* Filters */}
       <div className="flex flex-col gap-2 rounded-lg border border-border bg-muted-bg/50 p-3">
-        {districts && districts.length > 1 && (
-          <FilterRow
-            label={strings.filterDistrict}
-            options={districts.map((d) => ({ value: d, label: `D${d}` }))}
-            selected={selectedDistricts}
-            onToggle={toggleDistrict}
+        <button
+          onClick={() => setFiltersOpen((o) => !o)}
+          aria-expanded={filtersOpen}
+          className="flex w-full items-center justify-between text-xs font-medium uppercase tracking-wide text-muted"
+        >
+          <span>{strings.filtersLabel}</span>
+          <ChevronDown
+            size={14}
+            aria-hidden
+            className={`transition-transform duration-200 ${filtersOpen ? "rotate-180" : ""}`}
           />
-        )}
+        </button>
 
-        <FilterRow
-          label={strings.filterTier}
-          options={TIER_ORDER.map((tier) => ({
-            value: tier,
-            label: tierLabel(tier),
-          }))}
-          selected={selectedTiers}
-          onToggle={(v) => toggleInSet(v, selectedTiers, setSelectedTiers)}
-          colorMap={TIER_CHIP_COLORS}
-          iconMap={TIER_CHIP_ICONS}
-          titleMap={TIER_CHIP_TITLES}
-        />
+        {filtersOpen && (
+          <>
+            {districts && districts.length > 1 && (
+              <FilterRow
+                label={strings.filterDistrict}
+                options={districts.map((d) => ({ value: d, label: `D${d}` }))}
+                selected={selectedDistricts}
+                onToggle={toggleDistrict}
+              />
+            )}
 
-        <FilterRow
-          label={strings.filterParty}
-          options={parties.map((p) => ({ value: p, label: p }))}
-          selected={selectedParties}
-          onToggle={(v) => toggleInSet(v, selectedParties, setSelectedParties)}
-          colorMap={PARTY_CHIP_COLORS}
-        />
+            <FilterRow
+              label={strings.filterTier}
+              options={TIER_ORDER.map((tier) => ({
+                value: tier,
+                label: tierLabel(tier),
+              }))}
+              selected={selectedTiers}
+              onToggle={(v) => toggleInSet(v, selectedTiers, setSelectedTiers)}
+              colorMap={TIER_CHIP_COLORS}
+              iconMap={TIER_CHIP_ICONS}
+              titleMap={TIER_CHIP_TITLES}
+            />
 
-        {isFiltered && (
-          <button
-            onClick={() => {
-              setSearch("");
-              setSelectedParties(new Set(parties));
-              setSelectedTiers(new Set(TIER_ORDER));
-              if (districts) setSelectedDistricts(new Set(districts));
-            }}
-            className="self-start text-xs text-accent hover:underline"
-          >
-            Reset filters
-          </button>
+            <FilterRow
+              label={strings.filterParty}
+              options={parties.map((p) => ({ value: p, label: p }))}
+              selected={selectedParties}
+              onToggle={(v) => toggleInSet(v, selectedParties, setSelectedParties)}
+              colorMap={PARTY_CHIP_COLORS}
+            />
+
+            {isFiltered && (
+              <button
+                onClick={() => {
+                  setSearch("");
+                  setSelectedParties(new Set(parties));
+                  setSelectedTiers(new Set(TIER_ORDER));
+                  if (districts) setSelectedDistricts(new Set(districts));
+                }}
+                className="self-start text-xs text-accent hover:underline"
+              >
+                Reset filters
+              </button>
+            )}
+          </>
         )}
       </div>
 
