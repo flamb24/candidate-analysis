@@ -283,20 +283,20 @@ function CardGrid({ candidates }: { candidates: Candidate[] }) {
 
             <dl className="mt-auto grid grid-cols-3 gap-2 border-t border-border pt-3 text-xs">
               <div>
-                <dt className="min-h-8 leading-tight text-muted">Track record</dt>
-                <dd className="flex h-6 items-center">
+                <dt className="mb-1 leading-tight text-muted">Track record</dt>
+                <dd className="flex items-center">
                   <Stars count={c.trackRecordStars} />
                 </dd>
               </div>
               <div>
-                <dt className="min-h-8 leading-tight text-muted">Controversy</dt>
-                <dd className="flex h-6 items-center">
+                <dt className="mb-1 leading-tight text-muted">Controversy</dt>
+                <dd className="flex items-center">
                   <ControversyBadge severity={c.controversySeverity} />
                 </dd>
               </div>
               <div>
-                <dt className="min-h-8 leading-tight text-muted">Social media</dt>
-                <dd className="flex h-6 items-center">
+                <dt className="mb-1 leading-tight text-muted">Social media</dt>
+                <dd className="flex items-center">
                   <SocialReachBadge reach={c.socialReach} />
                 </dd>
               </div>
