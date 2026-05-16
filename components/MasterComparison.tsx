@@ -283,7 +283,7 @@ export default function MasterComparison({
           onClick={openFilters}
           aria-haspopup="dialog"
           aria-label={`${strings.filtersLabel}${activeFilterCount > 0 ? `, ${activeFilterCount} active` : ""}`}
-          className="relative inline-flex shrink-0 items-center gap-2 rounded-md border border-transparent bg-[var(--cta)] px-3 py-2 text-sm font-medium text-white transition-opacity hover:opacity-90"
+          className="animate-attention relative inline-flex shrink-0 items-center gap-2 rounded-md border border-transparent bg-[var(--cta)] px-3 py-2 text-sm font-medium text-white transition-opacity hover:opacity-90"
         >
           <SlidersHorizontal size={14} aria-hidden />
           {strings.filtersLabel}
