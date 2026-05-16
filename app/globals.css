@@ -54,3 +54,117 @@ body {
   scroll-snap-type: x mandatory;
   -webkit-overflow-scrolling: touch;
 }
+
+/* ── High-visibility mode ──────────────────────────────────────────────── */
+
+html.hv {
+  /* Override all theme tokens — defeats the dark-mode media query too */
+  --background: #ffffff;
+  --foreground: #000000;
+  --muted: #1f1f1f;
+  --muted-bg: #e8e8e8;
+  --border: #000000;
+  --accent: #0000cc;
+}
+
+html.hv body {
+  font-size: 1.0625rem;
+  font-weight: 500;
+  line-height: 1.65;
+}
+
+html.hv *:focus-visible {
+  outline: 3px solid #0000ff;
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Party badges — override the hardcoded Tailwind color classes */
+html.hv [data-party] {
+  border-width: 2px;
+  font-weight: 700;
+}
+html.hv [data-party="Labour"] {
+  background-color: #fff0f2;
+  color: #7a0010;
+  border-color: #7a0010;
+}
+html.hv [data-party="PN"] {
+  background-color: #f0f0ff;
+  color: #00008b;
+  border-color: #00008b;
+}
+html.hv [data-party="Momentum"] {
+  background-color: #f0fffe;
+  color: #005a52;
+  border-color: #005a52;
+}
+html.hv [data-party="ADPD"] {
+  background-color: #f0fff4;
+  color: #005000;
+  border-color: #005000;
+}
+html.hv [data-party="Aħwa Maltin"] {
+  background-color: #fffbf0;
+  color: #7a5000;
+  border-color: #7a5000;
+}
+
+/* Tier badges */
+html.hv [data-tier] {
+  border-width: 2px;
+  font-weight: 700;
+}
+html.hv [data-tier="Notable"] {
+  background-color: #fffaed;
+  color: #6b4400;
+  border-color: #6b4400;
+}
+html.hv [data-tier="Second-tier"] {
+  background-color: #f5f5f5;
+  color: #1a1a1a;
+  border-color: #444444;
+}
+html.hv [data-tier="List-filler"] {
+  background-color: #f5f5f5;
+  color: #444444;
+  border-color: #888888;
+}
+
+/* Gov badge */
+html.hv [data-gov-badge] {
+  background-color: #f5edff;
+  color: #5b0099;
+  border-color: #5b0099;
+  border-width: 2px;
+  font-weight: 700;
+}
+
+/* Stars — black filled, mid-gray empty */
+html.hv [data-stars] span:first-child { color: #111111; }
+html.hv [data-stars] span:last-child  { color: #aaaaaa; }
+
+/* Controversy badge */
+html.hv [data-severity] { font-weight: 700; }
+html.hv [data-severity="None"],
+html.hv [data-severity="Low"]    { color: #005000; }
+html.hv [data-severity="Medium"] { color: #7a5200; }
+html.hv [data-severity="High"]   { color: #8b0000; }
+
+/* Social reach badge */
+html.hv [data-reach] { font-weight: 700; color: #000000; }
+html.hv [data-reach] .text-muted { color: #000000; }
+
+/* Electability badge */
+html.hv [data-electability] { font-weight: 700; }
+html.hv [data-electability="✅✅✅"] { background-color: #d6f5d6; color: #003a00; }
+html.hv [data-electability="✅✅"]  { background-color: #e6f9e6; color: #1a5a1a; }
+html.hv [data-electability="✅"]    { background-color: #fff9d6; color: #6b5200; }
+html.hv [data-electability="✗"]     { background-color: #e0e0e0; color: #1a1a1a; }
+
+/* Card & table hover — ring instead of faint border shift */
+html.hv .group:hover { box-shadow: 0 0 0 2px #000000; }
+
+/* Make text links obviously tappable */
+html.hv a { text-decoration: underline; text-underline-offset: 3px; }
+html.hv a:hover { text-decoration-thickness: 2px; }

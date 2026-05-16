@@ -21,6 +21,7 @@ export function PartyBadge({ party }: { party: string }) {
     "bg-zinc-100 text-zinc-900 border-zinc-200 dark:bg-zinc-900 dark:text-zinc-100 dark:border-zinc-800";
   return (
     <span
+      data-party={party}
       className={`inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-medium ${cls}`}
     >
       {party}
@@ -46,6 +47,7 @@ export function TierBadge({ tier }: { tier: Tier }) {
         : "List-filler";
   return (
     <span
+      data-tier={tier}
       className={`inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-medium ${TIER_STYLES[tier]}`}
     >
       {label}
@@ -56,6 +58,7 @@ export function TierBadge({ tier }: { tier: Tier }) {
 export function GovBadge() {
   return (
     <span
+      data-gov-badge
       title="Currently in government"
       className="inline-flex items-center rounded-md border border-purple-200 bg-purple-50 px-1.5 py-0.5 text-[10px] font-semibold text-purple-700 dark:border-purple-900 dark:bg-purple-950/40 dark:text-purple-300"
     >
@@ -68,6 +71,7 @@ export function Stars({ count, max = 5 }: { count: number; max?: number }) {
   if (count === 0) return <span className="text-muted">—</span>;
   return (
     <span
+      data-stars
       aria-label={`${count} of ${max} stars`}
       className="inline-flex items-baseline whitespace-nowrap text-base leading-none tracking-tight"
     >
@@ -89,7 +93,7 @@ const SEVERITY_STYLES: Record<Severity, { dot: string; label: string; cls: strin
 export function ControversyBadge({ severity }: { severity: Severity }) {
   const s = SEVERITY_STYLES[severity];
   return (
-    <span className={`inline-flex items-center gap-1 text-sm ${s.cls}`}>
+    <span data-severity={severity} className={`inline-flex items-center gap-1 text-sm ${s.cls}`}>
       <span aria-hidden>{s.dot}</span>
       <span>{s.label}</span>
     </span>
@@ -105,7 +109,7 @@ const REACH_ICON: Record<SocialReach, string> = {
 
 export function SocialReachBadge({ reach }: { reach: SocialReach }) {
   return (
-    <span className="inline-flex items-center gap-1 text-sm" title={reach}>
+    <span data-reach={reach} className="inline-flex items-center gap-1 text-sm" title={reach}>
       <span aria-hidden>{REACH_ICON[reach]}</span>
       <span className="text-muted">{reach}</span>
     </span>
@@ -141,6 +145,7 @@ export function ElectabilityBadge({
   const { short, cls } = ELECTABILITY_LABELS[symbol];
   return (
     <span
+      data-electability={symbol}
       className={`inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-medium ${cls}`}
     >
       <span aria-hidden>{symbol}</span>

@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Geist } from "next/font/google";
 import Link from "next/link";
+import HVToggle from "@/components/HVToggle";
 import "./globals.css";
 
 const geistSans = Geist({
@@ -29,8 +30,11 @@ export default function RootLayout({
     <html
       lang="en"
       className={`${geistSans.variable} h-full antialiased`}
+      suppressHydrationWarning
     >
       <body className="min-h-full flex flex-col bg-background text-foreground">
+        {/* Runs before hydration to avoid flash when HV was previously enabled */}
+        <script dangerouslySetInnerHTML={{ __html: `try{if(localStorage.getItem('hv')==='1')document.documentElement.classList.add('hv')}catch(e){}` }} />
         <header className="sticky top-0 z-30 border-b border-border bg-background/95 backdrop-blur">
           <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 sm:px-6">
             <Link href="/" className="flex items-baseline gap-2 font-semibold tracking-tight">
@@ -39,9 +43,10 @@ export default function RootLayout({
                 Candidate Comparison
               </span>
             </Link>
-            <nav className="text-sm text-muted">
+            <nav className="flex items-center gap-3 text-sm text-muted">
               <span className="hidden sm:inline">Election: 30 May 2026</span>
               <span className="sm:hidden">30 May</span>
+              <HVToggle />
             </nav>
           </div>
         </header>
