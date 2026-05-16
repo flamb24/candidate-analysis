@@ -12,6 +12,19 @@
   --momentum: #14b8a6;
   --adpd: #16a34a;
   --ahwa: #f59e0b;
+
+  /* Hero aliases */
+  --bg: var(--background);
+  --fg: var(--foreground);
+  --surface: var(--muted-bg);
+  --cta: #c2410c;
+
+  /* Party dot vars for hero */
+  --party-pl:   var(--labour);
+  --party-pn:   var(--pn);
+  --party-mom:  var(--momentum);
+  --party-adpd: var(--adpd);
+  --party-am:   var(--ahwa);
 }
 
 @theme inline {
@@ -36,11 +49,18 @@
     --muted: #b09880;
     --muted-bg: #1e1a14;
     --border: #352a1c;
+    --cta: #d97757;
   }
+}
+
+@keyframes cueDrop {
+  0%   { transform: translateY(-100%); }
+  100% { transform: translateY(330%); }
 }
 
 html {
   -webkit-text-size-adjust: 100%;
+  scroll-behavior: smooth;
 }
 
 body {

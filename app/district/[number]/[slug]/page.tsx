@@ -33,7 +33,7 @@ export default async function CandidatePage({ params }: Props) {
   if (!candidate) return notFound();
 
   return (
-    <div className="flex flex-col gap-6">
+    <div className="mx-auto w-full max-w-6xl flex flex-col gap-6 px-4 py-6 sm:px-6 sm:py-8">
       <nav className="text-sm">
         <Link
           href={`/district/${districtNum}`}

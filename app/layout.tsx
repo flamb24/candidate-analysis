@@ -48,7 +48,7 @@ export default function RootLayout({
             </nav>
           </div>
         </header>
-        <main className="mx-auto w-full max-w-6xl flex-1 px-4 py-6 sm:px-6 sm:py-8">
+        <main className="w-full flex-1">
           {children}
         </main>
         <footer className="border-t border-border py-6 text-center text-xs text-muted">
