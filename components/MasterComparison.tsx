@@ -121,7 +121,7 @@ export default function MasterComparison({
   return (
     <div className="flex flex-col gap-4">
       {/* Filters */}
-      <div className="flex flex-col gap-3 rounded-lg border border-border bg-muted-bg/50 p-3 sm:p-4">
+      <div className="flex flex-col gap-2 rounded-lg border border-border bg-muted-bg/50 p-3">
         <div className="flex flex-wrap items-center gap-2">
           <input
             type="search"
@@ -209,11 +209,11 @@ function FilterRow<T extends string | number>({
   onToggle: (v: T) => void;
 }) {
   return (
-    <div className="flex flex-col gap-2">
+    <div className="flex flex-col gap-1.5">
       <span className="text-xs font-medium uppercase tracking-wide text-muted">
         {label}
       </span>
-      <div className="flex flex-wrap gap-2">
+      <div className="flex flex-wrap gap-1.5">
       {options.map((o) => {
         const active = selected.has(o.value);
         return (
@@ -221,7 +221,7 @@ function FilterRow<T extends string | number>({
             key={String(o.value)}
             onClick={() => onToggle(o.value)}
             aria-pressed={active}
-            className={`rounded-full border px-4 py-2 text-sm font-medium transition-colors ${
+            className={`rounded-full border px-3 py-1 text-sm font-medium transition-colors ${
               active
                 ? "border-accent bg-accent text-white"
                 : "border-border bg-background text-muted hover:border-foreground hover:text-foreground"
