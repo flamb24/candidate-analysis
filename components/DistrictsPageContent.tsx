@@ -34,6 +34,10 @@ export default function DistrictsPageContent({ lang }: { lang: Lang }) {
         </div>
       </div>
 
+      <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)]">
+        All candidates
+      </p>
+
       <MasterComparison
         candidates={candidates}
         parties={parties}
