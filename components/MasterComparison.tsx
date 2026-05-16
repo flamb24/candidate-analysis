@@ -260,7 +260,7 @@ function CardGrid({ candidates }: { candidates: Candidate[] }) {
                   {c.isGovIncumbent && <GovBadge />}
                   <span className="text-xs text-muted">D{c.district}</span>
                 </div>
-                <h3 className="mt-1.5 truncate text-base font-semibold leading-tight group-hover:underline">
+                <h3 className="mt-1.5 text-base font-semibold leading-snug group-hover:underline">
                   {c.name}
                 </h3>
               </div>

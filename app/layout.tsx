@@ -10,7 +10,7 @@ const geistSans = Geist({
 });
 
 export const metadata: Metadata = {
-  title: "Malta 2026 — Candidate Comparison",
+  title: "Malta General Election 2026 — Candidate Comparison",
   description:
     "Browse and compare candidates contesting the Malta General Election 2026 by district.",
 };
@@ -37,11 +37,8 @@ export default function RootLayout({
         <script dangerouslySetInnerHTML={{ __html: `try{if(localStorage.getItem('hv')==='1')document.documentElement.classList.add('hv')}catch(e){}` }} />
         <header className="sticky top-0 z-30 border-b border-border bg-background/95 backdrop-blur">
           <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 sm:px-6">
-            <Link href="/" className="flex items-baseline gap-2 font-semibold tracking-tight">
-              <span className="text-base sm:text-lg">Malta 2026</span>
-              <span className="hidden text-sm text-muted sm:inline">
-                Candidate Comparison
-              </span>
+            <Link href="/" className="font-semibold tracking-tight leading-tight text-sm sm:text-base">
+              Malta General Election 2026
             </Link>
             <nav className="flex items-center gap-3 text-sm text-muted">
               <span className="hidden sm:inline">Election: 30 May 2026</span>
