@@ -1,3 +1,4 @@
+import { Check, Circle, Landmark, Megaphone, Volume1, Volume2, VolumeX, X } from "lucide-react";
 import type {
   ElectabilitySymbol,
   Severity,
@@ -60,9 +61,10 @@ export function GovBadge() {
     <span
       data-gov-badge
       title="Currently in government"
-      className="inline-flex items-center rounded-md border border-purple-200 bg-purple-50 px-1.5 py-0.5 text-[10px] font-semibold text-purple-700 dark:border-purple-900 dark:bg-purple-950/40 dark:text-purple-300"
+      className="inline-flex items-center gap-1 rounded-md border border-purple-200 bg-purple-50 px-1.5 py-0.5 text-[10px] font-semibold text-purple-700 dark:border-purple-900 dark:bg-purple-950/40 dark:text-purple-300"
     >
-      🏛️ Gov
+      <Landmark size={10} aria-hidden />
+      Gov
     </span>
   );
 }
@@ -83,56 +85,44 @@ export function Stars({ count, max = 5 }: { count: number; max?: number }) {
   );
 }
 
-const SEVERITY_STYLES: Record<Severity, { dot: string; label: string; cls: string }> = {
-  None: { dot: "🟢", label: "None", cls: "text-emerald-700 dark:text-emerald-400" },
-  Low: { dot: "🟢", label: "Low", cls: "text-emerald-700 dark:text-emerald-400" },
-  Medium: { dot: "🟡", label: "Medium", cls: "text-amber-700 dark:text-amber-400" },
-  High: { dot: "🔴", label: "High", cls: "text-red-700 dark:text-red-400" },
+const SEVERITY_STYLES: Record<Severity, { label: string; cls: string }> = {
+  None:   { label: "None",   cls: "text-emerald-700 dark:text-emerald-400" },
+  Low:    { label: "Low",    cls: "text-emerald-700 dark:text-emerald-400" },
+  Medium: { label: "Medium", cls: "text-amber-700 dark:text-amber-400" },
+  High:   { label: "High",   cls: "text-red-700 dark:text-red-400" },
 };
 
 export function ControversyBadge({ severity }: { severity: Severity }) {
   const s = SEVERITY_STYLES[severity];
   return (
     <span data-severity={severity} className={`inline-flex items-center gap-1 text-sm ${s.cls}`}>
-      <span aria-hidden>{s.dot}</span>
+      <Circle size={10} fill="currentColor" strokeWidth={0} aria-hidden />
       <span>{s.label}</span>
     </span>
   );
 }
 
-const REACH_ICON: Record<SocialReach, string> = {
-  None: "📵",
-  Low: "📶",
-  Moderate: "📡",
-  High: "📢",
+const REACH_ICON: Record<SocialReach, React.ReactNode> = {
+  None:     <VolumeX  size={14} aria-hidden />,
+  Low:      <Volume1  size={14} aria-hidden />,
+  Moderate: <Volume2  size={14} aria-hidden />,
+  High:     <Megaphone size={14} aria-hidden />,
 };
 
 export function SocialReachBadge({ reach }: { reach: SocialReach }) {
   return (
     <span data-reach={reach} className="inline-flex items-center gap-1 text-sm" title={reach}>
-      <span aria-hidden>{REACH_ICON[reach]}</span>
+      {REACH_ICON[reach]}
       <span className="text-muted">{reach}</span>
     </span>
   );
 }
 
-const ELECTABILITY_LABELS: Record<ElectabilitySymbol, { short: string; cls: string }> = {
-  "✅✅✅": {
-    short: "Near-certain",
-    cls: "bg-emerald-600 text-white dark:bg-emerald-500",
-  },
-  "✅✅": {
-    short: "Likely",
-    cls: "bg-emerald-500/90 text-white",
-  },
-  "✅": {
-    short: "Competitive",
-    cls: "bg-amber-400 text-amber-950",
-  },
-  "✗": {
-    short: "Unlikely",
-    cls: "bg-zinc-200 text-zinc-700 dark:bg-zinc-800 dark:text-zinc-400",
-  },
+const ELECTABILITY_LABELS: Record<ElectabilitySymbol, { short: string; cls: string; checks: number }> = {
+  "✅✅✅": { short: "Near-certain", cls: "bg-emerald-600 text-white dark:bg-emerald-500",              checks: 3 },
+  "✅✅":   { short: "Likely",       cls: "bg-emerald-500/90 text-white",                               checks: 2 },
+  "✅":     { short: "Competitive",  cls: "bg-amber-400 text-amber-950",                                checks: 1 },
+  "✗":      { short: "Unlikely",     cls: "bg-zinc-200 text-zinc-700 dark:bg-zinc-800 dark:text-zinc-400", checks: 0 },
 };
 
 export function ElectabilityBadge({
@@ -142,13 +132,20 @@ export function ElectabilityBadge({
   symbol: ElectabilitySymbol;
   label?: string;
 }) {
-  const { short, cls } = ELECTABILITY_LABELS[symbol];
+  const { short, cls, checks } = ELECTABILITY_LABELS[symbol];
   return (
     <span
       data-electability={symbol}
       className={`inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-medium ${cls}`}
     >
-      <span aria-hidden>{symbol}</span>
+      <span aria-hidden className="inline-flex">
+        {checks === 0
+          ? <X size={12} strokeWidth={2.5} />
+          : Array.from({ length: checks }).map((_, i) => (
+              <Check key={i} size={12} strokeWidth={2.5} className="-mx-px" />
+            ))
+        }
+      </span>
       <span>{label || short}</span>
     </span>
   );
