@@ -16,13 +16,15 @@ export default function AllCandidatesPageContent({ lang }: { lang: Lang }) {
 
   return (
     <div className="mx-auto w-full max-w-6xl flex flex-col gap-6 px-4 py-6 sm:px-6 sm:py-8">
-      <nav className="text-sm">
+      <nav aria-label="breadcrumb" className="flex items-center gap-2 text-sm text-muted">
         <Link
           href={`${prefix}/districts`}
-          className="text-muted hover:text-foreground hover:underline"
+          className="hover:text-foreground hover:underline"
         >
-          {t.backToDistricts}
+          {t.electoralDistrictsTitle(districts.length)}
         </Link>
+        <span aria-hidden>/</span>
+        <span className="text-foreground">{t.allCandidatesTitle}</span>
       </nav>
 
       <h1 className="text-2xl font-bold tracking-tight sm:text-3xl">
