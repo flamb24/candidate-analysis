@@ -209,10 +209,11 @@ function FilterRow<T extends string | number>({
   onToggle: (v: T) => void;
 }) {
   return (
-    <div className="flex flex-wrap items-center gap-2">
-      <span className="mr-1 w-14 shrink-0 text-xs font-medium uppercase tracking-wide text-muted">
+    <div className="flex flex-col gap-2">
+      <span className="text-xs font-medium uppercase tracking-wide text-muted">
         {label}
       </span>
+      <div className="flex flex-wrap gap-2">
       {options.map((o) => {
         const active = selected.has(o.value);
         return (
@@ -230,6 +231,7 @@ function FilterRow<T extends string | number>({
           </button>
         );
       })}
+      </div>
     </div>
   );
 }
