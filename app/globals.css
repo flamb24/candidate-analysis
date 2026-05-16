@@ -25,6 +25,8 @@
   --party-mom:  var(--momentum);
   --party-adpd: var(--adpd);
   --party-am:   var(--ahwa);
+  --party-ie:   #7c3aed;
+  --party-ind:  #ea580c;
 }
 
 @theme inline {

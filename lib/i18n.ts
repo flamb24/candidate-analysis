@@ -14,15 +14,15 @@ const en = {
 
   // ── Hero ─────────────────────────────────────────────────────────────
   electionBrief: "The 2026 Election Brief",
-  headlineLine1: "Vote like",
-  headlineLine2Prefix: "you ",
-  headlineLine2Bold: "know",
-  headlineLine3: "them.",
+  headlineLine1: "Who will",
+  headlineLine2Prefix: "",
+  headlineLine2Bold: "represent",
+  headlineLine3: "you?",
   subhead:
-    "Know who you’re really voting for. We break down every candidate in your district — their track record, documented controversies, and public stances on the issues that matter. Find out who’s here to represent you and who’s just making up the numbers.",
-  inThisIssue: "In this issue",
+    "On election day, most names on the ballot are strangers — and there are far too many to research from scratch. Distrett does the groundwork: every candidate is profiled by public record, rated by media presence, and labelled so you can quickly separate the serious contenders from the ballot-fillers. Filter down to who matters, find the candidate who reflects your values, then dig deeper. Read more. Make an informed choice. Malta deserves better.",
+  inThisIssue: "What this is",
   issueBlurb: (n: number) =>
-    `A candidate-by-candidate read of the ${n} electoral districts — receipts, records, and reputations included.`,
+    `An independent guide to every candidate running across all ${n} electoral districts — profiled by track record, controversy, and public presence, so you can vote with confidence.`,
   statCandidates: "Candidates",
   statDistricts: "Districts",
   statSeats: "Seats in parliament",
@@ -137,15 +137,15 @@ const mt: typeof en = {
 
   // ── Hero ─────────────────────────────────────────────────────────────
   electionBrief: "Il-Brief Elettorali 2026",
-  headlineLine1: "Ivvota bħal",
-  headlineLine2Prefix: "li ",
-  headlineLine2Bold: "tafhom",
-  headlineLine3: "verament.",
+  headlineLine1: "Min se",
+  headlineLine2Prefix: "",
+  headlineLine2Bold: "jirrapreżentak",
+  headlineLine3: "verament?",
   subhead:
-    "Kun af min verament qed tivvota. Nibrew kull kandidat fid-distrett tiegħek — ir-rekord tagħhom, il-kontroversji dokumentati, u l-feħmiejt tagħhom fuq il-kwistjonijiet li jimpurtaw. Sib min hu hawn biex jirrapreżentak u min hu sempliċement ikollu n-numri.",
-  inThisIssue: "F’din il-ħarġa",
+    "Fil-jum tal-elezzjoni, il-biċċa l-kbira tal-ismijiet fuq il-ballot huma barranin — u hemm wisq biex tirriċerka minn daqshekk. Distrett jagħmel ix-xogħol tal-bażi: kull kandidat huwa proffilat, ivvalutat bil-preżenza fil-midja, u ttikkettat biex tifred malajr il-kandidati serji mill-mimlejn lista. Iffiltja biex issib dak li jgħodd, imbagħad iqdim. Aqra aktar. Agħmel għażla infurmata. Malta tistħoqqilha aħjar.",
+  inThisIssue: "X’inhu dan",
   issueBlurb: (n: number) =>
-    `Qari kandidat b’kandidat tat-${n} distrett elettorali — riċevuti, rekords, u reputazzjonijiet inkluŻi.`,
+    `Gwida indipendenti għal kull kandidat li jikkontesta fit-${n} distretti elettorali kollha — proffilati bir-rekord, il-kontroversji, u l-preżenza pubblika, biex tivvota b’fiduċja.`,
   statCandidates: "Kandidati",
   statDistricts: "Distretti",
   statSeats: "Siġġijiet fil-Parlament",

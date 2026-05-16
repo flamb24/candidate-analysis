@@ -13,6 +13,8 @@ const PARTIES: Array<{ name: string; code: string; varName: string }> = [
   { name: "Momentum",               code: "MOM",  varName: "--party-mom"  },
   { name: "ADPD — The Green Party", code: "ADPD", varName: "--party-adpd" },
   { name: "Aħwa Maltin",            code: "AM",   varName: "--party-am"   },
+  { name: "Imperium Europa",        code: "IE",   varName: "--party-ie"   },
+  { name: "Independent",            code: "IND",  varName: "--party-ind"  },
 ];
 
 export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
@@ -66,10 +68,6 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
           {/* Headline column */}
           <div className="lg:col-span-8 flex flex-col justify-between">
             <div>
-              <p className="font-mono text-[11px] uppercase tracking-[0.25em] text-[var(--cta)] mb-5 flex items-center gap-3">
-                <span className="inline-block w-5 h-px bg-[var(--cta)]" />
-                {t.electionBrief}
-              </p>
               <h1
                 id="hero-headline"
                 className="font-serif font-medium leading-[0.92] tracking-[-0.025em] text-balance"
@@ -77,9 +75,9 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
               >
                 {t.headlineLine1}
                 <br />
-                {t.headlineLine2Prefix}<span className="font-extrabold italic">{t.headlineLine2Bold}</span>
+                {t.headlineLine2Prefix}<span className="font-extrabold">{t.headlineLine2Bold}</span>
                 <br />
-                <span className="font-normal text-[var(--muted)]">{t.headlineLine3}</span>
+                <span className="font-medium italic text-[var(--muted)]">{t.headlineLine3}</span>
               </h1>
             </div>
 
@@ -151,7 +149,7 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
         {/* ── Bottom bar: date lockup + scroll cue ────────────────── */}
         <div className="mt-10 lg:mt-12">
           <div className="h-px bg-[var(--fg)]" />
-          <div className="flex items-center justify-between gap-6 pt-5 lg:pt-6">
+          <div className="flex items-center gap-6 pt-5 lg:pt-6">
 
             {/* Date lockup */}
             <div className="flex flex-col gap-1">
@@ -166,22 +164,6 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
               </time>
             </div>
 
-            {/* Animated scroll cue */}
-            <a
-              href={`${prefix}/districts`}
-              aria-label="Browse all districts"
-              className="flex flex-col items-center gap-2.5 text-[var(--muted)] hover:text-[var(--fg)] transition-colors"
-            >
-              <span className="font-mono text-[10px] uppercase tracking-[0.25em]">
-                {t.scrollCueLabel}
-              </span>
-              <span
-                aria-hidden="true"
-                className="relative w-px h-11 bg-current/35 overflow-hidden block"
-              >
-                <span className="absolute -left-px top-0 w-0.5 h-3.5 bg-current motion-safe:animate-[cueDrop_2.2s_cubic-bezier(.5,.05,.5,.95)_infinite]" />
-              </span>
-            </a>
 
           </div>
         </div>
