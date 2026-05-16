@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Literata } from "next/font/google";
+import Script from "next/script";
 import { Analytics } from "@vercel/analytics/next";
 import SiteHeader from "@/components/SiteHeader";
 import SiteFooter from "@/components/SiteFooter";
@@ -45,6 +46,13 @@ export default function RootLayout({
         </main>
         <SiteFooter />
         <Analytics />
+        <Script
+          id="formbricks"
+          strategy="afterInteractive"
+          dangerouslySetInnerHTML={{
+            __html: `!function(){var appUrl="https://app.formbricks.com";var environmentId="cmp8gh0s1wbyasl01wo7j4ie2";var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src=appUrl+"/js/formbricks.umd.cjs",t.onload=function(){window.formbricks?window.formbricks.setup({environmentId:environmentId,appUrl:appUrl}):console.error("Formbricks library failed to load properly. The formbricks object is not available.");};var e=document.getElementsByTagName("script")[0];e.parentNode.insertBefore(t,e)}();`,
+          }}
+        />
       </body>
     </html>
   );
