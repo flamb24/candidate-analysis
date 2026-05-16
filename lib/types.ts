@@ -71,6 +71,7 @@ export interface District {
   title: string;
   subtitle: string;
   intro: string;
+  localities: string;   // e.g. "Valletta, Floriana, Ħamrun …"
   electionDate: string;
   candidates: Candidate[];
   tierCounts: { Notable: number; "Second-tier": number; "List-filler": number };

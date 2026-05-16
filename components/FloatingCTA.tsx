@@ -28,7 +28,7 @@ export default function FloatingCTA() {
       `}
     >
       <Link
-        href="#candidates"
+        href="/districts"
         className="
           group flex items-center justify-center gap-3
           w-full sm:w-auto sm:inline-flex

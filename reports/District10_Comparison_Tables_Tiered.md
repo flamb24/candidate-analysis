@@ -1,6 +1,8 @@
 # District 10 — Candidate Comparison Tables by Tier
 **Malta General Election 2026 | Election date: 30 May 2026**
 
+> District 10 covers: Gżira, Sliema, St Julian's (San Ġiljan), Pembroke.
+>
 > The 35 District 10 candidates are grouped into three tiers based on electability, public profile, and documented record. Each tier contains the full set of comparison tables (Alignment, Track Record, Controversies, Social Media, Master Summary) filtered to that tier's candidates. Table 6 (Issue Stance Matrix) covers all parties and appears once at the end.
 >
 > **Rating scales:**

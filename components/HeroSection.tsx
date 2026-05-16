@@ -175,8 +175,8 @@ export default function HeroSection() {
 
             {/* Animated scroll cue */}
             <a
-              href="#candidates"
-              aria-label="Scroll to candidates"
+              href="/districts"
+              aria-label="Browse all districts"
               className="flex flex-col items-center gap-2.5 text-[var(--muted)] hover:text-[var(--fg)] transition-colors"
             >
               <span className="font-mono text-[10px] uppercase tracking-[0.25em]">

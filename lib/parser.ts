@@ -409,6 +409,14 @@ export function parseDistrict(md: string, districtNumber: number): District {
   }
   const intro = introLines.join("\n").trim();
 
+  // Extract locality list from two known formats:
+  //   "District N covers: Loc1, Loc2, …"
+  //   "District N covers the localities of **Loc1, Loc2, …**"
+  const localitiesMatch = intro.match(
+    /District\s+\d+\s+covers(?:\s+the\s+localities\s+of)?\s*:?\s*\*{0,2}([^*.\n]+)\*{0,2}/i
+  );
+  const localities = localitiesMatch ? localitiesMatch[1].trim() : "";
+
   const tierDefs = tables["TIER_DEFS"];
   const tierCounts = { Notable: 0, "Second-tier": 0, "List-filler": 0 };
   if (tierDefs) {
@@ -434,6 +442,7 @@ export function parseDistrict(md: string, districtNumber: number): District {
     title,
     subtitle,
     intro,
+    localities,
     electionDate: "30 May 2026",
     candidates,
     tierCounts,

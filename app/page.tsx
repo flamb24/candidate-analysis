@@ -1,43 +1,64 @@
 import Link from "next/link";
 import { getAllDistricts } from "@/lib/data";
-import MasterComparison from "@/components/MasterComparison";
 import HeroSection from "@/components/HeroSection";
 import FloatingCTA from "@/components/FloatingCTA";
 
 export default function Home() {
   const districts = getAllDistricts();
-  const candidates = districts.flatMap((d) => d.candidates);
-  const districtNumbers = districts.map((d) => d.number);
-  const partySet = new Set<string>();
-  for (const c of candidates) if (c.party) partySet.add(c.party);
-  const parties = Array.from(partySet).sort();
 
   return (
     <>
       <HeroSection />
       <FloatingCTA />
 
-      <section id="candidates" className="flex flex-col gap-6 px-4 sm:px-6 py-8 sm:py-10 max-w-6xl mx-auto w-full">
-        <div className="flex flex-col gap-3">
-          <div className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 pt-1 sm:mx-0 sm:px-0">
-            {districts.map((d) => (
-              <Link
-                key={d.number}
-                href={`/district/${d.number}`}
-                className="shrink-0 rounded-full border border-border bg-muted-bg/50 px-3 py-1 text-sm hover:border-foreground/50"
-              >
-                District {d.number} ·{" "}
-                <span className="text-muted">{d.candidates.length} candidates</span>
-              </Link>
-            ))}
-          </div>
-        </div>
+      {/* ── Below-fold district list ───────────────────────────────── */}
+      <section
+        id="districts"
+        aria-labelledby="districts-heading"
+        className="mx-auto w-full max-w-6xl px-4 py-12 sm:px-6 sm:py-16"
+      >
+        <header className="mb-8 flex flex-col gap-1">
+          <p className="font-mono text-[11px] uppercase tracking-[0.25em] text-[var(--cta)] flex items-center gap-3">
+            <span className="inline-block w-5 h-px bg-[var(--cta)]" />
+            Malta General Election · 30 May 2026
+          </p>
+          <h2
+            id="districts-heading"
+            className="text-2xl font-bold tracking-tight sm:text-3xl"
+          >
+            13 electoral districts
+          </h2>
+        </header>
 
-        <MasterComparison
-          candidates={candidates}
-          parties={parties}
-          districts={districtNumbers}
-        />
+        <ol className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-px bg-border" role="list">
+          {districts.map((d) => (
+            <li key={d.number} className="bg-background">
+              <Link
+                href={`/district/${d.number}`}
+                className="group flex flex-col gap-2 p-5 h-full hover:bg-muted-bg/60 transition-colors"
+              >
+                <div className="flex items-baseline justify-between gap-3">
+                  <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-[var(--muted)]">
+                    District {d.number}
+                  </span>
+                  <span className="font-mono text-[10px] text-[var(--muted)]">
+                    {d.candidates.length} candidates
+                  </span>
+                </div>
+                <p className="text-sm leading-snug text-[var(--fg)] group-hover:text-[var(--accent)] transition-colors">
+                  {d.localities || `District ${d.number}`}
+                </p>
+                <div className="mt-auto pt-3 flex gap-3 text-[10px] font-mono uppercase tracking-[0.1em] text-[var(--muted)]">
+                  <span>{d.tierCounts.Notable} notable</span>
+                  <span>·</span>
+                  <span>{d.tierCounts["Second-tier"]} second-tier</span>
+                  <span>·</span>
+                  <span>{d.tierCounts["List-filler"]} fillers</span>
+                </div>
+              </Link>
+            </li>
+          ))}
+        </ol>
       </section>
     </>
   );

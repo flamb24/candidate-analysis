@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import { Literata } from "next/font/google";
-import Link from "next/link";
 import { Analytics } from "@vercel/analytics/next";
 import HVToggle from "@/components/HVToggle";
 import ShareButton from "@/components/ShareButton";
@@ -39,13 +38,8 @@ export default function RootLayout({
         {/* Runs before hydration to avoid flash when HV was previously enabled */}
         <script dangerouslySetInnerHTML={{ __html: `try{if(localStorage.getItem('hv')==='1')document.documentElement.classList.add('hv')}catch(e){}` }} />
         <header className="sticky top-0 z-30 border-b border-border bg-background/95 backdrop-blur">
-          <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 sm:px-6">
-            <Link href="/" className="font-semibold tracking-tight leading-tight text-sm sm:text-base">
-              Malta General Election 2026
-            </Link>
+          <div className="mx-auto flex max-w-6xl items-center justify-end px-4 py-3 sm:px-6">
             <nav className="flex items-center gap-2 sm:gap-3 text-sm text-muted">
-              <span className="hidden sm:inline">Election: 30 May 2026</span>
-              <span className="sm:hidden">30 May</span>
               <ShareButton />
               <HVToggle />
             </nav>
