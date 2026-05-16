@@ -3,9 +3,9 @@
 :root {
   --background: #ffffff;
   --foreground: #0a0a0a;
-  --muted: #6b7280;
-  --muted-bg: #f3f4f6;
-  --border: #e5e7eb;
+  --muted: #78716c;
+  --muted-bg: #f5f2ef;
+  --border: #e6e0d8;
   --accent: #1d4ed8;
   --labour: #c8102e;
   --pn: #1e40af;
@@ -33,9 +33,9 @@
   :root {
     --background: #0a0a0a;
     --foreground: #f4f4f5;
-    --muted: #a1a1aa;
-    --muted-bg: #18181b;
-    --border: #27272a;
+    --muted: #a8a29e;
+    --muted-bg: #1c1917;
+    --border: #292524;
   }
 }
 
@@ -165,6 +165,5 @@ html.hv [data-electability="✗"]     { background-color: #e0e0e0; color: #1a1a1
 /* Card & table hover — ring instead of faint border shift */
 html.hv .group:hover { box-shadow: 0 0 0 2px #000000; }
 
-/* Make text links obviously tappable */
-html.hv a { text-decoration: underline; text-underline-offset: 3px; }
-html.hv a:hover { text-decoration-thickness: 2px; }
+/* Links: underline on hover only (HV relies on contrast, not underlines) */
+html.hv a:hover { text-decoration: underline; text-underline-offset: 3px; text-decoration-thickness: 2px; }
