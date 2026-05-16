@@ -13,9 +13,25 @@ const literata = Literata({
 });
 
 export const metadata: Metadata = {
-  title: "Malta General Election 2026 — Candidate Comparison",
+  title: "Distrett. — Malta General Election 2026",
   description:
-    "Browse and compare candidates contesting the Malta General Election 2026 by district.",
+    "Know who you're really voting for. Every candidate in your district — track record, controversies, and stances on the issues that matter.",
+  metadataBase: new URL("https://distrett.com"),
+  openGraph: {
+    title: "Distrett. — Malta General Election 2026",
+    description:
+      "Know who you're really voting for. Every candidate in your district — track record, controversies, and stances on the issues that matter.",
+    url: "https://distrett.com",
+    siteName: "Distrett.",
+    locale: "en_MT",
+    type: "website",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Distrett. — Malta General Election 2026",
+    description:
+      "Know who you're really voting for. Every candidate in your district — track record, controversies, and stances on the issues that matter.",
+  },
 };
 
 export const viewport = {
