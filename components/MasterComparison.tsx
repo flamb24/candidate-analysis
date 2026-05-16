@@ -32,15 +32,20 @@ function candidateSlug(c: Candidate): string {
 export default function MasterComparison({
   candidates,
   parties,
+  districts,
 }: {
   candidates: Candidate[];
   parties: string[];
+  districts?: number[];
 }) {
   const [selectedParties, setSelectedParties] = useState<Set<string>>(
     new Set(parties)
   );
   const [selectedTiers, setSelectedTiers] = useState<Set<Tier>>(
     new Set(TIER_ORDER)
+  );
+  const [selectedDistricts, setSelectedDistricts] = useState<Set<number>>(
+    new Set(districts ?? [])
   );
   const [search, setSearch] = useState("");
   const [view, setView] = useState<"cards" | "table">("cards");
@@ -52,6 +57,7 @@ export default function MasterComparison({
     const list = candidates.filter((c) => {
       if (!selectedParties.has(c.party)) return false;
       if (!selectedTiers.has(c.tier)) return false;
+      if (districts && !selectedDistricts.has(c.district)) return false;
       if (q && !c.name.toLowerCase().includes(q)) return false;
       return true;
     });
@@ -90,6 +96,8 @@ export default function MasterComparison({
     candidates,
     selectedParties,
     selectedTiers,
+    selectedDistricts,
+    districts,
     search,
     sortKey,
     sortDesc,
@@ -100,6 +108,10 @@ export default function MasterComparison({
     if (next.has(value)) next.delete(value);
     else next.add(value);
     setter(next);
+  }
+
+  function toggleDistrict(v: number) {
+    toggleInSet(v, selectedDistricts, setSelectedDistricts);
   }
 
   function handleSort(key: SortKey) {
@@ -144,6 +156,15 @@ export default function MasterComparison({
             </button>
           </div>
         </div>
+
+        {districts && districts.length > 1 && (
+          <FilterRow
+            label="District"
+            options={districts.map((d) => ({ value: d, label: `D${d}` }))}
+            selected={selectedDistricts}
+            onToggle={toggleDistrict}
+          />
+        )}
 
         <FilterRow
           label="Tier"

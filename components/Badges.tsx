@@ -23,7 +23,7 @@ export function PartyBadge({ party }: { party: string }) {
   return (
     <span
       data-party={party}
-      className={`inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-medium ${cls}`}
+      className={`inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-medium leading-none ${cls}`}
     >
       {party}
     </span>
@@ -49,7 +49,7 @@ export function TierBadge({ tier }: { tier: Tier }) {
   return (
     <span
       data-tier={tier}
-      className={`inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-medium ${TIER_STYLES[tier]}`}
+      className={`inline-flex items-center rounded-md border px-2 py-0.5 text-xs font-medium leading-none ${TIER_STYLES[tier]}`}
     >
       {label}
     </span>
@@ -61,7 +61,7 @@ export function GovBadge() {
     <span
       data-gov-badge
       title="Currently in government"
-      className="inline-flex items-center gap-1 rounded-md border border-purple-200 bg-purple-50 px-1.5 py-0.5 text-[10px] font-semibold text-purple-700 dark:border-purple-900 dark:bg-purple-950/40 dark:text-purple-300"
+      className="inline-flex items-center gap-1 rounded-md border border-purple-200 bg-purple-50 px-1.5 py-0.5 text-[10px] font-semibold leading-none text-purple-700 dark:border-purple-900 dark:bg-purple-950/40 dark:text-purple-300"
     >
       <Landmark size={10} aria-hidden />
       Gov
@@ -75,7 +75,7 @@ export function Stars({ count, max = 5 }: { count: number; max?: number }) {
     <span
       data-stars
       aria-label={`${count} of ${max} stars`}
-      className="inline-flex items-baseline whitespace-nowrap text-base leading-none tracking-tight"
+      className="inline-flex items-center whitespace-nowrap text-base leading-none tracking-tight"
     >
       <span className="text-amber-500">{"★".repeat(count)}</span>
       <span className="text-zinc-300 dark:text-zinc-700">
@@ -95,7 +95,7 @@ const SEVERITY_STYLES: Record<Severity, { label: string; cls: string }> = {
 export function ControversyBadge({ severity }: { severity: Severity }) {
   const s = SEVERITY_STYLES[severity];
   return (
-    <span data-severity={severity} className={`inline-flex items-center gap-1 text-sm ${s.cls}`}>
+    <span data-severity={severity} className={`inline-flex items-center gap-1 text-sm leading-none ${s.cls}`}>
       <Circle size={10} fill="currentColor" strokeWidth={0} aria-hidden />
       <span>{s.label}</span>
     </span>
@@ -111,7 +111,7 @@ const REACH_ICON: Record<SocialReach, React.ReactNode> = {
 
 export function SocialReachBadge({ reach }: { reach: SocialReach }) {
   return (
-    <span data-reach={reach} className="inline-flex items-center gap-1 text-sm" title={reach}>
+    <span data-reach={reach} className="inline-flex items-center gap-1 text-sm leading-none" title={reach}>
       {REACH_ICON[reach]}
       <span className="text-muted">{reach}</span>
     </span>
@@ -136,7 +136,7 @@ export function ElectabilityBadge({
   return (
     <span
       data-electability={symbol}
-      className={`inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-medium ${cls}`}
+      className={`inline-flex items-center gap-1 rounded-full px-2.5 py-0.5 text-xs font-medium leading-none ${cls}`}
     >
       <span aria-hidden className="inline-flex">
         {checks === 0
