@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Literata } from "next/font/google";
 import Link from "next/link";
 import HVToggle from "@/components/HVToggle";
+import ShareButton from "@/components/ShareButton";
 import "./globals.css";
 
 const literata = Literata({
@@ -41,9 +42,10 @@ export default function RootLayout({
             <Link href="/" className="font-semibold tracking-tight leading-tight text-sm sm:text-base">
               Malta General Election 2026
             </Link>
-            <nav className="flex items-center gap-3 text-sm text-muted">
+            <nav className="flex items-center gap-2 sm:gap-3 text-sm text-muted">
               <span className="hidden sm:inline">Election: 30 May 2026</span>
               <span className="sm:hidden">30 May</span>
+              <ShareButton />
               <HVToggle />
             </nav>
           </div>

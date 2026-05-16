@@ -2,6 +2,7 @@ import Link from "next/link";
 import { getAllDistricts } from "@/lib/data";
 import MasterComparison from "@/components/MasterComparison";
 import HeroSection from "@/components/HeroSection";
+import FloatingCTA from "@/components/FloatingCTA";
 
 export default function Home() {
   const districts = getAllDistricts();
@@ -14,6 +15,7 @@ export default function Home() {
   return (
     <>
       <HeroSection />
+      <FloatingCTA />
 
       <section id="candidates" className="flex flex-col gap-6 px-4 sm:px-6 py-8 sm:py-10 max-w-6xl mx-auto w-full">
         <div className="flex flex-col gap-3">

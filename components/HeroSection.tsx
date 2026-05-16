@@ -4,7 +4,6 @@
 // Editorial / broadsheet direction. React Server Component, Tailwind v4.
 // Drop into app/page.tsx above the candidates section.
 
-import Link from "next/link";
 import { getAllDistricts } from "@/lib/data";
 
 const PARTIES: Array<{ name: string; code: string; varName: string }> = [
@@ -32,13 +31,13 @@ export default function HeroSection() {
       aria-labelledby="hero-headline"
       className="relative isolate w-full overflow-hidden bg-[var(--bg)] text-[var(--fg)] font-serif"
     >
-      {/* Ghosted "vota" — decorative background text */}
+      {/* Ghosted "ivvota" — decorative background text */}
       <span
         aria-hidden="true"
-        className="pointer-events-none select-none absolute right-[-2vw] top-[14vh] font-serif italic font-black leading-[0.78] tracking-[-0.04em] text-[var(--border)]/70"
-        style={{ fontSize: "clamp(14rem, 38vw, 36rem)" }}
+        className="pointer-events-none select-none absolute right-[-6vw] top-[10vh] font-serif italic font-black leading-[0.78] tracking-[-0.04em] text-[var(--border)]/70"
+        style={{ fontSize: "clamp(10rem, 28vw, 28rem)" }}
       >
-        vota
+        ivvota
       </span>
 
       <div className="relative mx-auto max-w-[1440px] px-6 sm:px-10 lg:px-16 pt-6 lg:pt-8 pb-10 lg:pb-12 min-h-[100svh] flex flex-col">
@@ -75,7 +74,7 @@ export default function HeroSection() {
               <h1
                 id="hero-headline"
                 className="font-serif font-medium leading-[0.92] tracking-[-0.025em] text-balance"
-                style={{ fontSize: "clamp(2.5rem, 9vw, 8.25rem)" }}
+                style={{ fontSize: "clamp(3.25rem, 9vw, 8.25rem)" }}
               >
                 Vote like
                 <br />
@@ -88,10 +87,11 @@ export default function HeroSection() {
             <div className="max-w-[38rem] mt-8 lg:mt-10">
               <div className="h-px bg-[var(--border)]" />
               <p className="font-serif text-base lg:text-[17px] leading-[1.5] mt-4 -tracking-[0.005em]">
-                Every candidate in your district — their track record, the
-                documented controversies, allegations and judgments against
-                them, and whether they&apos;re a serious contender or simply
-                filling out the ballot.
+                Know who you&apos;re really voting for. We break down every
+                candidate in your district — their track record, documented
+                controversies, and public stances on the issues that matter.
+                Find out who&apos;s here to represent you and who&apos;s just
+                making up the numbers.
               </p>
             </div>
           </div>
@@ -154,43 +154,19 @@ export default function HeroSection() {
           </aside>
         </div>
 
-        {/* ── Bottom bar: CTA + date lockup + scroll cue ───────────── */}
+        {/* ── Bottom bar: date lockup + scroll cue ────────────────── */}
         <div className="mt-10 lg:mt-12">
           <div className="h-px bg-[var(--fg)]" />
-          <div className="grid grid-cols-1 lg:grid-cols-3 items-center gap-6 pt-5 lg:pt-6">
-
-            {/* Warm CTA button */}
-            <Link
-              href="#candidates"
-              className="
-                justify-self-start group inline-flex items-center gap-3.5
-                bg-[var(--cta)] text-white
-                px-6 lg:px-7 py-4 lg:py-[1.05rem]
-                font-serif font-bold text-base lg:text-lg -tracking-[0.005em]
-                rounded-[2px]
-                shadow-[0_1px_0_0_rgba(0,0,0,0.06),0_10px_22px_-10px_var(--cta),inset_0_1px_0_rgba(255,255,255,0.18)]
-                hover:-translate-y-px
-                focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--cta)]
-                transition-transform duration-150
-              "
-            >
-              Find your candidate
-              <span
-                aria-hidden="true"
-                className="inline-flex items-center justify-center w-7 h-7 rounded-full bg-white/20 text-base font-semibold group-hover:bg-white/30 transition-colors"
-              >
-                →
-              </span>
-            </Link>
+          <div className="flex items-center justify-between gap-6 pt-5 lg:pt-6">
 
             {/* Date lockup */}
-            <div className="justify-self-start lg:justify-self-center text-center flex flex-col items-start lg:items-center gap-1">
+            <div className="flex flex-col gap-1">
               <span className="font-mono text-[10px] uppercase tracking-[0.3em] text-[var(--muted)]">
                 Polls open
               </span>
               <time
                 dateTime="2026-05-30"
-                className="font-serif font-semibold text-lg lg:text-xl -tracking-[0.01em]"
+                className="font-serif font-semibold text-base lg:text-xl -tracking-[0.01em]"
               >
                 Saturday <span className="italic font-normal">·</span> 30 May 2026{" "}
                 <span className="italic font-normal">·</span> 07:00–22:00
@@ -201,7 +177,7 @@ export default function HeroSection() {
             <a
               href="#candidates"
               aria-label="Scroll to candidates"
-              className="justify-self-start lg:justify-self-end flex flex-col items-center gap-2.5 text-[var(--muted)] hover:text-[var(--fg)] transition-colors"
+              className="flex flex-col items-center gap-2.5 text-[var(--muted)] hover:text-[var(--fg)] transition-colors"
             >
               <span className="font-mono text-[10px] uppercase tracking-[0.25em]">
                 The candidates
