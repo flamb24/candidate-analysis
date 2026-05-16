@@ -26,7 +26,7 @@
   --color-momentum: var(--momentum);
   --color-adpd: var(--adpd);
   --color-ahwa: var(--ahwa);
-  --font-sans: var(--font-geist-sans);
+  --font-sans: var(--font-literata);
 }
 
 @media (prefers-color-scheme: dark) {
@@ -46,7 +46,7 @@ html {
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-geist-sans), system-ui, -apple-system, sans-serif;
+  font-family: var(--font-literata), Georgia, serif;
 }
 
 /* Smooth horizontal scroll on tables */

@@ -73,7 +73,7 @@ export default async function CandidatePage({ params }: Props) {
         </div>
         <div>
           <dt className="text-xs uppercase tracking-wide text-muted">
-            Surrounding controversy
+            Controversy
           </dt>
           <dd className="mt-1">
             <ControversyBadge severity={candidate.controversySeverity} />

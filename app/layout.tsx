@@ -1,12 +1,13 @@
 import type { Metadata } from "next";
-import { Geist } from "next/font/google";
+import { Literata } from "next/font/google";
 import Link from "next/link";
 import HVToggle from "@/components/HVToggle";
 import "./globals.css";
 
-const geistSans = Geist({
-  variable: "--font-geist-sans",
+const literata = Literata({
+  variable: "--font-literata",
   subsets: ["latin"],
+  display: "swap",
 });
 
 export const metadata: Metadata = {
@@ -29,7 +30,7 @@ export default function RootLayout({
   return (
     <html
       lang="en"
-      className={`${geistSans.variable} h-full antialiased`}
+      className={`${literata.variable} h-full antialiased`}
       suppressHydrationWarning
     >
       <body className="min-h-full flex flex-col bg-background text-foreground">

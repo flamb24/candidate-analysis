@@ -38,7 +38,6 @@ export default function Home() {
 
       <MasterComparison
         candidates={candidates}
-        districts={districtNumbers}
         parties={parties}
       />
     </div>

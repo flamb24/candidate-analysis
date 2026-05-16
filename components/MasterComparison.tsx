@@ -31,16 +31,11 @@ function candidateSlug(c: Candidate): string {
 
 export default function MasterComparison({
   candidates,
-  districts,
   parties,
 }: {
   candidates: Candidate[];
-  districts: number[];
   parties: string[];
 }) {
-  const [selectedDistricts, setSelectedDistricts] = useState<Set<number>>(
-    new Set(districts)
-  );
   const [selectedParties, setSelectedParties] = useState<Set<string>>(
     new Set(parties)
   );
@@ -55,7 +50,6 @@ export default function MasterComparison({
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase();
     const list = candidates.filter((c) => {
-      if (!selectedDistricts.has(c.district)) return false;
       if (!selectedParties.has(c.party)) return false;
       if (!selectedTiers.has(c.tier)) return false;
       if (q && !c.name.toLowerCase().includes(q)) return false;
@@ -94,7 +88,6 @@ export default function MasterComparison({
     return sorted;
   }, [
     candidates,
-    selectedDistricts,
     selectedParties,
     selectedTiers,
     search,
@@ -151,13 +144,6 @@ export default function MasterComparison({
             </button>
           </div>
         </div>
-
-        <FilterRow
-          label="District"
-          options={districts.map((d) => ({ value: d, label: `D${d}` }))}
-          selected={selectedDistricts}
-          onToggle={(v) => toggleInSet(v, selectedDistricts, setSelectedDistricts)}
-        />
 
         <FilterRow
           label="Tier"
@@ -282,7 +268,7 @@ function CardGrid({ candidates }: { candidates: Candidate[] }) {
                 </dd>
               </div>
               <div>
-                <dt className="min-h-8 leading-tight text-muted">Surrounding controversy</dt>
+                <dt className="min-h-8 leading-tight text-muted">Controversy</dt>
                 <dd className="flex h-6 items-center">
                   <ControversyBadge severity={c.controversySeverity} />
                 </dd>
@@ -348,7 +334,7 @@ function DataTable({
             </th>
             <th className="px-3 py-2">
               <button onClick={() => onSort("controversy")} className={sortBtn}>
-                Surrounding controversy {arrow("controversy")}
+                Controversy {arrow("controversy")}
               </button>
             </th>
             <th className="px-3 py-2">Social media</th>

@@ -90,7 +90,6 @@ export default async function DistrictPage({ params }: Props) {
       <section>
         <MasterComparison
           candidates={district.candidates}
-          districts={[district.number]}
           parties={parties}
         />
       </section>
