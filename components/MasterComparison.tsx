@@ -47,6 +47,12 @@ const TIER_CHIP_ICONS: Record<string, ReactNode> = {
   "Second-tier": <Medal  size={12} aria-hidden />,
   "List-filler": <Ghost  size={12} aria-hidden />,
 };
+
+const TIER_CHIP_TITLES: Record<string, string> = {
+  Notable:       "High-profile candidates — strong public presence, likely seat contenders",
+  "Second-tier": "Credible candidates — some profile, realistic but not frontrunners",
+  "List-filler": "Low-profile candidates — limited public presence, unlikely to win a seat",
+};
 const SEVERITY_ORDER = ["None", "Low", "Medium", "High"];
 const ELECTABILITY_ORDER = ["✗", "✅", "✅✅", "✅✅✅"];
 
@@ -159,40 +165,16 @@ export default function MasterComparison({
     return strings.tierListFiller;
   };
 
+  const isFiltered =
+    !!search ||
+    selectedParties.size < parties.length ||
+    selectedTiers.size < TIER_ORDER.length ||
+    (!!districts && selectedDistricts.size < districts.length);
+
   return (
     <div className="flex flex-col gap-4">
       {/* Filters */}
       <div className="flex flex-col gap-2 rounded-lg border border-border bg-muted-bg/50 p-3">
-        <div className="flex flex-wrap items-center gap-2">
-          <input
-            type="search"
-            value={search}
-            onChange={(e) => setSearch(e.target.value)}
-            placeholder={strings.searchPlaceholder}
-            className="flex-1 min-w-[180px] rounded-md border border-border bg-background px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-accent/40"
-          />
-          <div className="flex rounded-md border border-border bg-background p-0.5 text-sm">
-            <button
-              onClick={() => setView("cards")}
-              className={`rounded px-2.5 py-1 ${
-                view === "cards" ? "bg-foreground text-background" : "text-muted"
-              }`}
-              aria-pressed={view === "cards"}
-            >
-              {strings.viewCards}
-            </button>
-            <button
-              onClick={() => setView("table")}
-              className={`rounded px-2.5 py-1 ${
-                view === "table" ? "bg-foreground text-background" : "text-muted"
-              }`}
-              aria-pressed={view === "table"}
-            >
-              {strings.viewTable}
-            </button>
-          </div>
-        </div>
-
         {districts && districts.length > 1 && (
           <FilterRow
             label={strings.filterDistrict}
@@ -212,6 +194,7 @@ export default function MasterComparison({
           onToggle={(v) => toggleInSet(v, selectedTiers, setSelectedTiers)}
           colorMap={TIER_CHIP_COLORS}
           iconMap={TIER_CHIP_ICONS}
+          titleMap={TIER_CHIP_TITLES}
         />
 
         <FilterRow
@@ -221,10 +204,57 @@ export default function MasterComparison({
           onToggle={(v) => toggleInSet(v, selectedParties, setSelectedParties)}
           colorMap={PARTY_CHIP_COLORS}
         />
+
+        {isFiltered && (
+          <button
+            onClick={() => {
+              setSearch("");
+              setSelectedParties(new Set(parties));
+              setSelectedTiers(new Set(TIER_ORDER));
+              if (districts) setSelectedDistricts(new Set(districts));
+            }}
+            className="self-start text-xs text-accent hover:underline"
+          >
+            Reset filters
+          </button>
+        )}
+      </div>
+
+      {/* Search — below filters */}
+      <div>
+        <label htmlFor="candidate-search" className="sr-only">
+          {strings.searchPlaceholder}
+        </label>
+        <input
+          id="candidate-search"
+          type="search"
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+          placeholder={strings.searchPlaceholder}
+          className="w-full rounded-md border border-border bg-background px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent/40"
+        />
       </div>
 
       <div className="flex items-center justify-between text-sm text-muted">
         <span>{strings.candidatesCount(filtered.length)}</span>
+        <div className="flex rounded-md border border-border bg-background p-0.5 text-sm">
+          <button
+            onClick={() => setView("cards")}
+            className={`rounded px-2.5 py-1 ${
+              view === "cards" ? "bg-foreground text-background" : "text-muted"
+            }`}
+            aria-pressed={view === "cards"}>
+            {strings.viewCards}
+          </button>
+          <button
+            onClick={() => setView("table")}
+            className={`rounded px-2.5 py-1 ${
+              view === "table" ? "bg-foreground text-background" : "text-muted"
+            }`}
+            aria-pressed={view === "table"}>
+            {strings.viewTable}
+          </button>
+        </div>
       </div>
 
       {view === "cards" ? (
@@ -250,6 +280,7 @@ function FilterRow<T extends string | number>({
   onToggle,
   colorMap,
   iconMap,
+  titleMap,
 }: {
   label: string;
   options: { value: T; label: string }[];
@@ -257,6 +288,7 @@ function FilterRow<T extends string | number>({
   onToggle: (v: T) => void;
   colorMap?: Record<string, string>;
   iconMap?: Record<string, ReactNode>;
+  titleMap?: Record<string, string>;
 }) {
   return (
     <div className="flex flex-col gap-1.5">
@@ -269,12 +301,14 @@ function FilterRow<T extends string | number>({
         const activeClass =
           colorMap?.[String(o.value)] ?? "border-accent bg-accent text-white";
         const icon = iconMap?.[String(o.value)];
+        const tip = titleMap?.[String(o.value)];
         return (
           <button
             key={String(o.value)}
             onClick={() => onToggle(o.value)}
             aria-pressed={active}
-            className={`inline-flex items-center gap-1.5 rounded-full border px-3 py-1 text-sm font-medium transition-colors ${
+            title={tip}
+            className={`inline-flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-sm font-medium transition-colors ${
               active
                 ? activeClass
                 : "border-border bg-background text-muted hover:border-foreground hover:text-foreground"

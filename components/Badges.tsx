@@ -95,7 +95,7 @@ const SEVERITY_STYLES: Record<Severity, { label: string; cls: string }> = {
 export function ControversyBadge({ severity }: { severity: Severity }) {
   const s = SEVERITY_STYLES[severity];
   return (
-    <span data-severity={severity} className={`inline-flex items-center gap-1 text-sm leading-none ${s.cls}`}>
+    <span data-severity={severity} aria-label={`Controversy: ${s.label}`} className={`inline-flex items-center gap-1 text-sm leading-none ${s.cls}`}>
       <Circle size={10} fill="currentColor" strokeWidth={0} aria-hidden />
       <span>{s.label}</span>
     </span>
@@ -111,7 +111,7 @@ const REACH_ICON: Record<SocialReach, React.ReactNode> = {
 
 export function SocialReachBadge({ reach }: { reach: SocialReach }) {
   return (
-    <span data-reach={reach} className="inline-flex items-center gap-1 text-sm leading-none" title={reach}>
+    <span data-reach={reach} aria-label={`Social media reach: ${reach}`} className="inline-flex items-center gap-1 text-sm leading-none">
       {REACH_ICON[reach]}
       <span className="text-muted">{reach}</span>
     </span>
