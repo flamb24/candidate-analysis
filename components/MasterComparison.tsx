@@ -276,20 +276,20 @@ function CardGrid({ candidates }: { candidates: Candidate[] }) {
 
             <dl className="mt-auto grid grid-cols-3 gap-2 border-t border-border pt-3 text-xs">
               <div>
-                <dt className="text-muted">Record</dt>
-                <dd className="mt-0.5">
+                <dt className="min-h-8 leading-tight text-muted">Track record</dt>
+                <dd className="flex h-6 items-center">
                   <Stars count={c.trackRecordStars} />
                 </dd>
               </div>
               <div>
-                <dt className="text-muted">Controversy</dt>
-                <dd className="mt-0.5">
+                <dt className="min-h-8 leading-tight text-muted">Surrounding controversy</dt>
+                <dd className="flex h-6 items-center">
                   <ControversyBadge severity={c.controversySeverity} />
                 </dd>
               </div>
               <div>
-                <dt className="text-muted">Social</dt>
-                <dd className="mt-0.5">
+                <dt className="min-h-8 leading-tight text-muted">Social media</dt>
+                <dd className="flex h-6 items-center">
                   <SocialReachBadge reach={c.socialReach} />
                 </dd>
               </div>
@@ -343,15 +343,15 @@ function DataTable({
             <th className="px-3 py-2">Tier</th>
             <th className="px-3 py-2">
               <button onClick={() => onSort("trackRecord")} className={sortBtn}>
-                Record {arrow("trackRecord")}
+                Track record {arrow("trackRecord")}
               </button>
             </th>
             <th className="px-3 py-2">
               <button onClick={() => onSort("controversy")} className={sortBtn}>
-                Controversy {arrow("controversy")}
+                Surrounding controversy {arrow("controversy")}
               </button>
             </th>
-            <th className="px-3 py-2">Social</th>
+            <th className="px-3 py-2">Social media</th>
             <th className="px-3 py-2">
               <button onClick={() => onSort("electability")} className={sortBtn}>
                 Electability {arrow("electability")}

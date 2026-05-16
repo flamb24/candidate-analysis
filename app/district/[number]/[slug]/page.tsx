@@ -73,7 +73,7 @@ export default async function CandidatePage({ params }: Props) {
         </div>
         <div>
           <dt className="text-xs uppercase tracking-wide text-muted">
-            Controversy
+            Surrounding controversy
           </dt>
           <dd className="mt-1">
             <ControversyBadge severity={candidate.controversySeverity} />
@@ -81,7 +81,7 @@ export default async function CandidatePage({ params }: Props) {
         </div>
         <div>
           <dt className="text-xs uppercase tracking-wide text-muted">
-            Social reach
+            Social media
           </dt>
           <dd className="mt-1">
             <SocialReachBadge reach={candidate.socialReach} />
