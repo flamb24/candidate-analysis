@@ -9,7 +9,7 @@ interface Props {
   params: Promise<{ number: string }>;
 }
 
-export default async function DistrictPage({ params }: Props) {
+export default async function MtDistrictPage({ params }: Props) {
   const { number } = await params;
-  return <DistrictPageContent districtNum={parseInt(number, 10)} lang="en" />;
+  return <DistrictPageContent districtNum={parseInt(number, 10)} lang="mt" />;
 }

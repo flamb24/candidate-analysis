@@ -14,13 +14,13 @@ interface Props {
   params: Promise<{ number: string; slug: string }>;
 }
 
-export default async function CandidatePage({ params }: Props) {
+export default async function MtCandidatePage({ params }: Props) {
   const { number, slug } = await params;
   return (
     <CandidatePageContent
       districtNum={parseInt(number, 10)}
       slug={slug}
-      lang="en"
+      lang="mt"
     />
   );
 }

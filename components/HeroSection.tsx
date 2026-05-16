@@ -2,9 +2,10 @@
 //
 // Distrett — Malta General Election 2026 home-page hero.
 // Editorial / broadsheet direction. React Server Component, Tailwind v4.
-// Drop into app/page.tsx above the candidates section.
 
 import { getAllDistricts } from "@/lib/data";
+import { getT } from "@/lib/i18n";
+import type { Lang } from "@/lib/i18n";
 
 const PARTIES: Array<{ name: string; code: string; varName: string }> = [
   { name: "Partit Laburista",       code: "PL",   varName: "--party-pl"   },
@@ -14,16 +15,19 @@ const PARTIES: Array<{ name: string; code: string; varName: string }> = [
   { name: "Aħwa Maltin",            code: "AM",   varName: "--party-am"   },
 ];
 
-export default function HeroSection() {
+export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
+  const t = getT(lang);
+  const prefix = lang === "mt" ? "/mt" : "";
+
   const districts = getAllDistricts();
   const candidates = districts.flatMap((d) => d.candidates);
   const partyCount = new Set(candidates.map((c) => c.party).filter(Boolean)).size;
 
   const STATS: Array<[string, string]> = [
-    [String(candidates.length), "Candidates"],
-    [String(districts.length),  "Districts"],
-    ["65",                       "Seats in parliament"],
-    [String(partyCount || PARTIES.length), "Political parties"],
+    [String(candidates.length), t.statCandidates],
+    [String(districts.length),  t.statDistricts],
+    ["65",                       t.statSeats],
+    [String(partyCount || PARTIES.length), t.statParties],
   ];
 
   return (
@@ -50,11 +54,11 @@ export default function HeroSection() {
                 Distrett<span className="text-[var(--cta)]">.</span>
               </span>
               <span className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)]">
-                distrett.com · an independent voter guide
+                distrett.com · {t.tagline}
               </span>
             </div>
             <span className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)]">
-              Vol. I · No. 1 · Saturday, 30 May 2026
+              {t.issueDate}
             </span>
           </div>
           <div className="h-[2px] bg-[var(--fg)]" />
@@ -69,29 +73,25 @@ export default function HeroSection() {
             <div>
               <p className="font-mono text-[11px] uppercase tracking-[0.25em] text-[var(--cta)] mb-5 flex items-center gap-3">
                 <span className="inline-block w-5 h-px bg-[var(--cta)]" />
-                The 2026 Election Brief
+                {t.electionBrief}
               </p>
               <h1
                 id="hero-headline"
                 className="font-serif font-medium leading-[0.92] tracking-[-0.025em] text-balance"
                 style={{ fontSize: "clamp(3.25rem, 9vw, 8.25rem)" }}
               >
-                Vote like
+                {t.headlineLine1}
                 <br />
-                you <span className="font-extrabold">know</span>
+                {t.headlineLine2Prefix}<span className="font-extrabold">{t.headlineLine2Bold}</span>
                 <br />
-                <em className="italic font-normal text-[var(--muted)]">them.</em>
+                <em className="italic font-normal text-[var(--muted)]">{t.headlineLine3}</em>
               </h1>
             </div>
 
             <div className="max-w-[38rem] mt-8 lg:mt-10">
               <div className="h-px bg-[var(--border)]" />
               <p className="font-serif text-base lg:text-[17px] leading-[1.5] mt-4 -tracking-[0.005em]">
-                Know who you&apos;re really voting for. We break down every
-                candidate in your district — their track record, documented
-                controversies, and public stances on the issues that matter.
-                Find out who&apos;s here to represent you and who&apos;s just
-                making up the numbers.
+                {t.subhead}
               </p>
             </div>
           </div>
@@ -100,11 +100,10 @@ export default function HeroSection() {
           <aside className="lg:col-span-4 lg:border-l lg:border-[var(--border)] lg:pl-7 flex flex-col gap-5">
             <div>
               <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)] mb-2.5">
-                In this issue
+                {t.inThisIssue}
               </p>
               <p className="font-serif italic text-lg leading-[1.35]">
-                A candidate-by-candidate read of the {districts.length} electoral
-                districts — receipts, records, and reputations included.
+                {t.issueBlurb(districts.length)}
               </p>
             </div>
 
@@ -128,7 +127,7 @@ export default function HeroSection() {
 
             <div className="flex flex-col gap-2.5">
               <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)]">
-                On the ballot
+                {t.onTheBallot}
               </p>
               <ul className="flex flex-col gap-2 list-none p-0 m-0">
                 {PARTIES.map((p) => (
@@ -162,25 +161,24 @@ export default function HeroSection() {
             {/* Date lockup */}
             <div className="flex flex-col gap-1">
               <span className="font-mono text-[10px] uppercase tracking-[0.3em] text-[var(--muted)]">
-                Polls open
+                {t.pollsOpen}
               </span>
               <time
                 dateTime="2026-05-30"
                 className="font-serif font-semibold text-base lg:text-xl -tracking-[0.01em]"
               >
-                Saturday <span className="italic font-normal">·</span> 30 May 2026{" "}
-                <span className="italic font-normal">·</span> 07:00–22:00
+                {t.electionDateTime}
               </time>
             </div>
 
             {/* Animated scroll cue */}
             <a
-              href="/districts"
+              href={`${prefix}/districts`}
               aria-label="Browse all districts"
               className="flex flex-col items-center gap-2.5 text-[var(--muted)] hover:text-[var(--fg)] transition-colors"
             >
               <span className="font-mono text-[10px] uppercase tracking-[0.25em]">
-                The candidates
+                {t.scrollCueLabel}
               </span>
               <span
                 aria-hidden="true"

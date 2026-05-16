@@ -3,6 +3,8 @@
 import { useMemo, useState } from "react";
 import Link from "next/link";
 import type { Candidate, Tier } from "@/lib/types";
+import { getT } from "@/lib/i18n";
+import type { Lang } from "@/lib/i18n";
 import {
   ControversyBadge,
   ElectabilityBadge,
@@ -33,11 +35,16 @@ export default function MasterComparison({
   candidates,
   parties,
   districts,
+  lang = "en",
 }: {
   candidates: Candidate[];
   parties: string[];
   districts?: number[];
+  lang?: Lang;
 }) {
+  const strings = getT(lang);
+  const prefix = lang === "mt" ? "/mt" : "";
+
   const [selectedParties, setSelectedParties] = useState<Set<string>>(
     new Set(parties)
   );
@@ -66,8 +73,8 @@ export default function MasterComparison({
     sorted.sort((a, b) => {
       if (sortKey === "default") {
         if (a.district !== b.district) return a.district - b.district;
-        const t = TIER_ORDER.indexOf(a.tier) - TIER_ORDER.indexOf(b.tier);
-        if (t !== 0) return t;
+        const td = TIER_ORDER.indexOf(a.tier) - TIER_ORDER.indexOf(b.tier);
+        if (td !== 0) return td;
         const e =
           ELECTABILITY_ORDER.indexOf(b.electabilitySymbol) -
           ELECTABILITY_ORDER.indexOf(a.electabilitySymbol);
@@ -123,6 +130,12 @@ export default function MasterComparison({
     }
   }
 
+  const tierLabel = (tier: Tier) => {
+    if (tier === "Notable") return strings.tierNotable;
+    if (tier === "Second-tier") return strings.tierSecondTier;
+    return strings.tierListFiller;
+  };
+
   return (
     <div className="flex flex-col gap-4">
       {/* Filters */}
@@ -132,7 +145,7 @@ export default function MasterComparison({
             type="search"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
-            placeholder="Search candidate name…"
+            placeholder={strings.searchPlaceholder}
             className="flex-1 min-w-[180px] rounded-md border border-border bg-background px-3 py-1.5 text-sm focus:outline-none focus:ring-2 focus:ring-accent/40"
           />
           <div className="flex rounded-md border border-border bg-background p-0.5 text-sm">
@@ -143,7 +156,7 @@ export default function MasterComparison({
               }`}
               aria-pressed={view === "cards"}
             >
-              Cards
+              {strings.viewCards}
             </button>
             <button
               onClick={() => setView("table")}
@@ -152,14 +165,14 @@ export default function MasterComparison({
               }`}
               aria-pressed={view === "table"}
             >
-              Table
+              {strings.viewTable}
             </button>
           </div>
         </div>
 
         {districts && districts.length > 1 && (
           <FilterRow
-            label="District"
+            label={strings.filterDistrict}
             options={districts.map((d) => ({ value: d, label: `D${d}` }))}
             selected={selectedDistricts}
             onToggle={toggleDistrict}
@@ -167,17 +180,17 @@ export default function MasterComparison({
         )}
 
         <FilterRow
-          label="Tier"
-          options={TIER_ORDER.map((t) => ({
-            value: t,
-            label: t === "Second-tier" ? "2nd tier" : t,
+          label={strings.filterTier}
+          options={TIER_ORDER.map((tier) => ({
+            value: tier,
+            label: tierLabel(tier),
           }))}
           selected={selectedTiers}
           onToggle={(v) => toggleInSet(v, selectedTiers, setSelectedTiers)}
         />
 
         <FilterRow
-          label="Party"
+          label={strings.filterParty}
           options={parties.map((p) => ({ value: p, label: p }))}
           selected={selectedParties}
           onToggle={(v) => toggleInSet(v, selectedParties, setSelectedParties)}
@@ -185,19 +198,19 @@ export default function MasterComparison({
       </div>
 
       <div className="flex items-center justify-between text-sm text-muted">
-        <span>
-          {filtered.length} candidate{filtered.length === 1 ? "" : "s"}
-        </span>
+        <span>{strings.candidatesCount(filtered.length)}</span>
       </div>
 
       {view === "cards" ? (
-        <CardGrid candidates={filtered} />
+        <CardGrid candidates={filtered} prefix={prefix} strings={strings} />
       ) : (
         <DataTable
           candidates={filtered}
           sortKey={sortKey}
           sortDesc={sortDesc}
           onSort={handleSort}
+          prefix={prefix}
+          strings={strings}
         />
       )}
     </div>
@@ -243,7 +256,17 @@ function FilterRow<T extends string | number>({
   );
 }
 
-function CardGrid({ candidates }: { candidates: Candidate[] }) {
+type Strings = ReturnType<typeof getT>;
+
+function CardGrid({
+  candidates,
+  prefix,
+  strings,
+}: {
+  candidates: Candidate[];
+  prefix: string;
+  strings: Strings;
+}) {
   if (candidates.length === 0) {
     return (
       <p className="rounded-lg border border-dashed border-border bg-muted-bg/50 px-4 py-8 text-center text-sm text-muted">
@@ -256,7 +279,7 @@ function CardGrid({ candidates }: { candidates: Candidate[] }) {
       {candidates.map((c) => (
         <li key={c.id}>
           <Link
-            href={`/district/${c.district}/${candidateSlug(c)}`}
+            href={`${prefix}/district/${c.district}/${candidateSlug(c)}`}
             className="group flex h-full flex-col gap-3 rounded-lg border border-border bg-background p-4 transition hover:border-foreground/40 hover:shadow-sm"
           >
             <div className="flex items-start justify-between gap-3">
@@ -283,19 +306,19 @@ function CardGrid({ candidates }: { candidates: Candidate[] }) {
 
             <dl className="mt-auto grid grid-cols-3 gap-2 border-t border-border pt-3 text-xs">
               <div>
-                <dt className="mb-1 leading-tight text-muted">Track record</dt>
+                <dt className="mb-1 leading-tight text-muted">{strings.cardTrackRecord}</dt>
                 <dd className="flex items-center">
                   <Stars count={c.trackRecordStars} />
                 </dd>
               </div>
               <div>
-                <dt className="mb-1 leading-tight text-muted">Controversy</dt>
+                <dt className="mb-1 leading-tight text-muted">{strings.cardControversy}</dt>
                 <dd className="flex items-center">
                   <ControversyBadge severity={c.controversySeverity} />
                 </dd>
               </div>
               <div>
-                <dt className="mb-1 leading-tight text-muted">Social media</dt>
+                <dt className="mb-1 leading-tight text-muted">{strings.cardSocialMedia}</dt>
                 <dd className="flex items-center">
                   <SocialReachBadge reach={c.socialReach} />
                 </dd>
@@ -313,11 +336,15 @@ function DataTable({
   sortKey,
   sortDesc,
   onSort,
+  prefix,
+  strings,
 }: {
   candidates: Candidate[];
   sortKey: SortKey;
   sortDesc: boolean;
   onSort: (k: SortKey) => void;
+  prefix: string;
+  strings: Strings;
 }) {
   function arrow(k: SortKey) {
     if (sortKey !== k) return null;
@@ -338,30 +365,30 @@ function DataTable({
           <tr>
             <th className="sticky left-0 z-10 bg-muted-bg/95 px-3 py-2 backdrop-blur">
               <button onClick={() => onSort("name")} className={sortBtn}>
-                Candidate {arrow("name")}
+                {strings.colCandidate} {arrow("name")}
               </button>
             </th>
             <th className="px-3 py-2">
               <button onClick={() => onSort("party")} className={sortBtn}>
-                Party {arrow("party")}
+                {strings.filterParty} {arrow("party")}
               </button>
             </th>
-            <th className="px-3 py-2">District</th>
-            <th className="px-3 py-2">Tier</th>
+            <th className="px-3 py-2">{strings.filterDistrict}</th>
+            <th className="px-3 py-2">{strings.filterTier}</th>
             <th className="px-3 py-2">
               <button onClick={() => onSort("trackRecord")} className={sortBtn}>
-                Track record {arrow("trackRecord")}
+                {strings.cardTrackRecord} {arrow("trackRecord")}
               </button>
             </th>
             <th className="px-3 py-2">
               <button onClick={() => onSort("controversy")} className={sortBtn}>
-                Controversy {arrow("controversy")}
+                {strings.cardControversy} {arrow("controversy")}
               </button>
             </th>
-            <th className="px-3 py-2">Social media</th>
+            <th className="px-3 py-2">{strings.cardSocialMedia}</th>
             <th className="px-3 py-2">
               <button onClick={() => onSort("electability")} className={sortBtn}>
-                Electability {arrow("electability")}
+                {strings.colElectability} {arrow("electability")}
               </button>
             </th>
           </tr>
@@ -371,7 +398,7 @@ function DataTable({
             <tr key={c.id} className="bg-background hover:bg-muted-bg/40">
               <td className="sticky left-0 z-10 max-w-[16rem] truncate bg-background px-3 py-2 font-medium">
                 <Link
-                  href={`/district/${c.district}/${candidateSlug(c)}`}
+                  href={`${prefix}/district/${c.district}/${candidateSlug(c)}`}
                   className="hover:underline"
                 >
                   {c.name}

@@ -1,33 +1,43 @@
 import { BookOpen, ExternalLink, Headphones, Play } from "lucide-react";
 import type { Interview } from "@/lib/interviews";
+import { getT } from "@/lib/i18n";
+import type { Lang } from "@/lib/i18n";
 
-const FORMAT_CONFIG: Record<
-  Interview["format"],
-  { label: string; icon: React.ReactNode; cls: string }
-> = {
-  video: {
-    label: "Watch",
-    icon: <Play size={10} aria-hidden />,
-    cls: "bg-emerald-50 text-emerald-700 border-emerald-200 dark:bg-emerald-950/40 dark:text-emerald-300 dark:border-emerald-800",
-  },
-  podcast: {
-    label: "Listen",
-    icon: <Headphones size={10} aria-hidden />,
-    cls: "bg-violet-50 text-violet-700 border-violet-200 dark:bg-violet-950/40 dark:text-violet-300 dark:border-violet-800",
-  },
-  article: {
-    label: "Read",
-    icon: <BookOpen size={10} aria-hidden />,
-    cls: "bg-amber-50 text-amber-700 border-amber-200 dark:bg-amber-950/40 dark:text-amber-300 dark:border-amber-800",
-  },
-};
-
-export function InterviewLinks({ interviews }: { interviews: Interview[] }) {
+export function InterviewLinks({
+  interviews,
+  lang = "en",
+}: {
+  interviews: Interview[];
+  lang?: Lang;
+}) {
   if (interviews.length === 0) return null;
+  const t = getT(lang);
+
+  const FORMAT_CONFIG: Record<
+    Interview["format"],
+    { label: string; icon: React.ReactNode; cls: string }
+  > = {
+    video: {
+      label: t.watchLabel,
+      icon: <Play size={10} aria-hidden />,
+      cls: "bg-emerald-50 text-emerald-700 border-emerald-200 dark:bg-emerald-950/40 dark:text-emerald-300 dark:border-emerald-800",
+    },
+    podcast: {
+      label: t.listenLabel,
+      icon: <Headphones size={10} aria-hidden />,
+      cls: "bg-violet-50 text-violet-700 border-violet-200 dark:bg-violet-950/40 dark:text-violet-300 dark:border-violet-800",
+    },
+    article: {
+      label: t.readLabel,
+      icon: <BookOpen size={10} aria-hidden />,
+      cls: "bg-amber-50 text-amber-700 border-amber-200 dark:bg-amber-950/40 dark:text-amber-300 dark:border-amber-800",
+    },
+  };
+
   return (
     <section className="flex flex-col gap-3">
       <h2 className="text-lg font-semibold tracking-tight sm:text-xl">
-        Interviews &amp; media
+        {t.interviewsSection}
       </h2>
       <div className="flex flex-col gap-2">
         {interviews.map((iv, i) => {

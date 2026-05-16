@@ -4,14 +4,20 @@ import HeroSection from "@/components/HeroSection";
 import FloatingCTA from "@/components/FloatingCTA";
 import { getT } from "@/lib/i18n";
 
-export default function Home() {
-  const t = getT("en");
+export const metadata = {
+  title: "L-Elezzjoni Ġenerali ta' Malta 2026 — Distrett",
+  description:
+    "Aqra u qabbel il-kandidati tal-Elezzjoni Ġenerali ta' Malta 2026 skont id-distrett.",
+};
+
+export default function MtHomePage() {
+  const t = getT("mt");
   const districts = getAllDistricts();
 
   return (
     <>
-      <HeroSection lang="en" />
-      <FloatingCTA href="/districts" label={t.findYourCandidate} />
+      <HeroSection lang="mt" />
+      <FloatingCTA href="/mt/districts" label={t.findYourCandidate} />
 
       {/* ── Below-fold district list ───────────────────────────────── */}
       <section
@@ -36,7 +42,7 @@ export default function Home() {
           {districts.map((d) => (
             <li key={d.number} className="bg-background">
               <Link
-                href={`/district/${d.number}`}
+                href={`/mt/district/${d.number}`}
                 className="group flex flex-col gap-2 p-5 h-full hover:bg-muted-bg/60 transition-colors"
               >
                 <div className="flex items-baseline justify-between gap-3">

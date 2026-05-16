@@ -3,7 +3,13 @@
 import Link from "next/link";
 import { useEffect, useState } from "react";
 
-export default function FloatingCTA() {
+export default function FloatingCTA({
+  href,
+  label,
+}: {
+  href: string;
+  label: string;
+}) {
   const [hidden, setHidden] = useState(false);
 
   useEffect(() => {
@@ -28,7 +34,7 @@ export default function FloatingCTA() {
       `}
     >
       <Link
-        href="/districts"
+        href={href}
         className="
           group flex items-center justify-center gap-3
           w-full sm:w-auto sm:inline-flex
@@ -41,7 +47,7 @@ export default function FloatingCTA() {
           transition-all duration-150
         "
       >
-        Find your candidate
+        {label}
         <span
           aria-hidden="true"
           className="inline-flex items-center justify-center w-6 h-6 rounded-full bg-white/20 text-sm group-hover:bg-white/30 transition-colors"

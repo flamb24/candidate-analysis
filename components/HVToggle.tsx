@@ -1,7 +1,7 @@
 "use client";
 import { useEffect, useState } from "react";
 
-export default function HVToggle() {
+export default function HVToggle({ label = "High vis" }: { label?: string }) {
   const [hv, setHv] = useState(false);
 
   useEffect(() => {
@@ -26,7 +26,7 @@ export default function HVToggle() {
           : "border-border text-muted hover:border-foreground hover:text-foreground"
       }`}
     >
-      {hv ? "High vis ✓" : "High vis"}
+      {hv ? `${label} ✓` : label}
     </button>
   );
 }
