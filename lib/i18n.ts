@@ -30,6 +30,7 @@ const en = {
   onTheBallot: "On the ballot",
   pollsOpen: "Polls open",
   electionDateTime: "Saturday · 30 May 2026 · 07:00–22:00",
+  heroSubline: "Get to know the candidates in your district.",
   scrollCueLabel: "The candidates",
   findYourCandidate: "Find your candidate",
 
@@ -153,6 +154,7 @@ const mt: typeof en = {
   onTheBallot: "Fuq il-Ballot",
   pollsOpen: "L-Urni Miftuħa",
   electionDateTime: "Is-Sibt · 30 ta’ Mejju 2026 · 07:00–22:00",
+  heroSubline: "Kun af il-kandidati fid-distrett tiegħek.",
   scrollCueLabel: "Il-Kandidati",
   findYourCandidate: "Sib il-Kandidat Tiegħek",
 

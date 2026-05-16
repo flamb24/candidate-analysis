@@ -80,6 +80,9 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
                 <br />
                 <span className="font-medium italic text-[var(--muted)]">{t.headlineLine3}</span>
               </h1>
+              <p className="mt-4 text-2xl sm:text-4xl font-medium tracking-tight text-[var(--muted)]">
+                {t.heroSubline}
+              </p>
             </div>
 
             <div className="max-w-[38rem] mt-8 lg:mt-10">
