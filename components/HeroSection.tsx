@@ -48,17 +48,12 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
 
         {/* ── Masthead ─────────────────────────────────────────────── */}
         <header className="flex flex-col gap-3">
-          <div className="flex flex-wrap items-baseline justify-between gap-x-6 gap-y-2">
-            <div className="flex items-baseline gap-3 lg:gap-4">
-              <span className="font-serif font-extrabold text-lg lg:text-xl -tracking-[0.015em]">
-                Distrett<span className="text-[var(--cta)]">.</span>
-              </span>
-              <span className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)]">
-                distrett.com · {t.tagline}
-              </span>
-            </div>
+          <div className="flex flex-col gap-0.5">
+            <span className="font-serif font-extrabold text-2xl lg:text-3xl -tracking-[0.02em]">
+              Distrett<span className="text-[var(--cta)]">.</span>
+            </span>
             <span className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)]">
-              {t.issueDate}
+              distrett.com · {t.tagline}
             </span>
           </div>
           <div className="h-[2px] bg-[var(--fg)]" />
@@ -82,9 +77,9 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
               >
                 {t.headlineLine1}
                 <br />
-                {t.headlineLine2Prefix}<span className="font-extrabold">{t.headlineLine2Bold}</span>
+                {t.headlineLine2Prefix}<span className="font-extrabold italic">{t.headlineLine2Bold}</span>
                 <br />
-                <em className="italic font-normal text-[var(--muted)]">{t.headlineLine3}</em>
+                <span className="font-normal text-[var(--muted)]">{t.headlineLine3}</span>
               </h1>
             </div>
 
