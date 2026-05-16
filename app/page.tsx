@@ -22,12 +22,12 @@ export default function Home() {
           the Malta General Election 2026. Filter by district, party, or tier; tap any
           candidate for the full profile.
         </p>
-        <div className="flex flex-wrap gap-2 pt-1">
+        <div className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 pt-1 sm:mx-0 sm:px-0">
           {districts.map((d) => (
             <Link
               key={d.number}
               href={`/district/${d.number}`}
-              className="rounded-full border border-border bg-muted-bg/50 px-3 py-1 text-sm hover:border-foreground/50"
+              className="shrink-0 rounded-full border border-border bg-muted-bg/50 px-3 py-1 text-sm hover:border-foreground/50"
             >
               District {d.number} ·{" "}
               <span className="text-muted">{d.candidates.length} candidates</span>

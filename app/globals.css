@@ -3,9 +3,9 @@
 :root {
   --background: #ffffff;
   --foreground: #0a0a0a;
-  --muted: #78716c;
-  --muted-bg: #f5f2ef;
-  --border: #e6e0d8;
+  --muted: #7c6355;
+  --muted-bg: #f8f1e8;
+  --border: #e8d4bc;
   --accent: #1d4ed8;
   --labour: #c8102e;
   --pn: #1e40af;
@@ -33,9 +33,9 @@
   :root {
     --background: #0a0a0a;
     --foreground: #f4f4f5;
-    --muted: #a8a29e;
-    --muted-bg: #1c1917;
-    --border: #292524;
+    --muted: #b09880;
+    --muted-bg: #1e1a14;
+    --border: #352a1c;
   }
 }
 
