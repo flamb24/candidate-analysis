@@ -13,26 +13,24 @@ const literata = Literata({
 });
 
 export const metadata: Metadata = {
-  title: "Distrett. — Malta General Election 2026",
+  title: "Distrett. — Malta General Election 2026 Voter Guide",
   description:
     "Know who you're really voting for. Every candidate in your district — track record, controversies, and stances on the issues that matter.",
   metadataBase: new URL("https://distrett.com"),
   openGraph: {
-    title: "Distrett. — Malta General Election 2026",
+    title: "Distrett. — Malta General Election 2026 Voter Guide",
     description:
       "Know who you're really voting for. Every candidate in your district — track record, controversies, and stances on the issues that matter.",
     url: "https://distrett.com",
     siteName: "Distrett.",
     locale: "en_MT",
     type: "website",
-    images: [{ url: "https://distrett.com/meta.jpg", width: 1200, height: 630, type: "image/jpeg" }],
   },
   twitter: {
     card: "summary_large_image",
-    title: "Distrett. — Malta General Election 2026",
+    title: "Distrett. — Malta General Election 2026 Voter Guide",
     description:
       "Know who you're really voting for. Every candidate in your district — track record, controversies, and stances on the issues that matter.",
-    images: ["https://distrett.com/meta.jpg"],
   },
   manifest: "/manifest.json",
 };
