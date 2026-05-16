@@ -49,7 +49,7 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
         {/* ── Masthead ─────────────────────────────────────────────── */}
         <header className="flex flex-col gap-3">
           <div className="flex flex-col gap-0.5">
-            <span className="font-serif font-extrabold text-2xl lg:text-3xl -tracking-[0.02em]">
+            <span className="font-serif font-extrabold text-4xl lg:text-5xl -tracking-[0.02em]">
               Distrett<span className="text-[var(--cta)]">.</span>
             </span>
             <span className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)]">
