@@ -1,6 +1,7 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo, useState, type ReactNode } from "react";
+import { Crown, Ghost, Medal } from "lucide-react";
 import Link from "next/link";
 import type { Candidate, Tier } from "@/lib/types";
 import { getT } from "@/lib/i18n";
@@ -24,6 +25,28 @@ type SortKey =
   | "electability";
 
 const TIER_ORDER: Tier[] = ["Notable", "Second-tier", "List-filler"];
+
+const PARTY_CHIP_COLORS: Record<string, string> = {
+  Labour:           "bg-red-100    text-red-900    border-red-200",
+  PN:               "bg-blue-100   text-blue-900   border-blue-200",
+  Momentum:         "bg-teal-100   text-teal-900   border-teal-200",
+  ADPD:             "bg-green-100  text-green-900  border-green-200",
+  "Aħwa Maltin":    "bg-amber-100  text-amber-900  border-amber-200",
+  "Imperium Europa":"bg-violet-100 text-violet-900 border-violet-200",
+  Independent:      "bg-orange-100 text-orange-900 border-orange-200",
+};
+
+const TIER_CHIP_COLORS: Record<string, string> = {
+  Notable:      "bg-amber-50 text-amber-900 border-amber-200",
+  "Second-tier":"bg-amber-50 text-amber-900 border-amber-200",
+  "List-filler":"bg-amber-50 text-amber-900 border-amber-200",
+};
+
+const TIER_CHIP_ICONS: Record<string, ReactNode> = {
+  Notable:       <Crown  size={12} aria-hidden />,
+  "Second-tier": <Medal  size={12} aria-hidden />,
+  "List-filler": <Ghost  size={12} aria-hidden />,
+};
 const SEVERITY_ORDER = ["None", "Low", "Medium", "High"];
 const ELECTABILITY_ORDER = ["✗", "✅", "✅✅", "✅✅✅"];
 
@@ -187,6 +210,8 @@ export default function MasterComparison({
           }))}
           selected={selectedTiers}
           onToggle={(v) => toggleInSet(v, selectedTiers, setSelectedTiers)}
+          colorMap={TIER_CHIP_COLORS}
+          iconMap={TIER_CHIP_ICONS}
         />
 
         <FilterRow
@@ -194,6 +219,7 @@ export default function MasterComparison({
           options={parties.map((p) => ({ value: p, label: p }))}
           selected={selectedParties}
           onToggle={(v) => toggleInSet(v, selectedParties, setSelectedParties)}
+          colorMap={PARTY_CHIP_COLORS}
         />
       </div>
 
@@ -222,11 +248,15 @@ function FilterRow<T extends string | number>({
   options,
   selected,
   onToggle,
+  colorMap,
+  iconMap,
 }: {
   label: string;
   options: { value: T; label: string }[];
   selected: Set<T>;
   onToggle: (v: T) => void;
+  colorMap?: Record<string, string>;
+  iconMap?: Record<string, ReactNode>;
 }) {
   return (
     <div className="flex flex-col gap-1.5">
@@ -236,17 +266,21 @@ function FilterRow<T extends string | number>({
       <div className="flex flex-wrap gap-1.5">
       {options.map((o) => {
         const active = selected.has(o.value);
+        const activeClass =
+          colorMap?.[String(o.value)] ?? "border-accent bg-accent text-white";
+        const icon = iconMap?.[String(o.value)];
         return (
           <button
             key={String(o.value)}
             onClick={() => onToggle(o.value)}
             aria-pressed={active}
-            className={`rounded-full border px-3 py-1 text-sm font-medium transition-colors ${
+            className={`inline-flex items-center gap-1.5 rounded-full border px-3 py-1 text-sm font-medium transition-colors ${
               active
-                ? "border-accent bg-accent text-white"
+                ? activeClass
                 : "border-border bg-background text-muted hover:border-foreground hover:text-foreground"
             }`}
           >
+            {icon}
             {o.label}
           </button>
         );

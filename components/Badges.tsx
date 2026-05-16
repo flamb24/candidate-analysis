@@ -7,13 +7,13 @@ import type {
 } from "@/lib/types";
 
 const PARTY_COLORS: Record<string, string> = {
-  Labour: "bg-red-100 text-red-900 border-red-200 dark:bg-red-950 dark:text-red-100 dark:border-red-900",
-  PN: "bg-blue-100 text-blue-900 border-blue-200 dark:bg-blue-950 dark:text-blue-100 dark:border-blue-900",
-  Momentum:
-    "bg-teal-100 text-teal-900 border-teal-200 dark:bg-teal-950 dark:text-teal-100 dark:border-teal-900",
-  ADPD: "bg-green-100 text-green-900 border-green-200 dark:bg-green-950 dark:text-green-100 dark:border-green-900",
-  "Aħwa Maltin":
-    "bg-amber-100 text-amber-900 border-amber-200 dark:bg-amber-950 dark:text-amber-100 dark:border-amber-900",
+  Labour:           "bg-red-100    text-red-900    border-red-200    dark:bg-red-950    dark:text-red-100    dark:border-red-900",
+  PN:               "bg-blue-100   text-blue-900   border-blue-200   dark:bg-blue-950   dark:text-blue-100   dark:border-blue-900",
+  Momentum:         "bg-teal-100   text-teal-900   border-teal-200   dark:bg-teal-950   dark:text-teal-100   dark:border-teal-900",
+  ADPD:             "bg-green-100  text-green-900  border-green-200  dark:bg-green-950  dark:text-green-100  dark:border-green-900",
+  "Aħwa Maltin":    "bg-amber-100  text-amber-900  border-amber-200  dark:bg-amber-950  dark:text-amber-100  dark:border-amber-900",
+  "Imperium Europa":"bg-violet-100 text-violet-900 border-violet-200 dark:bg-violet-950 dark:text-violet-100 dark:border-violet-900",
+  Independent:      "bg-orange-100 text-orange-900 border-orange-200 dark:bg-orange-950 dark:text-orange-100 dark:border-orange-900",
 };
 
 export function PartyBadge({ party }: { party: string }) {
