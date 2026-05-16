@@ -258,27 +258,8 @@ export default function MasterComparison({
 
   return (
     <div className="flex flex-col gap-4">
-      {/* Tip */}
-      <p className="flex items-center gap-1.5 text-xs text-muted">
-        <Lightbulb size={13} aria-hidden className="shrink-0" />
-        <span>
-          <span className="font-medium">Tip:</span> filter by Candidate Public Profile to simplify your research
-        </span>
-      </p>
-
       {/* Search + Filters trigger */}
       <div className="flex gap-2">
-        <label htmlFor="candidate-search" className="sr-only">
-          {strings.searchPlaceholder}
-        </label>
-        <input
-          id="candidate-search"
-          type="search"
-          value={search}
-          onChange={(e) => setSearch(e.target.value)}
-          placeholder={strings.searchPlaceholder}
-          className="flex-1 rounded-md border border-border bg-background px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent/40"
-        />
         <button
           onClick={openFilters}
           aria-haspopup="dialog"
@@ -293,7 +274,26 @@ export default function MasterComparison({
             </span>
           )}
         </button>
+        <label htmlFor="candidate-search" className="sr-only">
+          {strings.searchPlaceholder}
+        </label>
+        <input
+          id="candidate-search"
+          type="search"
+          value={search}
+          onChange={(e) => setSearch(e.target.value)}
+          placeholder={strings.searchPlaceholder}
+          className="flex-1 rounded-md border border-border bg-background px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent/40"
+        />
       </div>
+
+      {/* Tip */}
+      <p className="flex items-center gap-1.5 text-xs text-muted">
+        <Lightbulb size={13} aria-hidden className="shrink-0" />
+        <span>
+          <span className="font-medium">Tip:</span> filter by Candidate Public Profile to simplify your research
+        </span>
+      </p>
 
       {/* Count + view toggle */}
       <div className="flex items-center justify-between text-sm text-muted">
