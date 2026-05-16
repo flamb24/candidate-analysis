@@ -33,6 +33,12 @@ const en = {
   scrollCueLabel: "The candidates",
   findYourCandidate: "Find your candidate",
 
+  // ── Sources section ───────────────────────────────────────────────────
+  sourcesSectionLabel: "Sources",
+  sourcesHeading: "Built on journalism",
+  sourcesCopy:
+    "Every track record, controversy, and stance on this site traces back to reporting by Malta's journalists — people who show up every day to hold power to account. This guide exists because of their work.",
+
   // ── Landing district grid ─────────────────────────────────────────────
   electionLabel: "Malta General Election · 30 May 2026",
   electoralDistrictsTitle: (n: number) => `${n} electoral districts`,
@@ -149,6 +155,12 @@ const mt: typeof en = {
   electionDateTime: "Is-Sibt · 30 ta’ Mejju 2026 · 07:00–22:00",
   scrollCueLabel: "Il-Kandidati",
   findYourCandidate: "Sib il-Kandidat Tiegħek",
+
+  // ── Sources section ───────────────────────────────────────────────────
+  sourcesSectionLabel: "Sorsi",
+  sourcesHeading: "Mibnija fuq il-ġurnaliżmu",
+  sourcesCopy:
+    "Kull rekord, kontroversja, u pożizzjoni f’dan is-sit jirrisaltu lura għar-rapportar tal-ġurnalisti ta’ Malta — nies li jidhru kuljum biex iżommu s-setgħa responsabbli. Dan il-gwida jeżisti minħabba x-xogħol tagħhom.",
 
   // ── Landing district grid ─────────────────────────────────────────────
   electionLabel: "L-EleŻzjoni Ġenerali ta’ Malta · 30 ta’ Mejju 2026",
