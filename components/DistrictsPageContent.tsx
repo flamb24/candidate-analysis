@@ -54,15 +54,20 @@ export default function DistrictsPageContent({ lang }: { lang: Lang }) {
         ))}
       </ol>
 
-      <div className="border-t border-border pt-6">
-        <Link
-          href={`${prefix}/districts/all`}
-          className="inline-flex items-center gap-2 text-sm text-muted hover:text-foreground transition-colors"
-        >
-          {t.viewAllCandidates}
-          <span aria-hidden>→</span>
-        </Link>
-      </div>
+      <Link
+        href={`${prefix}/districts/all`}
+        className="group flex items-center justify-between gap-4 rounded-lg border border-border bg-muted-bg/40 px-5 py-4 transition-colors hover:bg-muted-bg hover:border-foreground/30"
+      >
+        <div className="flex flex-col gap-0.5">
+          <span className="font-semibold text-foreground group-hover:underline">
+            {t.viewAllCandidates}
+          </span>
+          <span className="text-sm text-muted">
+            Compare candidates across all {districts.length} districts in one view
+          </span>
+        </div>
+        <span aria-hidden className="shrink-0 text-muted text-lg group-hover:text-foreground transition-colors">→</span>
+      </Link>
 
     </div>
   );

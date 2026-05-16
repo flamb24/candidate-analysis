@@ -32,13 +32,24 @@ export default function CandidatePageContent({
 
   return (
     <div className="mx-auto w-full max-w-6xl flex flex-col gap-6 px-4 py-6 sm:px-6 sm:py-8">
-      <nav className="text-sm">
-        <Link
-          href={`${prefix}/district/${districtNum}`}
-          className="text-muted hover:text-foreground hover:underline"
-        >
-          {t.backToDistrict(districtNum)}
-        </Link>
+      <nav aria-label="breadcrumb">
+        <ol className="flex items-center gap-1.5 text-sm text-muted list-none p-0 m-0">
+          <li>
+            <Link href={`${prefix}/districts`} className="hover:text-foreground hover:underline">
+              {t.districtsLabel}
+            </Link>
+          </li>
+          <li aria-hidden>/</li>
+          <li>
+            <Link href={`${prefix}/district/${districtNum}`} className="hover:text-foreground hover:underline">
+              District {districtNum}
+            </Link>
+          </li>
+          <li aria-hidden>/</li>
+          <li className="text-foreground font-medium truncate max-w-[16rem]" aria-current="page">
+            {candidate.name}
+          </li>
+        </ol>
       </nav>
 
       <header className="flex flex-col gap-3">

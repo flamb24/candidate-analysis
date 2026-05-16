@@ -95,7 +95,14 @@ export default function MasterComparison({
       if (!selectedParties.has(c.party)) return false;
       if (!selectedTiers.has(c.tier)) return false;
       if (districts && !selectedDistricts.has(c.district)) return false;
-      if (q && !c.name.toLowerCase().includes(q)) return false;
+      if (
+        q &&
+        !c.name.toLowerCase().includes(q) &&
+        !c.party.toLowerCase().includes(q) &&
+        !`d${c.district}`.includes(q) &&
+        !String(c.district).includes(q)
+      )
+        return false;
       return true;
     });
 
@@ -276,7 +283,7 @@ export default function MasterComparison({
       </div>
 
       {view === "cards" ? (
-        <CardGrid candidates={filtered} prefix={prefix} strings={strings} />
+        <CardGrid candidates={filtered} prefix={prefix} strings={strings} onReset={isFiltered ? () => { setSearch(""); setSelectedParties(new Set(parties)); setSelectedTiers(new Set(TIER_ORDER)); if (districts) setSelectedDistricts(new Set(districts)); } : undefined} />
       ) : (
         <DataTable
           candidates={filtered}
@@ -285,6 +292,7 @@ export default function MasterComparison({
           onSort={handleSort}
           prefix={prefix}
           strings={strings}
+          onReset={isFiltered ? () => { setSearch(""); setSelectedParties(new Set(parties)); setSelectedTiers(new Set(TIER_ORDER)); if (districts) setSelectedDistricts(new Set(districts)); } : undefined}
         />
       )}
     </div>
@@ -348,16 +356,26 @@ function CardGrid({
   candidates,
   prefix,
   strings,
+  onReset,
 }: {
   candidates: Candidate[];
   prefix: string;
   strings: Strings;
+  onReset?: () => void;
 }) {
   if (candidates.length === 0) {
     return (
-      <p className="rounded-lg border border-dashed border-border bg-muted-bg/50 px-4 py-8 text-center text-sm text-muted">
-        No candidates match the current filters.
-      </p>
+      <div className="flex flex-col items-center gap-3 rounded-lg border border-dashed border-border bg-muted-bg/50 px-4 py-8 text-center text-sm text-muted">
+        <p>No candidates match the current filters.</p>
+        {onReset && (
+          <button
+            onClick={onReset}
+            className="rounded-md border border-border bg-background px-3 py-1.5 text-sm text-foreground hover:border-foreground/40 transition-colors"
+          >
+            Reset filters
+          </button>
+        )}
+      </div>
     );
   }
   return (
@@ -424,6 +442,7 @@ function DataTable({
   onSort,
   prefix,
   strings,
+  onReset,
 }: {
   candidates: Candidate[];
   sortKey: SortKey;
@@ -431,6 +450,7 @@ function DataTable({
   onSort: (k: SortKey) => void;
   prefix: string;
   strings: Strings;
+  onReset?: () => void;
 }) {
   function arrow(k: SortKey) {
     if (sortKey !== k) return null;
@@ -439,9 +459,17 @@ function DataTable({
   const sortBtn = "uppercase tracking-wide hover:text-foreground";
   if (candidates.length === 0) {
     return (
-      <p className="rounded-lg border border-dashed border-border bg-muted-bg/50 px-4 py-8 text-center text-sm text-muted">
-        No candidates match the current filters.
-      </p>
+      <div className="flex flex-col items-center gap-3 rounded-lg border border-dashed border-border bg-muted-bg/50 px-4 py-8 text-center text-sm text-muted">
+        <p>No candidates match the current filters.</p>
+        {onReset && (
+          <button
+            onClick={onReset}
+            className="rounded-md border border-border bg-background px-3 py-1.5 text-sm text-foreground hover:border-foreground/40 transition-colors"
+          >
+            Reset filters
+          </button>
+        )}
+      </div>
     );
   }
   return (

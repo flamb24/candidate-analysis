@@ -54,6 +54,7 @@ const en = {
   viewAllCandidates: "View all candidates",
 
   // ── District page ──────────────────────────────────────────────────────
+  districtsLabel: "Districts",
   backToDistricts: "← Districts",
   districtCandidates: "candidates",
   districtNotable: "notable",
@@ -179,6 +180,7 @@ const mt: typeof en = {
   viewAllCandidates: "Ara l-kandidati kollha",
 
   // ── District page ──────────────────────────────────────────────────────
+  districtsLabel: "Distretti",
   backToDistricts: "← Distretti",
   districtCandidates: "kandidati",
   districtNotable: "notevoli",
