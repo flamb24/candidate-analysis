@@ -1,9 +1,9 @@
 "use client";
 
 import { useMemo, useState, type ReactNode } from "react";
-import { ChevronDown, Crown, Ghost, Medal } from "lucide-react";
+import { ChevronDown, Crown, Ghost, Lightbulb, Medal } from "lucide-react";
 import Link from "next/link";
-import type { Candidate, Tier } from "@/lib/types";
+import type { Candidate, Severity, Tier } from "@/lib/types";
 import { getT } from "@/lib/i18n";
 import type { Lang } from "@/lib/i18n";
 import {
@@ -53,8 +53,24 @@ const TIER_CHIP_TITLES: Record<string, string> = {
   "Second-tier": "Credible candidates — some profile, realistic but not frontrunners",
   "List-filler": "Low-profile candidates — limited public presence, unlikely to win a seat",
 };
-const SEVERITY_ORDER = ["None", "Low", "Medium", "High"];
+const SEVERITY_ORDER: Severity[] = ["None", "Low", "Medium", "High"];
 const ELECTABILITY_ORDER = ["✗", "✅", "✅✅", "✅✅✅"];
+const TRACK_RECORD_ORDER = [1, 2, 3, 4, 5];
+
+const SEVERITY_CHIP_COLORS: Record<string, string> = {
+  None:   "bg-emerald-50 text-emerald-700 border-emerald-200",
+  Low:    "bg-emerald-50 text-emerald-700 border-emerald-200",
+  Medium: "bg-amber-50   text-amber-700   border-amber-200",
+  High:   "bg-red-50     text-red-700     border-red-200",
+};
+
+const STAR_CHIP_COLORS: Record<string, string> = {
+  "1": "bg-amber-50 text-amber-900 border-amber-200",
+  "2": "bg-amber-50 text-amber-900 border-amber-200",
+  "3": "bg-amber-50 text-amber-900 border-amber-200",
+  "4": "bg-amber-50 text-amber-900 border-amber-200",
+  "5": "bg-amber-50 text-amber-900 border-amber-200",
+};
 
 function candidateSlug(c: Candidate): string {
   return c.id.replace(/^\d+-/, "");
@@ -83,6 +99,12 @@ export default function MasterComparison({
   const [selectedDistricts, setSelectedDistricts] = useState<Set<number>>(
     new Set(districts ?? [])
   );
+  const [selectedSeverities, setSelectedSeverities] = useState<Set<Severity>>(
+    new Set(SEVERITY_ORDER)
+  );
+  const [selectedStars, setSelectedStars] = useState<Set<number>>(
+    new Set(TRACK_RECORD_ORDER)
+  );
   const [search, setSearch] = useState("");
   const [filtersOpen, setFiltersOpen] = useState(true);
   const [view, setView] = useState<"cards" | "table">("cards");
@@ -94,6 +116,8 @@ export default function MasterComparison({
     const list = candidates.filter((c) => {
       if (!selectedParties.has(c.party)) return false;
       if (!selectedTiers.has(c.tier)) return false;
+      if (!selectedSeverities.has(c.controversySeverity)) return false;
+      if (c.trackRecordStars > 0 && !selectedStars.has(c.trackRecordStars)) return false;
       if (districts && !selectedDistricts.has(c.district)) return false;
       if (
         q &&
@@ -140,6 +164,8 @@ export default function MasterComparison({
     candidates,
     selectedParties,
     selectedTiers,
+    selectedSeverities,
+    selectedStars,
     selectedDistricts,
     districts,
     search,
@@ -177,16 +203,33 @@ export default function MasterComparison({
     !!search ||
     selectedParties.size < parties.length ||
     selectedTiers.size < TIER_ORDER.length ||
+    selectedSeverities.size < SEVERITY_ORDER.length ||
+    selectedStars.size < TRACK_RECORD_ORDER.length ||
     (!!districts && selectedDistricts.size < districts.length);
+
+  function resetFilters() {
+    setSearch("");
+    setSelectedParties(new Set(parties));
+    setSelectedTiers(new Set(TIER_ORDER));
+    setSelectedSeverities(new Set(SEVERITY_ORDER));
+    setSelectedStars(new Set(TRACK_RECORD_ORDER));
+    if (districts) setSelectedDistricts(new Set(districts));
+  }
 
   return (
     <div className="flex flex-col gap-4">
+      {/* Tip */}
+      <p className="flex items-center gap-1.5 text-xs text-muted">
+        <Lightbulb size={13} aria-hidden className="shrink-0" />
+        <span><span className="font-medium">Tip:</span> filter by Candidate Public Profile to simplify your research</span>
+      </p>
+
       {/* Filters */}
-      <div className="flex flex-col gap-2 rounded-lg border border-border bg-muted-bg/50 p-3">
+      <div className="flex flex-col gap-5 rounded-lg border border-border bg-muted-bg/50 p-3">
         <button
           onClick={() => setFiltersOpen((o) => !o)}
           aria-expanded={filtersOpen}
-          className="flex w-full items-center justify-between text-xs font-medium uppercase tracking-wide text-muted"
+          className="flex w-full items-center justify-between text-xs font-medium text-muted"
         >
           <span>{strings.filtersLabel}</span>
           <ChevronDown
@@ -228,14 +271,25 @@ export default function MasterComparison({
               colorMap={PARTY_CHIP_COLORS}
             />
 
+            <FilterRow
+              label={strings.filterControversy}
+              options={SEVERITY_ORDER.map((s) => ({ value: s, label: s }))}
+              selected={selectedSeverities}
+              onToggle={(v) => toggleInSet(v, selectedSeverities, setSelectedSeverities)}
+              colorMap={SEVERITY_CHIP_COLORS}
+            />
+
+            <FilterRow
+              label={strings.filterTrackRecord}
+              options={TRACK_RECORD_ORDER.map((n) => ({ value: n, label: "★".repeat(n) }))}
+              selected={selectedStars}
+              onToggle={(v) => toggleInSet(v, selectedStars, setSelectedStars)}
+              colorMap={STAR_CHIP_COLORS}
+            />
+
             {isFiltered && (
               <button
-                onClick={() => {
-                  setSearch("");
-                  setSelectedParties(new Set(parties));
-                  setSelectedTiers(new Set(TIER_ORDER));
-                  if (districts) setSelectedDistricts(new Set(districts));
-                }}
+                onClick={resetFilters}
                 className="self-start text-xs text-accent hover:underline"
               >
                 Reset filters
@@ -260,35 +314,28 @@ export default function MasterComparison({
         />
       </div>
 
-      <div className="flex flex-col gap-1.5">
-        <div className="flex items-center justify-between text-sm text-muted">
-          <span>{strings.candidatesCount(filtered.length)}</span>
-          <div className="flex rounded-md border border-border bg-background p-0.5 text-sm">
-            <button
-              onClick={() => setView("cards")}
-              className={`rounded px-2.5 py-1 ${
-                view === "cards" ? "bg-foreground text-background" : "text-muted"
-              }`}
-              aria-pressed={view === "cards"}>
-              {strings.viewCards}
-            </button>
-            <button
-              onClick={() => setView("table")}
-              className={`rounded px-2.5 py-1 ${
-                view === "table" ? "bg-foreground text-background" : "text-muted"
-              }`}
-              aria-pressed={view === "table"}>
-              {strings.viewTable}
-            </button>
-          </div>
+      <div className="flex items-center justify-between text-sm text-muted">
+        <span>{strings.candidatesCount(filtered.length)}</span>
+        <div className="flex rounded-md border border-border bg-background p-0.5 text-sm">
+          <button
+            onClick={() => setView("cards")}
+            className={`rounded px-2.5 py-1 ${
+              view === "cards" ? "bg-foreground text-background" : "text-muted"
+            }`}
+            aria-pressed={view === "cards"}>{strings.viewCards}
+          </button>
+          <button
+            onClick={() => setView("table")}
+            className={`rounded px-2.5 py-1 ${
+              view === "table" ? "bg-foreground text-background" : "text-muted"
+            }`}
+            aria-pressed={view === "table"}>{strings.viewTable}
+          </button>
         </div>
-        <p className="text-xs text-muted">
-          <span className="font-medium">Tip:</span> filter by Candidate Public Profile to simplify your research
-        </p>
       </div>
 
       {view === "cards" ? (
-        <CardGrid candidates={filtered} prefix={prefix} strings={strings} onReset={isFiltered ? () => { setSearch(""); setSelectedParties(new Set(parties)); setSelectedTiers(new Set(TIER_ORDER)); if (districts) setSelectedDistricts(new Set(districts)); } : undefined} />
+        <CardGrid candidates={filtered} prefix={prefix} strings={strings} onReset={isFiltered ? resetFilters : undefined} />
       ) : (
         <DataTable
           candidates={filtered}
@@ -297,7 +344,7 @@ export default function MasterComparison({
           onSort={handleSort}
           prefix={prefix}
           strings={strings}
-          onReset={isFiltered ? () => { setSearch(""); setSelectedParties(new Set(parties)); setSelectedTiers(new Set(TIER_ORDER)); if (districts) setSelectedDistricts(new Set(districts)); } : undefined}
+          onReset={isFiltered ? resetFilters : undefined}
         />
       )}
     </div>
@@ -323,7 +370,7 @@ function FilterRow<T extends string | number>({
 }) {
   return (
     <div className="flex flex-col gap-1.5">
-      <span className="text-xs font-medium uppercase tracking-wide text-muted">
+      <span className="text-xs font-medium text-muted">
         {label}
       </span>
       <div className="flex flex-wrap gap-1.5">

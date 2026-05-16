@@ -94,9 +94,11 @@ const en = {
   viewCards: "Cards",
   viewTable: "Table",
   filtersLabel: "Filters",
-  filterDistrict: "DISTRICT",
+  filterDistrict: "District",
   filterTier: "Candidate public profile",
-  filterParty: "PARTY",
+  filterParty: "Party",
+  filterControversy: "Controversy",
+  filterTrackRecord: "Track record",
   candidatesCount: (n: number) => `${n} candidates`,
 
   // ── Tier labels ───────────────────────────────────────────────────────
@@ -220,9 +222,11 @@ const mt: typeof en = {
   viewCards: "Karti",
   viewTable: "Tabella",
   filtersLabel: "Filtri",
-  filterDistrict: "DISTRETT",
+  filterDistrict: "Distrett",
   filterTier: "Profil pubbliku tal-kandidat",
-  filterParty: "PARTIT",
+  filterParty: "Partit",
+  filterControversy: "Kontroversja",
+  filterTrackRecord: "Rekord",
   candidatesCount: (n: number) => `${n} kandidati`,
 
   // ── Tier labels ───────────────────────────────────────────────────────
