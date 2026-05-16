@@ -10,6 +10,8 @@ import {
   Stars,
   TierBadge,
 } from "@/components/Badges";
+import { InterviewLinks } from "@/components/InterviewLinks";
+import { getCandidateInterviews } from "@/lib/interviews";
 
 export function generateStaticParams() {
   return getAllDistricts().flatMap((d) =>
@@ -61,6 +63,8 @@ export default async function CandidatePage({ params }: Props) {
           )}
         </div>
       </header>
+
+      <InterviewLinks interviews={getCandidateInterviews(candidate.id)} />
 
       <section className="grid grid-cols-3 gap-3 rounded-lg border border-border bg-muted-bg/40 p-4 text-sm sm:grid-cols-3">
         <div>
