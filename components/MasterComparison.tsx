@@ -1,7 +1,7 @@
 "use client";
 
-import { useMemo, useState, type ReactNode } from "react";
-import { ChevronDown, Crown, Ghost, Lightbulb, Medal } from "lucide-react";
+import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
+import { Crown, Ghost, Lightbulb, Medal, SlidersHorizontal, X } from "lucide-react";
 import Link from "next/link";
 import type { Candidate, Severity, Tier } from "@/lib/types";
 import { getT } from "@/lib/i18n";
@@ -53,6 +53,7 @@ const TIER_CHIP_TITLES: Record<string, string> = {
   "Second-tier": "Credible candidates — some profile, realistic but not frontrunners",
   "List-filler": "Low-profile candidates — limited public presence, unlikely to win a seat",
 };
+
 const SEVERITY_ORDER: Severity[] = ["None", "Low", "Medium", "High"];
 const ELECTABILITY_ORDER = ["✗", "✅", "✅✅", "✅✅✅"];
 const TRACK_RECORD_ORDER = [1, 2, 3, 4, 5];
@@ -90,26 +91,73 @@ export default function MasterComparison({
   const strings = getT(lang);
   const prefix = lang === "mt" ? "/mt" : "";
 
-  const [selectedParties, setSelectedParties] = useState<Set<string>>(
-    new Set(parties)
-  );
-  const [selectedTiers, setSelectedTiers] = useState<Set<Tier>>(
-    new Set(TIER_ORDER)
-  );
-  const [selectedDistricts, setSelectedDistricts] = useState<Set<number>>(
-    new Set(districts ?? [])
-  );
-  const [selectedSeverities, setSelectedSeverities] = useState<Set<Severity>>(
-    new Set(SEVERITY_ORDER)
-  );
-  const [selectedStars, setSelectedStars] = useState<Set<number>>(
-    new Set(TRACK_RECORD_ORDER)
-  );
+  const [selectedParties, setSelectedParties] = useState<Set<string>>(new Set(parties));
+  const [selectedTiers, setSelectedTiers] = useState<Set<Tier>>(new Set(TIER_ORDER));
+  const [selectedDistricts, setSelectedDistricts] = useState<Set<number>>(new Set(districts ?? []));
+  const [selectedSeverities, setSelectedSeverities] = useState<Set<Severity>>(new Set(SEVERITY_ORDER));
+  const [selectedStars, setSelectedStars] = useState<Set<number>>(new Set(TRACK_RECORD_ORDER));
   const [search, setSearch] = useState("");
-  const [filtersOpen, setFiltersOpen] = useState(true);
+  const [filtersOpen, setFiltersOpen] = useState(false);
+  const [filtersVisible, setFiltersVisible] = useState(false);
   const [view, setView] = useState<"cards" | "table">("cards");
   const [sortKey, setSortKey] = useState<SortKey>("default");
   const [sortDesc, setSortDesc] = useState(true);
+
+  // Drag-to-dismiss (mobile bottom sheet)
+  const dragStartY = useRef(0);
+  const [dragY, setDragY] = useState(0);
+  const [isDragging, setIsDragging] = useState(false);
+
+  function openFilters() {
+    setFiltersOpen(true);
+    // Double RAF: let the element mount with its initial (off-screen) state,
+    // then trigger the transition to the visible state.
+    requestAnimationFrame(() => requestAnimationFrame(() => setFiltersVisible(true)));
+  }
+
+  function closeFilters() {
+    setFiltersVisible(false);
+    setTimeout(() => setFiltersOpen(false), 300);
+  }
+
+  // Close on Escape
+  useEffect(() => {
+    if (!filtersOpen) return;
+    const onKey = (e: KeyboardEvent) => {
+      if (e.key === "Escape") {
+        setFiltersVisible(false);
+        setTimeout(() => setFiltersOpen(false), 300);
+      }
+    };
+    window.addEventListener("keydown", onKey);
+    return () => window.removeEventListener("keydown", onKey);
+  }, [filtersOpen]);
+
+  // Lock body scroll while sheet is open
+  useEffect(() => {
+    document.body.style.overflow = filtersOpen ? "hidden" : "";
+    return () => { document.body.style.overflow = ""; };
+  }, [filtersOpen]);
+
+  function handleDragStart(e: React.PointerEvent) {
+    dragStartY.current = e.clientY;
+    setIsDragging(true);
+    (e.currentTarget as HTMLElement).setPointerCapture(e.pointerId);
+  }
+  function handleDragMove(e: React.PointerEvent) {
+    if (!isDragging) return;
+    setDragY(Math.max(0, e.clientY - dragStartY.current));
+  }
+  function handleDragEnd() {
+    if (dragY > 80) {
+      setDragY(0);
+      setIsDragging(false);
+      closeFilters();
+    } else {
+      setDragY(0);
+      setIsDragging(false);
+    }
+  }
 
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase();
@@ -147,8 +195,7 @@ export default function MasterComparison({
       let cmp = 0;
       if (sortKey === "name") cmp = a.name.localeCompare(b.name);
       else if (sortKey === "party") cmp = a.party.localeCompare(b.party);
-      else if (sortKey === "trackRecord")
-        cmp = a.trackRecordStars - b.trackRecordStars;
+      else if (sortKey === "trackRecord") cmp = a.trackRecordStars - b.trackRecordStars;
       else if (sortKey === "controversy")
         cmp =
           SEVERITY_ORDER.indexOf(a.controversySeverity) -
@@ -161,16 +208,8 @@ export default function MasterComparison({
     });
     return sorted;
   }, [
-    candidates,
-    selectedParties,
-    selectedTiers,
-    selectedSeverities,
-    selectedStars,
-    selectedDistricts,
-    districts,
-    search,
-    sortKey,
-    sortDesc,
+    candidates, selectedParties, selectedTiers, selectedSeverities,
+    selectedStars, selectedDistricts, districts, search, sortKey, sortDesc,
   ]);
 
   function toggleInSet<T>(value: T, set: Set<T>, setter: (s: Set<T>) => void) {
@@ -180,17 +219,11 @@ export default function MasterComparison({
     setter(next);
   }
 
-  function toggleDistrict(v: number) {
-    toggleInSet(v, selectedDistricts, setSelectedDistricts);
-  }
+  function toggleDistrict(v: number) { toggleInSet(v, selectedDistricts, setSelectedDistricts); }
 
   function handleSort(key: SortKey) {
-    if (sortKey === key) {
-      setSortDesc((d) => !d);
-    } else {
-      setSortKey(key);
-      setSortDesc(key === "name" || key === "party" ? false : true);
-    }
+    if (sortKey === key) { setSortDesc((d) => !d); }
+    else { setSortKey(key); setSortDesc(key === "name" || key === "party" ? false : true); }
   }
 
   const tierLabel = (tier: Tier) => {
@@ -207,6 +240,13 @@ export default function MasterComparison({
     selectedStars.size < TRACK_RECORD_ORDER.length ||
     (!!districts && selectedDistricts.size < districts.length);
 
+  const activeFilterCount =
+    (selectedParties.size < parties.length ? 1 : 0) +
+    (selectedTiers.size < TIER_ORDER.length ? 1 : 0) +
+    (selectedSeverities.size < SEVERITY_ORDER.length ? 1 : 0) +
+    (selectedStars.size < TRACK_RECORD_ORDER.length ? 1 : 0) +
+    (districts && selectedDistricts.size < districts.length ? 1 : 0);
+
   function resetFilters() {
     setSearch("");
     setSelectedParties(new Set(parties));
@@ -221,86 +261,13 @@ export default function MasterComparison({
       {/* Tip */}
       <p className="flex items-center gap-1.5 text-xs text-muted">
         <Lightbulb size={13} aria-hidden className="shrink-0" />
-        <span><span className="font-medium">Tip:</span> filter by Candidate Public Profile to simplify your research</span>
+        <span>
+          <span className="font-medium">Tip:</span> filter by Candidate Public Profile to simplify your research
+        </span>
       </p>
 
-      {/* Filters */}
-      <div className="flex flex-col gap-5 rounded-lg border border-border bg-muted-bg/50 p-3">
-        <button
-          onClick={() => setFiltersOpen((o) => !o)}
-          aria-expanded={filtersOpen}
-          className="flex w-full items-center justify-between text-xs font-medium text-muted"
-        >
-          <span>{strings.filtersLabel}</span>
-          <ChevronDown
-            size={14}
-            aria-hidden
-            className={`transition-transform duration-200 ${filtersOpen ? "rotate-180" : ""}`}
-          />
-        </button>
-
-        {filtersOpen && (
-          <>
-            {districts && districts.length > 1 && (
-              <FilterRow
-                label={strings.filterDistrict}
-                options={districts.map((d) => ({ value: d, label: `D${d}` }))}
-                selected={selectedDistricts}
-                onToggle={toggleDistrict}
-              />
-            )}
-
-            <FilterRow
-              label={strings.filterTier}
-              options={TIER_ORDER.map((tier) => ({
-                value: tier,
-                label: tierLabel(tier),
-              }))}
-              selected={selectedTiers}
-              onToggle={(v) => toggleInSet(v, selectedTiers, setSelectedTiers)}
-              colorMap={TIER_CHIP_COLORS}
-              iconMap={TIER_CHIP_ICONS}
-              titleMap={TIER_CHIP_TITLES}
-            />
-
-            <FilterRow
-              label={strings.filterParty}
-              options={parties.map((p) => ({ value: p, label: p }))}
-              selected={selectedParties}
-              onToggle={(v) => toggleInSet(v, selectedParties, setSelectedParties)}
-              colorMap={PARTY_CHIP_COLORS}
-            />
-
-            <FilterRow
-              label={strings.filterControversy}
-              options={SEVERITY_ORDER.map((s) => ({ value: s, label: s }))}
-              selected={selectedSeverities}
-              onToggle={(v) => toggleInSet(v, selectedSeverities, setSelectedSeverities)}
-              colorMap={SEVERITY_CHIP_COLORS}
-            />
-
-            <FilterRow
-              label={strings.filterTrackRecord}
-              options={TRACK_RECORD_ORDER.map((n) => ({ value: n, label: "★".repeat(n) }))}
-              selected={selectedStars}
-              onToggle={(v) => toggleInSet(v, selectedStars, setSelectedStars)}
-              colorMap={STAR_CHIP_COLORS}
-            />
-
-            {isFiltered && (
-              <button
-                onClick={resetFilters}
-                className="self-start text-xs text-accent hover:underline"
-              >
-                Reset filters
-              </button>
-            )}
-          </>
-        )}
-      </div>
-
-      {/* Search — below filters */}
-      <div>
+      {/* Search + Filters trigger */}
+      <div className="flex gap-2">
         <label htmlFor="candidate-search" className="sr-only">
           {strings.searchPlaceholder}
         </label>
@@ -310,32 +277,164 @@ export default function MasterComparison({
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           placeholder={strings.searchPlaceholder}
-          className="w-full rounded-md border border-border bg-background px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent/40"
+          className="flex-1 rounded-md border border-border bg-background px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent/40"
         />
+        <button
+          onClick={openFilters}
+          aria-haspopup="dialog"
+          aria-label={`${strings.filtersLabel}${activeFilterCount > 0 ? `, ${activeFilterCount} active` : ""}`}
+          className="relative inline-flex shrink-0 items-center gap-2 rounded-md border border-transparent bg-[var(--cta)] px-3 py-2 text-sm font-medium text-white transition-opacity hover:opacity-90"
+        >
+          <SlidersHorizontal size={14} aria-hidden />
+          {strings.filtersLabel}
+          {activeFilterCount > 0 && (
+            <span className="inline-flex h-5 w-5 items-center justify-center rounded-full bg-white/25 text-xs font-medium">
+              {activeFilterCount}
+            </span>
+          )}
+        </button>
       </div>
 
+      {/* Count + view toggle */}
       <div className="flex items-center justify-between text-sm text-muted">
         <span>{strings.candidatesCount(filtered.length)}</span>
         <div className="flex rounded-md border border-border bg-background p-0.5 text-sm">
           <button
             onClick={() => setView("cards")}
-            className={`rounded px-2.5 py-1 ${
-              view === "cards" ? "bg-foreground text-background" : "text-muted"
-            }`}
-            aria-pressed={view === "cards"}>{strings.viewCards}
+            className={`rounded px-2.5 py-1 ${view === "cards" ? "bg-foreground text-background" : "text-muted"}`}
+            aria-pressed={view === "cards"}
+          >
+            {strings.viewCards}
           </button>
           <button
             onClick={() => setView("table")}
-            className={`rounded px-2.5 py-1 ${
-              view === "table" ? "bg-foreground text-background" : "text-muted"
-            }`}
-            aria-pressed={view === "table"}>{strings.viewTable}
+            className={`rounded px-2.5 py-1 ${view === "table" ? "bg-foreground text-background" : "text-muted"}`}
+            aria-pressed={view === "table"}
+          >
+            {strings.viewTable}
           </button>
         </div>
       </div>
 
+      {/* ── Filters sheet (mobile) / dialog (desktop) ───────────────────── */}
+      {filtersOpen && (
+        <>
+          {/* Backdrop */}
+          <div
+            aria-hidden="true"
+            onClick={closeFilters}
+            className={`fixed inset-0 z-40 bg-black/40 transition-opacity duration-300 sm:backdrop-blur-sm ${
+              filtersVisible ? "opacity-100" : "opacity-0"
+            }`}
+          />
+
+          {/* Positioning wrapper */}
+          <div
+            role="dialog"
+            aria-modal="true"
+            aria-label={strings.filtersLabel}
+            className="fixed inset-x-0 bottom-0 z-50 sm:inset-0 sm:flex sm:items-center sm:justify-center sm:p-4"
+          >
+            <div
+              style={isDragging ? { transform: `translateY(${dragY}px)` } : undefined}
+              className={`relative flex max-h-[65svh] flex-col rounded-t-2xl bg-background shadow-xl transition-all duration-300 sm:max-h-[80svh] sm:w-full sm:max-w-lg sm:rounded-2xl ${
+                filtersVisible
+                  ? "translate-y-0 opacity-100 sm:scale-100"
+                  : "translate-y-full opacity-0 sm:translate-y-0 sm:scale-95"
+              }`}
+            >
+              {/* Drag handle — mobile only */}
+              <div
+                className="flex cursor-grab touch-none justify-center pb-1 pt-3 active:cursor-grabbing sm:hidden"
+                onPointerDown={handleDragStart}
+                onPointerMove={handleDragMove}
+                onPointerUp={handleDragEnd}
+                onPointerCancel={handleDragEnd}
+              >
+                <div className="h-1 w-10 rounded-full bg-border" />
+              </div>
+
+              {/* Header */}
+              <div className="flex items-center justify-between border-b border-border px-4 py-3">
+                <span className="text-sm font-medium">{strings.filtersLabel}</span>
+                <button
+                  onClick={closeFilters}
+                  aria-label="Close filters"
+                  className="rounded-md p-1 text-muted transition-colors hover:bg-muted-bg hover:text-foreground"
+                >
+                  <X size={16} aria-hidden />
+                </button>
+              </div>
+
+              {/* Scrollable filter content */}
+              <div className="flex-1 overflow-y-auto">
+                <div className="flex flex-col gap-5 p-4">
+                  {districts && districts.length > 1 && (
+                    <FilterRow
+                      label={strings.filterDistrict}
+                      options={districts.map((d) => ({ value: d, label: `D${d}` }))}
+                      selected={selectedDistricts}
+                      onToggle={toggleDistrict}
+                    />
+                  )}
+
+                  <FilterRow
+                    label={strings.filterTier}
+                    options={TIER_ORDER.map((tier) => ({ value: tier, label: tierLabel(tier) }))}
+                    selected={selectedTiers}
+                    onToggle={(v) => toggleInSet(v, selectedTiers, setSelectedTiers)}
+                    colorMap={TIER_CHIP_COLORS}
+                    iconMap={TIER_CHIP_ICONS}
+                    titleMap={TIER_CHIP_TITLES}
+                  />
+
+                  <FilterRow
+                    label={strings.filterParty}
+                    options={parties.map((p) => ({ value: p, label: p }))}
+                    selected={selectedParties}
+                    onToggle={(v) => toggleInSet(v, selectedParties, setSelectedParties)}
+                    colorMap={PARTY_CHIP_COLORS}
+                  />
+
+                  <FilterRow
+                    label={strings.filterControversy}
+                    options={SEVERITY_ORDER.map((s) => ({ value: s, label: s }))}
+                    selected={selectedSeverities}
+                    onToggle={(v) => toggleInSet(v, selectedSeverities, setSelectedSeverities)}
+                    colorMap={SEVERITY_CHIP_COLORS}
+                  />
+
+                  <FilterRow
+                    label={strings.filterTrackRecord}
+                    options={TRACK_RECORD_ORDER.map((n) => ({ value: n, label: "★".repeat(n) }))}
+                    selected={selectedStars}
+                    onToggle={(v) => toggleInSet(v, selectedStars, setSelectedStars)}
+                    colorMap={STAR_CHIP_COLORS}
+                  />
+
+                  {isFiltered && (
+                    <button
+                      onClick={resetFilters}
+                      className="self-start text-xs text-accent hover:underline"
+                    >
+                      Reset filters
+                    </button>
+                  )}
+                </div>
+              </div>
+            </div>
+          </div>
+        </>
+      )}
+
+      {/* Results */}
       {view === "cards" ? (
-        <CardGrid candidates={filtered} prefix={prefix} strings={strings} onReset={isFiltered ? resetFilters : undefined} />
+        <CardGrid
+          candidates={filtered}
+          prefix={prefix}
+          strings={strings}
+          onReset={isFiltered ? resetFilters : undefined}
+        />
       ) : (
         <DataTable
           candidates={filtered}
@@ -370,33 +469,31 @@ function FilterRow<T extends string | number>({
 }) {
   return (
     <div className="flex flex-col gap-1.5">
-      <span className="text-xs font-medium text-muted">
-        {label}
-      </span>
+      <span className="text-xs font-medium text-muted">{label}</span>
       <div className="flex flex-wrap gap-1.5">
-      {options.map((o) => {
-        const active = selected.has(o.value);
-        const activeClass =
-          colorMap?.[String(o.value)] ?? "border-accent bg-accent text-white";
-        const icon = iconMap?.[String(o.value)];
-        const tip = titleMap?.[String(o.value)];
-        return (
-          <button
-            key={String(o.value)}
-            onClick={() => onToggle(o.value)}
-            aria-pressed={active}
-            title={tip}
-            className={`inline-flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-sm font-medium transition-colors ${
-              active
-                ? activeClass
-                : "border-border bg-background text-muted hover:border-foreground hover:text-foreground"
-            }`}
-          >
-            {icon}
-            {o.label}
-          </button>
-        );
-      })}
+        {options.map((o) => {
+          const active = selected.has(o.value);
+          const activeClass =
+            colorMap?.[String(o.value)] ?? "border-accent bg-accent text-white";
+          const icon = iconMap?.[String(o.value)];
+          const tip = titleMap?.[String(o.value)];
+          return (
+            <button
+              key={String(o.value)}
+              onClick={() => onToggle(o.value)}
+              aria-pressed={active}
+              title={tip}
+              className={`inline-flex items-center gap-1.5 rounded-full border px-3 py-1.5 text-sm font-medium transition-colors ${
+                active
+                  ? activeClass
+                  : "border-border bg-background text-muted hover:border-foreground hover:text-foreground"
+              }`}
+            >
+              {icon}
+              {o.label}
+            </button>
+          );
+        })}
       </div>
     </div>
   );
@@ -422,7 +519,7 @@ function CardGrid({
         {onReset && (
           <button
             onClick={onReset}
-            className="rounded-md border border-border bg-background px-3 py-1.5 text-sm text-foreground hover:border-foreground/40 transition-colors"
+            className="rounded-md border border-border bg-background px-3 py-1.5 text-sm text-foreground transition-colors hover:border-foreground/40"
           >
             Reset filters
           </button>
@@ -463,21 +560,15 @@ function CardGrid({
             <dl className="mt-auto grid grid-cols-3 gap-2 border-t border-border pt-3 text-xs">
               <div>
                 <dt className="mb-1 leading-tight text-muted">{strings.cardTrackRecord}</dt>
-                <dd className="flex items-center">
-                  <Stars count={c.trackRecordStars} />
-                </dd>
+                <dd className="flex items-center"><Stars count={c.trackRecordStars} /></dd>
               </div>
               <div>
                 <dt className="mb-1 leading-tight text-muted">{strings.cardControversy}</dt>
-                <dd className="flex items-center">
-                  <ControversyBadge severity={c.controversySeverity} />
-                </dd>
+                <dd className="flex items-center"><ControversyBadge severity={c.controversySeverity} /></dd>
               </div>
               <div>
                 <dt className="mb-1 leading-tight text-muted">{strings.cardSocialMedia}</dt>
-                <dd className="flex items-center">
-                  <SocialReachBadge reach={c.socialReach} />
-                </dd>
+                <dd className="flex items-center"><SocialReachBadge reach={c.socialReach} /></dd>
               </div>
             </dl>
           </Link>
@@ -516,7 +607,7 @@ function DataTable({
         {onReset && (
           <button
             onClick={onReset}
-            className="rounded-md border border-border bg-background px-3 py-1.5 text-sm text-foreground hover:border-foreground/40 transition-colors"
+            className="rounded-md border border-border bg-background px-3 py-1.5 text-sm text-foreground transition-colors hover:border-foreground/40"
           >
             Reset filters
           </button>
@@ -570,9 +661,7 @@ function DataTable({
                   {c.name}
                 </Link>
                 {c.isGovIncumbent && (
-                  <span className="ml-2 align-middle">
-                    <GovBadge />
-                  </span>
+                  <span className="ml-2 align-middle"><GovBadge /></span>
                 )}
               </td>
               <td className="px-3 py-2"><PartyBadge party={c.party} /></td>
