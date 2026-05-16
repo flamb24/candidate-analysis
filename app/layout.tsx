@@ -25,14 +25,14 @@ export const metadata: Metadata = {
     siteName: "Distrett.",
     locale: "en_MT",
     type: "website",
-    images: [{ url: "/meta.jpg", width: 1200, height: 630, type: "image/jpeg" }],
+    images: [{ url: "https://distrett.com/meta.jpg", width: 1200, height: 630, type: "image/jpeg" }],
   },
   twitter: {
     card: "summary_large_image",
     title: "Distrett. — Malta General Election 2026",
     description:
       "Know who you're really voting for. Every candidate in your district — track record, controversies, and stances on the issues that matter.",
-    images: ["/meta.jpg"],
+    images: ["https://distrett.com/meta.jpg"],
   },
   manifest: "/manifest.json",
 };
