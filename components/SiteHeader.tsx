@@ -13,17 +13,22 @@ export default function SiteHeader() {
   const lang = pathname.startsWith("/mt") ? "mt" : "en";
   const t = getT(lang);
   const homeHref = lang === "mt" ? "/mt" : "/";
+  const isHome = pathname === "/" || pathname === "/mt";
 
   return (
     <header className="sticky top-0 z-30 border-b border-border bg-background/95 backdrop-blur">
       <div className="mx-auto flex max-w-6xl items-center justify-between px-4 py-3 sm:px-6">
-        <Link
-          href={homeHref}
-          className="inline-flex items-center gap-1.5 rounded-md border border-border px-2.5 py-1 text-xs text-muted hover:border-foreground/40 hover:text-foreground transition-colors"
-        >
-          <Home size={11} aria-hidden />
-          {t.home}
-        </Link>
+        {isHome ? (
+          <span className="w-[72px]" />
+        ) : (
+          <Link
+            href={homeHref}
+            className="inline-flex items-center gap-1.5 rounded-md border border-border px-2.5 py-1 text-xs text-muted hover:border-foreground/40 hover:text-foreground transition-colors"
+          >
+            <Home size={11} aria-hidden />
+            {t.home}
+          </Link>
+        )}
         <nav className="flex items-center gap-2 sm:gap-3 text-sm text-muted">
           <ShareButton shareLabel={t.share} copiedLabel={t.copied} />
           {/* <LangToggle /> — hidden until translations are reviewed */}
