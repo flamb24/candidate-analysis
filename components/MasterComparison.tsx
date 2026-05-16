@@ -109,14 +109,6 @@ export default function MasterComparison({
     setter(next);
   }
 
-  function selectOnly<T>(value: T, _set: Set<T>, setter: (s: Set<T>) => void) {
-    setter(new Set([value]));
-  }
-
-  function setAll<T>(values: T[], setter: (s: Set<T>) => void) {
-    setter(new Set(values));
-  }
-
   function handleSort(key: SortKey) {
     if (sortKey === key) {
       setSortDesc((d) => !d);
@@ -164,12 +156,7 @@ export default function MasterComparison({
           label="District"
           options={districts.map((d) => ({ value: d, label: `D${d}` }))}
           selected={selectedDistricts}
-          all={districts}
           onToggle={(v) => toggleInSet(v, selectedDistricts, setSelectedDistricts)}
-          onAll={() => setAll(districts, setSelectedDistricts)}
-          onOnly={(v) =>
-            selectOnly(v, selectedDistricts, setSelectedDistricts as (s: Set<number>) => void)
-          }
         />
 
         <FilterRow
@@ -179,22 +166,14 @@ export default function MasterComparison({
             label: t === "Second-tier" ? "2nd tier" : t,
           }))}
           selected={selectedTiers}
-          all={TIER_ORDER}
           onToggle={(v) => toggleInSet(v, selectedTiers, setSelectedTiers)}
-          onAll={() => setAll(TIER_ORDER, setSelectedTiers)}
-          onOnly={(v) => selectOnly(v, selectedTiers, setSelectedTiers as (s: Set<Tier>) => void)}
         />
 
         <FilterRow
           label="Party"
           options={parties.map((p) => ({ value: p, label: p }))}
           selected={selectedParties}
-          all={parties}
           onToggle={(v) => toggleInSet(v, selectedParties, setSelectedParties)}
-          onAll={() => setAll(parties, setSelectedParties)}
-          onOnly={(v) =>
-            selectOnly(v, selectedParties, setSelectedParties as (s: Set<string>) => void)
-          }
         />
       </div>
 
@@ -222,47 +201,29 @@ function FilterRow<T extends string | number>({
   label,
   options,
   selected,
-  all,
   onToggle,
-  onAll,
-  onOnly,
 }: {
   label: string;
   options: { value: T; label: string }[];
   selected: Set<T>;
-  all: T[];
   onToggle: (v: T) => void;
-  onAll: () => void;
-  onOnly: (v: T) => void;
 }) {
-  const allSelected = selected.size === all.length;
   return (
-    <div className="flex flex-wrap items-center gap-1.5">
+    <div className="flex flex-wrap items-center gap-2">
       <span className="mr-1 w-14 shrink-0 text-xs font-medium uppercase tracking-wide text-muted">
         {label}
       </span>
-      <button
-        onClick={onAll}
-        className={`rounded-full border px-2 py-0.5 text-xs ${
-          allSelected
-            ? "border-foreground bg-foreground text-background"
-            : "border-border text-muted hover:border-foreground"
-        }`}
-      >
-        All
-      </button>
       {options.map((o) => {
         const active = selected.has(o.value);
         return (
           <button
             key={String(o.value)}
             onClick={() => onToggle(o.value)}
-            onDoubleClick={() => onOnly(o.value)}
-            title="Double-click to select only this"
-            className={`rounded-full border px-2 py-0.5 text-xs ${
+            aria-pressed={active}
+            className={`rounded-full border px-4 py-2 text-sm font-medium transition-colors ${
               active
                 ? "border-accent bg-accent text-white"
-                : "border-border bg-background text-muted hover:border-foreground"
+                : "border-border bg-background text-muted hover:border-foreground hover:text-foreground"
             }`}
           >
             {o.label}
