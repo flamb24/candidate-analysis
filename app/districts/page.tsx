@@ -1,9 +1,9 @@
 import DistrictsPageContent from "@/components/DistrictsPageContent";
 
 export const metadata = {
-  title: "All Districts — Distrett",
+  title: "Districts — Distrett",
   description:
-    "Browse and compare all candidates across the 13 districts contesting the Malta General Election 2026.",
+    "Choose your electoral district and explore every candidate contesting the Malta General Election 2026.",
 };
 
 export default function DistrictsPage() {

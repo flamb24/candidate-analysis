@@ -43,9 +43,11 @@ const en = {
 
   // ── Districts page ────────────────────────────────────────────────────
   chooseYourDistrict: "Choose your district",
+  allCandidatesTitle: "All candidates",
+  viewAllCandidates: "View all candidates",
 
   // ── District page ──────────────────────────────────────────────────────
-  backToDistricts: "← All districts",
+  backToDistricts: "← Districts",
   districtCandidates: "candidates",
   districtNotable: "notable",
   districtSecondTier: "second-tier",
@@ -158,9 +160,11 @@ const mt: typeof en = {
 
   // ── Districts page ────────────────────────────────────────────────────
   chooseYourDistrict: "Agħžel id-Distrett Tiegħek",
+  allCandidatesTitle: "Il-Kandidati Kollha",
+  viewAllCandidates: "Ara l-kandidati kollha",
 
   // ── District page ──────────────────────────────────────────────────────
-  backToDistricts: "← Id-Distretti Kollha",
+  backToDistricts: "← Distretti",
   districtCandidates: "kandidati",
   districtNotable: "notevoli",
   districtSecondTier: "tieni livell",

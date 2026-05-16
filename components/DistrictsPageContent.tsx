@@ -1,49 +1,69 @@
 import Link from "next/link";
 import { getAllDistricts } from "@/lib/data";
-import MasterComparison from "@/components/MasterComparison";
 import { getT } from "@/lib/i18n";
 import type { Lang } from "@/lib/i18n";
 
 export default function DistrictsPageContent({ lang }: { lang: Lang }) {
   const t = getT(lang);
   const districts = getAllDistricts();
-  const candidates = districts.flatMap((d) => d.candidates);
-  const districtNumbers = districts.map((d) => d.number);
-  const partySet = new Set<string>();
-  for (const c of candidates) if (c.party) partySet.add(c.party);
-  const parties = Array.from(partySet).sort();
   const prefix = lang === "mt" ? "/mt" : "";
 
   return (
-    <div className="mx-auto w-full max-w-6xl flex flex-col gap-6 px-4 py-6 sm:px-6 sm:py-8">
-      <div className="flex flex-col gap-3">
+    <div className="mx-auto w-full max-w-6xl flex flex-col gap-8 px-4 py-10 sm:px-6 sm:py-14">
+
+      <header className="flex flex-col gap-1">
+        <p className="font-mono text-[11px] uppercase tracking-[0.25em] text-[var(--cta)] flex items-center gap-3">
+          <span className="inline-block w-5 h-px bg-[var(--cta)]" />
+          {t.electionLabel}
+        </p>
         <h1 className="text-2xl font-bold tracking-tight sm:text-3xl">
-          {t.chooseYourDistrict}
+          {t.electoralDistrictsTitle(districts.length)}
         </h1>
-        <div className="-mx-4 flex gap-2 overflow-x-auto px-4 pb-1 pt-1 sm:mx-0 sm:px-0">
-          {districts.map((d) => (
+      </header>
+
+      <ol
+        className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-px bg-border"
+        role="list"
+      >
+        {districts.map((d) => (
+          <li key={d.number} className="bg-background">
             <Link
-              key={d.number}
               href={`${prefix}/district/${d.number}`}
-              className="shrink-0 rounded-full border border-border bg-muted-bg/50 px-3 py-1 text-sm hover:border-foreground/50"
+              className="group flex flex-col gap-2 p-5 h-full hover:bg-muted-bg/60 transition-colors"
             >
-              District {d.number} ·{" "}
-              <span className="text-muted">{d.candidates.length} {t.candidatesUnit}</span>
+              <div className="flex items-baseline justify-between gap-3">
+                <span className="font-mono text-[11px] uppercase tracking-[0.2em] text-[var(--muted)]">
+                  District {d.number}
+                </span>
+                <span className="font-mono text-[10px] text-[var(--muted)]">
+                  {d.candidates.length} {t.candidatesUnit}
+                </span>
+              </div>
+              <p className="text-sm leading-snug text-[var(--fg)] group-hover:text-[var(--accent)] transition-colors">
+                {d.localities || `District ${d.number}`}
+              </p>
+              <div className="mt-auto pt-3 flex gap-3 text-[10px] font-mono uppercase tracking-[0.1em] text-[var(--muted)]">
+                <span>{d.tierCounts.Notable} {t.notableUnit}</span>
+                <span>·</span>
+                <span>{d.tierCounts["Second-tier"]} {t.secondTierUnit}</span>
+                <span>·</span>
+                <span>{d.tierCounts["List-filler"]} {t.fillersUnit}</span>
+              </div>
             </Link>
-          ))}
-        </div>
+          </li>
+        ))}
+      </ol>
+
+      <div className="border-t border-border pt-6">
+        <Link
+          href={`${prefix}/districts/all`}
+          className="inline-flex items-center gap-2 text-sm text-muted hover:text-foreground transition-colors"
+        >
+          {t.viewAllCandidates}
+          <span aria-hidden>→</span>
+        </Link>
       </div>
 
-      <p className="font-mono text-[10px] uppercase tracking-[0.2em] text-[var(--muted)]">
-        All candidates
-      </p>
-
-      <MasterComparison
-        candidates={candidates}
-        parties={parties}
-        districts={districtNumbers}
-        lang={lang}
-      />
     </div>
   );
 }
