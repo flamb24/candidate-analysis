@@ -491,6 +491,7 @@ function FilterRow<T extends string | number>({
             >
               {icon}
               {o.label}
+              {active && <X size={11} aria-hidden className="shrink-0 opacity-60" />}
             </button>
           );
         })}
