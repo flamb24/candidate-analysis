@@ -126,7 +126,6 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 |---|---|---|---|---|---|
 | **Ramona Attard** | Labour | S&D | Centre-left | D6 and D8; social policy | Silent |
 | **Omar Farrugia** 🏛️ Gov. | Labour | S&D | Centre-left | Parliamentary Secretary for Public Works; D5 and D6 | Public works; local infrastructure | Silent |
-
 | **Omar Rababah** | Labour | S&D | Centre-left; diversity | First Arab-origin candidate on Labour ticket; D6 and D7; target of racist online abuse; defended by PM Abela and Mario de Marco | Community; diversity; social inclusion | Silent |
 | **Frederick Aquilina** | PN | EPP | Centre-right | Luqa PN minority leader; accountant; contested 2022 | Local government; tax | Silent |
 | **Julian Borg** | PN | EPP | Centre-right | New candidate | Not confirmed | Silent |
@@ -143,7 +142,6 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 |---|---|---|
 | **Ramona Attard** | MP via 52A (2022–); D6 and D8 | ⭐ |
 | **Omar Farrugia** 🏛️ Gov. | Parliamentary Secretary for Public Works (2024–); MP (2022–); D5 and D6 | ⭐⭐ |
-
 | **Omar Rababah** | New candidate 2026; D6 and D7; Arab-Maltese community figure | ⭐ |
 | **Frederick Aquilina** | Luqa PN minority leader; contested 2022; accountant | ⭐⭐ |
 | **Julian Borg** | New candidate | ⭐ |
@@ -168,7 +166,6 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
-
 | **Second-tier** | Omar Farrugia 🏛️ Gov. | Labour | ⭐⭐ | 🟡 | 📡 | ✅ Possible (D5 primary) |
 | **Second-tier** | Ramona Attard | Labour | ⭐ | 🟢 | 📵 | ✅ Possible |
 | **Second-tier** | Omar Rababah | Labour | ⭐ | 🟢 | 📶 | ✅ Possible (new candidate with public attention) |
@@ -182,6 +179,8 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 ---
 
 # TIER 3 — LIST-FILLERS
+
+## T3 — TABLE 5: MASTER SUMMARY (Tier 3)
 
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
