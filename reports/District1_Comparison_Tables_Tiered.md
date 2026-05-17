@@ -237,8 +237,8 @@ Imperium Europa: Eman Alexander Cross
 | Candidate | Prior Office/Role | Key Documented Achievement | Principle vs Delivery Gap | Rating |
 |---|---|---|---|---|
 | **Fleur Abela** | New candidate 2026 | No documented prior record | Information gap | ⭐ |
-| **Josef Bugeja** *(Official ballot name: Joseph Bugeja)* | New candidate 2026 | No documented prior record | Information gap | ⭐ |
-| **John Grech** *(Official ballot name: John-Joseph Grech)* | New candidate 2026 | No documented prior record | Information gap | ⭐ |
+| **Josef Bugeja** | New candidate 2026 | No documented prior record | Information gap | ⭐ |
+| **John Grech** | New candidate 2026 | No documented prior record | Information gap | ⭐ |
 | **Olaf McKay** | Mayor of Valletta (2024–); won 2024 local election by 32 votes over incumbent Alfred Zammit | Elected Mayor of Malta's capital city in June 2024; oversaw capital projects and infrastructure portfolio on Valletta council | Razor-thin mandate; internal Labour council tensions; no parliamentary record | ⭐⭐ |
 | **Nigel Vella** | New candidate 2026 | No documented prior record | Information gap | ⭐ |
 | **Francesca Zarb** | New candidate 2026 | No documented prior record | Information gap | ⭐ |

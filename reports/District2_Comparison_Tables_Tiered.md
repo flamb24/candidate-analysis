@@ -52,9 +52,9 @@ PN: Stephen Spiteri, Bernice Bonello
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
 | **Robert Abela** 🏛️ Gov. | Labour | S&D | Centre-left; social democratic; economic populist | Party leader and PM; his candidacy here is strategic-symbolic | Economic stability; national security; cost of living; "Int Malta" narrative | Silent (2022 abortion medical exception passed on his watch; framed as compromise) |
-| **Byron Camilleri** 🏛️ Gov. | Labour | S&D | Centre-left; socially conservative on immigration | Senior minister; Abela loyalist; Home Affairs since 2020 | Border security; policing; employment; crime reduction | Silent |
+| **Byron Camilleri** 🏛️ Gov. | Labour | S&D | Centre-left; socially conservative on immigration | Senior minister; Abela loyalist; Home Affairs since 2020; contesting D2 and D4 | Border security; policing; employment; crime reduction | Silent |
 | **Stephen Spiteri** | PN | EPP | Centre-right; medical professional | Long-serving incumbent; PN's sole D2 MP since 2008; Shadow Min. Health then Social Policy | Healthcare; social policy; cost of living | **Explicitly pro-life** (spearheaded motion against assisted reproduction leave) |
-| **Bernice Bonello** | PN | EPP | Centre-right; progressive-youth | Gender mechanism MP (2022); Shadow Min. Youth & Local Government | Youth; local government; new open spaces | Silent |
+| **Bernice Bonello** | PN | EPP | Centre-right; progressive-youth | Gender mechanism MP (2022); Shadow Min. Youth & Local Government; contesting D2 and D4 | Youth; local government; new open spaces | Silent |
 
 **Tier 1 notes:** Robert Abela's presence makes D2 technically exceptional — it contains the sitting Prime Minister. This vastly inflates the district's public profile but does not change the structural 4/1 Labour/PN outcome. Bernice Bonello entered via gender mechanism in 2022 and is contesting her first general election as a direct candidate; her electability without the mechanism is uncertain. Stephen Spiteri carries a documented medical certificate controversy that predates his current term.
 
@@ -78,11 +78,14 @@ PN: Stephen Spiteri, Bernice Bonello
 | **Robert Abela** | Planning Authority paid €17,000/month to Abela's family law firm before he became PM | 🔴 High | Conflict of interest | [MaltaToday](https://www.maltatoday.com.mt/news/national/99697/explainer__who_is_maltas_new_prime_minister_robert_abela) · [Newsbook](https://newsbook.com.mt/en/no-place-for-hatred-in-politics-according-to-glenn-bedingfield/) |
 | **Robert Abela** | Accused by PN of knowing in 2021 the Vitals hospitals deal was fraudulent but continuing payments; Muscat subsequently charged criminally | 🔴 High | Governance/accountability | [The Malta Independent — Vitals inquiry](https://www.independent.com.mt/articles/2024-05-27/local-news/PN-leader-accuses-PM-of-withholding-hospitals-inquiry-to-conceal-involvement-6736261469) |
 | **Robert Abela** | Attacked magistrate overseeing Vitals inquiry; described "the establishment" as conspiring against Labour — widely condemned as undermining judicial independence | 🔴 High | Rule of law/institutional | [MaltaToday](https://www.maltatoday.com.mt/news/national/128939/watch_abela_claims_the_establishment_is_using_the_vitals_inquiry_to_disrupt_elections) |
+| **Robert Abela** | Rushed magisterial inquiry reform (early 2025) restricting who can initiate inquiries — widely condemned as protecting Muscat-era associates; PN called it "changing goalposts to save his own skin" | 🔴 High | Rule of law/institutional | [Malta Independent, Jan 2025](https://www.independent.com.mt/articles/2025-01-26/local-news/Robert-Abela-has-revealed-his-true-intentions-on-magisterial-inquiry-reform-PN-6736267435) |
+| **Robert Abela** | April 2026 — Vitals/Steward CEO Armin Ernst sent for trial by Magistrate Lanfranco; Abela continued publicly defending the deal ("fair value"), contradicting court findings of fraud | 🔴 High | Governance/accountability | [The Shift News, Apr 2026](https://theshiftnews.com/2026/04/07/robert-abelas-fair-value/) |
 | **Byron Camilleri** | Malta's immigration policy linked to documented pushbacks and non-assistance at sea; ECHR communication filed by ECCHR and Sea-Watch against Abela and officials including Camilleri for potential crimes against humanity | 🔴 High | Human rights/international law | [Newsbook — migration analysis](https://newsbook.com.mt/en/malta-declares-migration-victory-but-drop-in-arrivals-linked-to-deadly-pushbacks-and-non-assistance-at-sea/) |
 | **Byron Camilleri** | Police raids criticised for racial profiling; 95-year-old woman's home raided by mistake; refused public debate invitation | 🟡 Medium | Policing/accountability | [The Malta Independent — "hiding minister"](https://www.independent.com.mt/articles/2024-10-27/blogs-opinions/The-hiding-minister-6736265192) |
+| **Byron Camilleri** | February 2025: offered resignation after 200kg of confiscated cannabis was stolen from AFM compound in Safi under his ministry's custody; PM Abela refused the resignation; Camilleri absent from parliament during PN's urgent debate on the matter | 🔴 High | Ministerial accountability | [MaltaToday, Feb 2025](https://www.maltatoday.com.mt/news/national/133759/byron_camilleri_offers_resignation_after_drug_heist_at_afm_property) · [Malta Independent, Feb 2025](https://www.independent.com.mt/articles/2025-02-23/local-news/Byron-Camilleri-offers-resignation-suspends-army-brigadier-after-drug-theft-on-AFM-premises-6736268098) |
 | **Stephen Spiteri** | Medical Council inquiry (2018): investigation for issuing sick certificates at €5 without examining patients at Brown's Pharmacy, Kalkara | 🔴 High | Professional misconduct | [MaltaToday](https://www.maltatoday.com.mt/news/national/89935/shadow_health_minister_faces_inquiry_over_bogus_sick_certificates) |
 | **Stephen Spiteri** | Missed 81% of parliamentary sittings in 2011 — worst attendance record of any MP that year | 🟡 Medium | Parliamentary conduct | Times of Malta, 2011 |
-| **Bernice Bonello** | No documented controversy | 🟢 None/Low | — | — |
+| **Bernice Bonello** | 2022: fellow PN candidate Doris Borg publicly alleged the party showed "blatant favouritism" towards Bonello in media exposure during the campaign; a third anonymous PN candidate corroborated the claim; Borg subsequently resigned from the PN; Bonello denied any impropriety | 🟢 Low | Internal party dispute; she was not the perpetrator | [Lovin Malta, Apr 2022](https://lovinmalta.com/news/new-pn-mp-bernice-bonello-calls-for-maturity-and-party-loyalty-after-district-rival-claims-favouritism/) |
 
 ---
 
@@ -90,10 +93,10 @@ PN: Stephen Spiteri, Bernice Bonello
 
 | Candidate | Facebook | Instagram | X / Twitter | Website / Other | Approx. Reach | Campaign Tone | Key Message | Rating |
 |---|---|---|---|---|---|---|---|---|
-| **Robert Abela** 🏛️ Gov. | [Link](https://www.facebook.com/RobertAbelaMT/) | [Link](https://www.instagram.com/robertabela.mt/) | Not confirmed | [primeminister.gov.mt](https://primeminister.gov.mt/about/) | Very high (PM profile) | Statesmanlike; "Int Malta" national narrative | Economic stability; governance track record; national pride | 📢 High |
-| **Byron Camilleri** 🏛️ Gov. | [Link](https://www.facebook.com/DrByronCamilleri/) | [Link](https://www.instagram.com/byroncamilleri/) | Not confirmed | [LinkedIn](https://mt.linkedin.com/in/byron-camilleri-88172674) | Moderate-High | Institutional; security-focused | Crime down; migration controlled; employment strong | 📡 Moderate |
-| **Stephen Spiteri** | Not confirmed | Not confirmed | Not confirmed | Not identified | Low-moderate | Medical/healthcare focus; professional | Healthcare reform; social policy | 📶 Low |
-| **Bernice Bonello** | Not confirmed | Not confirmed | Not confirmed | Not identified | Low | Youth-focused; local government | Youth empowerment; new public spaces | 📶 Low |
+| **Robert Abela** 🏛️ Gov. | [Link](https://www.facebook.com/RobertAbelaMT/) | [Link](https://www.instagram.com/robertabela.mt/) | [Link](https://x.com/RobertAbela_MT) | [primeminister.gov.mt](https://primeminister.gov.mt/about/) | Very high (PM profile) | Statesmanlike; "Int Malta" national narrative | Economic stability; governance track record; national pride | 📢 High |
+| **Byron Camilleri** 🏛️ Gov. | [Link](https://www.facebook.com/DrByronCamilleri/) | [Link](https://www.instagram.com/byroncamilleri/) | Not confirmed | [LinkedIn](https://mt.linkedin.com/in/byron-camilleri-88172674) | Moderate-High | Institutional; security-focused | Crime down; migration controlled; employment strong; contesting D2 and D4 | 📡 Moderate |
+| **Stephen Spiteri** | [Link](https://www.facebook.com/stephen.spiteri.5/) | Not confirmed | Not confirmed | Not identified | Moderate (~16k Facebook) | Medical/healthcare focus; professional | Healthcare reform; social policy | 📶 Low |
+| **Bernice Bonello** | [Link](https://www.facebook.com/bonellobernice/) | Not confirmed | Not confirmed | Not identified | Low (~4k Facebook) | Youth-focused; local government; contesting D2 and D4 | Youth empowerment; new public spaces; affordable living | 📶 Low |
 
 ---
 
@@ -114,8 +117,13 @@ PN: Stephen Spiteri, Bernice Bonello
 *Competitive or possible seat; some documented record; individual public identity.*
 
 **Candidates in this tier (7):**
-Labour: Georvin Bugeja, Clyde Caruana, Clinton-Domenic Azzopardi-Flores, Alison Zerafa Civelli, Glenn Bedingfield, Jesmond Bonello, Amanda Spiteri Grech
-Note: Several of these are high-profile figures contesting D2 despite their primary seats being elsewhere. Clyde Caruana is Finance Minister but his D2 candidacy is secondary (elected on D2 via casual election 2020; re-elected D8 in 2022 — now returns to D2). Bedingfield contested D2 in 2022 and is on the D1 ticket in 2026; see D1 report. This tier reflects the D2-specific list only.
+PN: John Baptist Camilleri, Leone Sciberras
+Labour: Georvin Bugeja, Jorge Grech
+Momentum: Matthew Agius
+ADPD: Mario Mallia
+Aħwa Maltin: Paul Salomone
+
+*Note: The Labour D2 ticket includes 16 candidates, many of whom are prominent figures contesting D2 as a secondary district (Clyde Caruana — D8 primary; Glenn Bedingfield — D1 primary; Alison Zerafa Civelli, Amanda Spiteri Grech, Jesmond Bonello, Clint Azzopardi Flores). All of these appear in Tier 3 (list-fillers) as they have no realistic path to a D2 seat. The second-tier above captures only those with a genuine D2 identity or profile.*
 
 ---
 
@@ -197,7 +205,7 @@ Note: Several of these are high-profile figures contesting D2 despite their prim
 *Negligible electability; minimal or no public profile; exist primarily to broaden the ticket.*
 
 **Candidates in this tier (12):**
-Labour: Carmelo Abela, Glenn Bedingfield, Clinton-Domenic Azzopardi-Flores, Jesmond Bonello, Martina Paula Buhagiar, Clyde Caruana, Edward Cassar Delia, James Grech, Amanda Spiteri Grech, Shana Woods, Roderick Zerafa, Alison Zerafa Civelli
+Labour: Carmelo Abela, Glenn Bedingfield, Clint Azzopardi Flores, Jesmond Bonello, Martina Paula Buhagiar, Clyde Caruana, Edward Cassar Delia, James Grech, Amanda Spiteri Grech, Shana Woods, Roderick Zerafa, Alison Zerafa Civelli
 
 *Note: Several Labour figures here (Clyde Caruana — Finance Minister; Carmelo Abela; Alison Zerafa Civelli; Amanda Spiteri Grech) are prominent in their own districts but appear on the D2 list only in a supporting role. Caruana is Finance Minister but primarily contested D8 in 2022; his D2 appearance here is secondary. Carmelo Abela is contesting D3 as his primary. They are listed here because the D2 list is extremely long (16 Labour candidates) and these candidates have no realistic path to a D2 seat.*
 
@@ -209,7 +217,7 @@ Labour: Carmelo Abela, Glenn Bedingfield, Clinton-Domenic Azzopardi-Flores, Jesm
 |---|---|---|---|---|---|---|
 | **Carmelo Abela** | Labour | S&D | Centre-left; old-guard | Former minister; contesting D3 primarily | Social policy; agriculture | Silent |
 | **Glenn Bedingfield** | Labour | S&D | Centre-left | D1 and D2 | Not confirmed | Silent |
-| **Clinton-Domenic Azzopardi-Flores** | Labour | S&D | Centre-left | D2 supplementary listing | Not confirmed | Silent |
+| **Clint Azzopardi Flores** *(Official ballot name: Clinton-Domenic Azzopardi-Flores)* | Labour | S&D | Centre-left | D2 supplementary listing | Not confirmed | Silent |
 | **Jesmond Bonello** | Labour | S&D | Centre-left | D2 and D8 | Not confirmed | Silent |
 | **Martina Paula Buhagiar** | Labour | S&D | Centre-left | New candidate; D2 and D3 | Not confirmed | Silent |
 | **Clyde Caruana** 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Finance Minister; primarily D8; D2 supplementary listing | Economy; finance; fiscal policy | Silent |
@@ -218,7 +226,7 @@ Labour: Carmelo Abela, Glenn Bedingfield, Clinton-Domenic Azzopardi-Flores, Jesm
 | **Amanda Spiteri Grech** | Labour | S&D | Centre-left | Gender mechanism MP (2022) D4; D2 supplementary | Social affairs | Silent |
 | **Shana Woods** | Labour | S&D | Centre-left | New candidate | Not confirmed | Silent |
 | **Roderick Zerafa** | Labour | S&D | Centre-left | D2 and D5 | Not confirmed | Silent |
-| **Alison Zerafa Civelli** | Labour | S&D | Centre-left | Sister-in-law of PM Abela; Bormla Mayor; gender mechanism MP (2022) | Local community; Cottonera | Silent |
+| **Alison Zerafa Civelli** 🏛️ Gov. | Labour | S&D | Centre-left | Parliamentary Secretary for Local Government (2022–); former Mayor of Cospicua (2013–22); PM Abela's sister-in-law | Local government; Cottonera community | Silent |
 
 ---
 
@@ -229,9 +237,9 @@ Labour: Carmelo Abela, Glenn Bedingfield, Clinton-Domenic Azzopardi-Flores, Jesm
 | **Carmelo Abela** | Former minister (multiple portfolios); MP since 2008; contesting D3 primarily | Long Labour service; former Agriculture, Home Affairs minister; contesting primarily D3 | Primarily a D3 figure | ⭐⭐⭐ (as D3 — see D3 report) |
 | **Glenn Bedingfield** | D1 and D2 candidate 2026 | No documented record for D2 | D1 primary | ⭐ |
 | **Clyde Caruana** 🏛️ Gov. | Finance Minister (2020–); chief of staff (2020); Mayor of Żabbar (2006–09) | Managed Malta's energy subsidies (€320m/yr); maintained A+ credit rating (Scope Ratings 2026); authored GDP-to-debt strategy | Contested D2 via casual election 2020; re-elected D8 in 2022; now back on D2 supplementary list | ⭐⭐⭐⭐ (as Finance Minister — see D8 report) |
-| **Alison Zerafa Civelli** | MP via 52A gender mechanism (2022–); Bormla Mayor | PM Abela's sister-in-law; Cottonera community figure; Bormla electoral presence | Family connection to PM raises patronage optics | ⭐⭐ |
+| **Alison Zerafa Civelli** 🏛️ Gov. | Parliamentary Secretary for Local Government (2022–); MP via 52A gender mechanism (2022–); Mayor of Cospicua (2013–22) | Cottonera community figure; long-serving mayor of Cospicua; role as Parliamentary Secretary for Local Government gives her a national portfolio | Family connection to PM raises patronage optics; "ashamed of Valletta" parliamentary remark (2022) triggered public backlash | ⭐⭐ |
 | **Amanda Spiteri Grech** | MP via 52A gender mechanism (2022–); D4 | Gender mechanism MP | D4 figure; D2 is supplementary | ⭐ |
-| **Clinton-Domenic Azzopardi-Flores** | New candidate 2026 | No prior record | Information gap | ⭐ |
+| **Clint Azzopardi Flores** | New candidate 2026 | No prior record | Information gap | ⭐ |
 | **Jesmond Bonello** | New candidate 2026; D2 and D8 | No prior record confirmed | Information gap | ⭐ |
 | **Martina Paula Buhagiar** | New candidate 2026 | No prior record | Information gap | ⭐ |
 | **Edward Cassar Delia** | New candidate 2026 | No prior record confirmed | Information gap | ⭐ |
@@ -245,8 +253,10 @@ Labour: Carmelo Abela, Glenn Bedingfield, Clinton-Domenic Azzopardi-Flores, Jesm
 
 | Candidate | Controversy | Severity | Nature | Source |
 |---|---|---|---|---|
-| **Alison Zerafa Civelli** | Sister-in-law of PM Abela; family political patronage dynamic | 🟡 Medium | Nepotism optics | Multiple sources |
-| **All others** | No documented controversy | 🟢 None/Low | — | — |
+| **Alison Zerafa Civelli** 🏛️ Gov. | Sister-in-law of PM Abela; family political patronage dynamic — appointed to four government boards before becoming MP; public concern over nepotism optics | 🟡 Medium | Nepotism optics | Multiple sources |
+| **Alison Zerafa Civelli** 🏛️ Gov. | 2022 parliamentary speech in which she stated Valletta residents used to be "ashamed" of their city; triggered backlash from residents, PN MP Darren Carabott, and Residenti Beltin; she posted a clarification but did not retract | 🟡 Medium | Parliamentary conduct; reputational | [MaltaToday, Jul 2022](https://www.maltatoday.com.mt/news/national/117691/zerafa_civelli_faces_backlash_over_valletta_remark_deemed_offensive_by_residents) · [Lovin Malta, Jul 2022](https://lovinmalta.com/news/after-valletta-bormla-remark-alison-zerafa-civelli-clarifies-she-was-referring-to-untapped-potential/) |
+| **Glenn Bedingfield** | 🔴 High controversies documented — see D1 report (D1 is his primary district). Includes: blog targeting Daphne Caruana Galizia; Guardian comment after assassination; FOI refusal at CMD; patronage allegations | 🔴 High | See D1 report | [D1 report — T1 Table 3] |
+| **All other list-fillers** | No documented controversy | 🟢 None/Low | — | — |
 
 ---
 
@@ -254,10 +264,10 @@ Labour: Carmelo Abela, Glenn Bedingfield, Clinton-Domenic Azzopardi-Flores, Jesm
 
 | Candidate | Facebook | Instagram | X / Twitter | Website / Other | Rating |
 |---|---|---|---|---|---|
-| **Carmelo Abela** | Not confirmed | Not confirmed | Not confirmed | Not identified | 📶 Low |
-| **Glenn Bedingfield** | Not identified | Not identified | Not identified | Not identified | 📵 None |
-| **Clyde Caruana** 🏛️ Gov. | Not confirmed | Not confirmed | Not confirmed | Not identified | 📡 Moderate (ministerial) |
-| **Alison Zerafa Civelli** | Not confirmed | Not confirmed | Not confirmed | Not identified | 📶 Low |
+| **Carmelo Abela** | [Link](https://www.facebook.com/carmeloabelaofficial/) | Not confirmed | Not confirmed | Not identified | 📶 Low |
+| **Glenn Bedingfield** 🏛️ Gov. | [Link](https://www.facebook.com/bedingfieldg/) | Not confirmed | Not confirmed | [glennbedingfield.mt](https://glennbedingfield.mt) | 📡 Moderate (see D1 report) |
+| **Clyde Caruana** 🏛️ Gov. | [Link](https://www.facebook.com/clyde.caruana.finance/) | Not confirmed | Not confirmed | Not identified | 📡 Moderate (ministerial) |
+| **Alison Zerafa Civelli** 🏛️ Gov. | [Link](https://www.facebook.com/zerafacivellialison/) | Not confirmed | Not confirmed | Not identified | 📶 Low |
 | **All remaining** | Not identified | Not identified | Not identified | Not identified | 📵 None |
 
 ---
@@ -267,11 +277,11 @@ Labour: Carmelo Abela, Glenn Bedingfield, Clinton-Domenic Azzopardi-Flores, Jesm
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
 | **List-filler** | Carmelo Abela | Labour | ⭐⭐⭐ | 🟢 | 📶 | ✗ (D3 primary) |
-| **List-filler** | Glenn Bedingfield | Labour | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | Glenn Bedingfield 🏛️ Gov. | Labour | ⭐⭐ | 🔴 | 📡 | ✗ (D1 primary; see D1 report) |
 | **List-filler** | Clyde Caruana 🏛️ Gov. | Labour | ⭐⭐⭐⭐ | 🟢 | 📡 | ✗ (D8 primary) |
-| **List-filler** | Alison Zerafa Civelli | Labour | ⭐⭐ | 🟡 | 📶 | ✗ |
+| **List-filler** | Alison Zerafa Civelli 🏛️ Gov. | Labour | ⭐⭐ | 🟡 | 📶 | ✗ |
 | **List-filler** | Amanda Spiteri Grech | Labour | ⭐ | 🟢 | 📵 | ✗ (D4 primary) |
-| **List-filler** | Clinton-Domenic Azzopardi-Flores | Labour | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | Clint Azzopardi Flores | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Jesmond Bonello | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Martina Paula Buhagiar | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Edward Cassar Delia | Labour | ⭐ | 🟢 | 📵 | ✗ |
@@ -331,11 +341,11 @@ Labour: Carmelo Abela, Glenn Bedingfield, Clinton-Domenic Azzopardi-Flores, Jesm
 | **Second-tier** | Mario Mallia | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
 | **Second-tier** | Paul Salomone | Aħwa Maltin | ⭐ | 🟡 | 📶 | ✗ |
 | **List-filler** | Carmelo Abela | Labour | ⭐⭐⭐ | 🟢 | 📶 | ✗ (D3 primary) |
-| **List-filler** | Glenn Bedingfield | Labour | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | Glenn Bedingfield 🏛️ Gov. | Labour | ⭐⭐ | 🔴 | 📡 | ✗ (D1 primary; see D1 report) |
 | **List-filler** | Clyde Caruana 🏛️ Gov. | Labour | ⭐⭐⭐⭐ | 🟢 | 📡 | ✗ (D8 primary) |
-| **List-filler** | Alison Zerafa Civelli | Labour | ⭐⭐ | 🟡 | 📶 | ✗ |
+| **List-filler** | Alison Zerafa Civelli 🏛️ Gov. | Labour | ⭐⭐ | 🟡 | 📶 | ✗ |
 | **List-filler** | Amanda Spiteri Grech | Labour | ⭐ | 🟢 | 📵 | ✗ (D4 primary) |
-| **List-filler** | Clinton-Domenic Azzopardi-Flores | Labour | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | Clint Azzopardi Flores | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Jesmond Bonello | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Martina Paula Buhagiar | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Edward Cassar Delia | Labour | ⭐ | 🟢 | 📵 | ✗ |
@@ -349,24 +359,24 @@ Labour: Carmelo Abela, Glenn Bedingfield, Clinton-Domenic Azzopardi-Flores, Jesm
 
 | Candidate | Party | Tier | Facebook | Instagram | X / Twitter | Website / Other |
 |---|---|---|---|---|---|---|
-| **Robert Abela** 🏛️ Gov. | Labour | Notable | [Link](https://www.facebook.com/RobertAbelaMT/) | [Link](https://www.instagram.com/robertabela.mt/) | Not confirmed | [primeminister.gov.mt](https://primeminister.gov.mt/) |
+| **Robert Abela** 🏛️ Gov. | Labour | Notable | [Link](https://www.facebook.com/RobertAbelaMT/) | [Link](https://www.instagram.com/robertabela.mt/) | [Link](https://x.com/RobertAbela_MT) | [primeminister.gov.mt](https://primeminister.gov.mt/) |
 | **Byron Camilleri** 🏛️ Gov. | Labour | Notable | [Link](https://www.facebook.com/DrByronCamilleri/) | [Link](https://www.instagram.com/byroncamilleri/) | Not confirmed | [LinkedIn](https://mt.linkedin.com/in/byron-camilleri-88172674) |
 | **Georvin Bugeja** | Labour | Second-tier | Not identified | Not identified | Not identified | Not identified |
 | **Jorge Grech** | Labour | Second-tier | Not identified | Not identified | Not identified | Not identified |
-| **Carmelo Abela** | Labour | List-filler | Not confirmed | Not confirmed | Not confirmed | Not identified |
-| **Glenn Bedingfield** | Labour | List-filler | Not identified | Not identified | Not identified | Not identified |
-| **Clyde Caruana** 🏛️ Gov. | Labour | List-filler | Not confirmed | Not confirmed | Not confirmed | Not identified |
-| **Alison Zerafa Civelli** | Labour | List-filler | Not confirmed | Not confirmed | Not confirmed | Not identified |
+| **Carmelo Abela** | Labour | List-filler | [Link](https://www.facebook.com/carmeloabelaofficial/) | Not confirmed | Not confirmed | Not identified |
+| **Glenn Bedingfield** 🏛️ Gov. | Labour | List-filler | [Link](https://www.facebook.com/bedingfieldg/) | Not confirmed | Not confirmed | [glennbedingfield.mt](https://glennbedingfield.mt) |
+| **Clyde Caruana** 🏛️ Gov. | Labour | List-filler | [Link](https://www.facebook.com/clyde.caruana.finance/) | Not confirmed | Not confirmed | Not identified |
+| **Alison Zerafa Civelli** 🏛️ Gov. | Labour | List-filler | [Link](https://www.facebook.com/zerafacivellialison/) | Not confirmed | Not confirmed | Not identified |
 | **Amanda Spiteri Grech** | Labour | List-filler | Not confirmed | Not confirmed | Not confirmed | Not identified |
-| **Clinton-Domenic Azzopardi-Flores** | Labour | List-filler | Not identified | Not identified | Not identified | Not identified |
+| **Clint Azzopardi Flores** | Labour | List-filler | Not identified | Not identified | Not identified | Not identified |
 | **Jesmond Bonello** | Labour | List-filler | Not identified | Not identified | Not identified | Not identified |
 | **Martina Paula Buhagiar** | Labour | List-filler | Not identified | Not identified | Not identified | Not identified |
 | **Edward Cassar Delia** | Labour | List-filler | Not identified | Not identified | Not identified | Not identified |
 | **James Grech** | Labour | List-filler | Not identified | Not identified | Not identified | Not identified |
 | **Shana Woods** | Labour | List-filler | Not identified | Not identified | Not identified | Not identified |
 | **Roderick Zerafa** | Labour | List-filler | Not identified | Not identified | Not identified | Not identified |
-| **Stephen Spiteri** | PN | Notable | Not confirmed | Not confirmed | Not confirmed | Not identified |
-| **Bernice Bonello** | PN | Notable | Not confirmed | Not confirmed | Not confirmed | Not identified |
+| **Stephen Spiteri** | PN | Notable | [Link](https://www.facebook.com/stephen.spiteri.5/) | Not confirmed | Not confirmed | Not identified |
+| **Bernice Bonello** | PN | Notable | [Link](https://www.facebook.com/bonellobernice/) | Not confirmed | Not confirmed | Not identified |
 | **John Baptist Camilleri** | PN | Second-tier | Not confirmed | Not confirmed | Not confirmed | Not identified |
 | **Leone Sciberras** | PN | Second-tier | Not confirmed | Not confirmed | Not confirmed | Not identified |
 | **Matthew Agius** | Momentum | Second-tier | Not confirmed | Not confirmed | Not confirmed | Not identified |
@@ -377,6 +387,6 @@ Labour: Carmelo Abela, Glenn Bedingfield, Clinton-Domenic Azzopardi-Flores, Jesm
 
 ---
 
-*Tables compiled 16 May 2026. Data sourced from Malta Independent full nominations list (12 May 2026), MaltaToday, Newsbook, The Shift News, Lovin Malta, parliamentary records, Wikipedia, and official government sources. Electability assessments are editorial judgements — not predictions. District 2 historical vote share: Labour ~65–70%, PN ~28–32% (2013–2022). Expected seat split: 4 Labour / 1 PN. Robert Abela contests D2 and D5 simultaneously — if elected on both, must vacate one seat triggering a casual election. Glenn Bedingfield (Labour) also contests D1.*
+*Tables compiled 16 May 2026. Deep research verification applied 17 May 2026. Data sourced from Malta Independent full nominations list (12 May 2026), MaltaToday, Newsbook, The Shift News, Lovin Malta, parliamentary records, Wikipedia, and official government sources. Electability assessments are editorial judgements — not predictions. District 2 historical vote share: Labour ~65–70%, PN ~28–32% (2013–2022). Expected seat split: 4 Labour / 1 PN. Robert Abela contests D2 and D5 simultaneously — if elected on both, must vacate one seat triggering a casual election. Byron Camilleri contests D2 and D4. Bernice Bonello contests D2 and D4. Glenn Bedingfield (Labour) also contests D1.*
 
 ---
