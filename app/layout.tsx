@@ -53,13 +53,15 @@ export default function RootLayout({
       className={`${literata.variable} h-full antialiased`}
       suppressHydrationWarning
     >
-      <body className="min-h-full flex flex-col bg-background text-foreground">
+      <head>
         {/* High-vis preference: runs before hydration to avoid flash */}
         <script dangerouslySetInnerHTML={{ __html: `try{if(localStorage.getItem('hv')==='1')document.documentElement.classList.add('hv')}catch(e){}` }} />
         {/* Set correct lang attribute for Maltese routes */}
         <script dangerouslySetInnerHTML={{ __html: `try{if(location.pathname.startsWith('/mt'))document.documentElement.lang='mt'}catch(e){}` }} />
         {/* Language preference: auto-redirect to /mt if user previously chose Maltese */}
         <script dangerouslySetInnerHTML={{ __html: `try{if(localStorage.getItem('lang')==='mt'&&!location.pathname.startsWith('/mt'))location.replace('/mt'+location.pathname)}catch(e){}` }} />
+      </head>
+      <body className="min-h-full flex flex-col bg-background text-foreground">
         <ScrollReset />
         <SiteHeader />
         <main className="w-full flex-1">

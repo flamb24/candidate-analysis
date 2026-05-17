@@ -91,6 +91,9 @@ export default function MasterComparison({
   const strings = getT(lang);
   const prefix = lang === "mt" ? "/mt" : "";
 
+  // Scoped storage key: per-district so switching districts resets filters
+  const storageKey = `distrett-filters:${districts ? [...districts].sort().join(",") : "all"}`;
+
   const [selectedParties, setSelectedParties] = useState<Set<string>>(new Set(parties));
   const [selectedTiers, setSelectedTiers] = useState<Set<Tier>>(new Set(TIER_ORDER));
   const [selectedDistricts, setSelectedDistricts] = useState<Set<number>>(new Set(districts ?? []));
@@ -106,7 +109,7 @@ export default function MasterComparison({
   // Restore filter state from sessionStorage on mount
   useEffect(() => {
     try {
-      const saved = sessionStorage.getItem("distrett-filters");
+      const saved = sessionStorage.getItem(storageKey);
       if (!saved) return;
       const f = JSON.parse(saved) as Record<string, unknown>;
       if (Array.isArray(f.parties))
@@ -130,7 +133,7 @@ export default function MasterComparison({
   // Persist filter state to sessionStorage whenever it changes
   useEffect(() => {
     try {
-      sessionStorage.setItem("distrett-filters", JSON.stringify({
+      sessionStorage.setItem(storageKey, JSON.stringify({
         parties: [...selectedParties],
         tiers: [...selectedTiers],
         districts: [...selectedDistricts],

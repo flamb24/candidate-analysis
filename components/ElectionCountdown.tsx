@@ -27,16 +27,21 @@ function getRemaining() {
 }
 
 export default function ElectionCountdown() {
-  const [phase, setPhase]         = useState<Phase>(getPhase);
-  const [remaining, setRemaining] = useState(getRemaining);
+  // Initialise as null so server renders nothing — avoids SSR/client Date.now() mismatch
+  const [phase, setPhase]         = useState<Phase | null>(null);
+  const [remaining, setRemaining] = useState<ReturnType<typeof getRemaining>>(null);
 
   useEffect(() => {
+    setPhase(getPhase());
+    setRemaining(getRemaining());
     const id = setInterval(() => {
       setPhase(getPhase());
       setRemaining(getRemaining());
     }, 1000);
     return () => clearInterval(id);
   }, []);
+
+  if (!phase) return null;
 
   if (phase === "open") {
     return (
