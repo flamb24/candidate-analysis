@@ -91,6 +91,7 @@ PN: Alex Borg, Beppe Galea, Luke Said, Norma Camilleri
 | **Anton Refalo** 🏛️ Gov. | L-Eremita hotel: wife received €270,000 in EU funds (80% of costs) for "yoga-meditation" hotel built mostly illegally on ODZ land in Qala; Brussels investigating; illegal car park bulldozed without permits; Planning Authority took no action despite evidence | 🔴 High | EU funds misuse; illegal ODZ development | [The Shift News, Jun 2023](https://theshiftnews.com/2023/06/17/anton-refalo-and-wife-get-e270000-in-eu-funding-for-their-yoga-meditation-hotel/) |
 | **Anton Refalo** 🏛️ Gov. | April 2026: Italian La Stampa linked his Qala villa to a hideout used by Sicilian mafia boss Toto Riina; Refalo contradicted himself (first said he bought it, then denied owning it); told reporter "mind your own business" | 🟡 Medium | Credibility; unproven link | [MaltaToday, Apr 2026](https://www.maltatoday.com.mt/news/national/140754/italian_report_links_anton_refalos_gozo_villa_to_former_salvatore_toto_riina_hideout) |
 | **Alex Borg** | AI-manipulated image showing him smoking cannabis circulated — not his conduct; endorsed Trump (see D12 report) | 🟢 None/Low (victim of disinformation) | Wikipedia |
+| **Alex Borg** | May 2026: launched campaign at maritime school without press access, no journalist Q&A — "camera-shy" coverage (MaltaToday) | 🟢 Low | Campaign conduct | [D12 report — T1 Table 3] |
 | **Beppe Galea** | No documented controversy | 🟢 None/Low | — |
 | **Luke Said** | No documented controversy | 🟢 None/Low | — |
 | **Norma Camilleri** | No documented controversy | 🟢 None/Low | — |
@@ -116,7 +117,7 @@ PN: Alex Borg, Beppe Galea, Luke Said, Norma Camilleri
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
 | **Notable** | Clint Camilleri 🏛️ Gov. | Labour | ⭐⭐⭐ | 🟡 | 📡 | ✅✅✅ Near-certain |
-| **Notable** | Alex Borg | PN | ⭐⭐ | 🟢 | 📢 | ✅✅✅ Near-certain (PN leader) |
+| **Notable** | Alex Borg | PN | ⭐⭐ | 🟡 | 📢 | ✅✅✅ Near-certain (PN leader) |
 | **Notable** | Anton Refalo 🏛️ Gov. | Labour | ⭐⭐ | 🔴 | 📡 | ✅✅ Likely |
 | **Notable** | Jo Etienne Abela 🏛️ Gov. | Labour | ⭐⭐ | 🟡 | 📡 | ✅✅ Likely (D10 primary) |
 | **Notable** | Beppe Galea | PN | ⭐ | 🟢 | 📶 | ✅ Competitive |
@@ -181,7 +182,7 @@ Labour: Abigail Camilleri, George Paul Camilleri
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
 | **Notable** | Clint Camilleri 🏛️ Gov. | Labour | ⭐⭐⭐ | 🟡 | 📡 | ✅✅✅ Near-certain |
-| **Notable** | Alex Borg | PN | ⭐⭐ | 🟢 | 📢 | ✅✅✅ Near-certain |
+| **Notable** | Alex Borg | PN | ⭐⭐ | 🟡 | 📢 | ✅✅✅ Near-certain |
 | **Notable** | Anton Refalo 🏛️ Gov. | Labour | ⭐⭐ | 🔴 | 📡 | ✅✅ Likely |
 | **Notable** | Jo Etienne Abela 🏛️ Gov. | Labour | ⭐⭐ | 🟡 | 📡 | ✅✅ Likely |
 | **Notable** | Beppe Galea | PN | ⭐ | 🟢 | 📶 | ✅ Competitive |
