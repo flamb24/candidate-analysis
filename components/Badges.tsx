@@ -125,7 +125,7 @@ const CONFLICT_STYLES: Record<ConflictSeverity, { label: string; cls: string }> 
   Low:     { label: "Low",     cls: "text-emerald-700 dark:text-emerald-400" },
   Medium:  { label: "Medium",  cls: "text-amber-700 dark:text-amber-400" },
   High:    { label: "High",    cls: "text-red-700 dark:text-red-400" },
-  Unknown: { label: "—",       cls: "text-zinc-400 dark:text-zinc-600" },
+  Unknown: { label: "Unknown", cls: "text-zinc-400 dark:text-zinc-600" },
 };
 
 export function ConflictBadge({ severity }: { severity: ConflictSeverity }) {
@@ -146,7 +146,7 @@ const TRANSPARENCY_STYLES: Record<TransparencyRating, { label: string; cls: stri
   Full:    { label: "Full",    cls: "text-emerald-700 dark:text-emerald-400" },
   Partial: { label: "Partial", cls: "text-amber-700 dark:text-amber-400" },
   Poor:    { label: "Poor",    cls: "text-red-700 dark:text-red-400" },
-  Unknown: { label: "—",       cls: "text-zinc-400 dark:text-zinc-600" },
+  Unknown: { label: "Unknown", cls: "text-zinc-400 dark:text-zinc-600" },
 };
 
 export function TransparencyBadge({ rating }: { rating: TransparencyRating }) {

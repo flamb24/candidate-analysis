@@ -119,8 +119,8 @@ const en = {
   cardTrackRecord:  "Track record",
   cardControversy:  "Controversy",
   cardSocialMedia:  "Social media",
-  cardConflict:     "Conflict",
-  cardTransparency: "Transparency",
+  cardConflict:     "Conflict of interest",
+  cardTransparency: "Financial transparency",
 
   // ── Business interests section ────────────────────────────────────────
   businessInterestsSection: "Business interests & transparency",
@@ -260,8 +260,8 @@ const mt: typeof en = {
   cardTrackRecord:  "Rekord",
   cardControversy:  "Kontroversja",
   cardSocialMedia:  "Midja Soċjali",
-  cardConflict:     "Kunflitt",
-  cardTransparency: "Trasparenza",
+  cardConflict:     "Kunflitt ta' interess",
+  cardTransparency: "Trasparenza finanzjarja",
 
   // ── Business interests section ────────────────────────────────────────
   businessInterestsSection: "Interessi kummerċjali u trasparenza",
