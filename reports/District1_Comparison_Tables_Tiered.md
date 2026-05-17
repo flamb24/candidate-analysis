@@ -50,7 +50,7 @@ PN: Darren Carabott, Paula Mifsud Bonnici, Alex Perici Calascione
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
 | **Keith Azzopardi Tanti** 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Abela mainstream; strong D1 vote-getter | Youth policy; research & innovation; digital economy | Silent |
-| **Deo Debattista** | Labour | S&D | Old-guard centre-left | Long-tenured backbencher; Muscat-era MP now on Abela ticket | Local constituency; social services; housing | Silent |
+| **Deo Debattista** *(Official ballot name: Jude-Taddeo Debattista)* | Labour | S&D | Old-guard centre-left | Long-tenured backbencher; Muscat-era MP now on Abela ticket | Local constituency; social services; housing | Silent |
 | **Glenn Bedingfield** 🏛️ Gov. | Labour | S&D | Loyalist centre-left | Parliamentary Secretary for Public Cleanliness (Jan 2024–); former Government Whip; Muscat-era enforcer now under Abela | Public cleanliness; environmental maintenance; institutional affairs | Silent |
 | **Darren Carabott** | PN | EPP | Centre-right; rule-of-law focus | Rising star; PAC chair; favoured for future leadership | Home affairs; police accountability; public accounts scrutiny | Silent |
 | **Paula Mifsud Bonnici** | PN | EPP | Centre-right; traditional conservative | Deputy whip; Mifsud Bonnici dynasty; active-ageing portfolio | Active ageing; elderly care; social affairs | **Explicitly pro-life** |
@@ -124,7 +124,7 @@ PN: Darren Carabott, Paula Mifsud Bonnici, Alex Perici Calascione
 Labour: Cressida Galea, Davina Sammut Hili, Yana Borg Debono Grech
 PN: Justin Schembri, James Aaron Ellul, Antonello Cuschieri
 Momentum: Billy McBee
-ADPD: Mark-Anthony Zerafa
+ADPD: Mark Zerafa
 
 ---
 
@@ -139,7 +139,7 @@ ADPD: Mark-Anthony Zerafa
 | **James Aaron Ellul** | PN | EPP | Centre-right; community/heritage focused | Deputy Mayor of Floriana (2024–); former PN Communications Director (2023–24); Floriana councillor since 2015 | Floriana regeneration; local governance; heritage | Silent |
 | **Antonello Cuschieri** | PN | EPP | Centre-right | New face; limited public profile | Not confirmed | Silent |
 | **Billy McBee** | Momentum | EDP | Centrist-green; community-first | Founder of Residenti Beltin; Valletta community activist | Overdevelopment; Valletta residents' rights; tourism management; heritage | Pro-choice (party position) |
-| **Mark-Anthony Zerafa** | ADPD | EGP | Left-wing green | ADPD candidate D1 and D9 | Environment; planning; proportional representation | Pro-choice (party position) |
+| **Mark Zerafa** *(Official ballot name: Mark Anthony Zerafa)* | ADPD | EGP | Left-wing green | ADPD candidate D1 and D9 | Environment; planning; proportional representation | Pro-choice (party position) |
 
 ---
 
@@ -154,7 +154,7 @@ ADPD: Mark-Anthony Zerafa
 | **James Aaron Ellul** | Deputy Mayor of Floriana (2024–); PN Floriana Local Councillor (2015–); PN Director of Communications (Apr 2023–Sep 2024); journalist and writer | Youngest ever Floriana councillor (elected age 19, 2015); re-elected 2019 with 88% of PN vote; produced Floriana Regeneration Plan (2025) adopted unanimously by council; as PN Comms Director oversaw reduction of PN/PL vote gap from 40k to under 10k in 2024 EP elections | All local/party level; no parliamentary record; Floriana-focused platform may not transfer to broader D1 vote | ⭐⭐ |
 | **Antonello Cuschieri** | Former PN minority leader, Ħamrun Local Council; lawyer (42) | PN minority leader on Ħamrun Local Council; led PN objections to planning application in Pjazza San Pawl (2015–16); first-time parliamentary candidate | No parliamentary record; local council activity only | ⭐⭐ |
 | **Billy McBee** | Founder, Residenti Beltin (Valletta residents' group) | Founded and leads Residenti Beltin, the most prominent Valletta residents' advocacy organisation; raised UNESCO conservation concerns; documented campaign on public space, over-tourism, parking and heritage | Not an elected official; advocacy record is external/community; no institutional delivery | ⭐⭐⭐ |
-| **Mark-Anthony Zerafa** | ADPD candidate; no prior elected office | ADPD activist; Green party representative for D1 and D9 | No elected record | ⭐ |
+| **Mark Zerafa** | ADPD candidate; no prior elected office | ADPD activist; Green party representative for D1 and D9 | No elected record | ⭐ |
 
 ---
 
@@ -170,7 +170,7 @@ ADPD: Mark-Anthony Zerafa
 | **James Aaron Ellul** | No documented controversy | 🟢 None/Low | — | — |
 | **Antonello Cuschieri** | No documented controversy | 🟢 None/Low | — | — |
 | **Billy McBee** | No documented controversy | 🟢 None/Low | — | — |
-| **Mark-Anthony Zerafa** | No documented controversy | 🟢 None/Low | — | — |
+| **Mark Zerafa** | No documented controversy | 🟢 None/Low | — | — |
 
 ---
 
@@ -185,7 +185,7 @@ ADPD: Mark-Anthony Zerafa
 | **James Aaron Ellul** | Not confirmed (active on Facebook per references) | Not identified | Not identified | Not identified | Low | Community/heritage; Floriana-focused | Floriana regeneration; local governance | 📶 Low |
 | **Antonello Cuschieri** | Not identified | Not identified | Not identified | Not identified | Not identified | Not confirmed | Not confirmed | 📵 None |
 | **Billy McBee** | Not confirmed | Not confirmed | Not confirmed | [ResidentiBeltin](https://www.facebook.com/ResidentiBeltin/) (group page) | Moderate (community-driven) | Community-activist; heritage/over-tourism focus | Valletta for residents, not just tourists; UNESCO accountability; contesting D1 and D6 | 📡 Moderate |
-| **Mark-Anthony Zerafa** | Not confirmed | Not confirmed | Not confirmed | Not identified | Low | Green/environmental | Planning reform; proportional representation | 📶 Low |
+| **Mark Zerafa** | Not confirmed | Not confirmed | Not confirmed | Not identified | Low | Green/environmental | Planning reform; proportional representation | 📶 Low |
 
 ---
 
@@ -200,7 +200,7 @@ ADPD: Mark-Anthony Zerafa
 | **Second-tier** | Yana Borg Debono Grech | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | James Aaron Ellul | PN | ⭐⭐ | 🟢 | 📶 | ✗ Unlikely |
 | **Second-tier** | Antonello Cuschieri | PN | ⭐⭐ | 🟢 | 📵 | ✗ Unlikely |
-| **Second-tier** | Mark-Anthony Zerafa | ADPD | ⭐ | 🟢 | 📶 | ✗ Structural ceiling |
+| **Second-tier** | Mark Zerafa | ADPD | ⭐ | 🟢 | 📶 | ✗ Structural ceiling |
 
 ---
 
@@ -347,7 +347,7 @@ Imperium Europa: Eman Alexander Cross
 | **Second-tier** | Yana Borg Debono Grech | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | James Aaron Ellul | PN | ⭐⭐ | 🟢 | 📶 | ✗ Unlikely |
 | **Second-tier** | Antonello Cuschieri | PN | ⭐⭐ | 🟢 | 📵 | ✗ Unlikely |
-| **Second-tier** | Mark-Anthony Zerafa | ADPD | ⭐ | 🟢 | 📶 | ✗ Structural ceiling |
+| **Second-tier** | Mark Zerafa | ADPD | ⭐ | 🟢 | 📶 | ✗ Structural ceiling |
 | **List-filler** | Fleur Abela | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Josef Bugeja | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | John Grech | Labour | ⭐ | 🟢 | 📵 | ✗ |
@@ -383,7 +383,7 @@ Imperium Europa: Eman Alexander Cross
 | **James Aaron Ellul** | PN | Second-tier | Not confirmed | Not identified | Not identified | Not identified |
 | **Antonello Cuschieri** | PN | Second-tier | Not identified | Not identified | Not identified | Not identified |
 | **Billy McBee** | Momentum | Second-tier | Not confirmed | Not confirmed | Not confirmed | [ResidentiBeltin FB group](https://www.facebook.com/ResidentiBeltin/) |
-| **Mark-Anthony Zerafa** | ADPD | Second-tier | Not confirmed | Not confirmed | Not confirmed | Not identified |
+| **Mark Zerafa** | ADPD | Second-tier | Not confirmed | Not confirmed | Not confirmed | Not identified |
 | **Giuseppe Aquilina** | Aħwa Maltin | List-filler | Not identified | Not identified | Not identified | Not identified |
 | **Francis Mallia** | Aħwa Maltin | List-filler | Not identified | Not identified | Not identified | Not identified |
 | **Eman Alexander Cross** | Imperium Europa | List-filler | Not confirmed | Not confirmed | Not confirmed | [imperiumeuropa.eu](https://www.imperiumeuropa.eu/) |
