@@ -86,7 +86,7 @@ PN: Darren Carabott, Paula Mifsud Bonnici, Alex Perici Calascione
 | **Paula Mifsud Bonnici** | Physically blocked a PBS camera in parliament during PM Abela's budget speech, preventing the live feed; called out by the Maltese Institute of Journalists (IĠM); she subsequently apologised | 🟢 Low | Conduct; parliamentary decorum | [MaltaToday, Oct 2025](https://www.maltatoday.com.mt/news/national/138009/im_calls_out_paula_mifsud_bonnici_for_blocking_camera_during_prime_ministers_speech) |
 | **Darren Carabott** | No documented controversy | 🟢 None/Low | — | — |
 | **Keith Azzopardi Tanti** 🏛️ Gov. | No documented controversy | 🟢 None/Low | — | — |
-| **Keith Azzopardi Tanti** *(Official ballot name: Keith John Azzopardi Tanti)* 🏛️ Gov. | Joseph Muscat endorsement — association with disgraced former leader | 🟢 Low | — | — |
+| **Keith Azzopardi Tanti** *(Official ballot name: Keith John Azzopardi Tanti)* 🏛️ Gov. | Joseph Muscat endorsement — association with disgraced former leader | 🟢 Low | Political association | [MaltaToday, Feb 2022](https://www.maltatoday.com.mt/news/election-2022/115231/crowds_flock_to_joseph_muscat_on_campaign_trail_for_glenn_bedingfield_keith_tanti) · [Malta Independent, Feb 2022](https://www.independent.com.mt/articles/2022-02-23/local-news/Joseph-Muscat-spotted-at-PL-political-activity-amid-reports-of-candidate-endorsements-6736240883) |
 | **Alex Perici Calascione** | No documented controversy | 🟢 None/Low | — | — |
 
 ---

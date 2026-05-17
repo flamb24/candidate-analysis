@@ -143,7 +143,7 @@ PN: Charles Azzopardi, David Anthony Bonello, Joseph Mark Grech, Anthony Mifsud,
 | **Deborah Schembri** | Government architect/conflict of interest (2016–17) | 🟡 Medium | Alleged impropriety; denied; no charges | [Malta Independent, Jan 2017](https://www.independent.com.mt/articles/2017-01-08/local-news/Deborah-Schembri-sees-no-conflict-of-interest-in-having-Musumeci-as-architect-for-private-property-6736168771) |
 | **Deborah Schembri** | Post-ministerial consultancy contracts (revolving door) | 🟡 Medium | Reported pattern | [MaltaToday](https://www.maltatoday.com.mt/news/national/85449/former_mp_lands_56000_identity_malta_consultancy) |
 | **Deborah Schembri** | Defence of Keith Schembri during murder investigation (Dec 2019) | 🟡 Medium | Political judgment; widely criticised | [MaltaToday, Dec 2019](https://www.maltatoday.com.mt/news/national/99362/deborah_schembri_jumps_to_keith_schembris_defence_with_legalistic_spiel) |
-| **Deborah Schembri** | "Freedom of expression" comment day after Caruana Galizia assassination | 🟡 Medium | Tone/timing; apologised subsequently | — |
+| **Deborah Schembri** | "Freedom of expression" comment day after Caruana Galizia assassination | 🟡 Medium | Tone/timing; apologised subsequently | [Malta Independent, Oct 2017](https://www.independent.com.mt/articles/2017-10-18/local-news/Deborah-Schembri-insist-s-journalists-must-be-responsible-after-TV-comments-cause-outrage-6736180378) · [MaltaToday, Oct 2017](https://www.maltatoday.com.mt/news/national/81418/junior_minister_hits_out_at_former_labour_mp_over_warning_to_journalists) |
 
 ---
 
