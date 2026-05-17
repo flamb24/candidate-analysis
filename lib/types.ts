@@ -56,6 +56,20 @@ export interface Candidate {
   alignmentSummary?: string;
 }
 
+export interface CandidateDistrictView {
+  district: number;
+  tier: Tier;
+  electability: string;
+  electabilitySymbol: ElectabilitySymbol;
+  electabilityLabel: string;
+  alignmentSummary?: string;
+}
+
+export interface CandidateAggregate extends Candidate {
+  canonicalSlug: string;
+  allDistricts: CandidateDistrictView[];
+}
+
 export interface IssueRow {
   issue: string;
   stances: Record<string, string>;

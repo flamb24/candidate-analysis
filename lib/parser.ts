@@ -101,7 +101,7 @@ function cleanName(raw: string): { name: string; isGovIncumbent: boolean; ballot
   return { name: s, isGovIncumbent: isGov, ballotName };
 }
 
-function normalizeKey(name: string): string {
+export function normalizeKey(name: string): string {
   return name
     .replace(/\s*\([^)]*\)\s*/g, " ")
     .replace(/\s+/g, " ")
@@ -217,7 +217,8 @@ function maxSeverity(a: Severity, b: Severity): Severity {
 
 function buildCandidates(
   tables: Record<string, ParsedTable>,
-  districtNumber: number
+  districtNumber: number,
+  overrides?: Map<string, Partial<Candidate>>
 ): Candidate[] {
   const map = new Map<string, Candidate>();
   const tierLabels: Record<string, Tier> = {
@@ -360,6 +361,14 @@ function buildCandidates(
     }
   }
 
+  // Merge candidate-file overrides (profile data wins over district-file data)
+  if (overrides) {
+    for (const c of map.values()) {
+      const override = overrides.get(normalizeKey(c.name));
+      if (override) Object.assign(c, override);
+    }
+  }
+
   return Array.from(map.values());
 }
 
@@ -379,7 +388,117 @@ function parseIssueMatrix(table?: ParsedTable): IssueMatrix | undefined {
   return { partyHeaders, rows };
 }
 
-export function parseDistrict(md: string, districtNumber: number): District {
+/**
+ * Parse a per-candidate markdown file (candidates/{slug}.md) into a Partial<Candidate>.
+ * Only the fields present in the file are populated; district-specific fields
+ * (id, district, tier, electability, alignmentSummary) are intentionally excluded
+ * so they remain sourced from the district report.
+ */
+export function parseCandidateFile(md: string, _slug: string): Partial<Candidate> {
+  const lines = md.split("\n");
+  const result: Partial<Candidate> = {};
+
+  // H1 → canonical name
+  const titleLine = lines.find((l) => l.startsWith("# "));
+  if (titleLine) result.name = titleLine.replace(/^#\s+/, "").trim();
+
+  // HTML comments for structured metadata
+  for (const line of lines) {
+    const partyMatch = line.match(/<!--\s*party:\s*(.+?)\s*-->/);
+    if (partyMatch) result.party = partyMatch[1].trim();
+    const govMatch = line.match(/<!--\s*gov-incumbent:\s*(true|false)\s*-->/i);
+    if (govMatch) result.isGovIncumbent = govMatch[1].toLowerCase() === "true";
+  }
+
+  // Section-level table parsing
+  let currentSection: string | null = null;
+  let i = 0;
+  while (i < lines.length) {
+    const line = lines[i];
+    const h2 = line.match(/^##\s+(.+)/);
+    if (h2) {
+      currentSection = h2[1].trim();
+      i++;
+      continue;
+    }
+    if (line.trim().startsWith("|") && currentSection) {
+      const table = parseTableAt(lines, i);
+      if (table) {
+        switch (currentSection) {
+          case "Political Alignment": {
+            const r = table.rows[0];
+            if (r) {
+              result.euGroup = r["EU Group"] || undefined;
+              result.ideology = r["Ideological Position"] || undefined;
+              result.intraPartyStanding = r["Intra-Party Standing"] || undefined;
+              result.keyIssues = r["Key Issues"] || undefined;
+              result.abortionStance = r["Abortion Stance"] || undefined;
+            }
+            break;
+          }
+          case "Track Record": {
+            const r = table.rows[0];
+            if (r) {
+              result.priorOffice = r["Prior Office"] || undefined;
+              result.achievement = r["Achievement"] || undefined;
+              result.gap = r["Gap"] || undefined;
+              const stars = parseStars(r["Rating"] ?? "");
+              if (stars > 0) result.trackRecordStars = stars;
+            }
+            break;
+          }
+          case "Controversies": {
+            result.controversies = [];
+            result.controversySeverity = "None";
+            for (const r of table.rows) {
+              const desc = r["Controversy"] ?? "";
+              const sev = parseSeverity(r["Severity"] ?? "");
+              if (!/none found|no documented|no major documented|^—$|^$/i.test(desc.trim())) {
+                const sources = parseLinks(r["Source"] ?? "");
+                result.controversies.push({
+                  description: desc,
+                  severity: sev,
+                  nature: r["Nature"] || undefined,
+                  sources: sources.map((l) => ({ text: l.text, url: l.url })),
+                });
+                result.controversySeverity = maxSeverity(
+                  result.controversySeverity as Severity,
+                  sev
+                );
+              }
+            }
+            break;
+          }
+          case "Social Media": {
+            const r = table.rows[0];
+            if (r) {
+              const platformCell = r["Platforms & Links"] ?? "";
+              const parsed = parseSocialLinks(platformCell);
+              if (parsed.length > 0) result.socialLinks = parsed;
+              result.approxReach = r["Approx. Reach"] || undefined;
+              result.campaignTone = r["Campaign Tone"] || undefined;
+              result.campaignMessage = r["Key Campaign Message"] || undefined;
+              result.socialReach = parseSocialReach(r["Rating"] ?? "");
+            }
+            break;
+          }
+        }
+        i = skipTable(lines, i);
+        currentSection = null;
+        continue;
+      }
+    }
+    i++;
+  }
+
+  return result;
+}
+
+export function parseDistrict(
+  md: string,
+  districtNumber: number,
+  overrides?: Map<string, Partial<Candidate>>
+): District {
   const lines = md.split("\n");
   const tables: Record<string, ParsedTable> = {};
 
@@ -412,7 +531,7 @@ export function parseDistrict(md: string, districtNumber: number): District {
     i++;
   }
 
-  const candidates = buildCandidates(tables, districtNumber);
+  const candidates = buildCandidates(tables, districtNumber, overrides);
 
   const titleLine = lines.find((l) => l.startsWith("# ")) ?? "";
   const title = titleLine.replace(/^#\s+/, "").trim();
