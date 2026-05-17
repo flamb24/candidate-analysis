@@ -79,14 +79,23 @@ function skipTable(lines: string[], start: number): number {
   return i;
 }
 
-function cleanName(raw: string): { name: string; isGovIncumbent: boolean } {
+function cleanName(raw: string): { name: string; isGovIncumbent: boolean; ballotName?: string } {
   let s = stripBold(raw).trim();
   const isGov = /🏛️\s*Gov\./.test(s);
+
+  // Extract *(Official ballot name: X)* annotation
+  let ballotName: string | undefined;
+  const ballotMatch = s.match(/\*\(Official ballot name:\s*([^)]+)\)\*/);
+  if (ballotMatch) {
+    ballotName = ballotMatch[1].trim();
+    s = s.replace(ballotMatch[0], "").trim();
+  }
+
   s = s
     .replace(/🏛️\s*Gov\.?/g, "")
     .replace(/\s{2,}/g, " ")
     .trim();
-  return { name: s, isGovIncumbent: isGov };
+  return { name: s, isGovIncumbent: isGov, ballotName };
 }
 
 function normalizeKey(name: string): string {
@@ -220,11 +229,12 @@ function buildCandidates(
     const t1 = tables[`T${tierNum}_1`];
     if (t1) {
       for (const row of t1.rows) {
-        const { name, isGovIncumbent } = cleanName(row["Candidate"] ?? "");
+        const { name, isGovIncumbent, ballotName } = cleanName(row["Candidate"] ?? "");
         if (!name) continue;
         const key = normalizeKey(name);
         const c = getOrCreate(map, key, name, districtNumber, tier);
         c.isGovIncumbent = c.isGovIncumbent || isGovIncumbent;
+        if (ballotName) c.ballotName = ballotName;
         c.party = stripBold(row["Party"] ?? "") || c.party;
         c.euGroup = row["EU Group"] || undefined;
         c.ideology = row["Ideological Position"] || undefined;
@@ -238,11 +248,12 @@ function buildCandidates(
     const t2 = tables[`T${tierNum}_2`];
     if (t2) {
       for (const row of t2.rows) {
-        const { name, isGovIncumbent } = cleanName(row["Candidate"] ?? "");
+        const { name, isGovIncumbent, ballotName } = cleanName(row["Candidate"] ?? "");
         if (!name) continue;
         const key = normalizeKey(name);
         const c = getOrCreate(map, key, name, districtNumber, tier);
         c.isGovIncumbent = c.isGovIncumbent || isGovIncumbent;
+        if (ballotName) c.ballotName = ballotName;
         c.priorOffice = row["Prior Office/Role"] || undefined;
         c.achievement = row["Key Documented Achievement"] || undefined;
         c.gap = row["Principle vs Delivery Gap"] || undefined;
@@ -254,11 +265,12 @@ function buildCandidates(
     const t3 = tables[`T${tierNum}_3`];
     if (t3) {
       for (const row of t3.rows) {
-        const { name, isGovIncumbent } = cleanName(row["Candidate"] ?? "");
+        const { name, isGovIncumbent, ballotName } = cleanName(row["Candidate"] ?? "");
         if (!name) continue;
         const key = normalizeKey(name);
         const c = getOrCreate(map, key, name, districtNumber, tier);
         c.isGovIncumbent = c.isGovIncumbent || isGovIncumbent;
+        if (ballotName) c.ballotName = ballotName;
         const desc = row["Controversy"] ?? "";
         const sev = parseSeverity(row["Severity"] ?? "");
         if (!/none found|^—$|^$/i.test(desc.trim())) {
@@ -277,11 +289,12 @@ function buildCandidates(
     const t4 = tables[`T${tierNum}_4`];
     if (t4) {
       for (const row of t4.rows) {
-        const { name, isGovIncumbent } = cleanName(row["Candidate"] ?? "");
+        const { name, isGovIncumbent, ballotName } = cleanName(row["Candidate"] ?? "");
         if (!name) continue;
         const key = normalizeKey(name);
         const c = getOrCreate(map, key, name, districtNumber, tier);
         c.isGovIncumbent = c.isGovIncumbent || isGovIncumbent;
+        if (ballotName) c.ballotName = ballotName;
         const platformCell = row["Platforms & Links"] ?? "";
         const parsed = parseSocialLinks(platformCell);
         if (parsed.length > 0) c.socialLinks = parsed;
@@ -295,11 +308,12 @@ function buildCandidates(
     const t5 = tables[`T${tierNum}_5`];
     if (t5) {
       for (const row of t5.rows) {
-        const { name, isGovIncumbent } = cleanName(row["Candidate"] ?? "");
+        const { name, isGovIncumbent, ballotName } = cleanName(row["Candidate"] ?? "");
         if (!name) continue;
         const key = normalizeKey(name);
         const c = getOrCreate(map, key, name, districtNumber, tier);
         c.isGovIncumbent = c.isGovIncumbent || isGovIncumbent;
+        if (ballotName) c.ballotName = ballotName;
         // Party may only be available here for Tier 3 candidates (no Table 1)
         c.party = stripBold(row["Party"] ?? "") || c.party;
         const electCell = row["Electability"] ?? "";

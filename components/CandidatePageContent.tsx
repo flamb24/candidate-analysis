@@ -62,6 +62,9 @@ export default function CandidatePageContent({
         <h1 className="text-2xl font-bold tracking-tight sm:text-3xl">
           {candidate.name}
         </h1>
+        {candidate.ballotName && (
+          <p className="text-sm text-muted -mt-1">Ballot name: {candidate.ballotName}</p>
+        )}
         <div className="flex flex-wrap items-center gap-3">
           <ElectabilityBadge
             symbol={candidate.electabilitySymbol}

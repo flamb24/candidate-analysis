@@ -593,6 +593,9 @@ function CardGrid({
               <h3 className="text-base font-semibold leading-snug group-hover:underline">
                 {c.name}
               </h3>
+              {c.ballotName && (
+                <p className="text-xs text-muted leading-snug -mt-0.5">Ballot: {c.ballotName}</p>
+              )}
             </div>
 
             {c.ideology && (
@@ -695,15 +698,18 @@ function DataTable({
         <tbody className="divide-y divide-border">
           {candidates.map((c) => (
             <tr key={c.id} className="bg-background hover:bg-muted-bg/40">
-              <td className="sticky left-0 z-10 max-w-[16rem] truncate bg-background px-3 py-2 font-medium">
+              <td className="sticky left-0 z-10 max-w-[16rem] bg-background px-3 py-2 font-medium">
                 <Link
                   href={`${prefix}/district/${c.district}/${candidateSlug(c)}`}
-                  className="hover:underline"
+                  className="hover:underline truncate block"
                 >
                   {c.name}
                 </Link>
                 {c.isGovIncumbent && (
                   <span className="ml-2 align-middle"><GovBadge /></span>
+                )}
+                {c.ballotName && (
+                  <span className="block text-xs font-normal text-muted truncate">Ballot: {c.ballotName}</span>
                 )}
               </td>
               <td className="px-3 py-2"><PartyBadge party={c.party} /></td>

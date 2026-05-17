@@ -25,6 +25,7 @@ export interface Candidate {
   id: string;
   district: number;
   name: string;
+  ballotName?: string;
   party: string;
   tier: Tier;
   isGovIncumbent: boolean;
