@@ -256,7 +256,7 @@ Imperium Europa: Eman Alexander Cross
 
 | Candidate | Controversy | Severity | Nature | Source |
 |---|---|---|---|---|
-| **Eman Alexander Cross** | Imperium Europa is a far-right ethno-nationalist party with documented extremist positions on race and immigration | 🔴 High | Ideology/documented extremism | Multiple Maltese and European media archives |
+| **Eman Alexander Cross** | Imperium Europa is a far-right ethno-nationalist party with documented extremist positions on race and immigration | 🔴 High | Ideology/documented extremism | [Wikipedia — Imperium Europa](https://en.wikipedia.org/wiki/Imperium_Europa) |
 | **Fleur Abela** | No documented controversy | 🟢 None/Low | — | — |
 | **Josef Bugeja** | No documented controversy | 🟢 None/Low | — | — |
 | **John Grech** | No documented controversy | 🟢 None/Low | — | — |

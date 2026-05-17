@@ -75,7 +75,7 @@ PN: Rebekah Borg, Adrian Delia (D7 and D8)
 | Candidate | Controversy | Severity | Nature | Source |
 |---|---|---|---|---|
 | **Ian Borg** 🏛️ Gov. | Nominated Trump for Nobel Peace Prize during OSCE chairmanship (later qualified) | 🟡 Medium | Political judgment | [Malta Independent, Jan 2026](https://www.independent.com.mt/articles/2026-01-12/local-news/Foreign-Minister-defends-Malta-s-silence-on-Trump-s-Greenland-threats-6736286292) |
-| **Ian Borg** 🏛️ Gov. | Oversaw infrastructure era linked to rampant overdevelopment and traffic — though popular among voters | 🟡 Medium | Policy legacy | Multiple sources, 2017–22 |
+| **Ian Borg** 🏛️ Gov. | Oversaw infrastructure era linked to rampant overdevelopment and traffic — though popular among voters | 🟡 Medium | Policy legacy | [Wikipedia — Ian Borg](https://en.wikipedia.org/wiki/Ian_Borg) |
 | **Adrian Delia** | Leaked audio of call with Yorgen Fenech (murder suspect) during his leadership — claimed to show him seeking information; PN rebels used this to oust him | 🔴 High | — | [MaltaToday, Aug 2020](https://www.maltatoday.com.mt/news/national/103444/adrian_delia_has_asked_police_commissioner_to_investigate_leaked_whatsapp_messages) · [The Shift News, Aug 2020](https://theshiftnews.com/2020/08/09/leaked-recordings-who-benefits/) |
 | **Adrian Delia** | Controversial PN leadership tenure (2017–20): internal civil war, Standards Commissioner investigations, allegations of personal misconduct | 🔴 High | — | [MaltaToday, Aug 2020](https://www.maltatoday.com.mt/news/national/103448/live_adrian_delia_reacts_after_losing_a_confidence_vote_at_the_hands_of_his_mps) · [Lovin Malta](https://lovinmalta.com/news/pn-leader-adrian-delia-remains-under-police-investigation-for-soho-prostitution-racket/) |
 | **Adrian Delia** | Tax debt: >€140k in unpaid income tax (2007–2017); in-laws paid €120k+ to settle | 🔴 High | — | [MaltaToday, 2017](https://www.maltatoday.com.mt/news/national/80020/adrian_delias_pn_leadership_bid_rocked_by_offshore_allegations_) |
@@ -168,7 +168,7 @@ PN: Charles Azzopardi, Andrew Agius, Paul Mazzola, Anthony Mifsud, Ian Mario Vas
 | **Malcolm Paul Agius Galea** 🏛️ Gov. | No documented controversy | 🟢 None/Low | — | — |
 | **Anthony Agius Decelis** | Daughter Danika appointed to Malta Medicines Authority — cited in The Shift report on Labour patronage appointments | 🟡 Medium | Alleged nepotism | [The Shift News](https://theshiftnews.com/) |
 | **Samantha Pace Gasan** | No documented controversy | 🟢 None | — | — |
-| **Omar Rababah** | Target of online racist abuse following candidacy announcement; not a controversy of his own conduct | 🟢 None/Low | Victim of abuse; defended by PM and PN's de Marco | Multiple sources, May 2026 |
+| **Omar Rababah** | Target of online racist abuse following candidacy announcement; not a controversy of his own conduct | 🟢 None/Low | Victim of abuse; defended by PM and PN's de Marco | [MaltaToday, May 2026](https://www.maltatoday.com.mt/news/election-2026/141454/omar_rababah_speaks_out_on_racial_slurs_directed_at_him_after_candidacy_announcement) |
 | **Charles Azzopardi** | No documented controversy | 🟢 None | — | — |
 | **Andrew Agius** | No documented controversy | 🟢 None | — | — |
 | **Paul Mazzola** | No documented controversy | 🟢 None | — | — |
