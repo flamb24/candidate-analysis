@@ -41,11 +41,11 @@ PN: Beppe Fenech Adami, Adrian Delia, Justin Schembri, Julie Zahra, Ivan Castill
 |---|---|---|---|---|---|---|
 | **Alex Muscat** | Labour | S&D | Centre-left; technocratic | Post-ministerial; rebuilding; contesting D8 after D11 ouster from Cabinet | Economy; cost of living; communities | Silent |
 | **Ramona Attard** | Labour | S&D | Progressive-liberal; centre-left | Abela loyalist; former PL President; progressive wing standard-bearer | Civil rights; IVF; equality; housing | Pro-IVF/fertility rights; civil liberties emphasis |
-| **Beppe Fenech Adami** | PN | EPP | Centre-right; internationalist; Europeanist | Senior establishment PN; son of former PM/President; shadow Foreign Affairs | Foreign affairs; EU; Malta's neutrality; trade | Silent |
+| **Beppe Fenech Adami** *(Official ballot name: Joseph Fenech Adami)* | PN | EPP | Centre-right; internationalist; Europeanist | Senior establishment PN; son of former PM/President; shadow Foreign Affairs | Foreign affairs; EU; Malta's neutrality; trade | Silent |
 | **Adrian Delia** | PN | EPP | Centre-right; populist-adjacent; social conservative | Former leader (2017–20); shadow Finance; grassroots appeal; leadership contender Sep 2025 (lost to Borg) | Finance; health; Vitals/hospital accountability | Implicitly pro-life (no formal declaration) |
 | **Justin Schembri** | PN | EPP | Centre-right; socially traditional; immigration-sceptic | New-generation Delia-faction; shadow Education; minority leader Birkirkara council | Education; skills; civil service reform | Silent |
-| **Julie Zahra** | PN | EPP | Centre-right; arts/culture; mental health | Elected via gender quota 2022; shadow Culture & Creative Economy; Eurovision background gave crossover profile | Mental health; arts; culture; education | Silent |
-| **Ivan Castillo** | PN | EPP | Centre-right; workers/employment focus | Workers' Movement president; shadow Employment, Maritime & Aviation | Employment; maritime; aviation; workers' rights | Silent |
+| **Julie Zahra** | PN | EPP | Centre-right; arts/culture; mental health | Elected via gender quota 2022; shadow Culture & Creative Economy; Eurovision background gave crossover profile; contesting D4 and D8 | Mental health; arts; culture; education | Silent |
+| **Ivan Castillo** | PN | EPP | Centre-right; workers/employment focus | Workers' Movement president; shadow Employment, Maritime & Aviation; contesting D8 and D12 | Employment; maritime; aviation; workers' rights | Silent |
 
 **Tier 1 notes:** This tier is PN-dominant (5 of 7), reflecting D8's structural lean. Fenech Adami is the district's senior incumbent and the most established figure. Delia carries significant personal-vote grassroots support despite controversy. Ramona Attard is Labour's strongest newcomer — progressive, articulate, and well-networked from her PL presidency — but faces the structural challenge of a two-Labour-seat district. Alex Muscat is moving districts from D11 after being dropped from Cabinet; his personal vote must be rebuilt partly in unfamiliar territory.
 
@@ -61,7 +61,7 @@ PN: Beppe Fenech Adami, Adrian Delia, Justin Schembri, Julie Zahra, Ivan Castill
 | **Adrian Delia** | MP since 2017; PN Leader (2017–20); Shadow Health (2024); Shadow Finance (2025–26); hospital privatisation court case plaintiff | Landmark court victory annulling Vitals/Steward hospital concession (2023); Court of Appeals confirmed government collusion | Tax debt >€140k settled via in-law payments 2018; domestic violence allegations (2018–19); freemasonry links alleged (denied); prostitution racket allegation (Daphne Caruana Galizia, 2017, denied); ousted as leader 2020 | ⭐⭐⭐ |
 | **Justin Schembri** | MP since 2022; Shadow Education (2022–26); Birkirkara Local Council minority leader | Teacher by profession; substantive education policy output (civil service detachment proposal; O-level failure analysis; LSE delays campaign); PQs on Birkirkara Primary School renovation | Salvini-sympathy Facebook posts (2019) — criticised by fellow PN MPs; Delia-faction association; first general election was 2022 | ⭐⭐⭐ |
 | **Julie Zahra** | MP since 2022 (gender quota); Shadow Culture & Creative Economy | Mental health advocacy (Mount Carmel closure campaign); Eurovision 2004 background gave her strong artistic community support; brought daughter to Parliament (humanising) | Elected via gender quota she opposed in principle; limited standalone legislative achievement; primarily cultural/mental health spokesperson | ⭐⭐ |
-| **Ivan Castillo** | MP since 2022 (D12); PN Workers' Movement president (2016–); Shadow Employment, Maritime & Aviation | Employment/Air Malta scrutiny; Mellieħa local council minority leader; workers' movement leadership for a decade | Primarily D12 candidate now contesting D8 — local vote base may not transfer fully; limited independent parliamentary profile | ⭐⭐ |
+| **Ivan Castillo** | MP since 2022 (D12); PN Workers' Movement president (2016–); Shadow Employment, Maritime & Aviation; website: ivancastillo.net | Employment/Air Malta scrutiny; Mellieħa local council minority leader; workers' movement leadership for a decade | D12 primary; D8 secondary — local vote base may not transfer fully; limited independent parliamentary profile | ⭐⭐ |
 
 ---
 
@@ -78,6 +78,7 @@ PN: Beppe Fenech Adami, Adrian Delia, Justin Schembri, Julie Zahra, Ivan Castill
 | **Adrian Delia** | Domestic violence allegations (late 2018); wife and children | 🔴 High | Multiple sources; Delia denied; no conviction; heavily covered | [MaltaToday, Dec 2018](https://www.maltatoday.com.mt/news/national/90683/calls_for_delia_to_resign_over_domestic_violence_claims) |
 | **Adrian Delia** | Prostitution racket allegation (Daphne Caruana Galizia, 2017); Delia denied; filed libel cases | 🟡 Medium | Alleged only; denied; Caruana Galizia subsequently murdered; not proven | [Wikipedia](https://en.wikipedia.org/wiki/Adrian_Delia) |
 | **Adrian Delia** | Vitals/Steward court case: won as plaintiff, but critics noted his original silence on the deal while in leadership | 🟢 Low | Procedural/political; partially redeemed by court win | MaltaToday archive |
+| **Adrian Delia** | May 2026: confronted hospital security while filming a campaign video at St Luke's; footage widely circulated; Labour called it a "political stunt" | 🟢 Low | Campaign incident; he uploaded the footage himself; largely political theatre | [Malta Independent, May 2026](https://www.independent.com.mt/articles/2026-05-13/local-news/Adrian-Delia-blocked-from-filming-at-St-Luke-s-Hospital-6736289676) · [Lovin Malta, May 2026](https://lovinmalta.com/malta/labour-party-condemns-adrian-delia-over-clash-with-hospital-security-workers/) |
 | **Justin Schembri** | Facebook posts sympathising with Matteo Salvini (2019); criticised by PN colleagues including Michael Fenech Adami | 🟡 Medium | Ideological; walked back; no formal party action | [MaltaToday, Nov 2019](https://www.maltatoday.com.mt/news/national/98316/pn_candidate_called_out_by_district_rival_for_sympathising_with_matteo_salvini) |
 | **Julie Zahra** | Accepted gender quota seat despite publicly opposing the mechanism in principle | 🟢 Low | Principled inconsistency; common pattern; defended as pragmatic | [Lovin Malta, Apr 2022](https://lovinmalta.com/news/election-2022/singer-and-teacher-julie-zahra-elected-to-parliament-as-a-nationalist-mp/) |
 | **Ivan Castillo** | None found | 🟢 None | — | — |
@@ -91,12 +92,12 @@ PN: Beppe Fenech Adami, Adrian Delia, Justin Schembri, Julie Zahra, Ivan Castill
 | Candidate | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |---|---|---|---|---|---|
 | **Alex Muscat** | [Facebook](https://www.facebook.com/alexmuscatmp/) · LinkedIn | Moderate (~thousands FB) | Technocratic; economy-focused; rebuilding profile | Cost of living; economic management; community investment | 📡 Moderate |
-| **Ramona Attard** | Facebook (not publicly URL-confirmed) · Media appearances (ONE TV background) | Moderate | Progressive; civil rights; accessible | IVF/fertility rights; equality; progressive reform; housing | 📡 Moderate |
+| **Ramona Attard** | [Facebook](https://www.facebook.com/ramonaattardpl/) (~5.8k) | Moderate | Progressive; civil rights; accessible | IVF/fertility rights; equality; progressive reform; housing | 📡 Moderate |
 | **Beppe Fenech Adami** | [Facebook](https://www.facebook.com/@bfenechadami/) (~20.7k likes) | High | Measured; EPP-style; institutional | Foreign affairs; EU; Malta's neutrality; trade | 📢 High |
-| **Adrian Delia** | Facebook (active, account not confirmed) | High (grassroots; active presence) | Combative; anti-establishment PN; finance | Finance; hospital accountability; workers | 📢 High |
+| **Adrian Delia** | [Facebook](https://www.facebook.com/adriandeliapn/) (~48k) · [Instagram](https://www.instagram.com/adriandelia_pn/) (~7.6k) · [X/Twitter](https://x.com/adriandeliapn) · TikTok @adrian.deliapn | Very high (~48k Facebook) | Combative; anti-establishment PN; finance | Finance; hospital accountability; workers | 📢 High |
 | **Justin Schembri** | [Facebook](https://www.facebook.com/justinschembri.blogspot/) (~5.1k likes) | Low-moderate | Education policy; community | Education reform; skills; teacher conditions | 📶 Low |
-| **Julie Zahra** | Facebook · Instagram (not confirmed URLs) | Moderate (Eurovision profile gives residual recognition) | Cultural; warm; mental health | Arts; mental health reform; Mount Carmel; education | 📡 Moderate |
-| **Ivan Castillo** | Facebook (not confirmed URL) | Low-moderate | Workers' rights; employment | Employment; maritime; workers' movement | 📶 Low |
+| **Julie Zahra** | [Facebook](https://www.facebook.com/JulieZahra.mt/) (~8.3k) · [Instagram](https://www.instagram.com/juliezahra.mt/) | High (political page + Eurovision residual recognition) | Cultural; warm; mental health | Arts; mental health reform; Mount Carmel; education | 📢 High |
+| **Ivan Castillo** | [Facebook](https://www.facebook.com/ivancastilloPolitician/) · [Website](https://www.ivancastillo.net) | Moderate | Workers' rights; employment | Employment; maritime; workers' movement | 📡 Moderate |
 
 ---
 
@@ -109,8 +110,8 @@ PN: Beppe Fenech Adami, Adrian Delia, Justin Schembri, Julie Zahra, Ivan Castill
 | **Justin Schembri** | PN | Centre-right; social traditional | ⭐⭐⭐ | 🟡 Medium | 📶 | ✅✅ Likely |
 | **Ramona Attard** | Labour | Progressive-liberal; centre-left | ⭐⭐⭐ | 🟡 Medium | 📡 | ✅✅ Likely |
 | **Alex Muscat** | Labour | Centre-left; technocratic | ⭐⭐ | 🔴 High | 📡 | ✅✅ Likely (contested) |
-| **Julie Zahra** | PN | Centre-right; arts/culture | ⭐⭐ | 🟢 Low | 📡 | ✅ Competitive |
-| **Ivan Castillo** | PN | Centre-right; workers/labour | ⭐⭐ | 🟢 None | 📶 | ✅ Competitive |
+| **Julie Zahra** | PN | Centre-right; arts/culture | ⭐⭐ | 🟢 Low | 📢 | ✅ Competitive |
+| **Ivan Castillo** | PN | Centre-right; workers/labour | ⭐⭐ | 🟢 None | 📡 | ✅ Competitive |
 
 ---
 
@@ -120,8 +121,8 @@ PN: Beppe Fenech Adami, Adrian Delia, Justin Schembri, Julie Zahra, Ivan Castill
 *Competitive or possible seat; some documented record; individual public identity.*
 
 **Candidates in this tier (9):**
-Labour: Cressida Galea, Yana Borg Debono Grech, Joseph Bugeja
-PN: Ludwig Cauchi, Edmond Cuschieri, Angelo Micallef, George Muscat, Ross David Pace
+Labour: Cressida Galea, Yana Borg Debono Grech, Josef Bugeja
+PN: Ludwig Cauchi, Edmond Cuschieri, Angelo Micallef, George Muscat, David Pace Ross
 Momentum: Matthew Agius
 
 ---
@@ -132,13 +133,13 @@ Momentum: Matthew Agius
 |---|---|---|---|---|---|---|
 | **Cressida Galea** | Labour | S&D | Centre-left; progressive; young | Elected via gender quota 2022; "Lead" programme graduate; Abela mainstream | Economy; youth; progressive values | Silent |
 | **Yana Borg Debono Grech** | Labour | S&D | Centre-left | Contesting D1 and D8; grassroots Labour | Community; social solidarity | Silent |
-| **Joseph (Josef) Bugeja** | Labour | S&D | Centre-left | First-time candidate; limited prior profile | Community; social | Silent |
+| **Josef Bugeja** *(Official ballot name: Joseph Bugeja)* | Labour | S&D | Centre-left | First-time candidate; limited prior profile | Community; social | Silent |
 | **Ludwig Cauchi** | PN | EPP | Centre-right | First-time candidate; PN-approved Dec 2024; renewal cohort | Unknown — no documented policy stance | Silent |
 | **Edmond Cuschieri** | PN | EPP | Centre-right | Contesting D8 and D11; limited prior profile | Unknown | Silent |
 | **Angelo Micallef** | PN | EPP | Centre-right | New candidate; limited prior profile | Unknown | Silent |
 | **George Muscat** | PN | EPP | Centre-right | New candidate; no confirmed prior office | Unknown | Silent |
-| **Ross David Pace** | PN | EPP | Centre-right | New candidate; no confirmed prior office | Unknown | Silent |
-| **Matthew Agius** | Momentum | EDP | Centrist; anti-corruption; green-adjacent | Momentum national committee member; contesting multiple districts | Constitutional reform; transparency; FOI | Silent / free vote (party policy) |
+| **David Pace Ross** | PN | EPP | Centre-right | New candidate; no confirmed prior office | Unknown | Silent |
+| **Matthew Agius** | Momentum | EDP | Centrist; anti-corruption; green-adjacent | Momentum national committee member; contesting D2 and D8 | Constitutional reform; transparency; FOI | Silent / free vote (party policy) |
 
 ---
 
@@ -148,13 +149,13 @@ Momentum: Matthew Agius
 |---|---|---|---|---|
 | **Cressida Galea** | MP since 2022 (gender quota); economist | "Lead" programme (Labour's youth candidate pipeline); economist background; parliamentary service 2022–26 | Low profile in parliament; no documented standalone achievement; primarily a party-list MP | ⭐⭐ |
 | **Yana Borg Debono Grech** | Contesting D1 and D8; background not confirmed | No confirmed prior office or public-facing role identified | Information gap — stub entry | ⭐ |
-| **Joseph Bugeja** | First-time general election candidate | No confirmed prior office or public-facing role identified | Information gap — stub entry | ⭐ |
+| **Josef Bugeja** | First-time general election candidate | No confirmed prior office or public-facing role identified | Information gap — stub entry | ⭐ |
 | **Ludwig Cauchi** | First-time general election candidate; PN renewal cohort (approved Dec 2024) | No confirmed prior office identified; approved as part of PN youth renewal | Information gap — stub entry; selection confirmed [MaltaToday, Dec 2024](https://www.maltatoday.com.mt/news/national/132595/nationalist_party_announces_eight_approved_candidates_for_next_general_election) | ⭐ |
 | **Edmond Cuschieri** | Contesting D8 and D11; no confirmed prior office | No documented record; stub entry | Information gap | ⭐ |
 | **Angelo Micallef** | New candidate; no confirmed prior office | No documented record | Information gap | ⭐ |
 | **George Muscat** | New candidate; no confirmed prior office | No documented record | Information gap | ⭐ |
-| **Ross David Pace** | New candidate; no confirmed prior office | No documented record | Information gap | ⭐ |
-| **Matthew Agius** | Momentum candidate (D8 and D9); national party presence | Part of Momentum's organised candidate list; some public exposure through the party's campaign | No prior elected office; limited solo profile; Momentum ceiling applies nationally | ⭐⭐ |
+| **David Pace Ross** | New candidate; no confirmed prior office | No documented record | Information gap | ⭐ |
+| **Matthew Agius** | Momentum candidate (D2 and D8); national party presence | Part of Momentum's organised candidate list; some public exposure through the party's campaign | No prior elected office; limited solo profile; Momentum ceiling applies nationally | ⭐⭐ |
 
 ---
 
@@ -164,12 +165,12 @@ Momentum: Matthew Agius
 |---|---|---|---|---|
 | **Cressida Galea** | "Brainwashing" remark about young PN politicians (Apr 2022) | 🟢 Low | Inflammatory comment in first interview as MP; partisan; mostly forgotten | [Lovin Malta, Apr 2022](https://lovinmalta.com/news/watch-new-pl-mp-cressida-galea-says-shes-concerned-at-brainwashing-of-young-pn-politicians/) |
 | **Yana Borg Debono Grech** | None found | 🟢 None | — | — |
-| **Joseph Bugeja** | None found | 🟢 None | — | — |
+| **Josef Bugeja** | None found | 🟢 None | — | — |
 | **Ludwig Cauchi** | None found | 🟢 None | — | — |
 | **Edmond Cuschieri** | None found | 🟢 None | — | — |
 | **Angelo Micallef** | None found | 🟢 None | — | — |
 | **George Muscat** | None found | 🟢 None | — | — |
-| **Ross David Pace** | None found | 🟢 None | — | — |
+| **David Pace Ross** | None found | 🟢 None | — | — |
 | **Matthew Agius** | None found | 🟢 None | — | — |
 
 **Tier 2 controversy summary:** Almost uniformly clean — a function of low public profile rather than necessarily clean records. Galea's "brainwashing" remark is the only documented item and is minor. All others are stubs or new entrants.
@@ -180,14 +181,14 @@ Momentum: Matthew Agius
 
 | Candidate | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |---|---|---|---|---|---|
-| **Cressida Galea** | Facebook (account believed to exist; URL not confirmed) | Low-moderate | Progressive; youth-oriented | Economy; youth; progressive values | 📶 Low |
+| **Cressida Galea** | [Facebook](https://www.facebook.com/galeacressida/) · [Instagram](https://www.instagram.com/cressidagalea/) | Moderate (~1.3k IG) | Progressive; youth-oriented | Economy; youth; progressive values | 📡 Moderate |
 | **Yana Borg Debono Grech** | Not confirmed | Minimal | Community; Labour standard | Social solidarity | 📵 None |
-| **Joseph Bugeja** | Not identified | Minimal | Unknown | Unknown | 📵 None |
+| **Josef Bugeja** | Not identified | Minimal | Unknown | Unknown | 📵 None |
 | **Ludwig Cauchi** | Not identified | Minimal | PN renewal framing | Unknown — first-time candidate | 📵 None |
 | **Edmond Cuschieri** | Not identified | Minimal | Unknown | Unknown | 📵 None |
 | **Angelo Micallef** | Not identified | Minimal | Unknown | Unknown | 📵 None |
 | **George Muscat** | Not identified | Minimal | Unknown | Unknown | 📵 None |
-| **Ross David Pace** | Not identified | Minimal | Unknown | Unknown | 📵 None |
+| **David Pace Ross** | Not identified | Minimal | Unknown | Unknown | 📵 None |
 | **Matthew Agius** | Facebook (not confirmed URL) · party social media presence | Low | Policy-focused; anti-establishment | Constitutional reform; transparency | 📶 Low |
 
 ---
@@ -196,15 +197,15 @@ Momentum: Matthew Agius
 
 | Candidate | Party | Alignment | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
-| **Cressida Galea** | Labour | Progressive centre-left | ⭐⭐ | 🟢 Low | 📶 | ✅ Possible (gender quota) |
+| **Cressida Galea** | Labour | Progressive centre-left | ⭐⭐ | 🟢 Low | 📡 | ✅ Possible (gender quota) |
 | **Matthew Agius** | Momentum | Centrist; reform | ⭐⭐ | 🟢 None | 📶 | ✗ Structural ceiling |
 | **Yana Borg Debono Grech** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ Unlikely |
-| **Joseph Bugeja** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ Unlikely |
+| **Josef Bugeja** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ Unlikely |
 | **Ludwig Cauchi** | PN | Centre-right | ⭐ | 🟢 None | 📵 | ✗ Unlikely |
 | **Edmond Cuschieri** | PN | Centre-right | ⭐ | 🟢 None | 📵 | ✗ Unlikely |
 | **Angelo Micallef** | PN | Centre-right | ⭐ | 🟢 None | 📵 | ✗ Unlikely |
 | **George Muscat** | PN | Centre-right | ⭐ | 🟢 None | 📵 | ✗ Unlikely |
-| **Ross David Pace** | PN | Centre-right | ⭐ | 🟢 None | 📵 | ✗ Unlikely |
+| **David Pace Ross** | PN | Centre-right | ⭐ | 🟢 None | 📵 | ✗ Unlikely |
 
 **Tier 2 note:** Most of this tier is structurally placed here because they are first-time candidates with no documented record and no confirmed local profile, giving them a notional "second-tier" electability — they could in theory pick up transfers or benefit from a swing — rather than because they have meaningful individual standing. Cressida Galea is the exception, having served as a gender-quota MP and being a realistic candidate for re-election via the same mechanism. Matthew Agius has a structured national campaign identity via Momentum.
 
@@ -216,7 +217,7 @@ Momentum: Matthew Agius
 *Negligible electability; minimal or no public profile; exist primarily to broaden the ticket.*
 
 **Candidates in this tier (8):**
-Labour: Vania Agius Tabone, Keith Azzopardi Tanti, Jesmond Bonello, Clyde Caruana, Rosette Cassar, John Joseph Grech
+Labour: Vania Agius Tabone, Keith Azzopardi Tanti, Jesmond Bonello, Clyde Caruana, Rosette Cassar, John Grech
 ADPD: Mario Mallia
 Aħwa Maltin: Francis Mallia
 
@@ -231,7 +232,7 @@ Aħwa Maltin: Francis Mallia
 | **Jesmond Bonello** | Labour | S&D | Centre-left | Silent |
 | **Clyde Caruana** | Labour | S&D | Centre-left | Silent |
 | **Rosette Cassar** | Labour | S&D | Centre-left | Silent |
-| **John Joseph Grech** | Labour | S&D | Centre-left | Silent |
+| **John Grech** *(Official ballot name: John-Joseph Grech)* | Labour | S&D | Centre-left | Silent |
 | **Mario Mallia** | ADPD | EGP | Left-wing green | Pro-choice (party position) |
 | **Francis Mallia** | Aħwa Maltin | — | Right-wing populist; nativist | Implicitly pro-life |
 
@@ -248,7 +249,7 @@ Aħwa Maltin: Francis Mallia
 | **Jesmond Bonello** | Contesting D2 and D8; no confirmed prior office | No documented record | ⭐ |
 | **Clyde Caruana** | Contesting D8; unclear if this is the Finance Minister Clyde Caruana or a different person | Information gap — stub entry | ⭐ |
 | **Rosette Cassar** | Contesting D8 and D10; no confirmed prior office identified for either district | No documented record | ⭐ |
-| **John Joseph Grech** | No confirmed prior office identified | No documented record | ⭐ |
+| **John Grech** | No confirmed prior office identified | No documented record | ⭐ |
 | **Mario Mallia** | ADPD candidate; contesting D2 and D8 | Part of ADPD's national slate; limited individual profile | ⭐⭐ |
 | **Francis Mallia** | Aħwa Maltin candidate | No documented record; party is new and marginal | ⭐ |
 
@@ -263,7 +264,7 @@ Aħwa Maltin: Francis Mallia
 | **Jesmond Bonello** | None found | 🟢 None |
 | **Clyde Caruana** | Information gap | 🟢 None confirmed |
 | **Rosette Cassar** | None found | 🟢 None |
-| **John Joseph Grech** | None found | 🟢 None |
+| **John Grech** | None found | 🟢 None |
 | **Mario Mallia** | None found individually; ADPD is a legitimate registered party with no documented controversies | 🟢 None |
 | **Francis Mallia** | Aħwa Maltin party platform contains immigration-restriction rhetoric that some characterise as xenophobic | 🟢 Low (party-level) |
 
@@ -278,7 +279,7 @@ Aħwa Maltin: Francis Mallia
 | **Jesmond Bonello** | Not identified | Minimal | Unknown | 📵 None |
 | **Clyde Caruana** | Not identified (D8 candidate) | Minimal | Unknown | 📵 None |
 | **Rosette Cassar** | Not identified | Minimal | Unknown | 📵 None |
-| **John Joseph Grech** | Not identified | Minimal | Unknown | 📵 None |
+| **John Grech** | Not identified | Minimal | Unknown | 📵 None |
 | **Mario Mallia** | ADPD party social media | Low | Green; civil rights | 📶 Low |
 | **Francis Mallia** | Not identified | Minimal | Nativist; immigration | 📵 None |
 
@@ -294,7 +295,7 @@ Aħwa Maltin: Francis Mallia
 | **Jesmond Bonello** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **Clyde Caruana** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **Rosette Cassar** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
-| **John Joseph Grech** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
+| **John Grech** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **Francis Mallia** | Aħwa Maltin | Right-wing populist | ⭐ | 🟢 Low | 📵 | ✗ |
 
 ---
@@ -337,29 +338,29 @@ Aħwa Maltin: Francis Mallia
 | **Notable** | Justin Schembri | PN | ⭐⭐⭐ | 🟡 | 📶 | ✅✅ Likely |
 | **Notable** | Ramona Attard | Labour | ⭐⭐⭐ | 🟡 | 📡 | ✅✅ Likely |
 | **Notable** | Alex Muscat | Labour | ⭐⭐ | 🔴 | 📡 | ✅✅ Likely (contested) |
-| **Notable** | Julie Zahra | PN | ⭐⭐ | 🟢 | 📡 | ✅ Competitive |
-| **Notable** | Ivan Castillo | PN | ⭐⭐ | 🟢 | 📶 | ✅ Competitive |
-| **Second-tier** | Cressida Galea | Labour | ⭐⭐ | 🟢 | 📶 | ✅ Possible (gender quota) |
+| **Notable** | Julie Zahra | PN | ⭐⭐ | 🟢 | 📢 | ✅ Competitive |
+| **Notable** | Ivan Castillo | PN | ⭐⭐ | 🟢 | 📡 | ✅ Competitive |
+| **Second-tier** | Cressida Galea | Labour | ⭐⭐ | 🟢 | 📡 | ✅ Possible (gender quota) |
 | **Second-tier** | Matthew Agius | Momentum | ⭐⭐ | 🟢 | 📶 | ✗ Structural ceiling |
 | **Second-tier** | Yana Borg Debono Grech | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
-| **Second-tier** | Joseph Bugeja | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
+| **Second-tier** | Josef Bugeja | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Ludwig Cauchi | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Edmond Cuschieri | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Angelo Micallef | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | George Muscat | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
-| **Second-tier** | Ross David Pace | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
+| **Second-tier** | David Pace Ross | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **List-filler** | Keith Azzopardi Tanti | Labour | ⭐⭐ | 🟢 | 📶 | ✗ |
 | **List-filler** | Mario Mallia | ADPD | ⭐⭐ | 🟢 | 📶 | ✗ |
 | **List-filler** | Vania Agius Tabone | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Jesmond Bonello | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Clyde Caruana | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Rosette Cassar | Labour | ⭐ | 🟢 | 📵 | ✗ |
-| **List-filler** | John Joseph Grech | Labour | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | John Grech | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Francis Mallia | Aħwa Maltin | ⭐ | 🟢 | 📵 | ✗ |
 
 ---
 
-*Tables compiled 16 May 2026. Data sourced from party profiles, parliamentary records, news archives (MaltaToday, The Shift News, The Malta Independent, Newsbook, Lovin Malta, The Maltese Herald), official government sources, Wikipedia, and The Malta Independent official candidate list. Electability assessments are editorial judgements — not predictions. Social media URLs verified at time of research; accounts may change. Candidates with stub entries (⭐ Track Record, information gap noted) have minimal to no documented public record — ratings reflect this absence, not necessarily a clean slate.*
+*Tables compiled 16 May 2026. Deep research and multi-district verification applied 17 May 2026. Data sourced from party profiles, parliamentary records, news archives (MaltaToday, The Shift News, The Malta Independent, Newsbook, Lovin Malta, The Maltese Herald), official government sources, Wikipedia, and The Malta Independent official candidate list. Electability assessments are editorial judgements — not predictions. Social media URLs verified at time of research; accounts may change. Candidates with stub entries (⭐ Track Record, information gap noted) have minimal to no documented public record — ratings reflect this absence, not necessarily a clean slate.*
 
 ---
 
@@ -368,28 +369,28 @@ Aħwa Maltin: Francis Mallia
 | Candidate | Party | Tier | Facebook | Instagram | X / Twitter | Website / Other |
 |---|---|---|---|---|---|---|
 | **Beppe Fenech Adami** | PN | Notable | [Link](https://www.facebook.com/@bfenechadami/) | — | — | — |
-| **Adrian Delia** | PN | Notable | Not confirmed URL | — | — | — |
+| **Adrian Delia** | PN | Notable | [Link](https://www.facebook.com/adriandeliapn/) | [Link](https://www.instagram.com/adriandelia_pn/) | [Link](https://x.com/adriandeliapn) | TikTok: @adrian.deliapn |
 | **Justin Schembri** | PN | Notable | [Link](https://www.facebook.com/justinschembri.blogspot/) | — | — | — |
-| **Ramona Attard** | Labour | Notable | Not confirmed URL | — | — | — |
+| **Ramona Attard** | Labour | Notable | [Link](https://www.facebook.com/ramonaattardpl/) | — | — | — |
 | **Alex Muscat** | Labour | Notable | [Link](https://www.facebook.com/alexmuscatmp/) | — | — | — |
-| **Julie Zahra** | PN | Notable | Not confirmed URL | Not confirmed | — | — |
-| **Ivan Castillo** | PN | Notable | Not confirmed URL | — | — | — |
-| **Cressida Galea** | Labour | Second-tier | Not confirmed URL | — | — | — |
+| **Julie Zahra** | PN | Notable | [Link](https://www.facebook.com/JulieZahra.mt/) | [Link](https://www.instagram.com/juliezahra.mt/) | — | — |
+| **Ivan Castillo** | PN | Notable | [Link](https://www.facebook.com/ivancastilloPolitician/) | — | — | [ivancastillo.net](https://www.ivancastillo.net) |
+| **Cressida Galea** | Labour | Second-tier | [Link](https://www.facebook.com/galeacressida/) | [Link](https://www.instagram.com/cressidagalea/) | — | — |
 | **Matthew Agius** | Momentum | Second-tier | Not confirmed URL | — | — | — |
 | **Yana Borg Debono Grech** | Labour | Second-tier | Not identified | — | — | — |
-| **Joseph Bugeja** | Labour | Second-tier | Not identified | — | — | — |
+| **Josef Bugeja** | Labour | Second-tier | Not identified | — | — | — |
 | **Ludwig Cauchi** | PN | Second-tier | Not identified | — | — | — |
 | **Edmond Cuschieri** | PN | Second-tier | Not identified | — | — | — |
 | **Angelo Micallef** | PN | Second-tier | Not identified | — | — | — |
 | **George Muscat** | PN | Second-tier | Not identified | — | — | — |
-| **Ross David Pace** | PN | Second-tier | Not identified | — | — | — |
+| **David Pace Ross** | PN | Second-tier | Not identified | — | — | — |
 | **Keith Azzopardi Tanti** | Labour | List-filler | Not confirmed URL (local council profile) | — | — | — |
 | **Mario Mallia** | ADPD | List-filler | ADPD party page | — | — | — |
 | **Vania Agius Tabone** | Labour | List-filler | Not identified | — | — | — |
 | **Jesmond Bonello** | Labour | List-filler | Not identified | — | — | — |
 | **Clyde Caruana** | Labour | List-filler | Not identified | — | — | — |
 | **Rosette Cassar** | Labour | List-filler | Not identified | — | — | — |
-| **John Joseph Grech** | Labour | List-filler | Not identified | — | — | — |
+| **John Grech** | Labour | List-filler | Not identified | — | — | — |
 | **Francis Mallia** | Aħwa Maltin | List-filler | Not identified | — | — | — |
 
 *"Not confirmed URL" = account believed to exist but exact URL not verified during research. "Not identified" = no public account found at time of research.*
