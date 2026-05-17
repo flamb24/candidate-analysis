@@ -13,17 +13,27 @@ export default function ShareButton({
   const [copied, setCopied] = useState(false);
 
   const handleShare = async () => {
+    const url = "distrett.com";
+    // clipboard.writeText() throws NotAllowedError when not in a secure context —
+    // the browser logs it to the console even with try/catch, so guard first.
+    if (isSecureContext && navigator.clipboard) {
+      try {
+        await navigator.clipboard.writeText(url);
+        setCopied(true);
+        setTimeout(() => setCopied(false), 2000);
+        return;
+      } catch { /* fall through to execCommand */ }
+    }
+    // execCommand fallback (deprecated but widely supported)
     try {
-      await navigator.clipboard.writeText("distrett.com");
-    } catch {
-      // Fallback for older browsers
       const el = document.createElement("textarea");
-      el.value = "distrett.com";
+      el.value = url;
+      el.style.cssText = "position:fixed;opacity:0";
       document.body.appendChild(el);
       el.select();
       document.execCommand("copy");
       document.body.removeChild(el);
-    }
+    } catch { /* silent */ }
     setCopied(true);
     setTimeout(() => setCopied(false), 2000);
   };

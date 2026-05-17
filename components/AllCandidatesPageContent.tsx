@@ -30,9 +30,14 @@ export default function AllCandidatesPageContent({ lang }: { lang: Lang }) {
         </ol>
       </nav>
 
-      <h1 className="text-2xl font-bold tracking-tight sm:text-3xl">
-        {t.allCandidatesTitle}
-      </h1>
+      <div className="flex flex-col gap-1">
+        <h1 className="text-2xl font-bold tracking-tight sm:text-3xl">
+          {t.allCandidatesTitle}
+        </h1>
+        <p className="text-sm text-muted">
+          Multi-district candidates appear once per district.
+        </p>
+      </div>
 
       <MasterComparison
         candidates={candidates}

@@ -53,15 +53,12 @@ export default function RootLayout({
       className={`${literata.variable} h-full antialiased`}
       suppressHydrationWarning
     >
-      <head>
-        {/* High-vis preference: runs before hydration to avoid flash */}
-        <script dangerouslySetInnerHTML={{ __html: `try{if(localStorage.getItem('hv')==='1')document.documentElement.classList.add('hv')}catch(e){}` }} />
-        {/* Set correct lang attribute for Maltese routes */}
-        <script dangerouslySetInnerHTML={{ __html: `try{if(location.pathname.startsWith('/mt'))document.documentElement.lang='mt'}catch(e){}` }} />
-        {/* Language preference: auto-redirect to /mt if user previously chose Maltese */}
-        <script dangerouslySetInnerHTML={{ __html: `try{if(localStorage.getItem('lang')==='mt'&&!location.pathname.startsWith('/mt'))location.replace('/mt'+location.pathname)}catch(e){}` }} />
-      </head>
+      <head />
       <body className="min-h-full flex flex-col bg-background text-foreground">
+        {/* Set correct lang attribute for Maltese routes — runs before hydration */}
+        <Script id="lang-attr" strategy="beforeInteractive" dangerouslySetInnerHTML={{ __html: `try{if(location.pathname.startsWith('/mt'))document.documentElement.lang='mt'}catch(e){}` }} />
+        {/* Language preference: auto-redirect to /mt if user previously chose Maltese */}
+        <Script id="lang-redirect" strategy="beforeInteractive" dangerouslySetInnerHTML={{ __html: `try{if(localStorage.getItem('lang')==='mt'&&!location.pathname.startsWith('/mt'))location.replace('/mt'+location.pathname)}catch(e){}` }} />
         <ScrollReset />
         <SiteHeader />
         <main className="w-full flex-1">

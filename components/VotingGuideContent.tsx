@@ -24,6 +24,29 @@ function Card({ children, className = "" }: { children: React.ReactNode; classNa
   );
 }
 
+// ─── Candidate-not-party section ─────────────────────────────────────────────
+
+const BALLOT_EXAMPLE = [
+  { n: 1, name: "Candidate A",  party: "PN",     note: "Your true first choice" },
+  { n: 2, name: "Candidate B",  party: "Labour",  note: "Best individual from another party" },
+  { n: 3, name: "Candidate C",  party: "ADPD",    note: "Reform-minded smaller party" },
+  { n: 4, name: "Candidate D",  party: "PN",      note: "Weak preference between remaining" },
+];
+
+const BALLOT_PARTY_CLS: Record<string, string> = {
+  PN:     "bg-blue-50   text-blue-700",
+  Labour: "bg-red-50    text-red-700",
+  ADPD:   "bg-green-50  text-green-700",
+};
+
+const STRATEGY_TIPS = [
+  "Give your 1 to the best individual candidate regardless of party — vote your conscience first",
+  "Use 2, 3, 4 to support reform-minded or competent candidates from other parties, including ADPD and Momentum",
+  "Use later numbers to express a weak preference between remaining candidates you find acceptable",
+  "Leave bad actors unranked — an empty preference gives them nothing",
+  "Candidates within the same party compete against each other for preferences — a sitting minister and a backbencher are rivals for the same pool of votes",
+];
+
 // ─── STV steps ───────────────────────────────────────────────────────────────
 
 const STV_STEPS = [
@@ -45,7 +68,7 @@ const STV_STEPS = [
   {
     n: 4,
     heading: "Vote your true first preference",
-    body: "STV is designed so that backing your genuine first choice never harms that candidate. Tactical voting is rarely necessary.",
+    body: "The Single Transferable Vote is designed so that backing your genuine first choice never harms that candidate. Tactical voting is rarely necessary.",
   },
 ];
 
@@ -164,12 +187,92 @@ export default function VotingGuideContent() {
         </p>
       </header>
 
+      {/* ── Candidate not party ──────────────────────────────────────────── */}
+      <section aria-labelledby="candidate-not-party-heading">
+        <div className="flex flex-col gap-4">
+          <div className="flex flex-col gap-1">
+            <SectionLabel>How your vote works</SectionLabel>
+            <h2 id="candidate-not-party-heading" className="text-xl font-bold tracking-tight">
+              Your vote goes to the candidate — not the party
+            </h2>
+          </div>
+          <p className="text-sm text-muted leading-relaxed">
+            In Malta's Single Transferable Vote system, your preference vote goes to an individual candidate, not to a party.
+            You can rank candidates from different parties in any order — your ballot is fully valid and every preference counts.
+          </p>
+
+          {/* Example ballot */}
+          <Card>
+            <p className="text-xs font-mono uppercase tracking-[0.2em] text-muted mb-4">
+              Example of a valid cross-party ballot
+            </p>
+            <ol className="flex flex-col gap-2">
+              {BALLOT_EXAMPLE.map((row) => (
+                <li
+                  key={row.n}
+                  className="flex items-center gap-3 rounded-md border border-border bg-white px-3 py-2.5"
+                >
+                  <span className="shrink-0 w-7 h-7 rounded border-2 border-[var(--cta)] flex items-center justify-center font-bold text-[var(--cta)] text-base leading-none">
+                    {row.n}
+                  </span>
+                  <div className="flex-1 min-w-0 flex items-center gap-2">
+                    <span className="font-medium text-sm truncate">{row.name}</span>
+                    <span
+                      className={`shrink-0 text-[11px] font-medium px-1.5 py-0.5 rounded ${
+                        BALLOT_PARTY_CLS[row.party] ?? "bg-zinc-100 text-zinc-600"
+                      }`}
+                    >
+                      {row.party}
+                    </span>
+                  </div>
+                  <span className="shrink-0 text-xs text-muted text-right hidden sm:block max-w-[12rem]">
+                    {row.note}
+                  </span>
+                </li>
+              ))}
+            </ol>
+            <p className="mt-4 text-xs text-muted leading-relaxed border-t border-border pt-4">
+              When your first-choice candidate is eliminated or already elected with surplus votes, your ballot transfers
+              to your next preference — party affiliation is irrelevant to the transfer. Leave any candidate you consider
+              a bad actor unranked — an unranked candidate receives nothing from you under any circumstances.
+            </p>
+          </Card>
+
+          {/* Indirect party effect */}
+          <div className="rounded-md border border-border bg-muted-bg/60 px-4 py-3 text-sm text-muted leading-relaxed">
+            <span className="font-semibold text-foreground">One indirect party effect: </span>
+            If a party wins a majority of first-preference votes nationally but still doesn't get a parliamentary
+            majority, it receives bonus seats via a constitutional correction mechanism. Your first preference
+            carries a faint party-level signal in this specific edge case — but it doesn't change how your vote
+            is counted or transferred in the normal seat-allocation process.
+          </div>
+
+          {/* Strategic tips */}
+          <Card>
+            <h3 className="text-xs font-mono uppercase tracking-[0.2em] text-muted mb-3">
+              Strategic use of your ranking
+            </h3>
+            <ul className="flex flex-col gap-2.5">
+              {STRATEGY_TIPS.map((tip, i) => (
+                <li key={i} className="flex items-start gap-2.5 text-sm">
+                  <span
+                    className="mt-1.5 shrink-0 w-2 h-2 rounded-full bg-[var(--cta)]/50"
+                    aria-hidden
+                  />
+                  <span className="leading-relaxed text-muted">{tip}</span>
+                </li>
+              ))}
+            </ul>
+          </Card>
+        </div>
+      </section>
+
       {/* ── How STV works ────────────────────────────────────────────────── */}
       <section aria-labelledby="stv-heading">
         <div className="flex flex-col gap-4">
           <div className="flex flex-col gap-1">
             <SectionLabel>The voting system</SectionLabel>
-            <h2 id="stv-heading" className="text-xl font-bold tracking-tight">How STV works</h2>
+            <h2 id="stv-heading" className="text-xl font-bold tracking-tight">How the voting system works</h2>
           </div>
           <Card>
             <ol className="flex flex-col divide-y divide-border">

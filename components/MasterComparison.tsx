@@ -127,6 +127,13 @@ export default function MasterComparison({
   const [sortKey, setSortKey] = useState<SortKey>("default");
   const [sortDesc, setSortDesc] = useState(true);
 
+  // Per-load shuffle weights — computed synchronously on first client render
+  const [shuffleWeights] = useState<Map<string, number>>(() => {
+    const map = new Map<string, number>();
+    for (const c of candidates) map.set(c.id, Math.random());
+    return map;
+  });
+
   // Restore filter state from sessionStorage on mount
   useEffect(() => {
     try {
@@ -257,13 +264,8 @@ export default function MasterComparison({
         if (a.district !== b.district) return a.district - b.district;
         const td = TIER_ORDER.indexOf(a.tier) - TIER_ORDER.indexOf(b.tier);
         if (td !== 0) return td;
-        const e =
-          ELECTABILITY_ORDER.indexOf(b.electabilitySymbol) -
-          ELECTABILITY_ORDER.indexOf(a.electabilitySymbol);
-        if (e !== 0) return e;
-        if (b.trackRecordStars !== a.trackRecordStars)
-          return b.trackRecordStars - a.trackRecordStars;
-        return a.name.localeCompare(b.name);
+        // Within the same tier: random per-load order
+        return (shuffleWeights.get(a.id) ?? 0) - (shuffleWeights.get(b.id) ?? 0);
       }
       let cmp = 0;
       if (sortKey === "name") cmp = a.name.localeCompare(b.name);
@@ -363,7 +365,7 @@ export default function MasterComparison({
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           placeholder={strings.searchPlaceholder}
-          className="flex-1 rounded-md border border-border bg-background px-3 py-2 text-base sm:text-sm focus:outline-none focus:ring-2 focus:ring-accent/40"
+          className="flex-1 rounded-md border border-border bg-white px-3 py-2 text-base sm:text-sm focus:outline-none focus:ring-2 focus:ring-accent/40"
         />
       </div>
 

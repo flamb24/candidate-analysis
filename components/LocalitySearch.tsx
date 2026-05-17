@@ -81,7 +81,7 @@ export default function LocalitySearch({ entries, prefix, placeholder, noResults
 
   return (
     <div className="relative w-full">
-      <div className="flex items-center gap-2 rounded-md border border-border bg-background px-3 py-2 focus-within:ring-2 focus-within:ring-accent/40 transition-shadow">
+      <div className="flex items-center gap-2 rounded-md border border-border bg-white px-3 py-2 focus-within:ring-2 focus-within:ring-accent/40 transition-shadow">
         <MapPin size={14} className="shrink-0 text-[var(--muted)]" aria-hidden />
         <input
           type="search"

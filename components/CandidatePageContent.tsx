@@ -1,6 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import { getCandidate } from "@/lib/data";
+import { getCandidate, getDistrict, candidateSlug } from "@/lib/data";
 import {
   ConflictBadge,
   ControversyBadge,
@@ -31,6 +31,14 @@ export default function CandidatePageContent({
   if (!candidate) return notFound();
 
   const prefix = lang === "mt" ? "/mt" : "";
+
+  // Other candidates in the same district (excluding self), sorted by tier
+  const district = getDistrict(districtNum);
+  const tierOrder: Record<string, number> = { Notable: 0, "Second-tier": 1, "List-filler": 2 };
+  const otherCandidates = (district?.candidates ?? [])
+    .filter((c) => candidateSlug(c) !== slug)
+    .sort((a, b) => (tierOrder[a.tier] ?? 9) - (tierOrder[b.tier] ?? 9))
+    .slice(0, 6);
 
   return (
     <div className="mx-auto w-full max-w-6xl flex flex-col gap-6 px-4 py-6 sm:px-6 sm:py-8">
@@ -276,6 +284,42 @@ export default function CandidatePageContent({
           </div>
         )}
       </Section>
+
+      {/* ── Bottom nav ─────────────────────────────────────────────────── */}
+      <div className="flex flex-col gap-4 border-t border-border pt-6">
+
+        {/* Other candidates in this district */}
+        {otherCandidates.length > 0 && (
+          <div className="flex flex-col gap-3">
+            <p className="text-xs font-mono uppercase tracking-[0.2em] text-muted">
+              Other candidates in District {districtNum}
+            </p>
+            <ul className="flex flex-col divide-y divide-border rounded-lg border border-border overflow-hidden">
+              {otherCandidates.map((c) => (
+                <li key={c.id}>
+                  <Link
+                    href={`${prefix}/district/${districtNum}/${candidateSlug(c)}`}
+                    className="flex items-center justify-between gap-3 px-4 py-3 text-sm hover:bg-muted-bg/60 transition-colors"
+                  >
+                    <span className="flex items-center gap-2 min-w-0">
+                      <PartyBadge party={c.party} />
+                      <span className="font-medium truncate">{c.name}</span>
+                    </span>
+                    <span className="shrink-0 text-muted text-xs">→</span>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+            <Link
+              href={`${prefix}/district/${districtNum}`}
+              className="text-sm text-muted hover:text-foreground hover:underline underline-offset-2 transition-colors"
+            >
+              ← All candidates in District {districtNum}
+            </Link>
+          </div>
+        )}
+
+      </div>
     </div>
   );
 }

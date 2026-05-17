@@ -14,6 +14,7 @@ export default function SiteHeader() {
   const t = getT(lang);
   const homeHref = lang === "mt" ? "/mt" : "/";
   const isHome = pathname === "/" || pathname === "/mt";
+  const isGuide = pathname === "/guide" || pathname === "/mt/guide";
 
   return (
     <header className="sticky top-0 z-30 border-b border-border bg-background/95 backdrop-blur">
@@ -32,14 +33,18 @@ export default function SiteHeader() {
         <nav className="flex items-center gap-2 sm:gap-3 text-sm text-muted">
           <Link
             href={lang === "mt" ? "/mt/guide" : "/guide"}
-            className="inline-flex items-center gap-1.5 rounded-md border border-[var(--cta)]/40 px-2.5 py-1 text-xs text-[var(--cta)] hover:bg-[var(--cta)]/5 transition-colors"
+            aria-current={isGuide ? "page" : undefined}
+            className={`inline-flex items-center gap-1.5 rounded-md border px-2.5 py-1 text-xs transition-colors ${
+              isGuide
+                ? "border-[var(--cta)] bg-[var(--cta)] text-white"
+                : "border-[var(--cta)]/40 text-[var(--cta)] hover:bg-[var(--cta)]/5"
+            }`}
           >
             <BookOpen size={11} aria-hidden />
             {t.votingGuide}
           </Link>
           <ShareButton shareLabel={t.share} copiedLabel={t.copied} />
           {/* <LangToggle /> — hidden until translations are reviewed */}
-          <HVToggle label={t.highVis} />
         </nav>
       </div>
     </header>
