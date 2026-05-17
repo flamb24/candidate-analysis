@@ -81,10 +81,12 @@ PN: Darren Carabott, Paula Mifsud Bonnici, Alex Perici Calascione
 | **Glenn Bedingfield** 🏛️ Gov. | Told The Guardian that Caruana Galizia "was not universally admired" days after her assassination | 🔴 High | Reputational/political | [MaltaToday](https://www.maltatoday.com.mt/news/national/85988/caruana_galizia_not_universally_admired_bedingfield_tells_guardian_newspaper) |
 | **Glenn Bedingfield** 🏛️ Gov. | Defended €17,000/month Planning Authority payments to Robert Abela's law firm in parliament | 🟡 Medium | Conflict of interest/institutional | [Newsbook](https://newsbook.com.mt/en/no-place-for-hatred-in-politics-according-to-glenn-bedingfield/) |
 | **Glenn Bedingfield** 🏛️ Gov. | Refused Freedom of Information requests about hundreds of workers employed by his Cleansing and Maintenance Division, calling workforce data "sensitive"; allegations of political patronage in hiring from Cottonera area | 🔴 High | Transparency failure; patronage allegations | [The Shift News, May 2026](https://theshiftnews.com/2026/05/14/bedingfield-details-on-recruitment-of-government-cleaners-sensitive/) |
+| **Glenn Bedingfield** 🏛️ Gov. | 🔴 High controversies documented — see D1 report (D1 is his primary district). Includes: blog targeting Daphne Caruana Galizia; Guardian comment after assassination; FOI refusal at CMD; patronage allegations | 🔴 High | See D1 report | — |
 | **Deo Debattista** | Asked former PM Muscat to accompany and endorse him for his 2022 campaign, associating himself with the disgraced former leader | 🟡 Medium | Political association | [Lovin Malta — D1 Spotlight 2022](https://lovinmalta.com/news/election-2022/1st-district-candidates-vote-spotlight/) |
 | **Paula Mifsud Bonnici** | Physically blocked a PBS camera in parliament during PM Abela's budget speech, preventing the live feed; called out by the Maltese Institute of Journalists (IĠM); she subsequently apologised | 🟢 Low | Conduct; parliamentary decorum | [MaltaToday, Oct 2025](https://www.maltatoday.com.mt/news/national/138009/im_calls_out_paula_mifsud_bonnici_for_blocking_camera_during_prime_ministers_speech) |
 | **Darren Carabott** | No documented controversy | 🟢 None/Low | — | — |
 | **Keith Azzopardi Tanti** 🏛️ Gov. | No documented controversy | 🟢 None/Low | — | — |
+| **Keith Azzopardi Tanti** *(Official ballot name: Keith John Azzopardi Tanti)* 🏛️ Gov. | Joseph Muscat endorsement — association with disgraced former leader | 🟢 Low | — | — |
 | **Alex Perici Calascione** | No documented controversy | 🟢 None/Low | — | — |
 
 ---
@@ -136,7 +138,7 @@ ADPD: Mark Zerafa
 | **Davina Sammut Hili** | Labour | S&D | Centre-left; progressive | Gender mechanism MP (2022); first-term | Women's rights; social policy | Silent |
 | **Yana Borg Debono Grech** | Labour | S&D | Centre-left | New candidate approved second-round; contesting D1 and D8 | Social policy; family | Silent |
 | **Justin Schembri** | PN | EPP | Centre-right; nativist-adjacent on immigration | Shadow Min. Education; MP elected D8 in 2022, now repositioning to D1 | Education; vocational training | Silent |
-| **James Aaron Ellul** | PN | EPP | Centre-right; community/heritage focused | Deputy Mayor of Floriana (2024–); former PN Communications Director (2023–24); Floriana councillor since 2015 | Floriana regeneration; local governance; heritage | Silent |
+| **James Aaron Ellul** *(Official ballot name: James Aaron Ellul)* | PN | EPP | Centre-right; community/heritage focused | Deputy Mayor of Floriana (2024–); former PN Communications Director (2023–24); Floriana councillor since 2015 | Floriana regeneration; local governance; heritage | Silent |
 | **Antonello Cuschieri** | PN | EPP | Centre-right | New face; limited public profile | Not confirmed | Silent |
 | **Billy McBee** *(Official ballot name: Billy Joe McBee)* | Momentum | EDP | Centrist-green; community-first | Founder of Residenti Beltin; Valletta community activist | Overdevelopment; Valletta residents' rights; tourism management; heritage | Pro-choice (party position) |
 | **Mark Zerafa** *(Official ballot name: Mark Anthony Zerafa)* | ADPD | EGP | Left-wing green | ADPD candidate D1 and D9 | Environment; planning; proportional representation | Pro-choice (party position) |
@@ -150,7 +152,7 @@ ADPD: Mark Zerafa
 | **Cressida Galea** | MP via 52A gender mechanism (2022–); Labour 'Lead' programme alumna | Elected under gender correction mechanism; active on social affairs committee; featured in PM Abela's early campaign press conferences 2026 | No independent electoral vote in 2022; limited legislative profile as backbencher | ⭐⭐ |
 | **Davina Sammut Hili** | MP via 52A gender mechanism (2022–) | Entered parliament through gender mechanism; first-term MP | Extremely limited public-facing record; no documented committee leadership | ⭐ |
 | **Yana Borg Debono Grech** | New candidate 2026; no prior office | No prior elected office | First-time candidate | ⭐ |
-| **Justin Schembri** | MP (D8, 2022–); Shadow Min. Education; teacher by profession | Named Shadow Minister for Education under both Grech and Borg leadership; elected D8 in 2022 with 3,976 first-count votes — strongest PN result on that district; now repositioning to D1 | Racism controversy badly damaged education portfolio credibility; no documented education reform output | ⭐⭐ |
+| **Justin Schembri** | MP (D8, 2022–); Shadow Min. Education; teacher by profession | Named Shadow Minister for Education under both Grech and Borg leadership; elected D8 in 2022 with 3,976 first-count votes — strongest PN result on that district; now repositioning to D1 | Racism controversy badly damaged education portfolio credibility; no documented education reform output | ⭐⭐⭐ |
 | **James Aaron Ellul** | Deputy Mayor of Floriana (2024–); PN Floriana Local Councillor (2015–); PN Director of Communications (Apr 2023–Sep 2024); journalist and writer | Youngest ever Floriana councillor (elected age 19, 2015); re-elected 2019 with 88% of PN vote; produced Floriana Regeneration Plan (2025) adopted unanimously by council; as PN Comms Director oversaw reduction of PN/PL vote gap from 40k to under 10k in 2024 EP elections | All local/party level; no parliamentary record; Floriana-focused platform may not transfer to broader D1 vote | ⭐⭐ |
 | **Antonello Cuschieri** | Former PN minority leader, Ħamrun Local Council; lawyer (42) | PN minority leader on Ħamrun Local Council; led PN objections to planning application in Pjazza San Pawl (2015–16); first-time parliamentary candidate | No parliamentary record; local council activity only | ⭐⭐ |
 | **Billy McBee** | Founder, Residenti Beltin (Valletta residents' group) | Founded and leads Residenti Beltin, the most prominent Valletta residents' advocacy organisation; raised UNESCO conservation concerns; documented campaign on public space, over-tourism, parking and heritage | Not an elected official; advocacy record is external/community; no institutional delivery | ⭐⭐⭐ |
@@ -163,10 +165,12 @@ ADPD: Mark Zerafa
 | Candidate | Controversy | Severity | Nature | Source |
 |---|---|---|---|---|
 | **Cressida Galea** | No documented controversy | 🟢 None/Low | — | — |
+| **Cressida Galea** | "Brainwashing" remark about young PN politicians (Apr 2022) | 🟢 Low | Inflammatory comment in first interview as MP; partisan; mostly forgotten | [Lovin Malta, Apr 2022](https://lovinmalta.com/news/watch-new-pl-mp-cressida-galea-says-shes-concerned-at-brainwashing-of-young-pn-politicians/) |
 | **Davina Sammut Hili** | No documented controversy | 🟢 None/Low | — | — |
 | **Yana Borg Debono Grech** | No documented controversy | 🟢 None/Low | — | — |
 | **Justin Schembri** | Posted on Facebook that Malta was full of "filth, shabbiness and Indians," equating Indian nationals with refuse; condemned by NGO Repubblika and Parliamentary Secretary Rebecca Buttigieg; refused to retract | 🔴 High | Racism/documented discrimination | [MaltaToday, May 2024](https://www.maltatoday.com.mt/news/national/128923/repubblika_condemns_pn_mps_racist_comment_on_indians) · [Malta Independent, May 2024](https://www.independent.com.mt/articles/2024-05-03/blogs-opinions/When-a-comment-completely-crosses-a-big-red-line-6736260764) |
 | **Justin Schembri** | Sympathised with far-right Italian politician Matteo Salvini on social media (2019, when serving as Birkirkara local council minority leader); post deleted | 🟡 Medium | Political association; deleted post | [MaltaToday](https://www.maltatoday.com.mt/news/national/98316/pn_candidate_called_out_by_district_rival_for_sympathising_with_matteo_salvini) |
+| **Justin Schembri** | Facebook posts sympathising with Matteo Salvini (2019); criticised by PN colleagues including Michael Fenech Adami | 🟡 Medium | Ideological; walked back; no formal party action | [MaltaToday, Nov 2019](https://www.maltatoday.com.mt/news/national/98316/pn_candidate_called_out_by_district_rival_for_sympathising_with_matteo_salvini) |
 | **James Aaron Ellul** | No documented controversy | 🟢 None/Low | — | — |
 | **Antonello Cuschieri** | No documented controversy | 🟢 None/Low | — | — |
 | **Billy McBee** | No documented controversy | 🟢 None/Low | — | — |
@@ -195,7 +199,7 @@ ADPD: Mark Zerafa
 |---|---|---|---|---|---|---|
 | **Second-tier** | Cressida Galea | Labour | ⭐⭐ | 🟢 | 📡 | ✅ Possible (gender mechanism) |
 | **Second-tier** | Davina Sammut Hili | Labour | ⭐ | 🟢 | 📵 | ✅ Possible (gender mechanism) |
-| **Second-tier** | Justin Schembri | PN | ⭐⭐ | 🔴 | 📶 | ✅ Possible |
+| **Second-tier** | Justin Schembri | PN | ⭐⭐⭐ | 🔴 | 📶 | ✅ Possible |
 | **Second-tier** | Billy McBee | Momentum | ⭐⭐⭐ | 🟢 | 📡 | ✅ Competitive (transfers) |
 | **Second-tier** | Yana Borg Debono Grech | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | James Aaron Ellul | PN | ⭐⭐ | 🟢 | 📶 | ✗ Unlikely |
@@ -227,7 +231,7 @@ Imperium Europa: Eman Alexander Cross
 | **Nigel Vella** | Labour | S&D | Centre-left | New first-timer | Not confirmed | Silent |
 | **Francesca Zarb** | Labour | S&D | Centre-left | New first-timer; contesting D1 and D11 | Not confirmed | Silent |
 | **Giuseppe Aquilina** | Aħwa Maltin | — | Hard-right nativist; anti-immigration | Contesting D1 and D4 | Immigration restriction; national identity | Conservative |
-| **Francis Mallia** | Aħwa Maltin | — | Hard-right nativist; anti-immigration | Contesting D1 and D8 | Malta for Maltese; immigration; identity | Conservative |
+| **Francis Mallia** | Aħwa Maltin | — | Hard-right nativist; anti-immigration | Contesting D1 and D8 | Malta for Maltese; immigration; identity | Implicitly pro-life |
 | **Eman Alexander Cross** | Imperium Europa | — | Far-right ethno-nationalist | Party leader; contesting D1 and D9 | Maltese identity; immigration restriction; anti-establishment | Anti-abortion |
 
 ---
@@ -260,7 +264,9 @@ Imperium Europa: Eman Alexander Cross
 | **Nigel Vella** | No documented controversy | 🟢 None/Low | — | — |
 | **Francesca Zarb** | No documented controversy | 🟢 None/Low | — | — |
 | **Giuseppe Aquilina** | Aħwa Maltin's "Malta għall-Maltin" nativist platform is explicitly anti-immigration | 🟡 Medium | Ideological/political | [MaltaToday — Aħwa Maltin launch](https://newsbook.com.mt/en/labour-announces-approval-of-26-candidates-including-13-first-timers/) |
+| **Giuseppe Aquilina** | No documented controversy | 🟢 None/Low | — | — |
 | **Francis Mallia** | As above | 🟡 Medium | Ideological/political | — |
+| **Francis Mallia** | Aħwa Maltin party platform contains immigration-restriction rhetoric that some characterise as xenophobic | 🟢 Low | — | — |
 
 ---
 

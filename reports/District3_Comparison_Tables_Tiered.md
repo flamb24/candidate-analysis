@@ -56,8 +56,8 @@ Note: Stephen Spiteri is primarily a D2 MP contesting D3 as his second district 
 | **Owen Bonnici** 🏛️ Gov. | Labour | S&D | Centre-left; justice and culture focus | Minister for Heritage, Arts & Local Government; born and raised in Żejtun | Heritage; arts; local governance; justice reform | Silent |
 | **Carmelo Abela** | Labour | S&D | Old-guard centre-left | Former minister (multiple portfolios); MP since 2008; D3 primary | Agriculture; social policy; rural communities | Silent |
 | **Andy Ellul** *(Official ballot name: Andrew Ellul)* 🏛️ Gov. | Labour | S&D | Centre-left; pragmatist | Parliamentary Secretary for Social Dialogue & Consumer Affairs; Government Whip | Social dialogue; consumer protection; employment | Silent |
-| **Janice Abela Chetcuti** | PN | EPP | Centre-right; animal welfare and consumer rights | MP (2022–); Shadow Min. Animal Welfare (Borg era); contesting D3 and D10 | Animal welfare; consumer rights; environment | Silent |
-| **Stephen Spiteri** | PN | EPP | Centre-right; medical professional | Long-serving incumbent; primarily D2 but contesting D3 too; Shadow Min. Health→Social Policy | Healthcare; social policy | **Explicitly pro-life** |
+| **Janice Abela Chetcuti** | PN | EPP | Centre-right; animal welfare and consumer rights | MP (2022–); Shadow Min. Animal Welfare (Borg era); contesting D3 and D10 | Animal welfare; consumer rights; environment | Silent; open to euthanasia debate |
+| **Stephen Spiteri** | PN | EPP | Centre-right; medical professional | Long-serving incumbent; primarily D2 but contesting D3 too; Shadow Min. Health→Social Policy | Healthcare; social policy | **Explicitly pro-life** (spearheaded motion against assisted reproduction leave) |
 
 **Tier 1 notes:** Chris Fearne's return is the most controversial feature of this district — he resigned as Deputy PM in May 2024 after criminal charges were filed, and a court found sufficient prima facie evidence for him to stand trial for fraud and misappropriation in the Vitals hospitals case. He denies wrongdoing and has Abela's backing. Internal Labour polling (per The Shift, May 2026) expected him to secure election from D3. Owen Bonnici, born in Żejtun, is the district's most natural Labour anchor candidate. The PN faces a severe candidacy gap after Mifsud Bonnici's retirement; Janice Abela Chetcuti is the most credible PN option.
 
@@ -89,6 +89,7 @@ Note: Stephen Spiteri is primarily a D2 MP contesting D3 as his second district 
 | **Andy Ellul** | Entered parliament via casual election replacing Silvio Grixti (convicted of fraud); no personal controversy | 🟢 None/Low | — | — |
 | **Andy Ellul** | PN accused him of using public Parliamentary Secretariat funds to run a political Facebook advert; referred to the Commissioner for Standards in Public Life (MaltaToday, Oct 2023); Ellul denied and said advert promoted a legitimate government initiative | 🟢 Low | Ethics allegation; denied; outcome unclear | [MaltaToday, Oct 2023](https://www.maltatoday.com.mt/news/national/125282/nationalist_party_accuses_andy_ellul_of_abusing_public_funds_in_facebook_advert) |
 | **Janice Abela Chetcuti** | No documented controversy | 🟢 None/Low | — | — |
+| **Janice Abela Chetcuti** | Magistrate compared her to a prostitute in court (victim, not her error) | 🟢 Low | She was the victim; handled with dignity | [Lovin Malta, Jun 2022](https://lovinmalta.com/news/news-politics/janice-chetcuti-announces-she-wont-contest-pn-deputy-leadership-post/) |
 | **Stephen Spiteri** | Medical Council inquiry (2018): investigation for issuing sick certificates at €5 without examining patients at Brown's Pharmacy, Kalkara | 🔴 High | Professional misconduct | [MaltaToday](https://www.maltatoday.com.mt/news/national/89935/shadow_health_minister_faces_inquiry_over_bogus_sick_certificates) |
 | **Stephen Spiteri** | Missed 81% of parliamentary sittings in 2011 — worst attendance record of any MP that year | 🟡 Medium | Parliamentary conduct | Times of Malta, 2011 |
 
@@ -140,7 +141,7 @@ ADPD: Brian Decelis
 | **Alicia Bugeja Said** *(Official ballot name: Alicia Maree Beth Sephora Bugeja Said)* 🏛️ Gov. | Labour | S&D | Centre-left; scientist; fisheries focus | Parliamentary Secretary Fisheries, Aquaculture & Animal Rights (2022–); D3 and D12 | Fisheries; animal rights; coastal environment | Silent |
 | **Ray Abela** *(Official ballot name: Raymond Abela)* | Labour | S&D | Centre-left; tech/digital | MP (2022–); primarily D3; digital economy focus | Digital economy; technology; innovation | Silent |
 | **Andrew Agius** | PN | EPP | Centre-right; young professional | First-time D3 candidate; veterinarian; son of former MP Francis Agius | Veterinary/agriculture; community | Silent |
-| **Miriana Calleja Testaferrata de Noto** | PN | EPP | Centre-right; youth-oriented | Former MŻPN President; contested 2024 MEP elections (408 votes); D3 and D5 | Youth; European affairs | Silent |
+| **Miriana Calleja Testaferrata de Noto** *(Official ballot name: Miriana Calleja Testaferrata De Noto)* | PN | EPP | Centre-right; youth-oriented | Former MŻPN President; contested 2024 MEP elections (408 votes); D3 and D5 | Youth; European affairs | Silent |
 | **John Baptist Camilleri** | PN | EPP | Centre-right | Aviation engineer; Marsaskala minority leader; contested D2 and D3 | Marsaskala local issues; infrastructure | Silent |
 | **Raymond Gatt** | PN | EPP | Centre-right | Orthopaedic consultant; new PN D3 candidate | Healthcare | Silent |
 | **Mark Camilleri Gambin** *(Official ballot name: Mark Philip Camilleri Gambin)* | Momentum | EDP | Centrist-green | Momentum D3 candidate | Good governance; environment | Pro-choice |
@@ -157,7 +158,7 @@ ADPD: Brian Decelis
 | **Andrew Agius** | First-time candidate; veterinarian; son of former MP Dr Francis Agius | 11 years serving southern Malta communities as vet; President, Veterinary Association; studied abroad 8 years | No prior elected office | ⭐ |
 | **Miriana Calleja Testaferrata de Noto** | Former MŻPN President; 2024 MEP candidate (408 votes) | PN youth wing leadership; European Studies background | Low vote count in 2024 MEP election; no elected office | ⭐ |
 | **John Baptist Camilleri** | PN Marsaskala Minority Leader; aviation engineer; contested 2017 and 2022 | Long-standing PN local presence in Marsaskala; advocated for PN offshore maritime fuel hub; known for constituency engagement on local issues | D2 primary; D3 secondary | ⭐⭐ |
-| **Raymond Gatt** | Orthopaedic consultant; new candidate | Medical professional | No prior elected record | ⭐ |
+| **Raymond Gatt** | Orthopaedic consultant; new candidate | Medical professional | No prior elected record | ⭐⭐ |
 | **Mark Camilleri Gambin** | Momentum candidate | No elected record | Information gap | ⭐ |
 | **Brian Decelis** | ADPD candidate D3 and D4 | ADPD green platform | No elected record | ⭐ |
 
@@ -169,6 +170,9 @@ ADPD: Brian Decelis
 |---|---|---|---|---|
 | **All T2 candidates** | No documented controversy | 🟢 None/Low | — | — |
 | **Alicia Bugeja Said** 🏛️ Gov. | Received campaign donations from Malta's top fish farm operators during her 2022 electoral campaign while still serving as Director of Fisheries — documented conflict of interest between her regulatory role and campaign financing | 🟡 Medium | Conflict of interest | [Wikipedia — Alicia Bugeja Said](https://en.wikipedia.org/wiki/Alicia_Bugeja_Said) · MaltaToday, 2022 |
+| **Alicia Bugeja Said** *(Official ballot name: Alicia Maree Beth Sephora Bugeja Said)* 🏛️ Gov. | €6,200 received from fish farm/fishing companies (Frutti di Mare €2,500; Malta Fish Farming €2,500; Azzopardi Fisheries €1,200) during 2022 campaign while serving as Director of Fisheries, then appointed Parliamentary Secretary for Fisheries — reported as conflict of interest; ethics complaint by Arnold Cassola over "Swimming With Tuna" event using ministerial channels | 🟡 Medium | — | — |
+| **John Baptist Camilleri** | No documented controversy | 🟢 None/Low | — | — |
+| **Andrew Agius** | No documented controversy | 🟢 None/Low | — | — |
 
 ---
 
@@ -196,7 +200,7 @@ ADPD: Brian Decelis
 | **Second-tier** | Andrew Agius | PN | ⭐ | 🟢 | 📶 | ✅ Possible (absorb Mifsud Bonnici votes) |
 | **Second-tier** | Miriana Calleja Testaferrata de Noto | PN | ⭐ | 🟢 | 📶 | ✗ Unlikely |
 | **Second-tier** | John Baptist Camilleri | PN | ⭐⭐ | 🟢 | 📵 | ✗ Unlikely (D3 secondary) |
-| **Second-tier** | Raymond Gatt | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
+| **Second-tier** | Raymond Gatt | PN | ⭐⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Mark Camilleri Gambin | Momentum | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
 | **Second-tier** | Brian Decelis | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
 
@@ -240,7 +244,7 @@ Independent: Nazzareno Bonnici
 | **Martina Paula Buhagiar** | New 2026 candidate | No prior record | ⭐ |
 | **James Grech** | New 2026 candidate (D2 and D3) | No prior record | ⭐ |
 | **Eric Plumpton** | New 2026 candidate | No prior record | ⭐ |
-| **Errol Cutajar** | PN activist; multi-election candidate | Contested multiple elections without success | ⭐ |
+| **Errol Cutajar** | PN activist; multi-election candidate | Contested multiple elections without success | ⭐⭐ |
 | **Leone Sciberras** | PN activist; multi-election candidate (D2 and D3) | Contested multiple elections | ⭐ |
 | **Marianne Sacco** | Aħwa Maltin organiser | Party canvassing | ⭐ |
 | **Nazzareno Bonnici** | Perennial independent; known as "Żaren tal-Ajkla" | Contested multiple elections as a perennial independent; adds colour but negligible vote | ⭐ |
@@ -253,8 +257,13 @@ Independent: Nazzareno Bonnici
 |---|---|---|---|---|
 | **Chris Bonett** 🏛️ Gov. | Transport Ministry projects — chronic delays and cost overruns; traffic congestion governance failures | 🟡 Medium | Ministerial accountability | The Shift News, multiple reports 2024–26 |
 | **Chris Bonett** 🏛️ Gov. | May 2026: Transport Malta employees allegedly pressured by Bonett canvassers to change their registered voting addresses to his district; senior authority officials reportedly offered to handle transfers without personal appearance; The Shift reported sustained organised effort to manipulate electoral rolls | 🔴 High | Electoral integrity; abuse of ministerial position | [The Shift News, May 2026](https://theshiftnews.com/2026/05/06/transport-malta-employees-pressured-to-shift-voting-address-to-minister-bonetts-district/) |
+| **Chris Bonett** *(Official ballot name: Christian Paul Bonett)* 🏛️ Gov. | Transport Malta employees pressured to shift voting address to D4 to boost Bonett's vote, per The Shift | 🔴 High | Electoral abuse; institutional | [The Shift News, 6 May 2026](https://theshiftnews.com/2026/05/06/transport-malta-employees-pressured-to-shift-voting-address-to-minister-bonetts-district/) |
+| **Chris Bonett** *(Official ballot name: Christian Paul Bonett)* 🏛️ Gov. | Standards Commissioner complaint: used ministerial authority to send political letter on airport geo-fencing to Gudja residents — reported by Cacopardo/ADPD | 🔴 High | Abuse of ministerial position; Standards | [The Shift News, 9 March 2026](https://theshiftnews.com/2026/03/09/bonett-to-face-probe-over-abuse-claims-following-the-shifts-revelations/) |
+| **Chris Bonett** *(Official ballot name: Christian Paul Bonett)* 🏛️ Gov. | Cash-for-licence scheme: TM officials internally said it was wasteful and would reduce licences by just 0.07%; PM had to scale it back | 🟡 Medium | Ministerial incompetence/waste | [The Shift News, Jan 2026](https://theshiftnews.com/2026/01/07/tm-officials-ignored-as-e5-million-scheme-expected-to-reduce-drivers-by-just-0-07/) |
+| **Chris Bonett** *(Official ballot name: Christian Paul Bonett)* 🏛️ Gov. | Infrastructure Malta workforce ballooned; "1,000 projects" claim included routine pothole fixes | 🟡 Medium | Institutional abuse; public funds | [The Shift News, May 2026](https://theshiftnews.com/2026/05/05/infrastructure-ministers-dubious-1000-projects-claim-revived/) |
 | **Marianne Sacco** | Aħwa Maltin's nativist platform | 🟡 Medium | Ideological | Multiple sources |
 | **All others** | No documented controversy | 🟢 None/Low | — | — |
+| **Leone Sciberras** | No documented controversy | 🟢 None/Low | — | — |
 
 ---
 
@@ -276,7 +285,7 @@ Independent: Nazzareno Bonnici
 | **List-filler** | Martina Paula Buhagiar | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | James Grech | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Eric Plumpton | Labour | ⭐ | 🟢 | 📵 | ✗ |
-| **List-filler** | Errol Cutajar | PN | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | Errol Cutajar | PN | ⭐⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Leone Sciberras | PN | ⭐ | 🟢 | 📶 | ✗ |
 | **List-filler** | Marianne Sacco | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
 | **List-filler** | Nazzareno Bonnici | Independent | ⭐ | 🟢 | 📶 | ✗ |

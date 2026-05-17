@@ -86,6 +86,7 @@ PN: Stephen Spiteri, Bernice Bonello
 | **Stephen Spiteri** | Medical Council inquiry (2018): investigation for issuing sick certificates at €5 without examining patients at Brown's Pharmacy, Kalkara | 🔴 High | Professional misconduct | [MaltaToday](https://www.maltatoday.com.mt/news/national/89935/shadow_health_minister_faces_inquiry_over_bogus_sick_certificates) |
 | **Stephen Spiteri** | Missed 81% of parliamentary sittings in 2011 — worst attendance record of any MP that year | 🟡 Medium | Parliamentary conduct | Times of Malta, 2011 |
 | **Bernice Bonello** | 2022: fellow PN candidate Doris Borg publicly alleged the party showed "blatant favouritism" towards Bonello in media exposure during the campaign; a third anonymous PN candidate corroborated the claim; Borg subsequently resigned from the PN; Bonello denied any impropriety | 🟢 Low | Internal party dispute; she was not the perpetrator | [Lovin Malta, Apr 2022](https://lovinmalta.com/news/new-pn-mp-bernice-bonello-calls-for-maturity-and-party-loyalty-after-district-rival-claims-favouritism/) |
+| **Bernice Bonello** *(Official ballot name: Bernice Theresa Bonello)* | No documented controversy | 🟢 None/Low | — | — |
 
 ---
 
@@ -134,7 +135,7 @@ Aħwa Maltin: Paul Salomone
 | **Georvin Bugeja** | Labour | S&D | Centre-left | New candidate approved first round; D2 only | Not confirmed | Silent |
 | **John Baptist Camilleri** | PN | EPP | Centre-right | Aviation engineer; Marsaskala PN minority leader; multi-election candidate; contesting D2 and D3 | Local infrastructure; maritime fuel hub; pensions; elderly | Silent |
 | **Leone Sciberras** | PN | EPP | Centre-right | Experienced PN activist; multi-district candidate (D2 and D3) | Pensions; elderly care | Silent |
-| **Matthew Agius** | Momentum | EDP | Centrist-green; anti-corruption | Momentum candidate D2 (and D8 in some reports) | Good governance; anti-corruption | Pro-choice (party position) |
+| **Matthew Agius** | Momentum | EDP | Centrist-green; anti-corruption | Momentum candidate D2 (and D8 in some reports) | Good governance; anti-corruption | Silent / free vote (party policy) |
 | **Mario Mallia** | ADPD | EGP | Left-wing green | ADPD candidate D2 and D8 | Environment; planning | Pro-choice (party position) |
 | **Paul Salomone** | Aħwa Maltin | — | Hard-right nativist | Aħwa Maltin leader; D2 and D13 | Immigration restriction; Maltese identity | Conservative |
 | **Jorge Grech** | Labour | S&D | Centre-left | New candidate 2026 | Not confirmed | Silent |
@@ -150,8 +151,8 @@ Aħwa Maltin: Paul Salomone
 | **Georvin Bugeja** | New candidate 2026 | No prior elected office confirmed | First-time candidate | ⭐ |
 | **John Baptist Camilleri** | PN Marsaskala Minority Leader; aviation engineer; contested 2017 and 2022 | Long-standing PN local presence in Marsaskala; advocated for PN offshore maritime fuel hub; known for constituency engagement on local issues | Never elected to parliament despite two attempts; local council role | ⭐⭐ |
 | **Leone Sciberras** | PN activist; contested multiple elections | Contested D2 and D3; pension and elderly care advocacy | No elected office at national level | ⭐ |
-| **Matthew Agius** | Momentum candidate; researcher/professional | Momentum representative for good governance platform | No elected record | ⭐ |
-| **Mario Mallia** | ADPD activist | ADPD green platform; contesting D2 and D8 | No elected record | ⭐ |
+| **Matthew Agius** | Momentum candidate; researcher/professional | Momentum representative for good governance platform | No elected record | ⭐⭐ |
+| **Mario Mallia** | ADPD activist | ADPD green platform; contesting D2 and D8 | No elected record | ⭐⭐ |
 | **Paul Salomone** | Aħwa Maltin leader | Founded and leads Aħwa Maltin; runs in D2 and D13 | Fringe party; no electoral breakthrough | ⭐ |
 | **Jorge Grech** | New candidate 2026 | No prior record confirmed | Information gap | ⭐ |
 
@@ -192,8 +193,8 @@ Aħwa Maltin: Paul Salomone
 | **Second-tier** | John Baptist Camilleri | PN | ⭐⭐ | 🟢 | 📶 | ✅ Competitive (transfers from Spiteri) |
 | **Second-tier** | Georvin Bugeja | Labour | ⭐ | 🟢 | 📵 | ✅ Possible (new Labour candidate) |
 | **Second-tier** | Leone Sciberras | PN | ⭐ | 🟢 | 📶 | ✗ Unlikely |
-| **Second-tier** | Matthew Agius | Momentum | ⭐ | 🟢 | 📶 | ✗ Structural ceiling |
-| **Second-tier** | Mario Mallia | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
+| **Second-tier** | Matthew Agius | Momentum | ⭐⭐ | 🟢 | 📶 | ✗ Structural ceiling |
+| **Second-tier** | Mario Mallia | ADPD | ⭐⭐ | 🟢 | 📵 | ✗ Structural ceiling |
 | **Second-tier** | Paul Salomone | Aħwa Maltin | ⭐ | 🟡 | 📶 | ✗ |
 | **Second-tier** | Jorge Grech | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 
@@ -238,11 +239,11 @@ Labour: Carmelo Abela, Glenn Bedingfield, Clint Azzopardi Flores, Jesmond Bonell
 | **Glenn Bedingfield** | D1 and D2 candidate 2026 | No documented record for D2 | D1 primary | ⭐ |
 | **Clyde Caruana** 🏛️ Gov. | Finance Minister (2020–); chief of staff (2020); Mayor of Żabbar (2006–09) | Managed Malta's energy subsidies (€320m/yr); maintained A+ credit rating (Scope Ratings 2026); authored GDP-to-debt strategy | Contested D2 via casual election 2020; re-elected D8 in 2022; now back on D2 supplementary list | ⭐⭐⭐⭐ (as Finance Minister — see D8 report) |
 | **Alison Zerafa Civelli** 🏛️ Gov. | Parliamentary Secretary for Local Government (2022–); MP via 52A gender mechanism (2022–); Mayor of Cospicua (2013–22) | Cottonera community figure; long-serving mayor of Cospicua; role as Parliamentary Secretary for Local Government gives her a national portfolio | Family connection to PM raises patronage optics; "ashamed of Valletta" parliamentary remark (2022) triggered public backlash | ⭐⭐ |
-| **Amanda Spiteri Grech** | MP via 52A gender mechanism (2022–); D4 | Gender mechanism MP | D4 figure; D2 is supplementary | ⭐ |
+| **Amanda Spiteri Grech** | MP via 52A gender mechanism (2022–); D4 | Gender mechanism MP | D4 figure; D2 is supplementary | ⭐⭐ |
 | **Clint Azzopardi Flores** | New candidate 2026 | No prior record | Information gap | ⭐ |
 | **Jesmond Bonello** | New candidate 2026; D2 and D8 | No prior record confirmed | Information gap | ⭐ |
 | **Martina Paula Buhagiar** | New candidate 2026 | No prior record | Information gap | ⭐ |
-| **Edward Cassar Delia** | New candidate 2026 | No prior record confirmed | Information gap | ⭐ |
+| **Edward Cassar Delia** | New candidate 2026 | No prior record confirmed | Information gap | ⭐⭐ |
 | **James Grech** | New candidate 2026 | No prior record | Information gap | ⭐ |
 | **Shana Woods** | New candidate 2026 | No prior record | Information gap | ⭐ |
 | **Roderick Zerafa** | New candidate 2026; D2 and D5 | No prior record | Information gap | ⭐ |
@@ -256,7 +257,13 @@ Labour: Carmelo Abela, Glenn Bedingfield, Clint Azzopardi Flores, Jesmond Bonell
 | **Alison Zerafa Civelli** 🏛️ Gov. | Sister-in-law of PM Abela; family political patronage dynamic — appointed to four government boards before becoming MP; public concern over nepotism optics | 🟡 Medium | Nepotism optics | Multiple sources |
 | **Alison Zerafa Civelli** 🏛️ Gov. | 2022 parliamentary speech in which she stated Valletta residents used to be "ashamed" of their city; triggered backlash from residents, PN MP Darren Carabott, and Residenti Beltin; she posted a clarification but did not retract | 🟡 Medium | Parliamentary conduct; reputational | [MaltaToday, Jul 2022](https://www.maltatoday.com.mt/news/national/117691/zerafa_civelli_faces_backlash_over_valletta_remark_deemed_offensive_by_residents) · [Lovin Malta, Jul 2022](https://lovinmalta.com/news/after-valletta-bormla-remark-alison-zerafa-civelli-clarifies-she-was-referring-to-untapped-potential/) |
 | **Glenn Bedingfield** | 🔴 High controversies documented — see D1 report (D1 is his primary district). Includes: blog targeting Daphne Caruana Galizia; Guardian comment after assassination; FOI refusal at CMD; patronage allegations | 🔴 High | See D1 report | [D1 report — T1 Table 3] |
+| **Glenn Bedingfield** 🏛️ Gov. | Ran blog that published over 1,000 posts targeting Daphne Caruana Galizia, including her car's make, model and number plate while serving as PM person of trust | 🔴 High | Ethical/conduct; public inquiry testimony | [MaltaToday — Inquiry testimony](https://www.maltatoday.com.mt/news/court_and_police/100506/caruana_galizia_public_inquiry_glenn_bedingfield_to_testify) · [Lovin Malta](https://lovinmalta.com/news/glenn-bedingfields-controversial-blog-is-making-a-comeback-this-easter/) |
+| **Glenn Bedingfield** 🏛️ Gov. | Told The Guardian that Caruana Galizia "was not universally admired" days after her assassination | 🔴 High | Reputational/political | [MaltaToday](https://www.maltatoday.com.mt/news/national/85988/caruana_galizia_not_universally_admired_bedingfield_tells_guardian_newspaper) |
+| **Glenn Bedingfield** 🏛️ Gov. | Defended €17,000/month Planning Authority payments to Robert Abela's law firm in parliament | 🟡 Medium | Conflict of interest/institutional | [Newsbook](https://newsbook.com.mt/en/no-place-for-hatred-in-politics-according-to-glenn-bedingfield/) |
+| **Glenn Bedingfield** 🏛️ Gov. | Refused Freedom of Information requests about hundreds of workers employed by his Cleansing and Maintenance Division, calling workforce data "sensitive"; allegations of political patronage in hiring from Cottonera area | 🔴 High | Transparency failure; patronage allegations | [The Shift News, May 2026](https://theshiftnews.com/2026/05/14/bedingfield-details-on-recruitment-of-government-cleaners-sensitive/) |
 | **All other list-fillers** | No documented controversy | 🟢 None/Low | — | — |
+| **Carmelo Abela** | No major documented controversy in this legislature | 🟢 None/Low | — | — |
+| **Clyde Caruana** 🏛️ Gov. | Information gap | 🟢 None/Low | — | — |
 
 ---
 
@@ -280,11 +287,11 @@ Labour: Carmelo Abela, Glenn Bedingfield, Clint Azzopardi Flores, Jesmond Bonell
 | **List-filler** | Glenn Bedingfield 🏛️ Gov. | Labour | ⭐⭐ | 🔴 | 📡 | ✗ (D1 primary; see D1 report) |
 | **List-filler** | Clyde Caruana 🏛️ Gov. | Labour | ⭐⭐⭐⭐ | 🟢 | 📡 | ✗ (D8 primary) |
 | **List-filler** | Alison Zerafa Civelli 🏛️ Gov. | Labour | ⭐⭐ | 🟡 | 📶 | ✗ |
-| **List-filler** | Amanda Spiteri Grech | Labour | ⭐ | 🟢 | 📵 | ✗ (D4 primary) |
+| **List-filler** | Amanda Spiteri Grech | Labour | ⭐⭐ | 🟢 | 📵 | ✗ (D4 primary) |
 | **List-filler** | Clint Azzopardi Flores | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Jesmond Bonello | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Martina Paula Buhagiar | Labour | ⭐ | 🟢 | 📵 | ✗ |
-| **List-filler** | Edward Cassar Delia | Labour | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | Edward Cassar Delia | Labour | ⭐⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | James Grech | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Shana Woods | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Roderick Zerafa | Labour | ⭐ | 🟢 | 📵 | ✗ |

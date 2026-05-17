@@ -64,7 +64,7 @@ Third parties: Arnold Cassola (Momentum), Mark Zerafa (ADPD)
 | **Albert Buttigieg** | PN | EPP | Centre-right; anti-developer | Shadow Min. Neurodivergence; D9 and D10 | Overdevelopment; community governance | Silent |
 | **Eve Borg Bonello** | PN | EPP | Centre-right; progressive-environmental | Shadow Min. Climate; D9 and D10 | Climate; governance; transparency | **Explicitly pro-life** |
 | **Arnold Cassola** | Momentum | EDP | Centrist-green; anti-corruption | Founder/leader; D9 and D10 | Constitutional reform; FOI; environment | Pro-life (personal); free vote (party) |
-| **Mark Zerafa** *(Official ballot name: Mark Anthony Zerafa)* | ADPD | EGP | Left-wing green | D1 and D9 | Environment; planning | Pro-choice |
+| **Mark Zerafa** *(Official ballot name: Mark Anthony Zerafa)* | ADPD | EGP | Left-wing green | D1 and D9 | Environment; planning | Pro-choice (party position) |
 
 ---
 
@@ -91,14 +91,27 @@ Third parties: Arnold Cassola (Momentum), Mark Zerafa (ADPD)
 |---|---|---|
 | **Clifton Grima** 🏛️ Gov. | MCAST fraud — ignored NAO audit warnings twice; Standards Commissioner breach | 🔴 High |
 | **Clifton Grima** 🏛️ Gov. | April 2025: Ombudsman ruled that a ministerial circular instructing teachers to conform to government policy when expressing themselves publicly constituted a restriction on freedom of expression — Momentum highlighted the ruling in campaign material | 🔴 High |
+| **Clifton Grima** 🏛️ Gov. | MCAST €2.3m fraud — ignored NAO audit warnings (2019 + 2023) | 🔴 High |
+| **Clifton Grima** 🏛️ Gov. | Standards Commissioner ethics breach — refused to apologise | 🔴 High |
+| **Clifton Grima** 🏛️ Gov. | Chief of staff "unfit for purpose" leaked recordings | 🟡 Medium |
 | **Michael Falzon** 🏛️ Gov. | 105 unanswered PQs; limited reform | 🟡 Medium |
+| **Michael Falzon** 🏛️ Gov. | 105 unanswered parliamentary questions | 🟡 Medium |
 | **Joe Giglio** | Pilatus Bank episode; Meli extradition dispute | 🔴 High |
+| **Joe Giglio** *(Official ballot name: Joseph Giglio)* | Pilatus Bank/Efimova whistleblower comments — internal PN criticism | 🔴 High |
+| **Joe Giglio** *(Official ballot name: Joseph Giglio)* | Daniel Meli extradition legal advice disputed; US request later dismissed | 🟡 Medium |
 | **Rebecca Buttigieg** | No documented controversy | 🟢 None/Low |
 | **Beppe Fenech Adami** | No documented controversy | 🟢 None/Low |
+| **Beppe Fenech Adami** *(Official ballot name: Joseph Fenech Adami)* | Driving test racket — reportedly called Minister Ian Borg re: son's failed test; Times of Malta reported ministerial pressure on Transport Malta | 🟡 Medium |
 | **Graziella Attard Previ** | No documented controversy | 🟢 None/Low |
 | **Albert Buttigieg** | No documented controversy | 🟢 None/Low |
+| **Albert Buttigieg** | "Fat cats" claim — PN investigation found "no proof" | 🟢 Low |
 | **Eve Borg Bonello** | Project Green exposure (€234k marketing vs trees) | 🟡 Medium |
+| **Eve Borg Bonello** | Accepted gender quota seat despite publicly opposing the mechanism | 🟢 Low |
+| **Eve Borg Bonello** | Hitler/fascism comparison for PM Abela (parliament speech) | 🟡 Medium |
+| **Eve Borg Bonello** | Death threats received (2019–2022) | 🟢 Low |
 | **Arnold Cassola** | No documented controversy | 🟢 None/Low |
+| **Arnold Cassola** | Third-party fragmentation/"ego" split from ADPD | 🟢 Low |
+| **Arnold Cassola** | Ageist remarks by Jason Micallef (Cassola was the victim) | 🟢 Low |
 | **Mark Zerafa** | No documented controversy | 🟢 None/Low |
 
 ---
@@ -128,17 +141,43 @@ Labour: Vania Agius Tabone, Clint Azzopardi Flores
 
 ---
 
+## T2 — TABLE 1: POLITICAL ALIGNMENT
+
+| Candidate | Party | EU Group | Abortion Stance |
+|---|---|---|---|
+| **Alex Perici Calascione** | PN | EPP | Silent |
+| **Clint Azzopardi Flores** | Labour | S&D | Silent |
+| **Vania Agius Tabone** | Labour | S&D | Silent |
+| **Julie Zahra** | PN | EPP | Silent |
+| **Joseph Aquilina** | PN | EPP | Silent |
+| **Graham Bencini** | PN | EPP | Silent |
+| **Marija Elena Gauci** | PN | EPP | Silent |
+| **Noel Muscat** | PN | EPP | Silent |
+
+---
+
+## T2 — TABLE 3: CONTROVERSIES
+
+| Candidate | Controversy | Severity | Nature | Source |
+|---|---|---|---|---|
+| **Alex Perici Calascione** *(Official ballot name: Alexander Perici Calascione)* | No documented controversy | 🟢 None/Low | — | — |
+| **Julie Zahra** | Accepted gender quota seat despite publicly opposing the mechanism in principle | 🟢 Low | Principled inconsistency; common pattern; defended as pragmatic | [Lovin Malta, Apr 2022](https://lovinmalta.com/news/election-2022/singer-and-teacher-julie-zahra-elected-to-parliament-as-a-nationalist-mp/) |
+| **Graham Bencini** | Asked Auditor General what "government subvention" means in PAC session | 🟢 Low | Competence question; partisan reporting | — |
+| **Noel Muscat** | ONE News allegation about council meeting (denied by Muscat) | 🟢 Low | Partisan source; denied | — |
+
+---
+
 ## T2 — TABLE 5: MASTER SUMMARY (Tier 2)
 
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
 | **Second-tier** | Graham Bencini | PN | ⭐⭐ | 🟢 | 📡 | ✅ Competitive |
 | **Second-tier** | Julie Zahra | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
-| **Second-tier** | Noel Muscat | PN | ⭐⭐ | 🟢 | 📡 | ✅ Possible |
+| **Second-tier** | Noel Muscat | PN | ⭐⭐⭐ | 🟢 | 📡 | ✅ Possible |
 | **Second-tier** | Alex Perici Calascione *(Official ballot name: Alexander Perici Calascione)* | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible (D1 primary) |
 | **Second-tier** | Jonathan Muscat *(Official ballot name: Jonathan Albert Muscat)* | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Charles Selvaggi | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
-| **Second-tier** | Joseph Aquilina *(Official ballot name: Joseph Mary Aquilina)* | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
+| **Second-tier** | Joseph Aquilina *(Official ballot name: Joseph Mary Aquilina)* | PN | ⭐⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Marija Elena Gauci | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Vania Agius Tabone | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Clint Azzopardi Flores *(Official ballot name: Clinton-Domenic Azzopardi Flores)* | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
@@ -152,19 +191,44 @@ PN: James Ellul
 Imperium Europa: Eman Alexander Cross
 Aħwa Maltin: Josephine Borg
 
+## T3 — TABLE 1: POLITICAL ALIGNMENT
+
+| Candidate | Party | EU Group | Abortion Stance |
+|---|---|---|---|
+| **James Ellul** | PN | EPP | Silent |
+| **Eman Alexander Cross** | Imperium Europa | — | Anti-abortion |
+| **Miguel Balzan** | Labour | S&D | Silent |
+| **Tania Borg** | Labour | S&D | Silent |
+| **Lorna Borg Vassallo** | Labour | S&D | Silent |
+| **David Caruana** | Labour | S&D | Silent |
+| **Lisa Cassar Shaw** | Labour | S&D | Silent |
+| **Mariah Meli** | Labour | S&D | Silent |
+| **Josephine Borg** | Aħwa Maltin | — | Implicitly pro-life |
+
+---
+
+## T3 — TABLE 3: CONTROVERSIES
+
+| Candidate | Controversy | Severity | Nature | Source |
+|---|---|---|---|---|
+| **James Ellul** *(Official ballot name: James Aaron Ellul)* | No documented controversy | 🟢 None/Low | — | — |
+| **Eman Alexander Cross** | Imperium Europa is a far-right ethno-nationalist party with documented extremist positions on race and immigration | 🔴 High | Ideology/documented extremism | — |
+
+---
+
 ## T3 — TABLE 5: MASTER SUMMARY (Tier 3)
 
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
 | **List-filler** | Miguel Balzan | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Tania Borg | Labour | ⭐ | 🟢 | 📵 | ✗ |
-| **List-filler** | Lorna Borg Vassallo | Labour | ⭐ | 🟢 | 📵 | ✗ |
-| **List-filler** | David Caruana | Labour | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | Lorna Borg Vassallo | Labour | ⭐⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | David Caruana | Labour | ⭐⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Lisa Cassar Shaw | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Mariah Meli | Labour | ⭐ | 🟢 | 📵 | ✗ |
-| **List-filler** | James Ellul *(Official ballot name: James Aaron Ellul)* | PN | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | James Ellul *(Official ballot name: James Aaron Ellul)* | PN | ⭐⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Eman Alexander Cross | Imperium Europa | ⭐ | 🔴 | 📶 | ✗ |
-| **List-filler** | Josephine Borg | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
+| **List-filler** | Josephine Borg | Aħwa Maltin | ⭐ | 🟢 | 📵 | ✗ |
 
 ---
 
@@ -223,7 +287,7 @@ Aħwa Maltin: Josephine Borg
 | **List-filler** | Mariah Meli | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | James Ellul | PN | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Eman Alexander Cross | Imperium Europa | ⭐ | 🔴 | 📶 | ✗ |
-| **List-filler** | Josephine Borg | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
+| **List-filler** | Josephine Borg | Aħwa Maltin | ⭐ | 🟢 | 📵 | ✗ |
 
 ---
 

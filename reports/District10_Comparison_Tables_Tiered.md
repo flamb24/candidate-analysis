@@ -45,7 +45,7 @@ Returning: Deborah Schembri (Labour)
 | **Clifton Grima** 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Abela mainstream; MCAST-damaged | Education; sport; research | Silent |
 | **Michael Falzon** 🏛️ Gov. | Labour | S&D | Old-guard centre-left | Institutional pillar; Abela loyalist | Social security; pensions; family | Silent |
 | **Deborah Schembri** | Labour | S&D | Progressive humanist; centre-left | Abela's personal invitee; returning | Civil rights; planning reform; Lands | **Explicitly pro-life** |
-| **Conrad Borg Manché** | PN | EPP (formerly ECR-aligned) | Cross-spectrum; socialist-origin | Crossover newcomer; no PN faction; contesting D10 and D5 | Environment; family law; housing; developer accountability | Silent |
+| **Conrad Borg Manché** | PN | EPP (formerly ECR-adjacent) | Cross-spectrum; socialist-origin | Crossover newcomer; no PN faction; contesting D10 and D5 | Environment; family law; housing; developer accountability | Silent |
 | **Joe Giglio** *(Official ballot name: Joseph Giglio)* | PN | EPP | Centre-right; rule-of-law | Pragmatic; leadership ambitions; cross-factional | Justice; planning; infrastructure accountability | Silent |
 | **Eve Borg Bonello** | PN | EPP | Centre-right; progressive on environment/youth | Defnisti-origin; cross-factional | Climate; governance; transparency; youth | **Explicitly pro-life** |
 | **Graziella Attard Previ** | PN | EPP | Centre-right; progressive on civil rights | Modernising wing; Equal Opportunities Forum background; contesting D9 and D10 | Equality; LGBTQ; domestic violence | Silent |
@@ -81,10 +81,14 @@ Returning: Deborah Schembri (Labour)
 | **Jo Etienne Abela** 🏛️ Gov. | Political use of ministerial resources (sister-in-law council campaign) | 🟡 Medium | Reported pattern | [The Shift News, May 2024](https://theshiftnews.com/2024/05/09/ministers-seek-to-consolidate-stronghold-in-gozo-with-local-council-elections/) |
 | **Jo Etienne Abela** 🏛️ Gov. | Brother reportedly in Gozo Ministry "phantom job" | 🟡 Medium | Reported allegation | [The Shift News](https://theshiftnews.com/) |
 | **Jo Etienne Abela** 🏛️ Gov. | April 2026: hosted a taxpayer-funded celebration at the Mediterranean Conference Centre for the Medical School's 350th anniversary; health insiders told The Shift it was "an excuse to launch the minister's personal re-election campaign using public funds"; minister did not reply to budget questions | 🟡 Medium | Ministerial accountability; public funds for political purposes | [The Shift News, Apr 2026](https://theshiftnews.com/2026/04/09/health-minister-celebrates-as-new-medical-school-remains-in-limbo/) |
+| **Jo Etienne Abela** *(Official ballot name: Joetienne Abela)* 🏛️ Gov. | Favouritism/nepotism allegations in Health Ministry | 🟡 Medium | — | [Critical Angle Project, Dec 2024](https://cap.mt) |
 | **Clifton Grima** 🏛️ Gov. | MCAST €2.3m fraud — ignored NAO audit warnings (2019 + 2023) | 🔴 High | Ministerial oversight failure | [The Shift News, Aug 2025](https://theshiftnews.com/2025/08/08/education-minister-mcast-board-ignored-years-of-warnings-on-payroll/) · [Newsbook, Aug 2025](https://newsbook.com.mt/en/greens-demand-resignations-over-mcast-financial-control-failures/) · [Malta Independent, Sep 2025](https://www.independent.com.mt/articles/2025-09-14/blogs-opinions/How-Clifton-Grima-let-it-happen-6736273056) |
 | **Clifton Grima** 🏛️ Gov. | Standards Commissioner ethics breach — refused to apologise | 🔴 High | Formal ethics finding; defiance of Commissioner | [The Shift News, May 2025](https://theshiftnews.com/2025/05/07/three-reports-on-ethics-breaches-by-standards-commissioner/) · [The Shift News, Sep 2025](https://theshiftnews.com/2025/09/09/the-resignation-that-would-never-happen-in-malta/) |
 | **Clifton Grima** 🏛️ Gov. | Chief of staff "unfit for purpose" leaked recordings | 🟡 Medium | Reputational damage at campaign start | [The Shift News, Apr 2026](https://theshiftnews.com/2026/04/30/aims-director-who-branded-minister-unfit-for-purpose-operating-without-contract-or-job-description/) |
+| **Clifton Grima** 🏛️ Gov. | MCAST fraud — ignored NAO audit warnings twice; Standards Commissioner breach | 🔴 High | — | — |
+| **Clifton Grima** 🏛️ Gov. | April 2025: Ombudsman ruled that a ministerial circular instructing teachers to conform to government policy when expressing themselves publicly constituted a restriction on freedom of expression — Momentum highlighted the ruling in campaign material | 🔴 High | — | — |
 | **Michael Falzon** 🏛️ Gov. | 105 unanswered parliamentary questions | 🟡 Medium | Documented transparency failure | [MaltaToday, 2025](https://www.maltatoday.com.mt/news/national/135662/over_1000_pqs_remain_unanswered_since_2022) |
+| **Michael Falzon** 🏛️ Gov. | 105 unanswered PQs; limited reform | 🟡 Medium | — | — |
 | **Deborah Schembri** | Government architect/conflict of interest (2016–17) | 🟡 Medium | Alleged impropriety; denied; no charges | [Malta Independent, Jan 2017](https://www.independent.com.mt/articles/2017-01-08/local-news/Deborah-Schembri-sees-no-conflict-of-interest-in-having-Musumeci-as-architect-for-private-property-6736168771) |
 | **Deborah Schembri** | Post-ministerial consultancy contracts (revolving door) | 🟡 Medium | Reported pattern | [MaltaToday](https://www.maltatoday.com.mt/news/national/85449/former_mp_lands_56000_identity_malta_consultancy) |
 | **Deborah Schembri** | Defence of Keith Schembri during murder investigation (Dec 2019) | 🟡 Medium | Political judgment; widely criticised | [MaltaToday, Dec 2019](https://www.maltatoday.com.mt/news/national/99362/deborah_schembri_jumps_to_keith_schembris_defence_with_legalistic_spiel) |
@@ -95,13 +99,18 @@ Returning: Deborah Schembri (Labour)
 | **Conrad Borg Manché** | May 2026: publicly claimed he was offered a consultant position worth thousands during the final nominations week in an apparent attempt to dissuade him from contesting; he refused and disclosed the offer publicly | 🟡 Medium | Alleged inducement; unverified by other party; distinct from 2024 petrol station bribe allegation | [Lovin Malta, May 2026](https://lovinmalta.com/news/general-election-2026/conrad-borg-manche-consultancy-offer-claims/) |
 | **Joe Giglio** | Pilatus Bank/Efimova whistleblower comments — internal PN criticism | 🔴 High | Self-caused; civil society + PN backlash | [The Shift News, Jun 2022](https://theshiftnews.com/2022/06/11/ngo-repubblika-calls-out-pns-home-affairs-spokesperson-former-pilatus-bank-lawyer-joe-giglio/) · [MaltaToday, Jun 2022](https://www.maltatoday.com.mt/news/national/117240/giglio_had_reservations_about_malevolent_egrant_whistleblower_maria_efimova) · [Newsbook, Jun 2022](https://newsbook.com.mt/en/joe-giglio-rubbishes-egrant-whistleblower-as-manipulative/) · [Lovin Malta, Jun 2022](https://lovinmalta.com/news/watch-joe-giglio-doubts-maria-efimovas-credibility-and-says-pn-much-larger-than-repubblika/) |
 | **Joe Giglio** | Daniel Meli extradition legal advice disputed; US request later dismissed | 🟡 Medium | Professional judgment questioned | [MaltaToday](https://www.maltatoday.com.mt/news/national/130755/giglio_defends_meli_advice_to_accept_us_extradition_) · [Lovin Malta, Aug 2024](https://lovinmalta.com/news/daniel-melis-former-lawyer-joe-giglio-calls-for-thorough-extradition-law-overhaul/) · [Malta Independent, May 2025](https://www.independent.com.mt/articles/2025-05-12/local-news/Daniel-Meli-wins-legal-battle-to-avoid-extradition-to-US-6736270042) |
+| **Joe Giglio** *(Official ballot name: Joseph Giglio)* | Pilatus Bank episode; Meli extradition dispute | 🔴 High | — | — |
 | **Eve Borg Bonello** | Accepted gender quota seat despite publicly opposing the mechanism | 🟢 Low | Principled inconsistency; defended | [Lovin Malta, Apr 2022](https://lovinmalta.com/news/watch-eve-borg-bonello-would-still-vote-against-gender-quotas-even-after-being-elected-through-it/) |
 | **Eve Borg Bonello** | Hitler/fascism comparison for PM Abela (parliament speech) | 🟡 Medium | Hyperbolic rhetoric; no retraction | [Lovin Malta, Jan 2023](https://lovinmalta.com/news/eve-borg-bonello-compares-robert-abela-to-hitler-in-fiery-parliament-speech/) |
 | **Eve Borg Bonello** | Death threats received (2019–2022) | 🟢 Low | Victim; perpetrator prosecuted | [Wikipedia](https://en.wikipedia.org/wiki/Eve_Borg_Bonello) |
+| **Eve Borg Bonello** | Project Green exposure (€234k marketing vs trees) | 🟡 Medium | — | — |
 | **Graziella Attard Previ** | None found | 🟢 None | — | — |
+| **Graziella Attard Previ** | No documented controversy | 🟢 None/Low | — | — |
 | **Albert Buttigieg** | "Fat cats" claim — PN investigation found "no proof" | 🟢 Low | He was the alleged target; probe inconclusive | [The Shift News, Jun 2022](https://theshiftnews.com/2022/06/25/st-julians-mayor-albert-buttigieg-on-fat-cats-and-need-for-politics-to-return-to-the-common-good/) |
+| **Albert Buttigieg** | No documented controversy | 🟢 None/Low | — | — |
 | **Arnold Cassola** | Third-party fragmentation/"ego" split from ADPD | 🟢 Low | Internal third-party politics | [The Maltese Herald, Mar 2026](https://themalteseherald.com/2026/03/02/momentum-seeks-coalition-with-adpd/) |
 | **Arnold Cassola** | Ageist remarks by Jason Micallef (Cassola was the victim) | 🟢 Low | Victim; Micallef's conduct was the issue | [Malta Independent, Nov 2025](https://www.independent.com.mt/articles/2025-11-06/local-news/Momentum-expresses-support-for-Cassola-after-ageist-remarks-by-Jason-Micallef-6736284584) |
+| **Arnold Cassola** | No documented controversy | 🟢 None/Low | — | — |
 
 **Tier 1 controversy summary:** Two candidates carry 🔴 High risk — Grima (MCAST + Standards Commissioner defiance) and Giglio (Pilatus Bank). Both are near-certain seat-winners regardless, illustrating that incumbency and personal vote outweigh controversy in Malta's STV system. Schembri carries the largest number of distinct medium-severity issues (4), all pre-2020. Attard Previ is the cleanest record in the tier.
 
@@ -197,12 +206,16 @@ PN (new/first-time with profile): Raymond Gatt, David Anthony Bonello, Joseph Aq
 | Candidate | Controversy | Severity | Nature | Source |
 |---|---|---|---|---|
 | **Rebecca Buttigieg** 🏛️ Gov. | None found | 🟢 None | — | — |
+| **Rebecca Buttigieg** 🏛️ Gov. | No documented controversy | 🟢 None/Low | — | — |
 | **Katya De Giovanni** | University promotion discrimination claim (legal action against UoM) | 🟡 Medium | Own legal filing; contested by UoM | [MaltaToday, 2024](https://www.maltatoday.com.mt/news/court_and_police/127436/labour_mp_takes_university_to_court_after_not_recommending_her_for_promotion_) |
 | **Janice Abela Chetcuti** | Magistrate compared her to a prostitute in court (victim, not her error) | 🟢 Low | She was the victim; handled with dignity | [Lovin Malta, Jun 2022](https://lovinmalta.com/news/news-politics/janice-chetcuti-announces-she-wont-contest-pn-deputy-leadership-post/) |
+| **Janice Abela Chetcuti** | No documented controversy | 🟢 None/Low | — | — |
 | **Graham Bencini** | Asked Auditor General what "government subvention" means in PAC session | 🟢 Low | Competence question; partisan reporting | ONE News, Feb 2025 |
 | **Noel Muscat** | ONE News allegation about council meeting (denied by Muscat) | 🟢 Low | Partisan source; denied | ONE News, Apr 2022 |
 | **Mark Anthony Sammut** | Allegedly central to Delia ousting — "backstabber" (pro-Delia framing) | 🟢 Low | Partisan internal politics; depends on perspective | [Nevillegafa.com, Jun 2025](https://nevillegafa.com/2025/06/16/mark-anthony-sammut-the-backstabber-who-wants-to-bury-the-pn-for-good/) |
+| **Mark Anthony Sammut** | No documented controversy | 🟢 None/Low | — | — |
 | **Graziella Galea** | Board of Local Governance: broke financial regulations as St Paul's Bay mayor | 🟡 Medium | Institutional finding — not merely an allegation | [MaltaToday, Jan 2018](https://www.maltatoday.com.mt/news/national/83602/st_pauls_bay_mayor_resigns_accuses_rival_councillors_of_hate) |
+| **Graziella Galea** | Was PN St Paul's Bay mayor subject to vote of no confidence — resigned, causing controversy | 🟡 Medium | — | — |
 | **Errol Cutajar** | None found | 🟢 None | — | — |
 | **Raymond Gatt** | None found | 🟢 None | — | — |
 | **David Anthony Bonello** | None found | 🟢 None | — | — |
@@ -280,7 +293,7 @@ Aħwa Maltin: Josephine Borg
 | **Damien Spiteri** *(Official ballot name: Damian Spiteri)* | Labour | S&D | Centre-left | Repeat candidate; no profile | Unknown | Silent |
 | **Mariah Meli** | Labour | S&D | Centre-left | New face; no profile | Unknown | Silent |
 | **Marija Elena Gauci** | PN | EPP | Centre-right | Repeat candidate; no strong profile | Unknown | Silent |
-| **Pierre Schembri-Wismayer** | Momentum | EDP | Centrist; science-ethics focused | First-time candidate; academic | Science; medical ethics; public service | **Explicitly pro-life** |
+| **Pierre Schembri-Wismayer** *(Official ballot name: Pierre Schembri Wismayer)* | Momentum | EDP | Centrist; science-ethics focused | First-time candidate; academic | Science; medical ethics; public service | **Explicitly pro-life** |
 | **Marcus Lauri** | ADPD | EGP | Left-wing green | New candidate | Environment; planning | Pro-choice |
 | **Josephine Borg** | Aħwa Maltin | — | Right-wing populist | Unknown | Immigration control; Maltese identity | Implicitly pro-life |
 
@@ -302,7 +315,7 @@ Aħwa Maltin: Josephine Borg
 | **Damien Spiteri** | None elected | None documented | ⭐ |
 | **Mariah Meli** | None confirmed | None documented | ⭐ |
 | **Marija Elena Gauci** | Prior candidacies (D9, D10); not elected | None documented | ⭐ |
-| **Pierre Schembri-Wismayer** | Academic; researcher | Peer-reviewed research; European-funded X-lab TV series; Kenya medical volunteering | ⭐⭐ |
+| **Pierre Schembri-Wismayer** | Academic; researcher | Peer-reviewed research; European-funded X-lab TV series; Kenya medical volunteering | ⭐⭐⭐ |
 | **Marcus Lauri** | New candidate | None documented | ⭐ |
 | **Josephine Borg** | New candidate | None documented | ⭐ |
 
@@ -324,7 +337,7 @@ Aħwa Maltin: Josephine Borg
 | **Marija Elena Gauci** | None found | 🟢 None |
 | **Pierre Schembri-Wismayer** | None found | 🟢 None |
 | **Marcus Lauri** | None found | 🟢 None |
-| **Josephine Borg** | None found individually | 🟢 Low |
+| **Josephine Borg** | None found individually | 🟢 None/Low |
 
 **Tier 3 controversy summary:** A uniformly clean slate — the vast majority have zero found controversies. This is largely a function of low public profile: candidates without a public record attract less scrutiny, not necessarily because they have nothing to hide.
 
@@ -357,7 +370,7 @@ Aħwa Maltin: Josephine Borg
 | **Lorna Borg Vassallo** | Labour | Traditional left | ⭐⭐ | 🟢 None | 📶 | ✗ |
 | **David Caruana** | Labour | Centre-left | ⭐⭐ | 🟢 None | 📵 | ✗ |
 | **Edward Cassar Delia** | Labour | Traditional left | ⭐⭐ | 🟢 None | 📶 | ✗ |
-| **Pierre Schembri-Wismayer** | Momentum | Centrist; science-ethics | ⭐⭐ | 🟢 None | 📶 | ✗ |
+| **Pierre Schembri-Wismayer** | Momentum | Centrist; science-ethics | ⭐⭐⭐ | 🟢 None | 📶 | ✗ |
 | **Miguel Balzan** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **Tania Borg** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **Rosette Cassar** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
@@ -366,7 +379,7 @@ Aħwa Maltin: Josephine Borg
 | **Mariah Meli** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **Marija Elena Gauci** | PN | Centre-right | ⭐ | 🟢 None | 📵 | ✗ |
 | **Marcus Lauri** | ADPD | Left-wing green | ⭐ | 🟢 None | 📵 | ✗ |
-| **Josephine Borg** | Aħwa Maltin | Right-wing populist | ⭐ | 🟢 Low | 📵 | ✗ |
+| **Josephine Borg** | Aħwa Maltin | Right-wing populist | ⭐ | 🟢 None/Low | 📵 | ✗ |
 
 ---
 ---

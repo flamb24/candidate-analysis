@@ -80,7 +80,10 @@ PN: Bernard Grech, Ivan Bartolo, Rebekah Borg
 | **Miriam Dalli** 🏛️ Gov. | Is-Siċċa project: announced 2 days before 2022 election; €40m investment pledged; Pininfarina admitted only a desktop design was commissioned; no funding earmarked in 2026 budget | 🔴 High | [The Shift News, Feb 2026](https://theshiftnews.com/2026/02/17/dalli-revives-pre-election-birzebbuga-proposal-as-elections-near/) |
 | **Miriam Dalli** 🏛️ Gov. | Project Green: CEO Joseph Cuschieri (disgraced former MFSA chief) appointed by Dalli; €1m in direct orders to political associates in 6 months (2025) | 🔴 High | [The Shift News, 27 Apr 2026](https://theshiftnews.com/2026/04/27/dalli-cuschieri-dish-out-e1-million-in-project-green-direct-orders/) |
 | **Miriam Dalli** 🏛️ Gov. | ARMS eco-reduction billing failure — consumers losing the discount for 2 years; minister said to have "gone into hiding" when crisis emerged | 🟡 Medium | [Malta Independent, Jan 2026](https://www.independent.com.mt/articles/2026-01-17/local-news/Minister-Miriam-Dalli-goes-into-hiding-once-again-PN-says-6736286447) |
+| **Miriam Dalli** 🏛️ Gov. | April 2026: promoted a third electricity interconnector while the second — pledged in the 2022 Labour manifesto — remained years from delivery with no confirmed timeline; critics say this signals a pattern of announcing new projects to deflect from undelivered ones | 🟡 Medium |
 | **Alex Muscat** | No documented controversy | 🟢 None/Low | — |
+| **Alex Muscat** *(Official ballot name: Alexander Muscat)* | Passport funds (NSDF) diverted to his D11 constituency (Mosta church lighting; playing field) | 🔴 High |
+| **Alex Muscat** *(Official ballot name: Alexander Muscat)* | Nexia BT consultancy while OPM employee during Schembri era; never explained | 🟡 Medium |
 | **Ivan Bartolo** | No documented controversy | 🟢 None/Low | — |
 | **Rebekah Borg** | No documented controversy | 🟢 None/Low | — |
 
@@ -134,12 +137,21 @@ Labour: Anthony Agius Decelis, Francesca Zarb, Romilda Zarb
 
 ---
 
+## T2 — TABLE 3: CONTROVERSIES
+
+| Candidate | Controversy | Severity | Nature | Source |
+|---|---|---|---|---|
+| **Francesca Zarb** | No documented controversy | 🟢 None/Low | — | — |
+| **Anthony Agius Decelis** | Daughter Danika appointed to Malta Medicines Authority — cited in The Shift report on Labour patronage appointments | 🟡 Medium | Alleged nepotism | [The Shift News](https://theshiftnews.com/) |
+
+---
+
 ## T2 — TABLE 5: MASTER SUMMARY (Tier 2)
 
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
 | **Second-tier** | Dione Borg | PN | ⭐⭐ | 🟢 | 📶 | ✅ Competitive |
-| **Second-tier** | Anthony Agius Decelis | Labour | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
+| **Second-tier** | Anthony Agius Decelis | Labour | ⭐⭐ | 🟡 | 📶 | ✅ Possible |
 | **Second-tier** | Edmond Cuschieri | PN | ⭐ | 🟢 | 📵 | ✅ Possible |
 | **Second-tier** | Joseph Mark Grech | PN | ⭐ | 🟢 | 📵 | ✅ Possible |
 | **Second-tier** | Francesca Zarb | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
@@ -153,6 +165,14 @@ Labour: Anthony Agius Decelis, Francesca Zarb, Romilda Zarb
 Momentum: Mark Camilleri Gambin
 ADPD: Carmel Cacopardo
 Aħwa Maltin: Simon Elmer
+
+## T3 — TABLE 1: POLITICAL ALIGNMENT
+
+| Candidate | Party | EU Group | Abortion Stance |
+|---|---|---|---|
+| **Mark Camilleri Gambin** | Momentum | EDP | Pro-choice |
+
+---
 
 ## T3 — TABLE 5: MASTER SUMMARY (Tier 3)
 

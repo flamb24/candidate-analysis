@@ -71,17 +71,24 @@ PN: Beppe Fenech Adami, Adrian Delia, Justin Schembri, Julie Zahra, Ivan Castill
 |---|---|---|---|---|
 | **Alex Muscat** | Passport funds (NSDF) diverted to his D11 constituency (Mosta church lighting; playing field) | 🔴 High | Documented misuse of public funds for electoral advantage | [The Shift News, Feb 2022](https://theshiftnews.com/2022/02/10/e3-million-in-passport-funds-diverted-to-parliamentary-secretarys-district/) |
 | **Alex Muscat** | Nexia BT consultancy while OPM employee during Schembri era; never explained | 🟡 Medium | Conflict of interest allegation; not charged | [The Shift News, Feb 2022](https://theshiftnews.com/2022/02/10/e3-million-in-passport-funds-diverted-to-parliamentary-secretarys-district/) |
+| **Alex Muscat** *(Official ballot name: Alexander Muscat)* | No documented controversy | 🟢 None/Low | — | — |
 | **Ramona Attard** | Standards Commissioner remark: called for revision to stop it being used to "scare" (critics: undermining accountability) | 🟡 Medium | Institutional; partisan reaction; she was departing PL President | [Malta Independent, Jan 2025](https://www.independent.com.mt/articles/2025-01-22/local-news/Ramona-Attard-officially-co-opted-into-Parliament-as-Labour-MP-6736267322) |
 | **Ramona Attard** | Criminal libel remark: said removal of prison sentences was a "mistake" — press freedom implications | 🟡 Medium | Controversial opinion; attracted criticism from journalists | [Malta Independent, Jan 2025](https://www.independent.com.mt/articles/2025-01-15/local-news/Former-PL-President-Ramona-Attard-to-be-co-opted-to-Parliament-6736267150) |
 | **Beppe Fenech Adami** | Driving test racket — reportedly called Minister Ian Borg re: son's failed test; Times of Malta reported ministerial pressure on Transport Malta | 🟡 Medium | Improper use of political contact; denied wrongdoing; Franco Debono expressed approval | [Lovin Malta, Oct 2023](https://lovinmalta.com/news/franco-debono-says-he-is-pleased-at-beppe-fenech-adamis-relationship-with-ian-borg/) · [Times of Malta, Oct 2023](https://timesofmalta.com/article/drivers-licence-racket.1060302) |
+| **Beppe Fenech Adami** *(Official ballot name: Joseph Fenech Adami)* | No documented controversy | 🟢 None/Low | — | — |
 | **Adrian Delia** | Tax debt: >€140k in unpaid income tax (2007–2017); in-laws paid €120k+ to settle | 🔴 High | Documented; settled before 2017 election but legally confirmed | [Wikipedia / multiple sources](https://en.wikipedia.org/wiki/Adrian_Delia) |
 | **Adrian Delia** | Domestic violence allegations (late 2018); wife and children | 🔴 High | Multiple sources; Delia denied; no conviction; heavily covered | [MaltaToday, Dec 2018](https://www.maltatoday.com.mt/news/national/90683/calls_for_delia_to_resign_over_domestic_violence_claims) |
 | **Adrian Delia** | Prostitution racket allegation (Daphne Caruana Galizia, 2017); Delia denied; filed libel cases | 🟡 Medium | Alleged only; denied; Caruana Galizia subsequently murdered; not proven | [Wikipedia](https://en.wikipedia.org/wiki/Adrian_Delia) |
 | **Adrian Delia** | Vitals/Steward court case: won as plaintiff, but critics noted his original silence on the deal while in leadership | 🟢 Low | Procedural/political; partially redeemed by court win | MaltaToday archive |
 | **Adrian Delia** | May 2026: confronted hospital security while filming a campaign video at St Luke's; footage widely circulated; Labour called it a "political stunt" | 🟢 Low | Campaign incident; he uploaded the footage himself; largely political theatre | [Malta Independent, May 2026](https://www.independent.com.mt/articles/2026-05-13/local-news/Adrian-Delia-blocked-from-filming-at-St-Luke-s-Hospital-6736289676) · [Lovin Malta, May 2026](https://lovinmalta.com/malta/labour-party-condemns-adrian-delia-over-clash-with-hospital-security-workers/) |
+| **Adrian Delia** | Leaked audio of call with Yorgen Fenech (murder suspect) during his leadership — claimed to show him seeking information; PN rebels used this to oust him | 🔴 High | — | — |
+| **Adrian Delia** | Controversial PN leadership tenure (2017–20): internal civil war, Standards Commissioner investigations, allegations of personal misconduct | 🔴 High | — | — |
 | **Justin Schembri** | Facebook posts sympathising with Matteo Salvini (2019); criticised by PN colleagues including Michael Fenech Adami | 🟡 Medium | Ideological; walked back; no formal party action | [MaltaToday, Nov 2019](https://www.maltatoday.com.mt/news/national/98316/pn_candidate_called_out_by_district_rival_for_sympathising_with_matteo_salvini) |
+| **Justin Schembri** | Posted on Facebook that Malta was full of "filth, shabbiness and Indians," equating Indian nationals with refuse; condemned by NGO Repubblika and Parliamentary Secretary Rebecca Buttigieg; refused to retract | 🔴 High | Racism/documented discrimination | [MaltaToday, May 2024](https://www.maltatoday.com.mt/news/national/128923/repubblika_condemns_pn_mps_racist_comment_on_indians) · [Malta Independent, May 2024](https://www.independent.com.mt/articles/2024-05-03/blogs-opinions/When-a-comment-completely-crosses-a-big-red-line-6736260764) |
+| **Justin Schembri** | Sympathised with far-right Italian politician Matteo Salvini on social media (2019, when serving as Birkirkara local council minority leader); post deleted | 🟡 Medium | Political association; deleted post | [MaltaToday](https://www.maltatoday.com.mt/news/national/98316/pn_candidate_called_out_by_district_rival_for_sympathising_with_matteo_salvini) |
 | **Julie Zahra** | Accepted gender quota seat despite publicly opposing the mechanism in principle | 🟢 Low | Principled inconsistency; common pattern; defended as pragmatic | [Lovin Malta, Apr 2022](https://lovinmalta.com/news/election-2022/singer-and-teacher-julie-zahra-elected-to-parliament-as-a-nationalist-mp/) |
 | **Ivan Castillo** | None found | 🟢 None | — | — |
+| **Ivan Castillo** | No documented controversy | 🟢 None/Low | — | — |
 
 **Tier 1 controversy summary:** Delia carries the most serious documented controversies (tax debt, domestic violence allegations), both predating his 2022 election but widely known. Alex Muscat's passport fund diversion is a concrete documented finding from The Shift News. Fenech Adami's driving test episode is relatively minor but illustrates the culture he is embedded in. Zahra, Castillo, and Attard carry low to medium risk.
 
@@ -107,7 +114,7 @@ PN: Beppe Fenech Adami, Adrian Delia, Justin Schembri, Julie Zahra, Ivan Castill
 |---|---|---|---|---|---|---|
 | **Beppe Fenech Adami** | PN | Centre-right; EPP; internationalist | ⭐⭐⭐ | 🟡 Medium | 📢 | ✅✅✅ Near-certain |
 | **Adrian Delia** | PN | Centre-right; populist-adjacent | ⭐⭐⭐ | 🔴 High | 📢 | ✅✅✅ Near-certain |
-| **Justin Schembri** | PN | Centre-right; social traditional | ⭐⭐⭐ | 🟡 Medium | 📶 | ✅✅ Likely |
+| **Justin Schembri** | PN | Centre-right; social traditional | ⭐⭐⭐ | 🔴 | 📶 | ✅✅ Likely |
 | **Ramona Attard** | Labour | Progressive-liberal; centre-left | ⭐⭐⭐ | 🟡 Medium | 📡 | ✅✅ Likely |
 | **Alex Muscat** | Labour | Centre-left; technocratic | ⭐⭐ | 🔴 High | 📡 | ✅✅ Likely (contested) |
 | **Julie Zahra** | PN | Centre-right; arts/culture | ⭐⭐ | 🟢 Low | 📢 | ✅ Competitive |
@@ -137,7 +144,7 @@ Momentum: Matthew Agius
 | **Ludwig Cauchi** | PN | EPP | Centre-right | First-time candidate; PN-approved Dec 2024; renewal cohort | Unknown — no documented policy stance | Silent |
 | **Edmond Cuschieri** | PN | EPP | Centre-right | Contesting D8 and D11; limited prior profile | Unknown | Silent |
 | **Angelo Micallef** | PN | EPP | Centre-right | New candidate; limited prior profile | Unknown | Silent |
-| **George Muscat** | PN | EPP | Centre-right | New candidate; no confirmed prior office | Unknown | Silent |
+| **George Muscat** | PN | EPP | Centre-right | New candidate; no confirmed prior office | Unknown | Not confirmed |
 | **David Pace Ross** | PN | EPP | Centre-right | New candidate; no confirmed prior office | Unknown | Silent |
 | **Matthew Agius** | Momentum | EDP | Centrist; anti-corruption; green-adjacent | Momentum national committee member; contesting D2 and D8 | Constitutional reform; transparency; FOI | Silent / free vote (party policy) |
 
@@ -164,14 +171,18 @@ Momentum: Matthew Agius
 | Candidate | Controversy | Severity | Nature | Source |
 |---|---|---|---|---|
 | **Cressida Galea** | "Brainwashing" remark about young PN politicians (Apr 2022) | 🟢 Low | Inflammatory comment in first interview as MP; partisan; mostly forgotten | [Lovin Malta, Apr 2022](https://lovinmalta.com/news/watch-new-pl-mp-cressida-galea-says-shes-concerned-at-brainwashing-of-young-pn-politicians/) |
+| **Cressida Galea** | No documented controversy | 🟢 None/Low | — | — |
 | **Yana Borg Debono Grech** | None found | 🟢 None | — | — |
+| **Yana Borg Debono Grech** | No documented controversy | 🟢 None/Low | — | — |
 | **Josef Bugeja** | None found | 🟢 None | — | — |
+| **Josef Bugeja** *(Official ballot name: Joseph Bugeja)* | No documented controversy | 🟢 None/Low | — | — |
 | **Ludwig Cauchi** | None found | 🟢 None | — | — |
 | **Edmond Cuschieri** | None found | 🟢 None | — | — |
 | **Angelo Micallef** | None found | 🟢 None | — | — |
 | **George Muscat** | None found | 🟢 None | — | — |
 | **David Pace Ross** | None found | 🟢 None | — | — |
 | **Matthew Agius** | None found | 🟢 None | — | — |
+| **Matthew Agius** | No documented controversy | 🟢 None/Low | — | — |
 
 **Tier 2 controversy summary:** Almost uniformly clean — a function of low public profile rather than necessarily clean records. Galea's "brainwashing" remark is the only documented item and is minor. All others are stubs or new entrants.
 
@@ -228,9 +239,9 @@ Aħwa Maltin: Francis Mallia
 | Candidate | Party | EU Group | Ideological Position | Abortion Stance |
 |---|---|---|---|---|
 | **Vania Agius Tabone** | Labour | S&D | Centre-left | Silent |
-| **Keith Azzopardi Tanti** *(Official ballot name: Keith John Azzopardi Tanti)* | Labour | S&D | Centre-left; Muscat-era loyalist | Silent |
+| **Keith Azzopardi Tanti** 🏛️ Gov. *(Official ballot name: Keith John Azzopardi Tanti)* | Labour | S&D | Centre-left; Muscat-era loyalist | Silent |
 | **Jesmond Bonello** | Labour | S&D | Centre-left | Silent |
-| **Clyde Caruana** | Labour | S&D | Centre-left | Silent |
+| **Clyde Caruana** 🏛️ Gov. | Labour | S&D | Centre-left | Silent |
 | **Rosette Cassar** | Labour | S&D | Centre-left | Silent |
 | **John Grech** *(Official ballot name: John-Joseph Grech)* | Labour | S&D | Centre-left | Silent |
 | **Mario Mallia** | ADPD | EGP | Left-wing green | Pro-choice (party position) |
@@ -245,9 +256,9 @@ Aħwa Maltin: Francis Mallia
 | Candidate | Prior Office/Role | Key Documented Achievement | Rating |
 |---|---|---|---|
 | **Vania Agius Tabone** | Contesting D1 and D8; no confirmed major prior office | No documented record for D8 | ⭐ |
-| **Keith Azzopardi Tanti** | Mayor of Pietà; contesting D1 and D8 | Local council; Joseph Muscat endorsement; community | ⭐⭐ |
+| **Keith Azzopardi Tanti** 🏛️ Gov. | Mayor of Pietà; contesting D1 and D8 | Local council; Joseph Muscat endorsement; community | ⭐⭐⭐ |
 | **Jesmond Bonello** | Contesting D2 and D8; no confirmed prior office | No documented record | ⭐ |
-| **Clyde Caruana** | Contesting D8; unclear if this is the Finance Minister Clyde Caruana or a different person | Information gap — stub entry | ⭐ |
+| **Clyde Caruana** 🏛️ Gov. | Contesting D8; unclear if this is the Finance Minister Clyde Caruana or a different person | Information gap — stub entry | ⭐⭐⭐⭐ |
 | **Rosette Cassar** | Contesting D8 and D10; no confirmed prior office identified for either district | No documented record | ⭐ |
 | **John Grech** | No confirmed prior office identified | No documented record | ⭐ |
 | **Mario Mallia** | ADPD candidate; contesting D2 and D8 | Part of ADPD's national slate; limited individual profile | ⭐⭐ |
@@ -260,13 +271,17 @@ Aħwa Maltin: Francis Mallia
 | Candidate | Controversy | Severity |
 |---|---|---|
 | **Vania Agius Tabone** | None found | 🟢 None |
-| **Keith Azzopardi Tanti** | Joseph Muscat endorsement — association with disgraced former leader | 🟢 Low |
+| **Keith Azzopardi Tanti** 🏛️ Gov. | Joseph Muscat endorsement — association with disgraced former leader | 🟢 Low |
+| **Keith Azzopardi Tanti** *(Official ballot name: Keith John Azzopardi Tanti)* 🏛️ Gov. | No documented controversy | 🟢 None/Low |
 | **Jesmond Bonello** | None found | 🟢 None |
-| **Clyde Caruana** | Information gap | 🟢 None confirmed |
+| **Clyde Caruana** 🏛️ Gov. | Information gap | 🟢 None confirmed |
 | **Rosette Cassar** | None found | 🟢 None |
 | **John Grech** | None found | 🟢 None |
+| **John Grech** *(Official ballot name: John-Joseph Grech)* | No documented controversy | 🟢 None/Low |
 | **Mario Mallia** | None found individually; ADPD is a legitimate registered party with no documented controversies | 🟢 None |
+| **Mario Mallia** | No documented controversy | 🟢 None/Low |
 | **Francis Mallia** | Aħwa Maltin party platform contains immigration-restriction rhetoric that some characterise as xenophobic | 🟢 Low (party-level) |
+| **Francis Mallia** | As above | 🟡 Medium |
 
 ---
 
@@ -275,9 +290,9 @@ Aħwa Maltin: Francis Mallia
 | Candidate | Platforms & Links | Approx. Reach | Campaign Tone | Rating |
 |---|---|---|---|---|
 | **Vania Agius Tabone** | Not identified | Minimal | Unknown | 📵 None |
-| **Keith Azzopardi Tanti** | Facebook (local council profile; URL not confirmed for D8 campaign) | Low | Community; Pietà-focused | 📶 Low |
+| **Keith Azzopardi Tanti** 🏛️ Gov. | Facebook (local council profile; URL not confirmed for D8 campaign) | Low | Community; Pietà-focused | 📶 Low |
 | **Jesmond Bonello** | Not identified | Minimal | Unknown | 📵 None |
-| **Clyde Caruana** | Not identified (D8 candidate) | Minimal | Unknown | 📵 None |
+| **Clyde Caruana** 🏛️ Gov. | Not identified (D8 candidate) | Minimal | Unknown | 📵 None |
 | **Rosette Cassar** | Not identified | Minimal | Unknown | 📵 None |
 | **John Grech** | Not identified | Minimal | Unknown | 📵 None |
 | **Mario Mallia** | ADPD party social media | Low | Green; civil rights | 📶 Low |
@@ -289,14 +304,14 @@ Aħwa Maltin: Francis Mallia
 
 | Candidate | Party | Alignment | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
-| **Keith Azzopardi Tanti** | Labour | Centre-left; Muscat-era | ⭐⭐ | 🟢 Low | 📶 | ✗ |
+| **Keith Azzopardi Tanti** 🏛️ Gov. | Labour | Centre-left; Muscat-era | ⭐⭐⭐ | 🟢 Low | 📶 | ✗ |
 | **Mario Mallia** | ADPD | Left-green | ⭐⭐ | 🟢 None | 📶 | ✗ |
 | **Vania Agius Tabone** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **Jesmond Bonello** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
-| **Clyde Caruana** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
+| **Clyde Caruana** 🏛️ Gov. | Labour | Centre-left | ⭐⭐⭐⭐ | 🟢 None | 📵 | ✗ |
 | **Rosette Cassar** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **John Grech** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
-| **Francis Mallia** | Aħwa Maltin | Right-wing populist | ⭐ | 🟢 Low | 📵 | ✗ |
+| **Francis Mallia** | Aħwa Maltin | Right-wing populist | ⭐ | 🟡 | 📵 | ✗ |
 
 ---
 ---
@@ -384,11 +399,11 @@ Aħwa Maltin: Francis Mallia
 | **Angelo Micallef** | PN | Second-tier | Not identified | — | — | — |
 | **George Muscat** | PN | Second-tier | Not identified | — | — | — |
 | **David Pace Ross** | PN | Second-tier | Not identified | — | — | — |
-| **Keith Azzopardi Tanti** | Labour | List-filler | Not confirmed URL (local council profile) | — | — | — |
+| **Keith Azzopardi Tanti** 🏛️ Gov. | Labour | List-filler | Not confirmed URL (local council profile) | — | — | — |
 | **Mario Mallia** | ADPD | List-filler | ADPD party page | — | — | — |
 | **Vania Agius Tabone** | Labour | List-filler | Not identified | — | — | — |
 | **Jesmond Bonello** | Labour | List-filler | Not identified | — | — | — |
-| **Clyde Caruana** | Labour | List-filler | Not identified | — | — | — |
+| **Clyde Caruana** 🏛️ Gov. | Labour | List-filler | Not identified | — | — | — |
 | **Rosette Cassar** | Labour | List-filler | Not identified | — | — | — |
 | **John Grech** | Labour | List-filler | Not identified | — | — | — |
 | **Francis Mallia** | Aħwa Maltin | List-filler | Not identified | — | — | — |

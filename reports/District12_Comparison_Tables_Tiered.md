@@ -81,9 +81,13 @@ PN: Alex Borg, Ivan Castillo, Graziella Galea
 | **Alex Borg** | Cannabis photo circulated (AI-manipulated image — noted by Wikipedia); AI-edited images mocking him flooded social media after election announcement | 🟢 None/Low (victim of disinformation, not perpetrator) | Wikipedia D2026 article |
 | **Alex Borg** | Endorsed Trump as "more pro-business"; praised Trump's pro-life stance — some see this as divisive | 🟡 Medium | [Wikipedia — Alex Borg](https://en.wikipedia.org/wiki/Alex_Borg_(politician)) |
 | **Alex Borg** | First two days of campaign: avoided media access — visited maritime school without informing press; proposals launched without journalist Q&A; MaltaToday noted he was "camera-shy" despite modelling background | 🟢 Low | Campaign communication style | [MaltaToday, May 2026](https://www.maltatoday.com.mt/news/election-2026/141376/election_playbook_dont_be_shy_alex_just_pretend_youre_contesting_mr_world_malta) |
+| **Alex Borg** *(Official ballot name: Alexander Borg)* | AI-manipulated image showing him smoking cannabis circulated — not his conduct; endorsed Trump (see D12 report) | 🟢 None/Low |
+| **Alex Borg** *(Official ballot name: Alexander Borg)* | May 2026: launched campaign at maritime school without press access, no journalist Q&A — "camera-shy" coverage (MaltaToday) | 🟢 Low |
 | **Graziella Galea** | Was PN St Paul's Bay mayor subject to vote of no confidence — resigned, causing controversy | 🟡 Medium | Lovin Malta — D12 Spotlight 2022 |
+| **Graziella Galea** | Board of Local Governance: broke financial regulations as St Paul's Bay mayor | 🟡 Medium |
 | **Ivan Castillo** | No documented controversy | 🟢 None/Low | — |
 | **Alicia Bugeja Said** 🏛️ Gov. | €6,200 received from fish farm/fishing companies (Frutti di Mare €2,500; Malta Fish Farming €2,500; Azzopardi Fisheries €1,200) during 2022 campaign while serving as Director of Fisheries, then appointed Parliamentary Secretary for Fisheries — reported as conflict of interest; ethics complaint by Arnold Cassola over "Swimming With Tuna" event using ministerial channels | 🟡 Medium | Conflict of interest | [Malta Independent, May 2022](https://www.independent.com.mt/articles/2022-05-27/newspaper-leader/The-Malta-Independent-editorial-Conflict-of-interest-6736243250) |
+| **Alicia Bugeja Said** *(Official ballot name: Alicia Maree Beth Sephora Bugeja Said)* 🏛️ Gov. | Received campaign donations from Malta's top fish farm operators during her 2022 electoral campaign while still serving as Director of Fisheries — documented conflict of interest between her regulatory role and campaign financing | 🟡 Medium |
 | **Naomi Cachia** | No documented controversy | 🟢 None/Low | — |
 
 ---
@@ -109,6 +113,40 @@ PN: Charles Azzopardi, David Anthony Bonello, Joseph Mark Grech, Anthony Mifsud,
 
 ---
 
+## T2 — TABLE 1: POLITICAL ALIGNMENT
+
+| Candidate | Party | EU Group | Abortion Stance |
+|---|---|---|---|
+| **Rosianne Cutajar** | Labour | S&D | Silent |
+| **George Vital Zammit** | PN | EPP | Not confirmed |
+| **Charles Azzopardi** | PN | EPP | Silent |
+| **Anthony Mifsud** | PN | EPP | Silent |
+| **Ian Mario Vassallo** | PN | EPP | Silent |
+| **Deborah Schembri** | Labour | S&D | **Explicitly pro-life** |
+| **Damien Spiteri** | Labour | S&D | Silent |
+| **David Anthony Bonello** | PN | EPP | Silent |
+| **Rachel Antoinette Williams** | PN | EPP | Silent |
+| **Romilda Zarb** | Labour | S&D | Silent |
+| **Joseph Mark Grech** | PN | EPP | Silent |
+
+---
+
+## T2 — TABLE 3: CONTROVERSIES
+
+| Candidate | Controversy | Severity | Nature | Source |
+|---|---|---|---|---|
+| **Rosianne Cutajar** | Ethics breach: Standards Commissioner found she acted as broker in Fenech property deal and did not declare income; ITS consultancy ruled "illegitimate" by NAO | 🔴 High | Ethics/corruption | [MaltaToday — Standards inquiry](https://www.maltatoday.com.mt/news/national/127477/rosianne_cutajar_defamation_yorgen_fenech_allegations_Labour) |
+| **Rosianne Cutajar** | WhatsApp chats with Yorgen Fenech (murder suspect): intimate relationship revealed; argued against Council of Europe resolution on 17 Black while receiving gifts from Fenech | 🔴 High | Integrity; institutional conflict of interest | [Wikipedia — Rosianne Cutajar](https://en.wikipedia.org/wiki/Rosianne_Cutajar) |
+| **Charles Azzopardi** | No documented controversy | 🟢 None/Low | — | — |
+| **Anthony Mifsud** | No documented controversy | 🟢 None/Low | — | — |
+| **Ian Mario Vassallo** | No documented controversy | 🟢 None/Low | — | — |
+| **Deborah Schembri** | Government architect/conflict of interest (2016–17) | 🟡 Medium | Alleged impropriety; denied; no charges | [Malta Independent, Jan 2017](https://www.independent.com.mt/articles/2017-01-08/local-news/Deborah-Schembri-sees-no-conflict-of-interest-in-having-Musumeci-as-architect-for-private-property-6736168771) |
+| **Deborah Schembri** | Post-ministerial consultancy contracts (revolving door) | 🟡 Medium | Reported pattern | [MaltaToday](https://www.maltatoday.com.mt/news/national/85449/former_mp_lands_56000_identity_malta_consultancy) |
+| **Deborah Schembri** | Defence of Keith Schembri during murder investigation (Dec 2019) | 🟡 Medium | Political judgment; widely criticised | [MaltaToday, Dec 2019](https://www.maltatoday.com.mt/news/national/99362/deborah_schembri_jumps_to_keith_schembris_defence_with_legalistic_spiel) |
+| **Deborah Schembri** | "Freedom of expression" comment day after Caruana Galizia assassination | 🟡 Medium | Tone/timing; apologised subsequently | — |
+
+---
+
 ## T2 — TABLE 5: MASTER SUMMARY (Tier 2)
 
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
@@ -118,12 +156,12 @@ PN: Charles Azzopardi, David Anthony Bonello, Joseph Mark Grech, Anthony Mifsud,
 | **Second-tier** | Franco Mercieca | Labour | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Jonathan Muscat *(Official ballot name: Jonathan Albert Muscat)* | PN | ⭐⭐ | 🟢 | 📶 | ✅ Competitive |
 | **Second-tier** | Ian Mario Vassallo | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
-| **Second-tier** | Rachel Antoinette Williams | PN | ⭐ | 🟢 | 📶 | ✅ Possible (Rachel Williams is a PN D9/D12 councillor and first-time candidate) |
+| **Second-tier** | Rachel Antoinette Williams | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible (Rachel Williams is a PN D9/D12 councillor and first-time candidate) |
 | **Second-tier** | Charles Azzopardi | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Damien Spiteri *(Official ballot name: Damian Spiteri)* | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Carlos Zarb | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Romilda Zarb | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
-| **Second-tier** | David Anthony Bonello | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
+| **Second-tier** | David Anthony Bonello | PN | ⭐⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Joseph Mark Grech | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Anthony Mifsud | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | George Vital Zammit | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |

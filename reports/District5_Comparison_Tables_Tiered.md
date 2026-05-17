@@ -52,7 +52,7 @@ PN: Toni Bezzina, Stanley Zammit
 |---|---|---|---|---|---|---|
 | **Miriam Dalli** 🏛️ Gov. | Labour | S&D | Centre-left; progressive on environment and energy | Energy/Environment Minister; MEP 2014–20; strong D5 roots; father-in-law Karmenu Vella was D5 heavyweight | Energy transition; environment; renewable energy; Birżebbuġa regeneration | Silent |
 | **Julia Farrugia** 🏛️ Gov. | Labour | S&D | Centre-left; inclusion and social rights | Minister for Inclusion; contested D5 and D7; Qrendi family roots | Inclusion; disability rights; social wellbeing; LGBTQ rights | Silent |
-| **Omar Farrugia** 🏛️ Gov. | Labour | S&D | Centre-left | Parliamentary Secretary for Public Works (2024–); youngest in Cabinet; contesting D5 and D6 | Public works; local infrastructure; communities | Silent |
+| **Omar Farrugia** 🏛️ Gov. | Labour | S&D | Centre-left | Parliamentary Secretary for Public Works (2024–); youngest in Cabinet; contesting D5 and D6 | Public works; local infrastructure; communities | Public works; local infrastructure |
 | **Toni Bezzina** *(Official ballot name: Anthony Bezzina)* | PN | EPP | Centre-right; agriculture, fisheries and transport | Shadow Min. Transport, Agriculture & Fisheries (Sep 2025); multiple elections on D5 since 2013; PN's D5 anchor | Agriculture; fisheries; transport; rural communities | Silent |
 | **Stanley Zammit** | PN | EPP | Centre-right; planning focus | MP (2022–); Shadow Min. Planning, Research & Innovation (Sep 2025); from Żurrieq | Planning; ODZ protection; research; environment | Silent |
 
@@ -123,7 +123,7 @@ PN: Conrad Borg Manché, Miriana Calleja Testaferrata de Noto, Duncan Borg Myatt
 
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
-| **Robert Abela** 🏛️ Gov. | Labour | S&D | Centre-left; PM | PM and party leader; D2 primary, D5 secondary | National economic stability; cost of living | Silent |
+| **Robert Abela** 🏛️ Gov. | Labour | S&D | Centre-left; PM | PM and party leader; D2 primary, D5 secondary | National economic stability; cost of living | Silent (2022 abortion medical exception passed on his watch; framed as compromise) |
 | **Owen Bonnici** 🏛️ Gov. | Labour | S&D | Centre-left; culture/arts | Culture Minister; D3 primary, D5 secondary; lives in Żurrieq | Heritage; arts; local government | Silent |
 | **Remenda Grech** | Labour | S&D | Centre-left | New candidate; partner of Owen Bonnici; Żurrieq connections | Not confirmed | Silent |
 | **Conrad Borg Manché** | PN | EPP (formerly ECR-adjacent) | Cross-spectrum; socialist-origin | Former Labour Gżira mayor; D10 primary | Environment; family law; developer accountability | Silent |
@@ -131,7 +131,7 @@ PN: Conrad Borg Manché, Miriana Calleja Testaferrata de Noto, Duncan Borg Myatt
 | **Duncan Borg Myatt** | PN | EPP | Centre-right | New candidate; D4 and D5 | Not confirmed | Silent |
 | **Owen Sciberras** | PN | EPP | Centre-right | Previous D5 candidate | Not confirmed | Silent |
 | **Stefan Caruana** | PN | EPP | Centre-right | Teacher; PN executive; D4 and D5 | Education | Silent |
-| **Oliver Cini** | PN | EPP | Centre-right | D5 and D6 candidate | Not confirmed | Silent |
+| **Oliver Cini** | PN | EPP | Centre-right | D5 and D6 candidate | Not confirmed | Not confirmed |
 
 ---
 
@@ -158,10 +158,17 @@ PN: Conrad Borg Manché, Miriana Calleja Testaferrata de Noto, Duncan Borg Myatt
 | **Robert Abela** | Planning Authority paid €17,000/month to Abela's family law firm before he became PM | 🔴 High | Conflict of interest | [MaltaToday](https://www.maltatoday.com.mt/news/national/99697/explainer__who_is_maltas_new_prime_minister_robert_abela) · [Newsbook](https://newsbook.com.mt/en/no-place-for-hatred-in-politics-according-to-glenn-bedingfield/) |
 | **Robert Abela** | Accused by PN of knowing in 2021 the Vitals hospitals deal was fraudulent but continuing payments; Muscat subsequently charged criminally | 🔴 High | Governance/accountability | [The Malta Independent — Vitals inquiry](https://www.independent.com.mt/articles/2024-05-27/local-news/PN-leader-accuses-PM-of-withholding-hospitals-inquiry-to-conceal-involvement-6736261469) |
 | **Robert Abela** | Attacked magistrate overseeing Vitals inquiry; described "the establishment" as conspiring against Labour — widely condemned as undermining judicial independence | 🔴 High | Rule of law/institutional | [MaltaToday](https://www.maltatoday.com.mt/news/national/128939/watch_abela_claims_the_establishment_is_using_the_vitals_inquiry_to_disrupt_elections) |
+| **Robert Abela** 🏛️ Gov. | Rushed magisterial inquiry reform (early 2025) restricting who can initiate inquiries — widely condemned as protecting Muscat-era associates; PN called it "changing goalposts to save his own skin" | 🔴 High |
+| **Robert Abela** 🏛️ Gov. | April 2026 — Vitals/Steward CEO Armin Ernst sent for trial by Magistrate Lanfranco; Abela continued publicly defending the deal ("fair value"), contradicting court findings of fraud | 🔴 High |
 | **Owen Bonnici** 🏛️ Gov. | Arts Council Malta awarded €25,000 contract to blogger Mark Camilleri; described as nepotism/political favoritism by critics | 🟡 Medium | Conflict of interest/political patronage | [MaltaToday](https://www.maltatoday.com.mt/news/national/135163/robert_abela_mulls_cabinet_changes_as_byron_camilleri_wants_out_of_home_affairs) |
 | **Owen Bonnici** 🏛️ Gov. | Daphne Caruana Galizia vigil flowers removal: Bonnici, as justice minister, repeatedly ordered police to remove flowers placed as vigil memorial outside Castille — widely condemned internationally | 🔴 High | Rule of law; press freedom | Multiple international sources; documented by Reporters Without Borders |
+| **Owen Bonnici** 🏛️ Gov. | May 2026: The Shift reported Bonnici failed to reply to questions about exorbitant spending on the official launch of his campaign materials; also handed a taxpayer-funded directorship to veteran Labour loyalist Albert Marshall under the Culture Ministry | 🟡 Medium |
 | **All PN second-tier** | No documented controversy | 🟢 None/Low |
 | **Remenda Grech** | No documented controversy | 🟢 None/Low |
+| **Conrad Borg Manché** | Ideological contradiction — socialist joins centre-right PN | 🟡 Medium |
+| **Conrad Borg Manché** | Alleged bribe offer (unverified; refused; not denied by other party) | 🟡 Medium |
+| **Conrad Borg Manché** | Historical press freedom complaint (Change.org, 2016) | 🟢 Low |
+| **Conrad Borg Manché** | May 2026: publicly claimed he was offered a consultant position worth thousands during the final nominations week in an apparent attempt to dissuade him from contesting; he refused and disclosed the offer publicly | 🟡 Medium |
 
 ---
 
@@ -190,6 +197,15 @@ ADPD: Melissa Bagley
 Aħwa Maltin: Iris Vella
 
 *Note: The D5 Labour list also included Owen Bonnici and Robert Abela (handled in T2 above). Remaining list-fillers:*
+
+---
+
+## T3 — TABLE 1: POLITICAL ALIGNMENT
+
+| Candidate | Party | EU Group | Abortion Stance |
+|---|---|---|---|
+| **Roderick Zerafa** | Labour | S&D | Silent |
+| **Alastair Farrugia** | Momentum | EDP | Pro-choice |
 
 ---
 

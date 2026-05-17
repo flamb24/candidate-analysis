@@ -81,10 +81,13 @@ PN: Jerome Caruana Cilia, Rosianne Cutajar (Labour — treated as Notable given 
 | **Silvio Schembri** 🏛️ Gov. | Responsible Gaming Foundation funds directed exclusively to sports clubs and organisations in his own D6 constituency; all seven most recent grants went to Qormi-area groups; Ian Borg and Rosianne Cutajar reportedly complained to OPM | 🔴 High | Public funds used for electoral advantage; institutional abuse | [The Shift News, Feb 2022](https://theshiftnews.com/2022/02/25/responsible-gaming-funds-diverted-to-silvio-schembris-electioneering-campaign/) |
 | **Silvio Schembri** 🏛️ Gov. | Lied to parliament over MGA direct orders list — omitted €5,000/month retainer to Labour pollster Vincent Marmarà, €30,000 to One TV Productions, and order to Eden Leisure Group | 🔴 High | Parliamentary dishonesty | The Shift News |
 | **Silvio Schembri** 🏛️ Gov. | Standards Commissioner found he used ministerial Facebook page for official press conferences and paid adverts the day after Commissioner condemned the practice | 🟡 Medium | Ethics; institutional | [The Shift News, May 2020](https://theshiftnews.com/2020/05/09/silvio-schembri-with-facebook-advert-as-commissioner-slams-use/) |
+| **Silvio Schembri** *(Official ballot name: Saviour Schembri)* 🏛️ Gov. | Direct orders and government patronage practices within economy portfolio | 🟡 Medium | — | — |
+| **Silvio Schembri** *(Official ballot name: Saviour Schembri)* 🏛️ Gov. | Dec 2025: lawyer Jason Azzopardi filed magisterial inquiry request alleging corruption and misconduct — Lands Authority land deals undervalued for developers (€12m plot for €380k/yr), developer-linked constituency office, and lifestyle inconsistent with asset declarations; Schembri denied all allegations | 🔴 High | — | — |
 | **Rosianne Cutajar** | Ethics breach: Standards Commissioner found she acted as broker in Fenech property deal and did not declare income; ITS consultancy ruled "illegitimate" by NAO | 🔴 High | Ethics/corruption | [MaltaToday — Standards inquiry](https://www.maltatoday.com.mt/news/national/127477/rosianne_cutajar_defamation_yorgen_fenech_allegations_Labour) |
 | **Rosianne Cutajar** | WhatsApp chats with Yorgen Fenech (murder suspect): intimate relationship revealed; argued against Council of Europe resolution on 17 Black while receiving gifts from Fenech | 🔴 High | Integrity; institutional conflict of interest | [Wikipedia — Rosianne Cutajar](https://en.wikipedia.org/wiki/Rosianne_Cutajar) |
 | **Jerome Caruana Cilia** | No documented controversy | 🟢 None/Low | — | — |
 | **Malcolm Paul Agius Galea** | No documented controversy | 🟢 None/Low | — | — |
+| **Malcolm Paul Agius Galea** 🏛️ Gov. | Asked zero parliamentary questions during entire legislature (MaltaToday, Jun 2025) | 🟡 Medium | Parliamentary disengagement | [MaltaToday, Jun 2025](https://www.maltatoday.com.mt/news/national/123385/jerome_caruana_cilia_tops_list_for_most_pqs_asked_by_opposition) |
 
 ---
 
@@ -124,7 +127,7 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 
 | Candidate | Party | EU Group | Ideological Position | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|
-| **Ramona Attard** | Labour | S&D | Centre-left | D6 and D8; social policy | Silent |
+| **Ramona Attard** | Labour | S&D | Centre-left | D6 and D8; social policy | Pro-IVF/fertility rights; civil liberties emphasis |
 | **Omar Farrugia** 🏛️ Gov. | Labour | S&D | Centre-left | Parliamentary Secretary for Public Works; D5 and D6 | Public works; local infrastructure | Silent |
 | **Omar Rababah** | Labour | S&D | Centre-left; diversity | First Arab-origin candidate on Labour ticket; D6 and D7; target of racist online abuse; defended by PM Abela and Mario de Marco | Community; diversity; social inclusion | Silent |
 | **Frederick Aquilina** | PN | EPP | Centre-right | Luqa PN minority leader; accountant; contested 2022 | Local government; tax | Silent |
@@ -140,7 +143,7 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 
 | Candidate | Role | Rating |
 |---|---|---|
-| **Ramona Attard** | MP via 52A (2022–); D6 and D8 | ⭐ |
+| **Ramona Attard** | MP via 52A (2022–); D6 and D8 | ⭐⭐⭐ |
 | **Omar Farrugia** 🏛️ Gov. | Parliamentary Secretary for Public Works (2024–); MP (2022–); D5 and D6 | ⭐⭐ |
 | **Omar Rababah** | New candidate 2026; D6 and D7; Arab-Maltese community figure | ⭐ |
 | **Frederick Aquilina** | Luqa PN minority leader; contested 2022; accountant | ⭐⭐ |
@@ -156,9 +159,11 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 
 | Candidate | Controversy | Severity |
 |---|---|---|
-
-| **Omar Rababah** | Target of documented online racist and discriminatory abuse following candidacy announcement — not a controversy of his own conduct | 🟢 None/Low |
+| **Omar Rababah** | Target of online racist abuse following candidacy announcement; not a controversy of his own conduct | 🟢 None/Low |
 | **All others** | No documented controversy | 🟢 None/Low |
+| **Omar Farrugia** 🏛️ Gov. | May 2026: The Shift News reported he used his Parliamentary Secretary office to issue 10 press releases announcing public works projects in his electoral districts since January 2026 — described as "abusing incumbency" for electoral advantage | 🟡 Medium |
+| **Ramona Attard** | Standards Commissioner remark: called for revision to stop it being used to "scare" (critics: undermining accountability) | 🟡 Medium |
+| **Ramona Attard** | Criminal libel remark: said removal of prison sentences was a "mistake" — press freedom implications | 🟡 Medium |
 
 ---
 
@@ -167,7 +172,7 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
 | **Second-tier** | Omar Farrugia 🏛️ Gov. | Labour | ⭐⭐ | 🟡 | 📡 | ✅ Possible (D5 primary) |
-| **Second-tier** | Ramona Attard | Labour | ⭐ | 🟢 | 📵 | ✅ Possible |
+| **Second-tier** | Ramona Attard | Labour | ⭐⭐⭐ | 🟡 | 📵 | ✅ Possible |
 | **Second-tier** | Omar Rababah | Labour | ⭐ | 🟢 | 📶 | ✅ Possible (new candidate with public attention) |
 | **Second-tier** | Frederick Aquilina | PN | ⭐⭐ | 🟢 | 📶 | ✅ Competitive (second PN slot) |
 | **Second-tier** | Annabelle Cilia | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
@@ -179,6 +184,25 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 ---
 
 # TIER 3 — LIST-FILLERS
+
+## T3 — TABLE 1: POLITICAL ALIGNMENT
+
+| Candidate | Party | EU Group | Abortion Stance |
+|---|---|---|---|
+| **Billy McBee** | Momentum | EDP | Pro-choice (party position) |
+| **Marianne Sacco** | Aħwa Maltin | — | Conservative |
+| **Nazzareno Bonnici** | Independent | — | Not confirmed |
+
+---
+
+## T3 — TABLE 3: CONTROVERSIES
+
+| Candidate | Controversy | Severity | Nature | Source |
+|---|---|---|---|---|
+| **Billy McBee** *(Official ballot name: Billy Joe McBee)* | No documented controversy | 🟢 None/Low | — | — |
+| **Marianne Sacco** | Aħwa Maltin's nativist platform | 🟡 Medium | Ideological | — |
+
+---
 
 ## T3 — TABLE 5: MASTER SUMMARY (Tier 3)
 

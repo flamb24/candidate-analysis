@@ -53,7 +53,7 @@ PN: Mark Anthony Sammut, Bernice Bonello
 |---|---|---|---|---|---|---|
 | **Jonathan Attard** 🏛️ Gov. | Labour | S&D | Centre-left; legal/justice focus | Justice Minister since 2022; rising star; born in Tarxien; strong D4 roots; contesting D4 and D12 | Justice reform; construction sector reform; rule of law; digital governance | Silent |
 | **Chris Bonett** *(Official ballot name: Christian Paul Bonett)* 🏛️ Gov. | Labour | S&D | Centre-left; infrastructure focus | Transport/Infrastructure Minister; internally polling behind; at risk; contesting D3 and D4 | Transport; roads; infrastructure; "Malta in Motion" mass transit plan | Silent |
-| **Chris Fearne** *(Official ballot name: Christopher Fearne)* | Labour | S&D | Centre-left; health | Former Deputy PM; awaiting criminal trial (Vitals); contesting D3 and D4 | Healthcare; EU health cooperation | **Explicitly pro-life** (on record opposing abortion) |
+| **Chris Fearne** *(Official ballot name: Christopher Fearne)* | Labour | S&D | Centre-left; health | Former Deputy PM; awaiting criminal trial (Vitals); contesting D3 and D4 | Healthcare; EU health cooperation | **Explicitly pro-life** (opposed abortion; described ban as reason for Malta's low healthcare ranking) |
 | **Mark Anthony Sammut** | PN | EPP | Centre-right; reform-minded | MP (2022–); PN General Council President; Shadow Min. Transport & Mobility; from Gudja; contesting D4 and D10 | Transport; traffic; road reform; population growth | Silent |
 | **Bernice Bonello** *(Official ballot name: Bernice Theresa Bonello)* | PN | EPP | Centre-right; progressive-youth | MP via 52A (2022–); Shadow Min. Youth & Local Government; contesting D2 and D4 | Youth; local government; open spaces | Silent |
 
@@ -66,7 +66,7 @@ PN: Mark Anthony Sammut, Bernice Bonello
 | Candidate | Prior Office/Role | Key Documented Achievement | Principle vs Delivery Gap | Rating |
 |---|---|---|---|---|
 | **Jonathan Attard** 🏛️ Gov. | Justice Minister & Construction Sector Reform (2022–); MP (co-opted 2021, elected 2022); lawyer; former journalist; born Tarxien | First parliamentary register of interests (March 2026); Health & Safety at Work reform; mason licensing reform; Council of Europe PACE vice-president; doctoral research on parliamentary accountability | Ministers' asset declaration rollback controversy — Attard introduced amendments scrapping more detailed ministerial declarations | ⭐⭐⭐ |
-| **Chris Bonett** 🏛️ Gov. | Minister for Transport, Infrastructure & Public Works (2022–, upgraded from Parliamentary Secretary); Mayor of Gżira (2007–12); MP (2022–) | Announced "Malta in Motion" mass transit plan; €18m Marsaskala promenade regeneration; claimed 1,000 road interventions | Internal TM officials publicly sceptical of cash-for-licence scheme (0.07% impact); Transport Malta workforce grew from 301→927 under Labour; allegations of electoral voter address manipulation using TM employees (The Shift, May 2026); Standards Commissioner complaint over political use of ministerial letter (Cacopardo, March 2026); Marsaskala budget tenfold increase unexplained | ⭐⭐ |
+| **Chris Bonett** 🏛️ Gov. | Minister for Transport, Infrastructure & Public Works (2022–, upgraded from Parliamentary Secretary); Mayor of Gżira (2007–12); MP (2022–) | Announced "Malta in Motion" mass transit plan; €18m Marsaskala promenade regeneration; claimed 1,000 road interventions | Internal TM officials publicly sceptical of cash-for-licence scheme (0.07% impact); Transport Malta workforce grew from 301→927 under Labour; allegations of electoral voter address manipulation using TM employees (The Shift, May 2026); Standards Commissioner complaint over political use of ministerial letter (Cacopardo, March 2026); Marsaskala budget tenfold increase unexplained | ⭐⭐⭐ |
 | **Chris Fearne** | Former Deputy PM; Health Minister (2016–24); Parliamentary Secretary (2014–16); MP (2013–) | 13-year paediatric surgery career; Valletta Declaration (2017 EU presidency) on pharmaceutical transparency; led Malta's COVID response; long-term healthcare reform architect; opposed Marsaskala marina within his district | Resigned as minister and deputy leader after criminal charges (Vitals fraud/misappropriation); court found prima facie evidence for trial; described Steward deal publicly as "the real deal" while junior minister; faced sustained criticism for public endorsement | ⭐⭐⭐⭐ |
 | **Mark Anthony Sammut** | MP (2022–); PN General Council President (2021–); Shadow Min. Energy, then Transport & Mobility; Gudja councillor (2006–22) | D4 local representative from Gudja; transport scrutiny; 2019 protest activist; prominent PN voice on rule of law | First national election 2022 (elected); limited legislative output as opposition backbencher | ⭐⭐⭐ |
 | **Bernice Bonello** | MP via 52A gender mechanism (2022–); Shadow Min. Youth & Local Government; Shadow Min. Youth (Grech era) | Publicly exposed government's exclusion of opposition from Port Region Cultural Year opening; youth policy advocacy | Entered parliament via mechanism, not direct vote; first contest as direct candidate; limited legislative output | ⭐⭐ |
@@ -81,12 +81,16 @@ PN: Mark Anthony Sammut, Bernice Bonello
 | **Chris Bonett** 🏛️ Gov. | Standards Commissioner complaint: used ministerial authority to send political letter on airport geo-fencing to Gudja residents — reported by Cacopardo/ADPD | 🔴 High | Abuse of ministerial position; Standards | [The Shift News, 9 March 2026](https://theshiftnews.com/2026/03/09/bonett-to-face-probe-over-abuse-claims-following-the-shifts-revelations/) |
 | **Chris Bonett** 🏛️ Gov. | Cash-for-licence scheme: TM officials internally said it was wasteful and would reduce licences by just 0.07%; PM had to scale it back | 🟡 Medium | Ministerial incompetence/waste | [The Shift News, Jan 2026](https://theshiftnews.com/2026/01/07/tm-officials-ignored-as-e5-million-scheme-expected-to-reduce-drivers-by-just-0-07/) |
 | **Chris Bonett** 🏛️ Gov. | Infrastructure Malta workforce ballooned; "1,000 projects" claim included routine pothole fixes | 🟡 Medium | Institutional abuse; public funds | [The Shift News, May 2026](https://theshiftnews.com/2026/05/05/infrastructure-ministers-dubious-1000-projects-claim-revived/) |
+| **Chris Bonett** *(Official ballot name: Christian Paul Bonett)* 🏛️ Gov. | Transport Ministry projects — chronic delays and cost overruns; traffic congestion governance failures | 🟡 Medium | Ministerial accountability | — |
+| **Chris Bonett** *(Official ballot name: Christian Paul Bonett)* 🏛️ Gov. | May 2026: Transport Malta employees allegedly pressured by Bonett canvassers to change their registered voting addresses to his district; senior authority officials reportedly offered to handle transfers without personal appearance; The Shift reported sustained organised effort to manipulate electoral rolls | 🔴 High | Electoral integrity; abuse of ministerial position | [The Shift News, May 2026](https://theshiftnews.com/2026/05/06/transport-malta-employees-pressured-to-shift-voting-address-to-minister-bonetts-district/) |
 | **Jonathan Attard** 🏛️ Gov. | Ethics code amendment introduced to scrap more detailed ministerial asset declarations — criticised as transparency rollback; Standards Commissioner Joseph Azzopardi issued a public warning that ending the detailed ministerial filings sends "a very negative message" and would prevent disclosure of ministerial income, investment structures, and spousal bank accounts | 🟡 Medium | Governance/transparency | [Malta Post](https://themaltapost.com/posts/malta-quietly-hides-ministers-assets-what-this-transparency-rollback-means-for-you) · [Newsbook, Mar 2026](https://newsbook.com.mt/en/new-mp-ethics-rules-add-transparency-but-avoid-conflict-of-interest-restrictions/) |
 | **Jonathan Attard** 🏛️ Gov. | Standards Commissioner rejected his complaint against two PN MPs over criminal libel claims | 🟢 None/Low | Standards process | [Malta Independent, Dec 2024](https://www.independent.com.mt/articles/2024-12-17/local-news/Standards-czar-rejects-Jonathan-Attard-complaint-against-two-PN-MPs-PN-6736266588) |
 | **Chris Fearne** | Criminal charges: fraud and misappropriation in Vitals hospitals privatisation; resigned as Deputy PM and European Commissioner nominee; court found prima facie case to stand trial | 🔴 High | Criminal proceedings; governance failure | [MaltaToday — charges](https://www.maltatoday.com.mt/news/national/129117/breaking_chris_fearne_resigns_from_labour_cabinet_withdraws_commissioner_nomination) · [MaltaToday — trial decree](https://www.maltatoday.com.mt/news/court_and_police/130385/decision_day_for_chris_fearne_and_others_as_court_determines_whether_to_indict_vitals_accused11) |
 | **Chris Fearne** | Publicly endorsed Steward hospitals deal as "the real deal" while inquiry was ongoing; Labour internal backlash over candidacy given Galdes was blocked | 🔴 High | Inconsistency; institutional integrity | [The Shift News](https://theshiftnews.com/2026/05/04/fearnes-candidacy-raises-internal-backlash-but-confirmation-expected/) |
 | **Mark Anthony Sammut** | No documented controversy | 🟢 None/Low | — | — |
+| **Mark Anthony Sammut** | Allegedly central to Delia ousting — "backstabber" (pro-Delia framing) | 🟢 Low | Partisan internal politics; depends on perspective | [Nevillegafa.com, Jun 2025](https://nevillegafa.com/2025/06/16/mark-anthony-sammut-the-backstabber-who-wants-to-bury-the-pn-for-good/) |
 | **Bernice Bonello** | No documented controversy | 🟢 None/Low | — | — |
+| **Bernice Bonello** *(Official ballot name: Bernice Theresa Bonello)* | 2022: fellow PN candidate Doris Borg publicly alleged the party showed "blatant favouritism" towards Bonello in media exposure during the campaign; a third anonymous PN candidate corroborated the claim; Borg subsequently resigned from the PN; Bonello denied any impropriety | 🟢 Low | Internal party dispute; she was not the perpetrator | [Lovin Malta, Apr 2022](https://lovinmalta.com/news/new-pn-mp-bernice-bonello-calls-for-maturity-and-party-loyalty-after-district-rival-claims-favouritism/) |
 
 ---
 
@@ -109,7 +113,7 @@ PN: Mark Anthony Sammut, Bernice Bonello
 | **Notable** | Jonathan Attard 🏛️ Gov. | Labour | ⭐⭐⭐ | 🟡 | 📢 | ✅✅✅ Near-certain |
 | **Notable** | Chris Fearne | Labour | ⭐⭐⭐⭐ | 🔴 | 📢 | ✅✅ Likely |
 | **Notable** | Mark Anthony Sammut | PN | ⭐⭐⭐ | 🟢 | 📡 | ✅✅ Likely (PN sole seat) |
-| **Notable** | Chris Bonett 🏛️ Gov. | Labour | ⭐⭐ | 🔴 | 📡 | ✅ Competitive (internally at risk) |
+| **Notable** | Chris Bonett 🏛️ Gov. | Labour | ⭐⭐⭐ | 🔴 | 📡 | ✅ Competitive (internally at risk) |
 | **Notable** | Bernice Bonello | PN | ⭐⭐ | 🟢 | 📡 | ✅ Possible (second PN slot not viable) |
 
 ---
@@ -146,7 +150,7 @@ PN: Duncan Borg Myatt, Michael Piccinino, Stefan Caruana
 | Candidate | Prior Office/Role | Key Achievement | Rating |
 |---|---|---|---|
 | **Byron Camilleri** 🏛️ Gov. | Minister for Home Affairs, Security & Employment (2020–); Mayor of Fgura (2010–17); Government Whip (2017–20) | 93% reduction in irregular maritime arrivals 2019–2024; record-low crime statistics (Crimemalta Observatory 2026 report); citizenship-by-merit reform (2025) post-CJEU ruling | ⭐⭐⭐ |
-| **Katya De Giovanni** | MP via 52A (2022–) | Social affairs committee work | ⭐ |
+| **Katya De Giovanni** | MP via 52A (2022–) | Social affairs committee work | ⭐⭐⭐ |
 | **Amanda Spiteri Grech** | MP via 52A (2022–); lawyer; former ONE TV journalist | "Right to be Forgotten" Private Member's Bill for cancer survivors — introduced Sept 2025, unanimously enacted by Parliament 30 March 2026; D4 primary | ⭐⭐ |
 | **Andy Ellul** 🏛️ Gov. | Parliamentary Secretary for Social Dialogue & Consumer Affairs (2022–); Government Whip (2022–); MP (2022–, via casual election replacing Silvio Grixti) | Government Whip — effective legislative manager; Consumer Affairs and Competition authority added to portfolio (2025); pragmatic operator | ⭐⭐ |
 | **Duncan Borg Myatt** | New candidate 2026; D4 and D5 | No prior elected office | ⭐ |
@@ -161,7 +165,11 @@ PN: Duncan Borg Myatt, Michael Piccinino, Stefan Caruana
 |---|---|---|---|---|
 | **Byron Camilleri** | Malta's immigration policy linked to documented pushbacks and non-assistance at sea; ECHR communication filed by ECCHR and Sea-Watch against Abela and officials including Camilleri for potential crimes against humanity | 🔴 High | Human rights/international law | [Newsbook — migration analysis](https://newsbook.com.mt/en/malta-declares-migration-victory-but-drop-in-arrivals-linked-to-deadly-pushbacks-and-non-assistance-at-sea/) |
 | **Byron Camilleri** | Police raids criticised for racial profiling; 95-year-old woman's home raided by mistake; refused public debate invitation | 🟡 Medium | Policing/accountability | [The Malta Independent — "hiding minister"](https://www.independent.com.mt/articles/2024-10-27/blogs-opinions/The-hiding-minister-6736265192) |
+| **Byron Camilleri** 🏛️ Gov. | February 2025: offered resignation after 200kg of confiscated cannabis was stolen from AFM compound in Safi under his ministry's custody; PM Abela refused the resignation; Camilleri absent from parliament during PN's urgent debate on the matter | 🔴 High | Ministerial accountability | [MaltaToday, Feb 2025](https://www.maltatoday.com.mt/news/national/133759/byron_camilleri_offers_resignation_after_drug_heist_at_afm_property) · [Malta Independent, Feb 2025](https://www.independent.com.mt/articles/2025-02-23/local-news/Byron-Camilleri-offers-resignation-suspends-army-brigadier-after-drug-theft-on-AFM-premises-6736268098) |
 | **All others** | No documented controversy | 🟢 None/Low | — | — |
+| **Andy Ellul** *(Official ballot name: Andrew Ellul)* 🏛️ Gov. | Entered parliament via casual election replacing Silvio Grixti (convicted of fraud); no personal controversy | 🟢 None/Low | — | — |
+| **Andy Ellul** *(Official ballot name: Andrew Ellul)* 🏛️ Gov. | PN accused him of using public Parliamentary Secretariat funds to run a political Facebook advert; referred to the Commissioner for Standards in Public Life (MaltaToday, Oct 2023); Ellul denied and said advert promoted a legitimate government initiative | 🟢 Low | Ethics allegation; denied; outcome unclear | [MaltaToday, Oct 2023](https://www.maltatoday.com.mt/news/national/125282/nationalist_party_accuses_andy_ellul_of_abusing_public_funds_in_facebook_advert) |
+| **Katya De Giovanni** | University promotion discrimination claim (legal action against UoM) | 🟡 Medium | Own legal filing; contested by UoM | [MaltaToday, 2024](https://www.maltatoday.com.mt/news/court_and_police/127436/labour_mp_takes_university_to_court_after_not_recommending_her_for_promotion_) |
 
 ---
 
@@ -185,7 +193,7 @@ PN: Duncan Borg Myatt, Michael Piccinino, Stefan Caruana
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
 | **Second-tier** | Byron Camilleri 🏛️ Gov. | Labour | ⭐⭐⭐ | 🔴 | 📡 | ✅✅ Likely (D2 primary; D4 secondary) |
-| **Second-tier** | Katya De Giovanni | Labour | ⭐ | 🟢 | 📡 | ✅ Possible (gender mechanism) |
+| **Second-tier** | Katya De Giovanni | Labour | ⭐⭐⭐ | 🟢 | 📡 | ✅ Possible (gender mechanism) |
 | **Second-tier** | Amanda Spiteri Grech | Labour | ⭐⭐ | 🟢 | 📡 | ✅ Possible (gender mechanism) |
 | **Second-tier** | Andy Ellul 🏛️ Gov. | Labour | ⭐⭐ | 🟢 | 📡 | ✅ Possible (D3 primary) |
 | **Second-tier** | Duncan Borg Myatt | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
@@ -213,12 +221,12 @@ Aħwa Maltin: Giuseppe Aquilina
 
 | Candidate | Party | EU Group | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|
-| **Raymond Abela** | Labour | S&D | Not confirmed | Silent |
+| **Raymond Abela** *(Official ballot name: Raymond Abela)* | Labour | S&D | Not confirmed | Silent |
 | **Eric Plumpton** | Labour | S&D | Not confirmed; D3 and D4 | Silent |
 | **Shana Woods** | Labour | S&D | Not confirmed | Silent |
 | **Alastair Farrugia** *(Official ballot name: Alastair Joseph Farrugia)* | Momentum | EDP | Good governance; anti-corruption; contesting D4 and D5 | Pro-choice |
 | **Brian Decelis** *(Official ballot name: Brian Charles Decelis)* | ADPD | EGP | Environment; planning | Pro-choice |
-| **Giuseppe Aquilina** | Aħwa Maltin | — | Not confirmed | Silent |
+| **Giuseppe Aquilina** | Aħwa Maltin | — | Not confirmed | Conservative |
 
 ---
 
@@ -226,7 +234,7 @@ Aħwa Maltin: Giuseppe Aquilina
 
 | Candidate | Prior Role | Rating |
 |---|---|---|
-| **Raymond Abela** | New candidate | ⭐ |
+| **Raymond Abela** | New candidate | ⭐⭐ |
 | **Eric Plumpton** | New candidate | ⭐ |
 | **Shana Woods** | New candidate | ⭐ |
 | **Alastair Farrugia** | Momentum D4 and D5 candidate | ⭐ |
@@ -240,6 +248,7 @@ Aħwa Maltin: Giuseppe Aquilina
 | Candidate | Controversy | Severity |
 |---|---|---|
 | **Giuseppe Aquilina** | No documented controversy | 🟢 None/Low |
+| **Giuseppe Aquilina** | Aħwa Maltin's "Malta għall-Maltin" nativist platform is explicitly anti-immigration | 🟡 Medium |
 | **All others** | No documented controversy | 🟢 None/Low |
 
 ---
@@ -248,7 +257,7 @@ Aħwa Maltin: Giuseppe Aquilina
 
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
-| **List-filler** | Raymond Abela | Labour | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | Raymond Abela | Labour | ⭐⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Eric Plumpton | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Shana Woods | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Alastair Farrugia | Momentum | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |

@@ -86,12 +86,18 @@ PN: Alex Borg, Beppe Galea, Luke Said, Norma Camilleri
 |---|---|---|---|
 | **Jo Etienne Abela** 🏛️ Gov. | Favouritism/nepotism allegations in Health Ministry | 🟡 Medium | [Critical Angle Project, Dec 2024](https://cap.mt) |
 | **Jo Etienne Abela** 🏛️ Gov. | Brother reportedly in Gozo Ministry "phantom job" | 🟡 Medium | The Shift News |
+| **Jo Etienne Abela** *(Official ballot name: Joetienne Abela)* 🏛️ Gov. | Favouritism/nepotism allegations in Health Ministry — Standards Commissioner investigation formally closed April 2026 with no ethics breach found | 🟡 Medium |
+| **Jo Etienne Abela** *(Official ballot name: Joetienne Abela)* 🏛️ Gov. | Political use of ministerial resources (sister-in-law council campaign) | 🟡 Medium |
+| **Jo Etienne Abela** *(Official ballot name: Joetienne Abela)* 🏛️ Gov. | April 2026: hosted a taxpayer-funded celebration at the Mediterranean Conference Centre for the Medical School's 350th anniversary; health insiders told The Shift it was "an excuse to launch the minister's personal re-election campaign using public funds"; minister did not reply to budget questions | 🟡 Medium |
 | **Clint Camilleri** 🏛️ Gov. | Planning portfolio added 2024 — Gozo overdevelopment and permit controversies | 🟡 Medium | The Shift News, multiple reports |
 | **Anton Refalo** 🏛️ Gov. | Stolen British-era stone marker (Victoria Regina) found at his private Qala home — police investigated; no charges filed; Refalo never explained how the protected heritage artefact arrived there | 🔴 High | Illegal possession of protected heritage | [The Shift News, Feb 2025](https://theshiftnews.com/2025/02/14/planning-authority-inspection-at-ministers-hotel-draws-a-blank-despite-evidence/) |
 | **Anton Refalo** 🏛️ Gov. | L-Eremita hotel: wife received €270,000 in EU funds (80% of costs) for "yoga-meditation" hotel built mostly illegally on ODZ land in Qala; Brussels investigating; illegal car park bulldozed without permits; Planning Authority took no action despite evidence | 🔴 High | EU funds misuse; illegal ODZ development | [The Shift News, Jun 2023](https://theshiftnews.com/2023/06/17/anton-refalo-and-wife-get-e270000-in-eu-funding-for-their-yoga-meditation-hotel/) |
 | **Anton Refalo** 🏛️ Gov. | April 2026: Italian La Stampa linked his Qala villa to a hideout used by Sicilian mafia boss Toto Riina; Refalo contradicted himself (first said he bought it, then denied owning it); told reporter "mind your own business" | 🟡 Medium | Credibility; unproven link | [MaltaToday, Apr 2026](https://www.maltatoday.com.mt/news/national/140754/italian_report_links_anton_refalos_gozo_villa_to_former_salvatore_toto_riina_hideout) |
 | **Alex Borg** | AI-manipulated image showing him smoking cannabis circulated — not his conduct; endorsed Trump (see D12 report) | 🟢 None/Low (victim of disinformation) | Wikipedia |
 | **Alex Borg** | May 2026: launched campaign at maritime school without press access, no journalist Q&A — "camera-shy" coverage (MaltaToday) | 🟢 Low | Campaign conduct | [D12 report — T1 Table 3] |
+| **Alex Borg** *(Official ballot name: Alexander Borg)* | Cannabis photo circulated (AI-manipulated image — noted by Wikipedia); AI-edited images mocking him flooded social media after election announcement | 🟢 None/Low |
+| **Alex Borg** *(Official ballot name: Alexander Borg)* | Endorsed Trump as "more pro-business"; praised Trump's pro-life stance — some see this as divisive | 🟡 Medium |
+| **Alex Borg** *(Official ballot name: Alexander Borg)* | First two days of campaign: avoided media access — visited maritime school without informing press; proposals launched without journalist Q&A; MaltaToday noted he was "camera-shy" despite modelling background | 🟢 Low |
 | **Beppe Galea** | No documented controversy | 🟢 None/Low | — |
 | **Luke Said** | No documented controversy | 🟢 None/Low | — |
 | **Norma Camilleri** | No documented controversy | 🟢 None/Low | — |
@@ -143,6 +149,22 @@ Labour: Abigail Camilleri, George Paul Camilleri
 ---
 
 # TIER 3 — LIST-FILLERS
+
+## T3 — TABLE 1: POLITICAL ALIGNMENT
+
+| Candidate | Party | EU Group | Abortion Stance |
+|---|---|---|---|
+| **Paul Salomone** | Aħwa Maltin | — | Conservative |
+
+---
+
+## T3 — TABLE 3: CONTROVERSIES
+
+| Candidate | Controversy | Severity | Nature | Source |
+|---|---|---|---|---|
+| **Paul Salomone** | Aħwa Maltin's "Malta għall-Maltin" nativist platform is explicitly anti-immigration | 🟡 Medium | Ideological/political | — |
+
+---
 
 ## T3 — TABLE 5: MASTER SUMMARY (Tier 3)
 

@@ -53,7 +53,7 @@ PN: Rebekah Borg, Adrian Delia (D7 and D8)
 | **Julia Farrugia** 🏛️ Gov. | Labour | S&D | Centre-left; inclusion | Inclusion Minister; D5 and D7; Qrendi roots | Inclusion; disability; VOTE16 | Silent |
 | **Silvio Schembri** *(Official ballot name: Saviour Schembri)* 🏛️ Gov. | Labour | S&D | Centre-left; economy and enterprise | Former Min. Digital Economy (2017–22); D6 and D7; Żebbuġ connections | Digital economy; enterprise; Żebbuġ community | Silent |
 | **Rebekah Borg** *(Official ballot name: Rebekah-Ann Borg)* | PN | EPP | Centre-right; environment; engineering | Shadow Min. Environment; D7 and D11; biomedical engineer and lawyer (Univ. Sheffield 1st class; Oxford Masters; Medtronic Scholarship) | Environment; ODZ; planning; rural heritage | Silent |
-| **Adrian Delia** | PN | EPP | Centre-right; legal/anti-corruption | Former PN leader; Shadow Min. Finance (under Borg); D7 and D8; hospital concession case winner | Justice; rule of law; hospital concession court victory | **Explicitly pro-life** |
+| **Adrian Delia** | PN | EPP | Centre-right; legal/anti-corruption | Former PN leader; Shadow Min. Finance (under Borg); D7 and D8; hospital concession case winner | Justice; rule of law; hospital concession court victory | Implicitly pro-life (no formal declaration) |
 
 ---
 
@@ -78,10 +78,18 @@ PN: Rebekah Borg, Adrian Delia (D7 and D8)
 | **Ian Borg** 🏛️ Gov. | Oversaw infrastructure era linked to rampant overdevelopment and traffic — though popular among voters | 🟡 Medium | Policy legacy | Multiple sources, 2017–22 |
 | **Adrian Delia** | Leaked audio of call with Yorgen Fenech (murder suspect) during his leadership — claimed to show him seeking information; PN rebels used this to oust him | 🔴 High | Multiple sources, 2020–22 |
 | **Adrian Delia** | Controversial PN leadership tenure (2017–20): internal civil war, Standards Commissioner investigations, allegations of personal misconduct | 🔴 High | MaltaToday, Malta Independent |
+| **Adrian Delia** | Tax debt: >€140k in unpaid income tax (2007–2017); in-laws paid €120k+ to settle | 🔴 High |
+| **Adrian Delia** | Domestic violence allegations (late 2018); wife and children | 🔴 High |
+| **Adrian Delia** | Prostitution racket allegation (Daphne Caruana Galizia, 2017); Delia denied; filed libel cases | 🟡 Medium |
+| **Adrian Delia** | Vitals/Steward court case: won as plaintiff, but critics noted his original silence on the deal while in leadership | 🟢 Low |
+| **Adrian Delia** | May 2026: confronted hospital security while filming a campaign video at St Luke's; footage widely circulated; Labour called it a "political stunt" | 🟢 Low |
 | **Naomi Cachia** | No documented controversy | 🟢 None/Low | — |
 | **Julia Farrugia** 🏛️ Gov. | Proposed €10,000 fine for sharing disability meme — criticised as disproportionate censorship | 🟡 Medium | Free speech concerns | [Lovin Malta, Sep 2023](https://lovinmalta.com/opinion/opinion-is-julia-farrugia-portelli-out-of-her-mind/) |
 | **Silvio Schembri** 🏛️ Gov. | Direct orders and government patronage practices within economy portfolio | 🟡 Medium | Various reports |
 | **Silvio Schembri** 🏛️ Gov. | Dec 2025: lawyer Jason Azzopardi filed magisterial inquiry request alleging corruption and misconduct — Lands Authority land deals undervalued for developers (€12m plot for €380k/yr), developer-linked constituency office, and lifestyle inconsistent with asset declarations; Schembri denied all allegations | 🔴 High | Institutional; alleged corruption | [MaltaToday, Dec 2025](https://www.maltatoday.com.mt/news/court_and_police/133097/jason_azzopardi_alleges_corruption_misconduct_by_silvio_schembri_in_magisterial_inquiry_request_) |
+| **Silvio Schembri** *(Official ballot name: Saviour Schembri)* 🏛️ Gov. | Responsible Gaming Foundation funds directed exclusively to sports clubs and organisations in his own D6 constituency; all seven most recent grants went to Qormi-area groups; Ian Borg and Rosianne Cutajar reportedly complained to OPM | 🔴 High |
+| **Silvio Schembri** *(Official ballot name: Saviour Schembri)* 🏛️ Gov. | Lied to parliament over MGA direct orders list — omitted €5,000/month retainer to Labour pollster Vincent Marmarà, €30,000 to One TV Productions, and order to Eden Leisure Group | 🔴 High |
+| **Silvio Schembri** *(Official ballot name: Saviour Schembri)* 🏛️ Gov. | Standards Commissioner found he used ministerial Facebook page for official press conferences and paid adverts the day after Commissioner condemned the practice | 🟡 Medium |
 | **Rebekah Borg** | No documented controversy | 🟢 None/Low | — |
 
 ---
@@ -127,7 +135,7 @@ PN: Charles Azzopardi, Andrew Agius, Paul Mazzola, Anthony Mifsud, Ian Mario Vas
 | **Malcolm Paul Agius Galea** 🏛️ Gov. | Labour | S&D | Planning; local government (D6 primary) | Silent |
 | **Anthony Agius Decelis** | Labour | S&D | Local constituency; D7 anchor | Silent |
 | **Samantha Pace Gasan** | Labour | S&D | D7 candidate; professional background | Silent |
-| **Omar Rababah** | Labour | S&D | D6 and D7; diversity; community | Silent |
+| **Omar Rababah** | Labour | S&D | D6 and D7; diversity; community | Community; diversity; social inclusion |
 | **Charles Azzopardi** | PN | EPP | National heritage; D7 and D12; Rabat ex-mayor | Silent |
 | **Andrew Agius** | PN | EPP | D3 and D7; veterinarian | Silent |
 | **Paul Mazzola** | PN | EPP | New candidate | Silent |
@@ -157,6 +165,7 @@ PN: Charles Azzopardi, Andrew Agius, Paul Mazzola, Anthony Mifsud, Ian Mario Vas
 | Candidate | Controversy | Severity | Nature | Source |
 |---|---|---|---|---|
 | **Malcolm Paul Agius Galea** 🏛️ Gov. | Asked zero parliamentary questions during entire legislature (MaltaToday, Jun 2025) | 🟡 Medium | Parliamentary disengagement | [MaltaToday, Jun 2025](https://www.maltatoday.com.mt/news/national/123385/jerome_caruana_cilia_tops_list_for_most_pqs_asked_by_opposition) |
+| **Malcolm Paul Agius Galea** 🏛️ Gov. | No documented controversy | 🟢 None/Low | — | — |
 | **Anthony Agius Decelis** | Daughter Danika appointed to Malta Medicines Authority — cited in The Shift report on Labour patronage appointments | 🟡 Medium | Alleged nepotism | [The Shift News](https://theshiftnews.com/) |
 | **Samantha Pace Gasan** | No documented controversy | 🟢 None | — | — |
 | **Omar Rababah** | Target of online racist abuse following candidacy announcement; not a controversy of his own conduct | 🟢 None/Low | Victim of abuse; defended by PM and PN's de Marco | Multiple sources, May 2026 |
@@ -202,6 +211,14 @@ PN: Charles Azzopardi, Andrew Agius, Paul Mazzola, Anthony Mifsud, Ian Mario Vas
 ---
 
 # TIER 3 — LIST-FILLERS
+
+## T3 — TABLE 1: POLITICAL ALIGNMENT
+
+| Candidate | Party | EU Group | Abortion Stance |
+|---|---|---|---|
+| **Pierre Schembri-Wismayer** | Momentum | EDP | **Explicitly pro-life** |
+
+---
 
 ## T3 — TABLE 5: MASTER SUMMARY (Tier 3)
 
