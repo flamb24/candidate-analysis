@@ -74,21 +74,19 @@ PN: Alex Borg, Ivan Castillo, Graziella Galea
 
 ## T1 — TABLE 3: CONTROVERSIES
 
-| Candidate | Controversy | Severity | Source |
-|---|---|---|---|
+| Candidate | Controversy | Severity | Nature | Source |
+|---|---|---|---|---|
 | **Jonathan Attard** 🏛️ Gov. | Ethics code amendment introduced to scrap more detailed ministerial asset declarations — criticised as transparency rollback | 🟡 Medium | Governance/transparency | [Malta Post](https://themaltapost.com/posts/malta-quietly-hides-ministers-assets-what-this-transparency-rollback-means-for-you) |
 | **Jonathan Attard** 🏛️ Gov. | Standards Commissioner rejected his complaint against two PN MPs over criminal libel claims | 🟢 None/Low | Standards process | [Malta Independent, Dec 2024](https://www.independent.com.mt/articles/2024-12-17/local-news/Standards-czar-rejects-Jonathan-Attard-complaint-against-two-PN-MPs-PN-6736266588) |
-| **Alex Borg** | Cannabis photo circulated (AI-manipulated image — noted by Wikipedia); AI-edited images mocking him flooded social media after election announcement | 🟢 None/Low (victim of disinformation, not perpetrator) | Wikipedia D2026 article |
-| **Alex Borg** | Endorsed Trump as "more pro-business"; praised Trump's pro-life stance — some see this as divisive | 🟡 Medium | [Wikipedia — Alex Borg](https://en.wikipedia.org/wiki/Alex_Borg_(politician)) |
+| **Alex Borg** | Cannabis photo circulated (AI-manipulated image — noted by Wikipedia); AI-edited images mocking him flooded social media after election announcement | 🟢 None/Low (victim of disinformation, not perpetrator) | — | Wikipedia D2026 article |
+| **Alex Borg** | Endorsed Trump as "more pro-business"; praised Trump's pro-life stance — some see this as divisive | 🟡 Medium | — | [Wikipedia — Alex Borg](https://en.wikipedia.org/wiki/Alex_Borg_(politician)) |
 | **Alex Borg** | First two days of campaign: avoided media access — visited maritime school without informing press; proposals launched without journalist Q&A; MaltaToday noted he was "camera-shy" despite modelling background | 🟢 Low | Campaign communication style | [MaltaToday, May 2026](https://www.maltatoday.com.mt/news/election-2026/141376/election_playbook_dont_be_shy_alex_just_pretend_youre_contesting_mr_world_malta) |
-| **Alex Borg** *(Official ballot name: Alexander Borg)* | AI-manipulated image showing him smoking cannabis circulated — not his conduct; endorsed Trump (see D12 report) | 🟢 None/Low |
-| **Alex Borg** *(Official ballot name: Alexander Borg)* | May 2026: launched campaign at maritime school without press access, no journalist Q&A — "camera-shy" coverage (MaltaToday) | 🟢 Low |
-| **Graziella Galea** | Was PN St Paul's Bay mayor subject to vote of no confidence — resigned, causing controversy | 🟡 Medium | Lovin Malta — D12 Spotlight 2022 |
-| **Graziella Galea** | Board of Local Governance: broke financial regulations as St Paul's Bay mayor | 🟡 Medium |
-| **Ivan Castillo** | No documented controversy | 🟢 None/Low | — |
-| **Alicia Bugeja Said** 🏛️ Gov. | €6,200 received from fish farm/fishing companies (Frutti di Mare €2,500; Malta Fish Farming €2,500; Azzopardi Fisheries €1,200) during 2022 campaign while serving as Director of Fisheries, then appointed Parliamentary Secretary for Fisheries — reported as conflict of interest; ethics complaint by Arnold Cassola over "Swimming With Tuna" event using ministerial channels | 🟡 Medium | Conflict of interest | [Malta Independent, May 2022](https://www.independent.com.mt/articles/2022-05-27/newspaper-leader/The-Malta-Independent-editorial-Conflict-of-interest-6736243250) |
-| **Alicia Bugeja Said** *(Official ballot name: Alicia Maree Beth Sephora Bugeja Said)* 🏛️ Gov. | Received campaign donations from Malta's top fish farm operators during her 2022 electoral campaign while still serving as Director of Fisheries — documented conflict of interest between her regulatory role and campaign financing | 🟡 Medium |
-| **Naomi Cachia** | No documented controversy | 🟢 None/Low | — |
+| **Graziella Galea** | Was PN St Paul's Bay mayor subject to vote of no confidence — resigned, causing controversy | 🟡 Medium | — | Lovin Malta — D12 Spotlight 2022 |
+| **Graziella Galea** | Board of Local Governance: broke financial regulations as St Paul's Bay mayor | 🟡 Medium | — | — |
+| **Ivan Castillo** | No documented controversy | 🟢 None/Low | — | — |
+| **Alicia Bugeja Said** 🏛️ Gov. | Received campaign donations from Malta's top fish farm operators during her 2022 electoral campaign while still serving as Director of Fisheries — documented conflict of interest between her regulatory role and campaign financing | 🟡 Medium | Conflict of interest | [Wikipedia — Alicia Bugeja Said](https://en.wikipedia.org/wiki/Alicia_Bugeja_Said) |
+| **Alicia Bugeja Said** *(Official ballot name: Alicia Maree Beth Sephora Bugeja Said)* 🏛️ Gov. | €6,200 received from fish farm/fishing companies (Frutti di Mare €2,500; Malta Fish Farming €2,500; Azzopardi Fisheries €1,200) during 2022 campaign while serving as Director of Fisheries, then appointed Parliamentary Secretary for Fisheries — reported as conflict of interest; ethics complaint by Arnold Cassola over "Swimming With Tuna" event using ministerial channels | 🟡 Medium | Conflict of interest; ethics breach | [Malta Independent, May 2022](https://www.independent.com.mt/articles/2022-05-27/newspaper-leader/The-Malta-Independent-editorial-Conflict-of-interest-6736243250) |
+| **Naomi Cachia** | No documented controversy | 🟢 None/Low | — | — |
 
 ---
 
