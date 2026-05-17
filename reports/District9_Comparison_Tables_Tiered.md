@@ -3,7 +3,7 @@
 
 > District 9 covers: Għargħur, Msida, Swatar, Pietà, San Ġwann, Kappara, Swieqi, Madliena and Ta'Xbiex.
 >
-> The 28 District 9 candidates are grouped into three tiers. This is a high-profile PN-leaning district — the same candidate field as D10 but for the inland/northern-harbour belt.
+> The 29 District 9 candidates are grouped into three tiers. This is a high-profile PN-leaning district — the same candidate field as D10 but for the inland/northern-harbour belt.
 >
 > **Rating scales:**
 > - **Track Record:** ⭐ (minimal/none) to ⭐⭐⭐⭐⭐ (exceptional)
@@ -18,9 +18,9 @@
 
 | Tier | Criteria | Count |
 |---|---|---|
-| **Notable** | Near-certain or likely seat; high profile | 8 candidates |
-| **Second-tier** | Competitive or possible seat | 8 candidates |
-| **List-fillers** | Negligible electability | 12 candidates |
+| **Notable** | Near-certain or likely seat; high profile | 10 candidates |
+| **Second-tier** | Competitive or possible seat | 10 candidates |
+| **List-fillers** | Negligible electability | 9 candidates |
 
 ---
 
@@ -28,9 +28,9 @@
 
 District 9 is PN's second-strongest district nationally after D10, covering the affluent inner northern-harbour belt (Swieqi, San Ġwann, Msida, Ta'Xbiex). PN typically polls 57–60% here; Labour 38–41%. Expected seat split: **3 PN / 2 Labour** — a reversal of the national Labour majority. This is one of only two districts where PN is expected to take a majority of seats.
 
-Note: D9 and D10 share a very similar PN candidate pool since many PN notables contest both. The D9 notable list is therefore drawn from the confirmed D9 ticket (per The Malta Independent): Attard Previ Graziella, Aquilina Joseph Mary, Bencini Graham, Borg Bonello Eve, Buttigieg Albert, Ellul James Aaron, Fenech Adami Beppe, Gauci Marija Elena, Giglio Joe, Muscat Jonathan Albert, Muscat Noel, Perici Calascione Alex, Selvaggi Charles, Zahra Julie.
+Note: D9 and D10 share a very similar PN candidate pool since many PN notables contest both. The D9 notable list is therefore drawn from the confirmed D9 ticket (per The Malta Independent): Graziella Attard Previ, Joseph Aquilina, Graham Bencini, Eve Borg Bonello, Albert Buttigieg, James Ellul, Beppe Fenech Adami, Marija Elena Gauci, Joe Giglio, Jonathan Muscat, Noel Muscat, Alex Perici Calascione, Charles Selvaggi, Julie Zahra.
 
-Labour's D9 list: Agius Tabone Vania, Azzopardi Flores Clinton-Domenic, Balzan Miguel, Borg Tania, Borg Vassallo Lorna, Buttigieg Rebecca, Caruana David, Cassar Shaw Lisa, Falzon Michael, Grima Clifton, Meli Mariah.
+Labour's D9 list: Vania Agius Tabone, Clint Azzopardi Flores, Miguel Balzan, Tania Borg, Lorna Borg Vassallo, Rebecca Buttigieg, David Caruana, Lisa Cassar Shaw, Michael Falzon, Clifton Grima, Mariah Meli.
 
 This report covers the D9-specific context. Full candidate profiles for the shared PN D9/D10 candidates are detailed in the **District 10 report** (already completed). This report focuses on D9-specific dynamics and references D10 entries for profiles.
 
@@ -42,7 +42,7 @@ This report covers the D9-specific context. Full candidate profiles for the shar
 
 # TIER 1 — NOTABLE CANDIDATES
 
-**Candidates in this tier (8):**
+**Candidates in this tier (10):**
 Labour: Rebecca Buttigieg, Clifton Grima, Michael Falzon
 PN: Beppe Fenech Adami, Joe Giglio, Graziella Attard Previ, Albert Buttigieg, Eve Borg Bonello
 Third parties: Arnold Cassola (Momentum), Mark Zerafa (ADPD)
@@ -55,16 +55,16 @@ Third parties: Arnold Cassola (Momentum), Mark Zerafa (ADPD)
 
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
-| **Rebecca Buttigieg** 🏛️ Gov. | Labour | S&D | Centre-left; progressive | Parliamentary Secretary; D9 and D10 | Social policy; youth | Silent |
-| **Clifton Grima** 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Education Minister; D9 and D10 | Education; sport; research | Silent |
+| **Rebecca Buttigieg** 🏛️ Gov. | Labour | S&D | Centre-left; progressive | Parliamentary Secretary for Reforms and Equality; D9 and D10 | Equality; civil reforms; cannabis policy; euthanasia consultation | Silent |
+| **Clifton Grima** 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Minister for Education, Youth, Sport and Research; D9 and D10 | Education; youth; sport; research | Silent |
 | **Michael Falzon** 🏛️ Gov. | Labour | S&D | Old-guard centre-left | Social Policy Minister; D9 and D10 | Social security; pensions; family | Silent |
-| **Beppe Fenech Adami** | PN | EPP | Centre-right; foreign affairs | Shadow Min. Foreign Affairs; D8 and D9 | EU relations; foreign affairs | Silent |
-| **Joe Giglio** | PN | EPP | Centre-right; rule-of-law | Shadow Min. Justice; D9 and D10 | Justice; planning accountability | Silent |
+| **Beppe Fenech Adami** *(Official ballot name: Joseph Fenech Adami)* | PN | EPP | Centre-right; foreign affairs | Shadow Min. Foreign Affairs; D8 and D9 | EU relations; foreign affairs | Silent |
+| **Joe Giglio** *(Official ballot name: Joseph Giglio)* | PN | EPP | Centre-right; rule-of-law | Shadow Min. Justice; D9 and D10 | Justice; planning accountability | Silent |
 | **Graziella Attard Previ** | PN | EPP | Centre-right; civil rights | Shadow Min. Equality; D9 and D10 | Equality; LGBTQ; domestic violence | Silent |
 | **Albert Buttigieg** | PN | EPP | Centre-right; anti-developer | Shadow Min. Neurodivergence; D9 and D10 | Overdevelopment; community governance | Silent |
 | **Eve Borg Bonello** | PN | EPP | Centre-right; progressive-environmental | Shadow Min. Climate; D9 and D10 | Climate; governance; transparency | **Explicitly pro-life** |
 | **Arnold Cassola** | Momentum | EDP | Centrist-green; anti-corruption | Founder/leader; D9 and D10 | Constitutional reform; FOI; environment | Pro-life (personal); free vote (party) |
-| **Mark Zerafa** | ADPD | EGP | Left-wing green | D1 and D9 | Environment; planning | Pro-choice |
+| **Mark Zerafa** *(Official ballot name: Mark Anthony Zerafa)* | ADPD | EGP | Left-wing green | D1 and D9 | Environment; planning | Pro-choice |
 
 ---
 
@@ -90,6 +90,7 @@ Third parties: Arnold Cassola (Momentum), Mark Zerafa (ADPD)
 | Candidate | Controversy | Severity |
 |---|---|---|
 | **Clifton Grima** 🏛️ Gov. | MCAST fraud — ignored NAO audit warnings twice; Standards Commissioner breach | 🔴 High |
+| **Clifton Grima** 🏛️ Gov. | April 2025: Ombudsman ruled that a ministerial circular instructing teachers to conform to government policy when expressing themselves publicly constituted a restriction on freedom of expression — Momentum highlighted the ruling in campaign material | 🔴 High |
 | **Michael Falzon** 🏛️ Gov. | 105 unanswered PQs; limited reform | 🟡 Medium |
 | **Joe Giglio** | Pilatus Bank episode; Meli extradition dispute | 🔴 High |
 | **Rebecca Buttigieg** | No documented controversy | 🟢 None/Low |
@@ -109,7 +110,7 @@ Third parties: Arnold Cassola (Momentum), Mark Zerafa (ADPD)
 | **Notable** | Beppe Fenech Adami | PN | ⭐⭐⭐ | 🟢 | 📡 | ✅✅✅ Near-certain |
 | **Notable** | Joe Giglio | PN | ⭐⭐⭐ | 🔴 | 📢 | ✅✅✅ Near-certain |
 | **Notable** | Clifton Grima 🏛️ Gov. | Labour | ⭐⭐ | 🔴 | 📡 | ✅✅ Likely |
-| **Notable** | Michael Falzon 🏛️ Gov. | Labour | ⭐⭐ | 🟡 | 📶 | ✅✅ Likely |
+| **Notable** | Michael Falzon 🏛️ Gov. | Labour | ⭐⭐ | 🟡 | 📢 | ✅✅ Likely |
 | **Notable** | Eve Borg Bonello | PN | ⭐⭐⭐ | 🟡 | 📢 | ✅✅ Likely |
 | **Notable** | Graziella Attard Previ | PN | ⭐⭐⭐ | 🟢 | 📡 | ✅✅ Likely |
 | **Notable** | Albert Buttigieg | PN | ⭐⭐⭐ | 🟢 | 📡 | ✅✅ Likely |
@@ -121,9 +122,9 @@ Third parties: Arnold Cassola (Momentum), Mark Zerafa (ADPD)
 
 # TIER 2 — SECOND-TIER CANDIDATES
 
-**Candidates in this tier (8):**
-PN: Graham Bencini, Noel Muscat, Jonathan Albert Muscat, Alex Perici Calascione, Charles Selvaggi, Julie Zahra, Joseph Mary Aquilina, Marija Elena Gauci
-Labour: Vania Agius Tabone, Clinton-Domenic Azzopardi Flores
+**Candidates in this tier (10):**
+PN: Graham Bencini, Noel Muscat, Jonathan Muscat, Alex Perici Calascione, Charles Selvaggi, Julie Zahra, Joseph Aquilina, Marija Elena Gauci
+Labour: Vania Agius Tabone, Clint Azzopardi Flores
 
 ---
 
@@ -135,21 +136,23 @@ Labour: Vania Agius Tabone, Clinton-Domenic Azzopardi Flores
 | **Second-tier** | Julie Zahra | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Noel Muscat | PN | ⭐⭐ | 🟢 | 📡 | ✅ Possible |
 | **Second-tier** | Alex Perici Calascione | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible (D1 primary) |
-| **Second-tier** | Jonathan Albert Muscat | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
+| **Second-tier** | Jonathan Muscat *(Official ballot name: Jonathan Albert Muscat)* | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Charles Selvaggi | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
-| **Second-tier** | Joseph Mary Aquilina | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
+| **Second-tier** | Joseph Aquilina *(Official ballot name: Joseph Mary Aquilina)* | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Marija Elena Gauci | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Vania Agius Tabone | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
-| **Second-tier** | Clinton-Domenic Azzopardi Flores | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
+| **Second-tier** | Clint Azzopardi Flores *(Official ballot name: Clinton-Domenic Azzopardi Flores)* | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 
 ---
 
 # TIER 3 — LIST-FILLERS
 
 Labour list-fillers in D9: Miguel Balzan, Tania Borg, Lorna Borg Vassallo, David Caruana, Lisa Cassar Shaw, Mariah Meli
-PN: James Aaron Ellul
+PN: James Ellul
 Imperium Europa: Eman Alexander Cross
 Aħwa Maltin: Josephine Borg
+
+## T3 — TABLE 5: MASTER SUMMARY (Tier 3)
 
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
@@ -159,7 +162,7 @@ Aħwa Maltin: Josephine Borg
 | **List-filler** | David Caruana | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Lisa Cassar Shaw | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Mariah Meli | Labour | ⭐ | 🟢 | 📵 | ✗ |
-| **List-filler** | James Aaron Ellul | PN | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | James Ellul *(Official ballot name: James Aaron Ellul)* | PN | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Eman Alexander Cross | Imperium Europa | ⭐ | 🔴 | 📶 | ✗ |
 | **List-filler** | Josephine Borg | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
 
@@ -195,7 +198,7 @@ Aħwa Maltin: Josephine Borg
 | **Notable** | Beppe Fenech Adami | PN | ⭐⭐⭐ | 🟢 | 📡 | ✅✅✅ Near-certain |
 | **Notable** | Joe Giglio | PN | ⭐⭐⭐ | 🔴 | 📢 | ✅✅✅ Near-certain |
 | **Notable** | Clifton Grima 🏛️ Gov. | Labour | ⭐⭐ | 🔴 | 📡 | ✅✅ Likely |
-| **Notable** | Michael Falzon 🏛️ Gov. | Labour | ⭐⭐ | 🟡 | 📶 | ✅✅ Likely |
+| **Notable** | Michael Falzon 🏛️ Gov. | Labour | ⭐⭐ | 🟡 | 📢 | ✅✅ Likely |
 | **Notable** | Eve Borg Bonello | PN | ⭐⭐⭐ | 🟡 | 📢 | ✅✅ Likely |
 | **Notable** | Graziella Attard Previ | PN | ⭐⭐⭐ | 🟢 | 📡 | ✅✅ Likely |
 | **Notable** | Albert Buttigieg | PN | ⭐⭐⭐ | 🟢 | 📡 | ✅✅ Likely |
@@ -206,11 +209,11 @@ Aħwa Maltin: Josephine Borg
 | **Second-tier** | Julie Zahra | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Noel Muscat | PN | ⭐⭐ | 🟢 | 📡 | ✅ Possible |
 | **Second-tier** | Alex Perici Calascione | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible (D1 primary) |
-| **Second-tier** | Jonathan Albert Muscat | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
+| **Second-tier** | Jonathan Muscat | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Vania Agius Tabone | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
-| **Second-tier** | Clinton-Domenic Azzopardi Flores | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
+| **Second-tier** | Clint Azzopardi Flores | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Charles Selvaggi | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
-| **Second-tier** | Joseph Mary Aquilina | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
+| **Second-tier** | Joseph Aquilina | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Marija Elena Gauci | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **List-filler** | Miguel Balzan | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Tania Borg | Labour | ⭐ | 🟢 | 📵 | ✗ |
@@ -218,12 +221,12 @@ Aħwa Maltin: Josephine Borg
 | **List-filler** | David Caruana | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Lisa Cassar Shaw | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Mariah Meli | Labour | ⭐ | 🟢 | 📵 | ✗ |
-| **List-filler** | James Aaron Ellul | PN | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | James Ellul | PN | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Eman Alexander Cross | Imperium Europa | ⭐ | 🔴 | 📶 | ✗ |
 | **List-filler** | Josephine Borg | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
 
 ---
 
-*Tables compiled 16 May 2026. Full candidate profiles for PN D9/D10 overlapping candidates are in the District 10 report. District 9 historical vote share: PN ~57–60%, Labour ~38–41% (2013–2022). Expected seat split: 3 PN / 2 Labour. The Swieqi footbridge controversy (ongoing at election) is the most acute local planning issue.*
+*Tables compiled 16 May 2026. Deep research and social media verification applied 17 May 2026. Full candidate profiles for PN D9/D10 overlapping candidates are in the District 10 report. District 9 historical vote share: PN ~57–60%, Labour ~38–41% (2013–2022). Expected seat split: 3 PN / 2 Labour. The Swieqi footbridge controversy (ongoing at election) is the most acute local planning issue.*
 
 ---

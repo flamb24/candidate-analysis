@@ -3,7 +3,7 @@
 
 > District 12 covers: Mellieħa, part of Naxxar, St Paul's Bay and Burmarrad.
 >
-> The 21 District 12 candidates are grouped into three tiers.
+> The 24 District 12 candidates are grouped into three tiers.
 >
 > **Rating scales:**
 > - **Track Record:** ⭐ (minimal/none) to ⭐⭐⭐⭐⭐ (exceptional)
@@ -19,8 +19,8 @@
 | Tier | Criteria | Count |
 |---|---|---|
 | **Notable** | Near-certain or likely seat; high profile | 6 candidates |
-| **Second-tier** | Competitive or possible seat | 8 candidates |
-| **List-fillers** | Negligible electability | 7 candidates |
+| **Second-tier** | Competitive or possible seat | 14 candidates |
+| **List-fillers** | Negligible electability | 4 candidates |
 
 ---
 
@@ -51,9 +51,9 @@ PN: Alex Borg, Ivan Castillo, Graziella Galea
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
 | **Jonathan Attard** 🏛️ Gov. | Labour | S&D | Centre-left; justice | Justice Minister; D4 primary, D12 secondary | Justice reform; construction sector | Silent |
-| **Alicia Bugeja Said** 🏛️ Gov. | Labour | S&D | Centre-left; scientist | Parliamentary Secretary Fisheries; D3 and D12 | Fisheries; animal rights; sustainability | Silent |
+| **Alicia Bugeja Said** *(Official ballot name: Alicia Maree Beth Sephora Bugeja Said)* 🏛️ Gov. | Labour | S&D | Centre-left; scientist | Parliamentary Secretary Fisheries; D3 and D12 | Fisheries; animal rights; sustainability | Silent |
 | **Naomi Cachia** 🏛️ Gov. | Labour | S&D | Centre-left; progressive | Government Whip; D7 and D12; former FŻL president | Women's rights; parliamentary process | Silent |
-| **Alex Borg** | PN | EPP | Centre-right; reform-focused | PN leader since Sep 2025; D12 and D13 | Healthcare; cost of living; population management; PN renewal | **Explicitly pro-life** (personal; moderate on enforcement) |
+| **Alex Borg** *(Official ballot name: Alexander Borg)* | PN | EPP | Centre-right; reform-focused | PN leader since Sep 2025; D12 and D13 | Healthcare; cost of living; population management; PN renewal | **Explicitly pro-life** (personal; moderate on enforcement) |
 | **Ivan Castillo** | PN | EPP | Centre-right; maritime | Shadow Min. Employment, Maritime & Aviation; D8 and D12 | Maritime; aviation; employment | Silent |
 | **Graziella Galea** | PN | EPP | Centre-right; inclusion | MP (via 52A 2022–); Shadow Min. Inclusion; D12 primary | Inclusion; disability; voluntary sector | Silent |
 
@@ -66,7 +66,7 @@ PN: Alex Borg, Ivan Castillo, Graziella Galea
 | **Jonathan Attard** 🏛️ Gov. | Justice Minister & Construction Sector Reform (2022–); MP (co-opted 2021, elected 2022); lawyer; former journalist; born Tarxien | First parliamentary register of interests (March 2026); Health & Safety at Work reform; mason licensing reform; Council of Europe PACE vice-president; doctoral research on parliamentary accountability | Ministers' asset declaration rollback controversy — Attard introduced amendments scrapping more detailed ministerial declarations | ⭐⭐⭐ |
 | **Alicia Bugeja Said** 🏛️ Gov. | Parliamentary Secretary Fisheries (2022–); Director of Fisheries (prior); scientist | Scientific background applied to fisheries policy; animal welfare; secured EU funds for fisheries | D3 primary; D12 is secondary; limited D12 local profile | ⭐⭐⭐ |
 | **Naomi Cachia** 🏛️ Gov. | Government Whip (2024–); MP via 52A (2022–) | First woman Government Whip; D7 primary; D12 secondary | D7 primary; limited D12-specific work | ⭐⭐⭐ |
-| **Alex Borg** | PN leader (2025–); MP (2022–); Shadow Min. Gozo; Mr World Malta (2020); lawyer | Won PN leadership in September 2025 (44-vote margin); first mass PN rally after election announcement; promising new hospital in the north as flagship D12 pledge | Youngest PN leader; no government record; opposition limits delivery | ⭐⭐ |
+| **Alex Borg** | PN leader (2025–); MP (2022–, elected D13 with 6,108 FPV — highest nationally after Grech); Shadow Min. Gozo; Mr World Malta (2020); lawyer; born Victoria, Gozo | Won PN leadership September 2025 (8,905 vs 8,861 — 44-vote margin); flagship D12 pledge: new northern hospital (€600m investment); first mass rally after election announcement | Youngest PN leader; no government record; media-avoidant campaign launch noted | ⭐⭐ |
 | **Ivan Castillo** | MP (2022–); Shadow Min. Employment, Maritime & Aviation | Maritime and aviation portfolio advocacy; employment issues | First term; limited legislative output | ⭐⭐ |
 | **Graziella Galea** | MP via 52A (2022–); Shadow Min. Inclusion | Inclusion and disability advocacy; first direct election attempt | Entered via gender mechanism; D12 is her primary | ⭐⭐ |
 
@@ -80,9 +80,10 @@ PN: Alex Borg, Ivan Castillo, Graziella Galea
 | **Jonathan Attard** 🏛️ Gov. | Standards Commissioner rejected his complaint against two PN MPs over criminal libel claims | 🟢 None/Low | Standards process | [Malta Independent, Dec 2024](https://www.independent.com.mt/articles/2024-12-17/local-news/Standards-czar-rejects-Jonathan-Attard-complaint-against-two-PN-MPs-PN-6736266588) |
 | **Alex Borg** | Cannabis photo circulated (AI-manipulated image — noted by Wikipedia); AI-edited images mocking him flooded social media after election announcement | 🟢 None/Low (victim of disinformation, not perpetrator) | Wikipedia D2026 article |
 | **Alex Borg** | Endorsed Trump as "more pro-business"; praised Trump's pro-life stance — some see this as divisive | 🟡 Medium | [Wikipedia — Alex Borg](https://en.wikipedia.org/wiki/Alex_Borg_(politician)) |
+| **Alex Borg** | First two days of campaign: avoided media access — visited maritime school without informing press; proposals launched without journalist Q&A; MaltaToday noted he was "camera-shy" despite modelling background | 🟢 Low | Campaign communication style | [MaltaToday, May 2026](https://www.maltatoday.com.mt/news/election-2026/141376/election_playbook_dont_be_shy_alex_just_pretend_youre_contesting_mr_world_malta) |
 | **Graziella Galea** | Was PN St Paul's Bay mayor subject to vote of no confidence — resigned, causing controversy | 🟡 Medium | Lovin Malta — D12 Spotlight 2022 |
 | **Ivan Castillo** | No documented controversy | 🟢 None/Low | — |
-| **Alicia Bugeja Said** | No documented controversy | 🟢 None/Low | — |
+| **Alicia Bugeja Said** 🏛️ Gov. | €6,200 received from fish farm/fishing companies (Frutti di Mare €2,500; Malta Fish Farming €2,500; Azzopardi Fisheries €1,200) during 2022 campaign while serving as Director of Fisheries, then appointed Parliamentary Secretary for Fisheries — reported as conflict of interest; ethics complaint by Arnold Cassola over "Swimming With Tuna" event using ministerial channels | 🟡 Medium | Conflict of interest | [Malta Independent, May 2022](https://www.independent.com.mt/articles/2022-05-27/newspaper-leader/The-Malta-Independent-editorial-Conflict-of-interest-6736243250) |
 | **Naomi Cachia** | No documented controversy | 🟢 None/Low | — |
 
 ---
@@ -94,7 +95,7 @@ PN: Alex Borg, Ivan Castillo, Graziella Galea
 | **Notable** | Alex Borg | PN | ⭐⭐ | 🟡 | 📢 | ✅✅✅ Near-certain (PN leader) |
 | **Notable** | Jonathan Attard 🏛️ Gov. | Labour | ⭐⭐⭐ | 🟡 | 📡 | ✅✅ Likely (D4 primary) |
 | **Notable** | Ivan Castillo | PN | ⭐⭐ | 🟢 | 📶 | ✅✅ Likely |
-| **Notable** | Alicia Bugeja Said 🏛️ Gov. | Labour | ⭐⭐⭐ | 🟢 | 📶 | ✅✅ Likely |
+| **Notable** | Alicia Bugeja Said 🏛️ Gov. | Labour | ⭐⭐⭐ | 🟡 | 📡 | ✅✅ Likely |
 | **Notable** | Naomi Cachia 🏛️ Gov. | Labour | ⭐⭐⭐ | 🟢 | 📡 | ✅ Competitive (D7 primary) |
 | **Notable** | Graziella Galea | PN | ⭐⭐ | 🟡 | 📶 | ✅ Competitive |
 
@@ -102,9 +103,9 @@ PN: Alex Borg, Ivan Castillo, Graziella Galea
 
 # TIER 2 — SECOND-TIER CANDIDATES
 
-**Candidates in this tier (8):**
-Labour: Rosianne Cutajar, Deborah Schembri, Franco Mercieca, Damian Spiteri, Carlos Zarb, Romilda Zarb
-PN: Charles Azzopardi, David Anthony Bonello, Joseph Mark Grech, Anthony Mifsud, Jonathan Albert Muscat, Ian Mario Vassallo, George Vital Zammit, Rachel Antoinette Williams
+**Candidates in this tier (14):**
+Labour: Rosianne Cutajar, Deborah Schembri, Franco Mercieca, Damien Spiteri, Carlos Zarb, Romilda Zarb
+PN: Charles Azzopardi, David Anthony Bonello, Joseph Mark Grech, Anthony Mifsud, Jonathan Muscat, Ian Mario Vassallo, George Vital Zammit, Rachel Antoinette Williams
 
 ---
 
@@ -115,11 +116,11 @@ PN: Charles Azzopardi, David Anthony Bonello, Joseph Mark Grech, Anthony Mifsud,
 | **Second-tier** | Rosianne Cutajar | Labour | ⭐⭐ | 🔴 | 📡 | ✅ Competitive (D6 primary) |
 | **Second-tier** | Deborah Schembri | Labour | ⭐⭐⭐⭐ | 🟡 | 📡 | ✅ Competitive (D10 primary — see D10 report) |
 | **Second-tier** | Franco Mercieca | Labour | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
-| **Second-tier** | Jonathan Albert Muscat | PN | ⭐⭐ | 🟢 | 📶 | ✅ Competitive |
+| **Second-tier** | Jonathan Muscat *(Official ballot name: Jonathan Albert Muscat)* | PN | ⭐⭐ | 🟢 | 📶 | ✅ Competitive |
 | **Second-tier** | Ian Mario Vassallo | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Rachel Antoinette Williams | PN | ⭐ | 🟢 | 📶 | ✅ Possible (Rachel Williams is a PN D9/D12 councillor and first-time candidate) |
 | **Second-tier** | Charles Azzopardi | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
-| **Second-tier** | Damian Spiteri | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
+| **Second-tier** | Damien Spiteri | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Carlos Zarb | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Romilda Zarb | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | David Anthony Bonello | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
@@ -131,11 +132,14 @@ PN: Charles Azzopardi, David Anthony Bonello, Joseph Mark Grech, Anthony Mifsud,
 
 # TIER 3 — LIST-FILLERS
 
+## T3 — TABLE 5: MASTER SUMMARY (Tier 3)
+
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
-| **List-filler** | Luke Joe Caruana | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
+| **List-filler** | Luke Caruana *(Official ballot name: Luke Joe Caruana)* | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
 | **List-filler** | Sandra Gauci | ADPD | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Carmel Asciak | Momentum | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
+| **List-filler** | Simon Elmer | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
 
 ---
 
@@ -168,29 +172,30 @@ PN: Charles Azzopardi, David Anthony Bonello, Joseph Mark Grech, Anthony Mifsud,
 | **Notable** | Alex Borg | PN | ⭐⭐ | 🟡 | 📢 | ✅✅✅ Near-certain |
 | **Notable** | Jonathan Attard 🏛️ Gov. | Labour | ⭐⭐⭐ | 🟡 | 📡 | ✅✅ Likely (D4 primary) |
 | **Notable** | Ivan Castillo | PN | ⭐⭐ | 🟢 | 📶 | ✅✅ Likely |
-| **Notable** | Alicia Bugeja Said 🏛️ Gov. | Labour | ⭐⭐⭐ | 🟢 | 📶 | ✅✅ Likely |
+| **Notable** | Alicia Bugeja Said 🏛️ Gov. | Labour | ⭐⭐⭐ | 🟡 | 📡 | ✅✅ Likely |
 | **Notable** | Naomi Cachia 🏛️ Gov. | Labour | ⭐⭐⭐ | 🟢 | 📡 | ✅ Competitive (D7 primary) |
 | **Notable** | Graziella Galea | PN | ⭐⭐ | 🟡 | 📶 | ✅ Competitive |
-| **Second-tier** | Jonathan Albert Muscat | PN | ⭐⭐ | 🟢 | 📶 | ✅ Competitive |
+| **Second-tier** | Jonathan Muscat | PN | ⭐⭐ | 🟢 | 📶 | ✅ Competitive |
 | **Second-tier** | Deborah Schembri | Labour | ⭐⭐⭐⭐ | 🟡 | 📡 | ✅ Competitive (D10 primary) |
 | **Second-tier** | Franco Mercieca | Labour | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Rosianne Cutajar | Labour | ⭐⭐ | 🔴 | 📡 | ✅ Competitive (D6 primary) |
 | **Second-tier** | Ian Mario Vassallo | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Rachel Antoinette Williams | PN | ⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Charles Azzopardi | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
-| **Second-tier** | Damian Spiteri | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
+| **Second-tier** | Damien Spiteri | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Carlos Zarb | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Romilda Zarb | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | David Anthony Bonello | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Joseph Mark Grech | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Anthony Mifsud | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | George Vital Zammit | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
-| **List-filler** | Luke Joe Caruana | ADPD | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | Luke Caruana | ADPD | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Sandra Gauci | ADPD | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Carmel Asciak | Momentum | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | Simon Elmer | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
 
 ---
 
-*Tables compiled 16 May 2026. District 12 is the most competitive district in Malta in 2026 — the swing district that could determine the overall seat balance. Historical D12 vote share: PN ~50–53%, Labour ~45–48% (2018–2022). Expected seat split: 3 PN / 2 Labour, but closer than any other district.*
+*Tables compiled 16 May 2026. Candidate corrections and nickname verification applied 17 May 2026. Deep research applied 17 May 2026. District 12 is the most competitive district in Malta in 2026 — the swing district that could determine the overall seat balance. Historical D12 vote share: PN ~50–53%, Labour ~45–48% (2018–2022). Expected seat split: 3 PN / 2 Labour, but closer than any other district.*
 
 ---

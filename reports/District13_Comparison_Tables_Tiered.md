@@ -26,11 +26,11 @@
 
 ### DISTRICT CONTEXT
 
-District 13 is Gozo — Malta's sister island, which elects all 5 of its MPs through this single constituency. Historically, Gozo has been a PN stronghold, with PN regularly winning 3 of the 5 seats. However, the trend has been shifting: Labour has advanced from 43% in 2008 to ~48% in 2022, nearly tying the district. In 2022, Labour won 3 seats for the first time in modern history (Clint Camilleri, Anthony Refalo, JoEtienne Abela); PN won 2 (Alex Borg — then shadow Gozo minister — and Chris Said).
+District 13 is Gozo — Malta's sister island, which elects all 5 of its MPs through this single constituency. Historically, Gozo has been a PN stronghold, with PN regularly winning 3 of the 5 seats. However, the trend has been shifting: Labour has advanced from 43% in 2008 to ~48% in 2022, nearly tying the district. In 2022, Labour won 3 seats for the first time in modern history (Clint Camilleri, Anton Refalo, Jo Etienne Abela); PN won 2 (Alex Borg — then shadow Gozo minister — and Chris Said).
 
 In 2026, the expected split has been revised: **with Alex Borg now PN leader and contesting Gozo as his primary district**, and Chris Said not contesting, the PN has the strongest possible D13 anchor. The question is whether PN can recapture its third seat. Internal polling cited in newsbook.com.mt (May 2026) suggested one of Labour's three Gozitan ministers could lose their seat.
 
-**Labour:** Three sitting ministers — **JoEtienne Abela** (Health Minister; D10 and D13), **Clint Camilleri** (Gozo and Planning Minister), **Anthony Refalo** (Agriculture Minister) — plus two new candidates (Abigail Camilleri, George Paul Camilleri).
+**Labour:** Three sitting ministers — **Jo Etienne Abela** (Health Minister; D10 and D13), **Clint Camilleri** (Gozo and Planning Minister), **Anton Refalo** (Agriculture Minister) — plus two new candidates (Abigail Camilleri, George Paul Camilleri).
 
 **PN:** Alex Borg (party leader), Norma Camilleri, Beppe Galea, Luke Said, Frank Anthony Tabone.
 
@@ -47,7 +47,7 @@ In 2026, the expected split has been revised: **with Alex Borg now PN leader and
 # TIER 1 — NOTABLE CANDIDATES
 
 **Candidates in this tier (7):**
-Labour: JoEtienne Abela, Clint Camilleri, Anthony Refalo
+Labour: Jo Etienne Abela, Clint Camilleri, Anton Refalo
 PN: Alex Borg, Beppe Galea, Luke Said, Norma Camilleri
 
 ---
@@ -56,10 +56,10 @@ PN: Alex Borg, Beppe Galea, Luke Said, Norma Camilleri
 
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
-| **JoEtienne Abela** 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Health Minister (2024–); D10 primary; D13 secondary; from Gozo | Healthcare; Gozo hospital expansion; active ageing | Silent |
+| **Jo Etienne Abela** *(Official ballot name: Joetienne Abela)* 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Health Minister (2024–); D10 primary; D13 secondary; from Gozo | Healthcare; Gozo hospital expansion; active ageing | Silent |
 | **Clint Camilleri** 🏛️ Gov. | Labour | S&D | Centre-left; Gozitan | Gozo and Planning Minister; D13 primary; most prominent Gozitan Labour MP | Gozo development; planning; agriculture; fisheries | Silent |
-| **Anthony Refalo** 🏛️ Gov. | Labour | S&D | Old-guard centre-left; Gozitan | Agriculture Minister; D13; long-serving MP | Agriculture; fisheries; rural Gozo | Silent |
-| **Alex Borg** | PN | EPP | Centre-right; reform-focused | PN leader since Sep 2025; Gozitan origin (Nadur/Fontana); D12 and D13 | PN renewal; Gozo as region; healthcare; cost of living | **Explicitly pro-life** (personal; moderate on enforcement) |
+| **Anton Refalo** *(Official ballot name: Anthony Refalo)* 🏛️ Gov. | Labour | S&D | Old-guard centre-left; Gozitan | Minister for Agriculture, Fisheries and Animal Rights; D13; long-serving MP since 2013 | Agriculture; fisheries; rural Gozo; animal rights | Silent |
+| **Alex Borg** *(Official ballot name: Alexander Borg)* | PN | EPP | Centre-right; reform-focused | PN leader since Sep 2025; Gozitan origin (Nadur/Fontana); D12 and D13 | PN renewal; Gozo as region; healthcare; cost of living | **Explicitly pro-life** (personal; moderate on enforcement) |
 | **Beppe Galea** | PN | EPP | Centre-right; European focus | Former European Democrat Students chairman; endorsed by Roberta Metsola; Gozo candidate | EU affairs; youth; governance | Silent |
 | **Luke Said** | PN | EPP | Centre-right; Gozitan | Son of Chris Said (former D13 PN MP who is not contesting); Gozo connections | Local government; Gozitan identity | Silent |
 | **Norma Camilleri** | PN | EPP | Centre-right; Gozitan | Contested previous elections; PN Gozo presence | Local issues; community | Silent |
@@ -70,9 +70,9 @@ PN: Alex Borg, Beppe Galea, Luke Said, Norma Camilleri
 
 | Candidate | Prior Office/Role | Key Documented Achievement | Principle vs Delivery Gap | Rating |
 |---|---|---|---|---|
-| **JoEtienne Abela** 🏛️ Gov. | Health Minister (2024–); Active Ageing Minister (2022–24); MP D10 (primary) | Gozo hospital expansion pledged; healthcare masterplan announced; expanded portfolio to health (2024) | D10 primary — his D13 connection is Gozitan heritage, not primary constituency; healthcare controversies (MAM; nepotism allegations) | ⭐⭐ |
+| **Jo Etienne Abela** 🏛️ Gov. | Health Minister (2024–); Active Ageing Minister (2022–24); MP D10 (primary) | Gozo hospital expansion pledged; healthcare masterplan announced; expanded portfolio to health (2024) | D10 primary — his D13 connection is Gozitan heritage, not primary constituency; healthcare controversies (MAM; nepotism allegations) | ⭐⭐ |
 | **Clint Camilleri** 🏛️ Gov. | Gozo and Planning Minister (2022–); Agriculture Minister (2017–22); Parliamentary Secretary (2013–17); Mayor of Fontana (young) | Gozo Channel modernisation; planning portfolio added 2024 (controversial); longest-serving Gozitan Labour MP; agricultural reform | Gozo overdevelopment under his Planning portfolio is a growing criticism; ferry service delays; Gozo Channel fleet adequacy disputed | ⭐⭐⭐ |
-| **Anthony Refalo** 🏛️ Gov. | Agriculture Minister (2022–); Parliamentary Secretary (2013–22); MP (2013–) | Long-serving Gozitan Labour presence; agricultural and fisheries support; rural Gozo advocate | Low-profile minister; limited national visibility; highly localised vote | ⭐⭐ |
+| **Anton Refalo** 🏛️ Gov. | Minister for Agriculture, Fisheries and Animal Rights (2022–); Minister for Gozo (2013–17); Parliamentary Secretary for Gozo (1996–98); MP (2013–); lawyer | Long-serving Gozitan Labour presence; agricultural and fisheries support; rural Gozo advocate | Multiple documented controversies (hotel EU funds, stone marker, Riina link); low national visibility | ⭐⭐ |
 | **Alex Borg** | PN leader (2025–); MP (2022–); Shadow Min. Gozo; lawyer; Mr World Malta (2020); from Nadur | Won PN leadership Sep 2025; launched "Nifs Ġdid" campaign; mass meetings; north hospital pledge; promised to make Gozo a region not just a ministry; UN Security Council observation during PN term | No government record; youngest PN leader; narrow leadership win (44 votes); AI-manipulated photos targeted him | ⭐⭐ |
 | **Beppe Galea** | Former EDS Chairman; endorsed by MEP Roberta Metsola; law background | European focus; youth politics; Gozo connections | No elected national record | ⭐ |
 | **Luke Said** | Son of former PN MP Chris Said (D13, 2022); Gozo connections | Family political legacy; local presence | No prior elected office | ⭐ |
@@ -84,10 +84,12 @@ PN: Alex Borg, Beppe Galea, Luke Said, Norma Camilleri
 
 | Candidate | Controversy | Severity | Source |
 |---|---|---|---|
-| **JoEtienne Abela** 🏛️ Gov. | Favouritism/nepotism allegations in Health Ministry | 🟡 Medium | [Critical Angle Project, Dec 2024](https://cap.mt) |
-| **JoEtienne Abela** 🏛️ Gov. | Brother reportedly in Gozo Ministry "phantom job" | 🟡 Medium | The Shift News |
+| **Jo Etienne Abela** 🏛️ Gov. | Favouritism/nepotism allegations in Health Ministry | 🟡 Medium | [Critical Angle Project, Dec 2024](https://cap.mt) |
+| **Jo Etienne Abela** 🏛️ Gov. | Brother reportedly in Gozo Ministry "phantom job" | 🟡 Medium | The Shift News |
 | **Clint Camilleri** 🏛️ Gov. | Planning portfolio added 2024 — Gozo overdevelopment and permit controversies | 🟡 Medium | The Shift News, multiple reports |
-| **Anthony Refalo** | No significant documented controversy | 🟢 None/Low | — |
+| **Anton Refalo** 🏛️ Gov. | Stolen British-era stone marker (Victoria Regina) found at his private Qala home — police investigated; no charges filed; Refalo never explained how the protected heritage artefact arrived there | 🔴 High | Illegal possession of protected heritage | [The Shift News, Feb 2025](https://theshiftnews.com/2025/02/14/planning-authority-inspection-at-ministers-hotel-draws-a-blank-despite-evidence/) |
+| **Anton Refalo** 🏛️ Gov. | L-Eremita hotel: wife received €270,000 in EU funds (80% of costs) for "yoga-meditation" hotel built mostly illegally on ODZ land in Qala; Brussels investigating; illegal car park bulldozed without permits; Planning Authority took no action despite evidence | 🔴 High | EU funds misuse; illegal ODZ development | [The Shift News, Jun 2023](https://theshiftnews.com/2023/06/17/anton-refalo-and-wife-get-e270000-in-eu-funding-for-their-yoga-meditation-hotel/) |
+| **Anton Refalo** 🏛️ Gov. | April 2026: Italian La Stampa linked his Qala villa to a hideout used by Sicilian mafia boss Toto Riina; Refalo contradicted himself (first said he bought it, then denied owning it); told reporter "mind your own business" | 🟡 Medium | Credibility; unproven link | [MaltaToday, Apr 2026](https://www.maltatoday.com.mt/news/national/140754/italian_report_links_anton_refalos_gozo_villa_to_former_salvatore_toto_riina_hideout) |
 | **Alex Borg** | AI-manipulated image showing him smoking cannabis circulated — not his conduct; endorsed Trump (see D12 report) | 🟢 None/Low (victim of disinformation) | Wikipedia |
 | **Beppe Galea** | No documented controversy | 🟢 None/Low | — |
 | **Luke Said** | No documented controversy | 🟢 None/Low | — |
@@ -99,10 +101,10 @@ PN: Alex Borg, Beppe Galea, Luke Said, Norma Camilleri
 
 | Candidate | Facebook | X / Twitter | Website / Other | Rating |
 |---|---|---|---|---|
-| **JoEtienne Abela** 🏛️ Gov. | [Link](https://www.facebook.com/abelajoetienne/) | [Link](https://x.com/joetienneabela) | Not identified | 📡 Moderate |
-| **Clint Camilleri** 🏛️ Gov. | Not confirmed | Not confirmed | Not identified | 📡 Moderate |
-| **Anthony Refalo** 🏛️ Gov. | Not confirmed | Not confirmed | Not identified | 📶 Low |
-| **Alex Borg** | Not confirmed | Not confirmed | Not identified | 📢 High (party leader) |
+| **Jo Etienne Abela** 🏛️ Gov. | [Link](https://www.facebook.com/abelajoetienne/) | [Link](https://x.com/joetienneabela) | Not identified | 📡 Moderate |
+| **Clint Camilleri** 🏛️ Gov. | [Link](https://www.facebook.com/ClintCamilleriMP/) | [Link](https://www.instagram.com/clintcamilleri/) | Not identified | 📡 Moderate |
+| **Anton Refalo** 🏛️ Gov. | [Link](https://www.facebook.com/Dr.Refalo/) (~14.5k) | Not confirmed | [agriculture.gov.mt](https://agriculture.gov.mt/minister/) | 📡 Moderate |
+| **Alex Borg** | [Link](https://www.facebook.com/alexborgpn/) (~54.4k) | Not confirmed | Not identified | 📢 High |
 | **Beppe Galea** | Not confirmed | Not confirmed | Not identified | 📶 Low |
 | **Luke Said** | Not confirmed | Not confirmed | Not identified | 📵 None |
 | **Norma Camilleri** | Not confirmed | Not confirmed | Not identified | 📵 None |
@@ -115,8 +117,8 @@ PN: Alex Borg, Beppe Galea, Luke Said, Norma Camilleri
 |---|---|---|---|---|---|---|
 | **Notable** | Clint Camilleri 🏛️ Gov. | Labour | ⭐⭐⭐ | 🟡 | 📡 | ✅✅✅ Near-certain |
 | **Notable** | Alex Borg | PN | ⭐⭐ | 🟢 | 📢 | ✅✅✅ Near-certain (PN leader) |
-| **Notable** | Anthony Refalo 🏛️ Gov. | Labour | ⭐⭐ | 🟢 | 📶 | ✅✅ Likely |
-| **Notable** | JoEtienne Abela 🏛️ Gov. | Labour | ⭐⭐ | 🟡 | 📡 | ✅✅ Likely (D10 primary) |
+| **Notable** | Anton Refalo 🏛️ Gov. | Labour | ⭐⭐ | 🔴 | 📡 | ✅✅ Likely |
+| **Notable** | Jo Etienne Abela 🏛️ Gov. | Labour | ⭐⭐ | 🟡 | 📡 | ✅✅ Likely (D10 primary) |
 | **Notable** | Beppe Galea | PN | ⭐ | 🟢 | 📶 | ✅ Competitive |
 | **Notable** | Luke Said | PN | ⭐ | 🟢 | 📵 | ✅ Competitive |
 | **Notable** | Norma Camilleri | PN | ⭐ | 🟢 | 📵 | ✅ Possible |
@@ -141,12 +143,14 @@ Labour: Abigail Camilleri, George Paul Camilleri
 
 # TIER 3 — LIST-FILLERS
 
+## T3 — TABLE 5: MASTER SUMMARY (Tier 3)
+
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
-| **List-filler** | Frank Anthony Tabone | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
+| **List-filler** | Frank Anthony Tabone *(Official ballot name: Frank-Anthony Tabone)* | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **List-filler** | Carmel Asciak | Momentum | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
 | **List-filler** | Paul Salomone | Aħwa Maltin | ⭐ | 🟡 | 📶 | ✗ |
-| **List-filler** | Luke Joe Caruana | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
+| **List-filler** | Luke Caruana *(Official ballot name: Luke Joe Caruana)* | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
 
 ---
 
@@ -158,7 +162,7 @@ Labour: Abigail Camilleri, George Paul Camilleri
 |---|---|---|---|---|
 | **EU Membership** | Strongly pro-EU | Pro-EU; EPP | Pro-EU | Nominally pro-EU |
 | **Gozo as Region** | Gozo Ministry maintained; Gozo Channel free for foot passengers pledged | **PN flagship: make Gozo a region, not a ministry** — Alex Borg central pledge | Supports Gozo regional autonomy | No clear position |
-| **Gozo Hospital** | Gozo hospital expansion under JoEtienne Abela's health ministry | **PN flagship: new Gozo hospital** — announced at first PN mass meeting | Supports public healthcare | No position |
+| **Gozo Hospital** | Gozo hospital expansion under Jo Etienne Abela's health ministry | **PN flagship: new Gozo hospital** — announced at first PN mass meeting | Supports public healthcare | No position |
 | **Gozo Channel** | 5-ship fleet pledged (Abela manifesto launch from Gozo); free trips for foot passengers | Ferry service reform; better scheduling | Improve service | No position |
 | **Overdevelopment** | Planning reform pledged; Camilleri's planning portfolio contested | ODZ enforcement; Gozo rural heritage protection | Halt permits | No position |
 | **Cost of Living** | Subsidies; cost-of-living supplement | Tax cuts; stipend increases | Anti-corporate | Blame immigration |
@@ -178,8 +182,8 @@ Labour: Abigail Camilleri, George Paul Camilleri
 |---|---|---|---|---|---|---|
 | **Notable** | Clint Camilleri 🏛️ Gov. | Labour | ⭐⭐⭐ | 🟡 | 📡 | ✅✅✅ Near-certain |
 | **Notable** | Alex Borg | PN | ⭐⭐ | 🟢 | 📢 | ✅✅✅ Near-certain |
-| **Notable** | Anthony Refalo 🏛️ Gov. | Labour | ⭐⭐ | 🟢 | 📶 | ✅✅ Likely |
-| **Notable** | JoEtienne Abela 🏛️ Gov. | Labour | ⭐⭐ | 🟡 | 📡 | ✅✅ Likely |
+| **Notable** | Anton Refalo 🏛️ Gov. | Labour | ⭐⭐ | 🔴 | 📡 | ✅✅ Likely |
+| **Notable** | Jo Etienne Abela 🏛️ Gov. | Labour | ⭐⭐ | 🟡 | 📡 | ✅✅ Likely |
 | **Notable** | Beppe Galea | PN | ⭐ | 🟢 | 📶 | ✅ Competitive |
 | **Notable** | Luke Said | PN | ⭐ | 🟢 | 📵 | ✅ Competitive |
 | **Notable** | Norma Camilleri | PN | ⭐ | 🟢 | 📵 | ✅ Possible |
@@ -188,28 +192,28 @@ Labour: Abigail Camilleri, George Paul Camilleri
 | **List-filler** | Frank Anthony Tabone | PN | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Carmel Asciak | Momentum | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Paul Salomone | Aħwa Maltin | ⭐ | 🟡 | 📶 | ✗ |
-| **List-filler** | Luke Joe Caruana | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
+| **List-filler** | Luke Caruana | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
 
 ## TABLE 8 — SOCIAL MEDIA QUICK REFERENCE
 
 | Candidate | Party | Facebook | X / Twitter | Website |
 |---|---|---|---|---|
-| **JoEtienne Abela** 🏛️ Gov. | Labour | [Link](https://www.facebook.com/abelajoetienne/) | [Link](https://x.com/joetienneabela) | Not identified |
-| **Clint Camilleri** 🏛️ Gov. | Labour | Not confirmed | Not confirmed | Not identified |
-| **Anthony Refalo** 🏛️ Gov. | Labour | Not confirmed | Not confirmed | Not identified |
+| **Jo Etienne Abela** 🏛️ Gov. | Labour | [Link](https://www.facebook.com/abelajoetienne/) | [Link](https://x.com/joetienneabela) | Not identified |
+| **Clint Camilleri** 🏛️ Gov. | Labour | [Link](https://www.facebook.com/ClintCamilleriMP/) | Not confirmed | Not identified |
+| **Anton Refalo** 🏛️ Gov. | Labour | [Link](https://www.facebook.com/Dr.Refalo/) | Not confirmed | [agriculture.gov.mt](https://agriculture.gov.mt/minister/) |
 | **Abigail Camilleri** | Labour | Not identified | Not identified | Not identified |
 | **George Paul Camilleri** | Labour | Not identified | Not identified | Not identified |
-| **Alex Borg** | PN | Not confirmed | Not confirmed | Not identified |
+| **Alex Borg** | PN | [Link](https://www.facebook.com/alexborgpn/) | Not confirmed | Not identified |
 | **Beppe Galea** | PN | Not confirmed | Not confirmed | Not identified |
 | **Luke Said** | PN | Not confirmed | Not confirmed | Not identified |
 | **Norma Camilleri** | PN | Not confirmed | Not confirmed | Not identified |
 | **Frank Anthony Tabone** | PN | Not identified | Not identified | Not identified |
 | **Carmel Asciak** | Momentum | Not identified | Not identified | Not identified |
 | **Paul Salomone** | Aħwa Maltin | Not confirmed | Not confirmed | Not identified |
-| **Luke Joe Caruana** | ADPD | Not identified | Not identified | Not identified |
+| **Luke Caruana** | ADPD | Not identified | Not identified | Not identified |
 
 ---
 
-*Tables compiled 16 May 2026. District 13 (Gozo) has never been a predictable district — it has twice flipped between Labour and PN majorities in the modern era. In 2022 Labour won all 3 Labour seats for the first time; in 2026 the question is whether Alex Borg's personal vote, Beppe Galea's Metsola endorsement, and the PN's Gozo hospital promise are enough to recapture the third PN seat and flip the district back to a 3-2 PN/Labour split.*
+*Tables compiled 16 May 2026. Deep research and social media verification applied 17 May 2026. District 13 (Gozo) has never been a predictable district — it has twice flipped between Labour and PN majorities in the modern era. In 2022 Labour won all 3 Labour seats for the first time; in 2026 the question is whether Alex Borg's personal vote, Beppe Galea's Metsola endorsement, and the PN's Gozo hospital promise are enough to recapture the third PN seat and flip the district back to a 3-2 PN/Labour split.*
 
 ---

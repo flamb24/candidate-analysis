@@ -51,11 +51,11 @@ PN: Bernard Grech, Ivan Bartolo, Rebekah Borg
 
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
-| **Alex Muscat** | Labour | S&D | Centre-left; digital economy | MP (2022–, casual election 2022); digital economy background | Digital economy; technology | Silent |
+| **Alex Muscat** *(Official ballot name: Alexander Muscat)* | Labour | S&D | Centre-left; digital economy | MP (2022–, casual election 2022); digital economy background; contesting D8 and D11 | Digital economy; technology | Silent |
 | **Miriam Dalli** 🏛️ Gov. | Labour | S&D | Centre-left; energy/environment | Energy Minister; D5 primary, D11 secondary | Energy; environment | Silent |
 | **Bernard Grech** | PN | EPP | Centre-right; rule of law | Former PN leader (2020–25); resigned June 2025; Shadow Min. Capital Projects | Rule of law; Vitals case; infrastructure | **Explicitly pro-life** |
 | **Ivan Bartolo** | PN | EPP | Centre-right; social affairs | MP (2022–); Shadow Min. Social/Affordable Housing; former Mosta mayor | Social housing; poverty; pensions | Silent |
-| **Rebekah Borg** | PN | EPP | Centre-right; environment | Shadow Min. Environment; D7 and D11 | Environment; ODZ protection; rural | Silent |
+| **Rebekah Borg** *(Official ballot name: Rebekah-Ann Borg)* | PN | EPP | Centre-right; environment | Shadow Min. Environment; D7 and D11 | Environment; ODZ protection; rural | Silent |
 
 ---
 
@@ -91,8 +91,8 @@ PN: Bernard Grech, Ivan Bartolo, Rebekah Borg
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
 | **Notable** | Ivan Bartolo | PN | ⭐⭐ | 🟢 | 📶 | ✅✅✅ Near-certain |
-| **Notable** | Rebekah Borg | PN | ⭐⭐ | 🟢 | 📶 | ✅✅ Likely |
-| **Notable** | Alex Muscat | Labour | ⭐⭐ | 🟢 | 📡 | ✅✅ Likely |
+| **Notable** | Rebekah Borg | PN | ⭐⭐ | 🟢 | 📡 | ✅✅ Likely |
+| **Notable** | Alex Muscat | Labour | ⭐⭐ | 🟢 | 📢 | ✅✅ Likely |
 | **Notable** | Miriam Dalli 🏛️ Gov. | Labour | ⭐⭐⭐ | 🔴 | 📢 | ✅ Likely (D5 primary) |
 | **Notable** | Bernard Grech | PN | ⭐⭐ | 🟡 | 📡 | ✅ Competitive (vote drop expected post-leadership) |
 
@@ -112,7 +112,7 @@ Labour: Anthony Agius Decelis, Francesca Zarb, Romilda Zarb
 
 | Candidate | Party | EU Group | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|
-| **Dione Borg** | PN | EPP | Local governance; community | Silent |
+| **Dione Borg** *(Official ballot name: Spiridione Borg)* | PN | EPP | Local governance; community | Silent |
 | **Edmond Cuschieri** | PN | EPP | New candidate | Silent |
 | **Joseph Mark Grech** | PN | EPP | New candidate | Silent |
 | **Anthony Agius Decelis** | Labour | S&D | Local constituency; D7 primary | Silent |
@@ -158,7 +158,7 @@ Aħwa Maltin: Simon Elmer
 
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
-| **List-filler** | Mark Camilleri Gambin | Momentum | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
+| **List-filler** | Mark Camilleri Gambin *(Official ballot name: Mark Philip Camilleri Gambin)* | Momentum | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
 | **List-filler** | Carmel Cacopardo | ADPD | ⭐⭐⭐⭐ | 🟢 | 📡 | ✗ Structural ceiling (D7 primary) |
 | **List-filler** | Simon Elmer | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
 
@@ -193,8 +193,8 @@ Aħwa Maltin: Simon Elmer
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
 | **Notable** | Ivan Bartolo | PN | ⭐⭐ | 🟢 | 📶 | ✅✅✅ Near-certain |
-| **Notable** | Rebekah Borg | PN | ⭐⭐ | 🟢 | 📶 | ✅✅ Likely |
-| **Notable** | Alex Muscat | Labour | ⭐⭐ | 🟢 | 📡 | ✅✅ Likely |
+| **Notable** | Rebekah Borg | PN | ⭐⭐ | 🟢 | 📡 | ✅✅ Likely |
+| **Notable** | Alex Muscat | Labour | ⭐⭐ | 🟢 | 📢 | ✅✅ Likely |
 | **Notable** | Miriam Dalli 🏛️ Gov. | Labour | ⭐⭐⭐ | 🔴 | 📢 | ✅ Likely (D5 primary) |
 | **Notable** | Bernard Grech | PN | ⭐⭐ | 🟡 | 📡 | ✅ Competitive |
 | **Second-tier** | Dione Borg | PN | ⭐⭐ | 🟢 | 📶 | ✅ Competitive |
@@ -207,7 +207,7 @@ Aħwa Maltin: Simon Elmer
 | **List-filler** | Carmel Cacopardo | ADPD | ⭐⭐⭐⭐ | 🟢 | 📡 | ✗ Structural ceiling |
 | **List-filler** | Simon Elmer | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
 
-*Total: 15 candidates — 5 Labour, 6 PN, 1 Momentum, 1 ADPD, 1 Aħwa Maltin*
+*Total: 14 candidates — 5 Labour, 6 PN, 1 Momentum, 1 ADPD, 1 Aħwa Maltin*
 *Incumbent MP not contesting 2026: David Agius (PN)*
 
 ---
@@ -217,9 +217,9 @@ Aħwa Maltin: Simon Elmer
 | Candidate | Party | Tier | Facebook | Website / Other |
 |---|---|---|---|---|
 | **Ivan Bartolo** | PN | Notable | Not confirmed | Not identified |
-| **Rebekah Borg** | PN | Notable | Not confirmed | Not identified |
-| **Alex Muscat** | Labour | Notable | Not confirmed | Not identified |
-| **Miriam Dalli** 🏛️ Gov. | Labour | Notable | Not confirmed | [miriamdalli.com](https://miriamdalli.com/) |
+| **Rebekah Borg** | PN | Notable | [Link](https://www.facebook.com/rebekahborgmp/) (~8.3k) | [rebekahborg.com](https://rebekahborg.com) |
+| **Alex Muscat** | Labour | Notable | [Link](https://www.facebook.com/alexmuscat.mt/) (~19.8k) | Not identified |
+| **Miriam Dalli** 🏛️ Gov. | Labour | Notable | [Link](https://www.facebook.com/drmiriamdalli/) (~68.8k) | [miriamdalli.com](https://miriamdalli.com/) |
 | **Bernard Grech** | PN | Notable | Not confirmed | Not identified |
 | **Dione Borg** | PN | Second-tier | Not confirmed | Not identified |
 | **Anthony Agius Decelis** | Labour | Second-tier | Not confirmed | Not identified |
@@ -233,4 +233,4 @@ Aħwa Maltin: Simon Elmer
 
 ---
 
-*Tables compiled and updated 16 May 2026. Boundaries revised per Electoral Commission gazette, July 2025. District 11 historical vote share: PN ~52–55%, Labour ~43–46% (2013–2022). Expected seat split: 3 PN / 2 Labour. The combination of David Agius's retirement and Bernard Grech's diminished personal vote makes the third PN seat the most contested variable in D11.*
+*Tables compiled and updated 16 May 2026. Deep research and social media verification applied 17 May 2026. Boundaries revised per Electoral Commission gazette, July 2025. District 11 historical vote share: PN ~52–55%, Labour ~43–46% (2013–2022). Expected seat split: 3 PN / 2 Labour. The combination of David Agius's retirement and Bernard Grech's diminished personal vote makes the third PN seat the most contested variable in D11.*
