@@ -53,7 +53,7 @@ PN: Stephen Spiteri, Bernice Bonello
 |---|---|---|---|---|---|---|
 | **Robert Abela** 🏛️ Gov. | Labour | S&D | Centre-left; social democratic; economic populist | Party leader and PM; his candidacy here is strategic-symbolic | Economic stability; national security; cost of living; "Int Malta" narrative | Silent (2022 abortion medical exception passed on his watch; framed as compromise) |
 | **Byron Camilleri** 🏛️ Gov. | Labour | S&D | Centre-left; socially conservative on immigration | Senior minister; Abela loyalist; Home Affairs since 2020; contesting D2 and D4 | Border security; policing; employment; crime reduction | Silent |
-| **Stephen Spiteri** | PN | EPP | Centre-right; medical professional | Long-serving incumbent; PN's sole D2 MP since 2008; Shadow Min. Health then Social Policy | Healthcare; social policy; cost of living | **Explicitly pro-life** (spearheaded motion against assisted reproduction leave) |
+| **Stephen Spiteri** | PN | EPP | Centre-right; medical professional | Long-serving incumbent; PN's sole D2 MP since 2008; Shadow Min. Health then Social Policy; contesting D2 and D3 | Healthcare; social policy; cost of living | **Explicitly pro-life** (spearheaded motion against assisted reproduction leave) |
 | **Bernice Bonello** | PN | EPP | Centre-right; progressive-youth | Gender mechanism MP (2022); Shadow Min. Youth & Local Government; contesting D2 and D4 | Youth; local government; new open spaces | Silent |
 
 **Tier 1 notes:** Robert Abela's presence makes D2 technically exceptional — it contains the sitting Prime Minister. This vastly inflates the district's public profile but does not change the structural 4/1 Labour/PN outcome. Bernice Bonello entered via gender mechanism in 2022 and is contesting her first general election as a direct candidate; her electability without the mechanism is uncertain. Stephen Spiteri carries a documented medical certificate controversy that predates his current term.
@@ -132,7 +132,7 @@ Aħwa Maltin: Paul Salomone
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
 | **Georvin Bugeja** | Labour | S&D | Centre-left | New candidate approved first round; D2 only | Not confirmed | Silent |
-| **John Baptist Camilleri** | PN | EPP | Centre-right | Aviation engineer; Marsaskala PN minority leader; multi-election candidate | Local infrastructure; maritime fuel hub; pensions; elderly | Silent |
+| **John Baptist Camilleri** | PN | EPP | Centre-right | Aviation engineer; Marsaskala PN minority leader; multi-election candidate; contesting D2 and D3 | Local infrastructure; maritime fuel hub; pensions; elderly | Silent |
 | **Leone Sciberras** | PN | EPP | Centre-right | Experienced PN activist; multi-district candidate (D2 and D3) | Pensions; elderly care | Silent |
 | **Matthew Agius** | Momentum | EDP | Centrist-green; anti-corruption | Momentum candidate D2 (and D8 in some reports) | Good governance; anti-corruption | Pro-choice (party position) |
 | **Mario Mallia** | ADPD | EGP | Left-wing green | ADPD candidate D2 and D8 | Environment; planning | Pro-choice (party position) |
@@ -217,7 +217,7 @@ Labour: Carmelo Abela, Glenn Bedingfield, Clint Azzopardi Flores, Jesmond Bonell
 |---|---|---|---|---|---|---|
 | **Carmelo Abela** | Labour | S&D | Centre-left; old-guard | Former minister; contesting D3 primarily | Social policy; agriculture | Silent |
 | **Glenn Bedingfield** | Labour | S&D | Centre-left | D1 and D2 | Not confirmed | Silent |
-| **Clint Azzopardi Flores** *(Official ballot name: Clinton-Domenic Azzopardi-Flores)* | Labour | S&D | Centre-left | D2 supplementary listing | Not confirmed | Silent |
+| **Clint Azzopardi Flores** *(Official ballot name: Clinton-Domenic Azzopardi-Flores)* | Labour | S&D | Centre-left | D2 and D9 supplementary listing | Not confirmed | Silent |
 | **Jesmond Bonello** | Labour | S&D | Centre-left | D2 and D8 | Not confirmed | Silent |
 | **Martina Paula Buhagiar** | Labour | S&D | Centre-left | New candidate; D2 and D3 | Not confirmed | Silent |
 | **Clyde Caruana** 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Finance Minister; primarily D8; D2 supplementary listing | Economy; finance; fiscal policy | Silent |
