@@ -157,13 +157,13 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 
 ## T2 — TABLE 3: CONTROVERSIES
 
-| Candidate | Controversy | Severity |
-|---|---|---|
-| **Omar Rababah** | Target of online racist abuse following candidacy announcement; not a controversy of his own conduct | 🟢 None/Low |
-| **All others** | No documented controversy | 🟢 None/Low |
-| **Omar Farrugia** 🏛️ Gov. | May 2026: The Shift News reported he used his Parliamentary Secretary office to issue 10 press releases announcing public works projects in his electoral districts since January 2026 — described as "abusing incumbency" for electoral advantage | 🟡 Medium |
-| **Ramona Attard** | Standards Commissioner remark: called for revision to stop it being used to "scare" (critics: undermining accountability) | 🟡 Medium |
-| **Ramona Attard** | Criminal libel remark: said removal of prison sentences was a "mistake" — press freedom implications | 🟡 Medium |
+| Candidate | Controversy | Severity | Nature | Source |
+|---|---|---|---|---|
+| **Omar Rababah** | Target of online racist abuse following candidacy announcement; not a controversy of his own conduct | 🟢 None/Low | Victim of racism; not own conduct | [MaltaToday, May 2026](https://www.maltatoday.com.mt/news/election-2026/141454/omar_rababah_speaks_out_on_racial_slurs_directed_at_him_after_candidacy_announcement) |
+| **All others** | No documented controversy | 🟢 None/Low | — | — |
+| **Omar Farrugia** 🏛️ Gov. | May 2026: The Shift News reported he used his Parliamentary Secretary office to issue 10 press releases announcing public works projects in his electoral districts since January 2026 — described as "abusing incumbency" for electoral advantage | 🟡 Medium | Incumbency abuse allegation | [The Shift News, May 2026](https://theshiftnews.com/2026/05/11/parliamentary-secretary-for-public-works-abuses-incumbency-with-tour-of-projects-in-home-districts/) |
+| **Ramona Attard** | Standards Commissioner remark: called for revision to stop it being used to "scare" (critics: undermining accountability) | 🟡 Medium | Accountability/institutional | [Malta Independent, Sep 2025](https://www.independent.com.mt/articles/2025-09-24/newspaper-leader/TMID-Editorial-Ramona-Attard-s-remark-When-the-box-ticks-back-6736273371) |
+| **Ramona Attard** | Criminal libel remark: said removal of prison sentences was a "mistake" — press freedom implications | 🟡 Medium | Press freedom | [MaltaToday](https://www.maltatoday.com.mt/news/national/131202/outgoing_pl_president_wants_return_of_criminal_libel) |
 
 ---
 
@@ -200,7 +200,7 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 | Candidate | Controversy | Severity | Nature | Source |
 |---|---|---|---|---|
 | **Billy McBee** *(Official ballot name: Billy Joe McBee)* | No documented controversy | 🟢 None/Low | — | — |
-| **Marianne Sacco** | Aħwa Maltin's nativist platform | 🟡 Medium | Ideological | — |
+| **Marianne Sacco** | Aħwa Maltin's nativist platform | 🟡 Medium | Ideological | [MaltaToday, May 2026](https://www.maltatoday.com.mt/news/election-2026/141360/awa_maltin_announce_election_campaign_under_slogan_malta_gallmaltin) |
 
 ---
 

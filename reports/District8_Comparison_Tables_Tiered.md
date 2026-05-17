@@ -268,20 +268,20 @@ Aħwa Maltin: Francis Mallia
 
 ## T3 — TABLE 3: CONTROVERSIES
 
-| Candidate | Controversy | Severity |
-|---|---|---|
+| Candidate | Controversy | Severity | Nature | Source |
+|---|---|---|---|---|
 | **Vania Agius Tabone** | None found | 🟢 None |
-| **Keith Azzopardi Tanti** 🏛️ Gov. | Joseph Muscat endorsement — association with disgraced former leader | 🟢 Low |
+| **Keith Azzopardi Tanti** 🏛️ Gov. | Joseph Muscat endorsement — association with disgraced former leader | 🟢 Low | Political association | [MaltaToday, Feb 2022](https://www.maltatoday.com.mt/news/election-2022/115231/crowds_flock_to_joseph_muscat_on_campaign_trail_for_glenn_bedingfield_keith_tanti) · [Malta Independent, Feb 2022](https://www.independent.com.mt/articles/2022-02-23/local-news/Joseph-Muscat-spotted-at-PL-political-activity-amid-reports-of-candidate-endorsements-6736240883) |
 | **Keith Azzopardi Tanti** *(Official ballot name: Keith John Azzopardi Tanti)* 🏛️ Gov. | No documented controversy | 🟢 None/Low |
 | **Jesmond Bonello** | None found | 🟢 None |
-| **Clyde Caruana** 🏛️ Gov. | Information gap | 🟢 None confirmed |
+| **Clyde Caruana** 🏛️ Gov. | No documented controversy — primary record is D2 | 🟢 None/Low | — | — |
 | **Rosette Cassar** | None found | 🟢 None |
 | **John Grech** | None found | 🟢 None |
 | **John Grech** *(Official ballot name: John-Joseph Grech)* | No documented controversy | 🟢 None/Low |
 | **Mario Mallia** | None found individually; ADPD is a legitimate registered party with no documented controversies | 🟢 None |
 | **Mario Mallia** | No documented controversy | 🟢 None/Low |
-| **Francis Mallia** | Aħwa Maltin party platform contains immigration-restriction rhetoric that some characterise as xenophobic | 🟢 Low (party-level) |
-| **Francis Mallia** | As above | 🟡 Medium |
+| **Francis Mallia** | Aħwa Maltin party platform contains immigration-restriction rhetoric that some characterise as xenophobic | 🟢 Low | Ideological/political | [MaltaToday, May 2026](https://www.maltatoday.com.mt/news/election-2026/141360/awa_maltin_announce_election_campaign_under_slogan_malta_gallmaltin) |
+| **Francis Mallia** | Aħwa Maltin's "Malta għall-Maltin" nativist platform is explicitly anti-immigration | 🟡 Medium | Ideological/political | [MaltaToday, May 2026](https://www.maltatoday.com.mt/news/election-2026/141360/awa_maltin_announce_election_campaign_under_slogan_malta_gallmaltin) |
 
 ---
 

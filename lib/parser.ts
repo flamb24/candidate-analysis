@@ -276,7 +276,7 @@ function buildCandidates(
         if (ballotName) c.ballotName = ballotName;
         const desc = row["Controversy"] ?? "";
         const sev = parseSeverity(row["Severity"] ?? "");
-        if (!/none found|^—$|^$/i.test(desc.trim())) {
+        if (!/none found|no documented|no major documented|^—$|^$/i.test(desc.trim())) {
           const sources = parseLinks(row["Source"] ?? "");
           c.controversies.push({
             description: desc,

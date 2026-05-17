@@ -167,7 +167,7 @@ PN: Duncan Borg Myatt, Michael Piccinino, Stefan Caruana
 | **Byron Camilleri** | Police raids criticised for racial profiling; 95-year-old woman's home raided by mistake; refused public debate invitation | 🟡 Medium | Policing/accountability | [The Malta Independent — "hiding minister"](https://www.independent.com.mt/articles/2024-10-27/blogs-opinions/The-hiding-minister-6736265192) |
 | **Byron Camilleri** 🏛️ Gov. | February 2025: offered resignation after 200kg of confiscated cannabis was stolen from AFM compound in Safi under his ministry's custody; PM Abela refused the resignation; Camilleri absent from parliament during PN's urgent debate on the matter | 🔴 High | Ministerial accountability | [MaltaToday, Feb 2025](https://www.maltatoday.com.mt/news/national/133759/byron_camilleri_offers_resignation_after_drug_heist_at_afm_property) · [Malta Independent, Feb 2025](https://www.independent.com.mt/articles/2025-02-23/local-news/Byron-Camilleri-offers-resignation-suspends-army-brigadier-after-drug-theft-on-AFM-premises-6736268098) |
 | **All others** | No documented controversy | 🟢 None/Low | — | — |
-| **Andy Ellul** *(Official ballot name: Andrew Ellul)* 🏛️ Gov. | Entered parliament via casual election replacing Silvio Grixti (convicted of fraud); no personal controversy | 🟢 None/Low | — | — |
+| **Andy Ellul** *(Official ballot name: Andrew Ellul)* 🏛️ Gov. | No documented controversy — entered parliament via casual election (replacing Silvio Grixti, convicted of fraud) | 🟢 None/Low | — | — |
 | **Andy Ellul** *(Official ballot name: Andrew Ellul)* 🏛️ Gov. | PN accused him of using public Parliamentary Secretariat funds to run a political Facebook advert; referred to the Commissioner for Standards in Public Life (MaltaToday, Oct 2023); Ellul denied and said advert promoted a legitimate government initiative | 🟢 Low | Ethics allegation; denied; outcome unclear | [MaltaToday, Oct 2023](https://www.maltatoday.com.mt/news/national/125282/nationalist_party_accuses_andy_ellul_of_abusing_public_funds_in_facebook_advert) |
 | **Katya De Giovanni** | University promotion discrimination claim (legal action against UoM) | 🟡 Medium | Own legal filing; contested by UoM | [MaltaToday, 2024](https://www.maltatoday.com.mt/news/court_and_police/127436/labour_mp_takes_university_to_court_after_not_recommending_her_for_promotion_) |
 
@@ -245,11 +245,11 @@ Aħwa Maltin: Giuseppe Aquilina
 
 ## T3 — TABLE 3: CONTROVERSIES
 
-| Candidate | Controversy | Severity |
-|---|---|---|
-| **Giuseppe Aquilina** | No documented controversy | 🟢 None/Low |
-| **Giuseppe Aquilina** | Aħwa Maltin's "Malta għall-Maltin" nativist platform is explicitly anti-immigration | 🟡 Medium |
-| **All others** | No documented controversy | 🟢 None/Low |
+| Candidate | Controversy | Severity | Nature | Source |
+|---|---|---|---|---|
+| **Giuseppe Aquilina** | No documented controversy | 🟢 None/Low | — | — |
+| **Giuseppe Aquilina** | Aħwa Maltin's "Malta għall-Maltin" nativist platform is explicitly anti-immigration | 🟡 Medium | Ideological/political | [MaltaToday, May 2026](https://www.maltatoday.com.mt/news/election-2026/141360/awa_maltin_announce_election_campaign_under_slogan_malta_gallmaltin) |
+| **All others** | No documented controversy | 🟢 None/Low | — | — |
 
 ---
 

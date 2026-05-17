@@ -141,10 +141,10 @@ export default function CandidatePageContent({
                     <span className="font-medium">{t.natureLabel}</span> {c.nature}
                   </p>
                 )}
-                {c.sources.length > 0 && (
-                  <p className="mt-2 flex flex-wrap gap-x-2 gap-y-1 text-xs">
-                    <span className="text-muted">{t.sourcesLabel}</span>
-                    {c.sources.map((s, i) => (
+                <p className="mt-2 flex flex-wrap gap-x-2 gap-y-1 text-xs">
+                  <span className="text-muted">{t.sourcesLabel}</span>
+                  {c.sources.length > 0 ? (
+                    c.sources.map((s, i) => (
                       <span key={i}>
                         {s.url ? (
                           <a
@@ -159,9 +159,11 @@ export default function CandidatePageContent({
                           <span className="text-muted">{s.text}</span>
                         )}
                       </span>
-                    ))}
-                  </p>
-                )}
+                    ))
+                  ) : (
+                    <span className="text-muted italic">{t.sourcePending}</span>
+                  )}
+                </p>
               </li>
             ))}
           </ul>

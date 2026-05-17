@@ -81,7 +81,6 @@ PN: Darren Carabott, Paula Mifsud Bonnici, Alex Perici Calascione
 | **Glenn Bedingfield** 🏛️ Gov. | Told The Guardian that Caruana Galizia "was not universally admired" days after her assassination | 🔴 High | Reputational/political | [MaltaToday](https://www.maltatoday.com.mt/news/national/85988/caruana_galizia_not_universally_admired_bedingfield_tells_guardian_newspaper) |
 | **Glenn Bedingfield** 🏛️ Gov. | Defended €17,000/month Planning Authority payments to Robert Abela's law firm in parliament | 🟡 Medium | Conflict of interest/institutional | [Newsbook](https://newsbook.com.mt/en/no-place-for-hatred-in-politics-according-to-glenn-bedingfield/) |
 | **Glenn Bedingfield** 🏛️ Gov. | Refused Freedom of Information requests about hundreds of workers employed by his Cleansing and Maintenance Division, calling workforce data "sensitive"; allegations of political patronage in hiring from Cottonera area | 🔴 High | Transparency failure; patronage allegations | [The Shift News, May 2026](https://theshiftnews.com/2026/05/14/bedingfield-details-on-recruitment-of-government-cleaners-sensitive/) |
-| **Glenn Bedingfield** 🏛️ Gov. | 🔴 High controversies documented — see D1 report (D1 is his primary district). Includes: blog targeting Daphne Caruana Galizia; Guardian comment after assassination; FOI refusal at CMD; patronage allegations | 🔴 High | See D1 report | — |
 | **Deo Debattista** | Asked former PM Muscat to accompany and endorse him for his 2022 campaign, associating himself with the disgraced former leader | 🟡 Medium | Political association | [Lovin Malta — D1 Spotlight 2022](https://lovinmalta.com/news/election-2022/1st-district-candidates-vote-spotlight/) |
 | **Paula Mifsud Bonnici** | Physically blocked a PBS camera in parliament during PM Abela's budget speech, preventing the live feed; called out by the Maltese Institute of Journalists (IĠM); she subsequently apologised | 🟢 Low | Conduct; parliamentary decorum | [MaltaToday, Oct 2025](https://www.maltatoday.com.mt/news/national/138009/im_calls_out_paula_mifsud_bonnici_for_blocking_camera_during_prime_ministers_speech) |
 | **Darren Carabott** | No documented controversy | 🟢 None/Low | — | — |
@@ -265,8 +264,8 @@ Imperium Europa: Eman Alexander Cross
 | **Francesca Zarb** | No documented controversy | 🟢 None/Low | — | — |
 | **Giuseppe Aquilina** | Aħwa Maltin's "Malta għall-Maltin" nativist platform is explicitly anti-immigration | 🟡 Medium | Ideological/political | [MaltaToday — Aħwa Maltin launch](https://newsbook.com.mt/en/labour-announces-approval-of-26-candidates-including-13-first-timers/) |
 | **Giuseppe Aquilina** | No documented controversy | 🟢 None/Low | — | — |
-| **Francis Mallia** | As above | 🟡 Medium | Ideological/political | — |
-| **Francis Mallia** | Aħwa Maltin party platform contains immigration-restriction rhetoric that some characterise as xenophobic | 🟢 Low | — | — |
+| **Francis Mallia** | Aħwa Maltin's "Malta għall-Maltin" nativist platform is explicitly anti-immigration | 🟡 Medium | Ideological/political | [MaltaToday, May 2026](https://www.maltatoday.com.mt/news/election-2026/141360/awa_maltin_announce_election_campaign_under_slogan_malta_gallmaltin) |
+| **Francis Mallia** | Aħwa Maltin party platform contains immigration-restriction rhetoric that some characterise as xenophobic | 🟢 Low | Ideological/political | [MaltaToday, May 2026](https://www.maltatoday.com.mt/news/election-2026/141360/awa_maltin_announce_election_campaign_under_slogan_malta_gallmaltin) |
 
 ---
 
