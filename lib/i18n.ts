@@ -102,6 +102,8 @@ const en = {
   filterParty: "Party",
   filterControversy: "Controversy",
   filterTrackRecord: "Track record",
+  filterConflict:     "Conflict of interest",
+  filterTransparency: "Financial transparency",
   candidatesCount: (n: number) => `${n} candidates`,
 
   // ── Tier labels ───────────────────────────────────────────────────────
@@ -240,6 +242,8 @@ const mt: typeof en = {
   filterParty: "Partit",
   filterControversy: "Kontroversja",
   filterTrackRecord: "Rekord",
+  filterConflict:     "Kunflitt ta' interess",
+  filterTransparency: "Trasparenza finanzjarja",
   candidatesCount: (n: number) => `${n} kandidati`,
 
   // ── Tier labels ───────────────────────────────────────────────────────

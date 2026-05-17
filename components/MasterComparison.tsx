@@ -3,7 +3,7 @@
 import { useEffect, useMemo, useRef, useState, type ReactNode } from "react";
 import { Crown, Ghost, Lightbulb, Medal, SlidersHorizontal, X } from "lucide-react";
 import Link from "next/link";
-import type { Candidate, Severity, Tier } from "@/lib/types";
+import type { Candidate, ConflictSeverity, Severity, Tier, TransparencyRating } from "@/lib/types";
 import { getT } from "@/lib/i18n";
 import type { Lang } from "@/lib/i18n";
 import {
@@ -57,6 +57,8 @@ const TIER_CHIP_TITLES: Record<string, string> = {
 };
 
 const SEVERITY_ORDER: Severity[] = ["None", "Low", "Medium", "High"];
+const CONFLICT_ORDER: ConflictSeverity[] = ["None", "Low", "Medium", "High", "Unknown"];
+const TRANSPARENCY_ORDER: TransparencyRating[] = ["Full", "Partial", "Poor", "Unknown"];
 const ELECTABILITY_ORDER = ["✗", "✅", "✅✅", "✅✅✅"];
 const TRACK_RECORD_ORDER = [1, 2, 3, 4, 5];
 
@@ -65,6 +67,21 @@ const SEVERITY_CHIP_COLORS: Record<string, string> = {
   Low:    "bg-emerald-50 text-emerald-700 border-emerald-200",
   Medium: "bg-amber-50   text-amber-700   border-amber-200",
   High:   "bg-red-50     text-red-700     border-red-200",
+};
+
+const CONFLICT_CHIP_COLORS: Record<string, string> = {
+  None:    "bg-emerald-50 text-emerald-700 border-emerald-200",
+  Low:     "bg-emerald-50 text-emerald-700 border-emerald-200",
+  Medium:  "bg-amber-50   text-amber-700   border-amber-200",
+  High:    "bg-red-50     text-red-700     border-red-200",
+  Unknown: "bg-zinc-100   text-zinc-500    border-zinc-200",
+};
+
+const TRANSPARENCY_CHIP_COLORS: Record<string, string> = {
+  Full:    "bg-emerald-50 text-emerald-700 border-emerald-200",
+  Partial: "bg-amber-50   text-amber-700   border-amber-200",
+  Poor:    "bg-red-50     text-red-700     border-red-200",
+  Unknown: "bg-zinc-100   text-zinc-500    border-zinc-200",
 };
 
 const STAR_CHIP_COLORS: Record<string, string> = {
@@ -101,6 +118,8 @@ export default function MasterComparison({
   const [selectedDistricts, setSelectedDistricts] = useState<Set<number>>(new Set(districts ?? []));
   const [selectedSeverities, setSelectedSeverities] = useState<Set<Severity>>(new Set(SEVERITY_ORDER));
   const [selectedStars, setSelectedStars] = useState<Set<number>>(new Set(TRACK_RECORD_ORDER));
+  const [selectedConflicts, setSelectedConflicts] = useState<Set<ConflictSeverity>>(new Set(CONFLICT_ORDER));
+  const [selectedTransparencies, setSelectedTransparencies] = useState<Set<TransparencyRating>>(new Set(TRANSPARENCY_ORDER));
   const [search, setSearch] = useState("");
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [filtersVisible, setFiltersVisible] = useState(false);
@@ -124,6 +143,10 @@ export default function MasterComparison({
         setSelectedSeverities(new Set((f.severities as Severity[]).filter((s) => (SEVERITY_ORDER as string[]).includes(s))));
       if (Array.isArray(f.stars))
         setSelectedStars(new Set((f.stars as number[]).filter((s) => TRACK_RECORD_ORDER.includes(s))));
+      if (Array.isArray(f.conflicts))
+        setSelectedConflicts(new Set((f.conflicts as ConflictSeverity[]).filter((s) => (CONFLICT_ORDER as string[]).includes(s))));
+      if (Array.isArray(f.transparencies))
+        setSelectedTransparencies(new Set((f.transparencies as TransparencyRating[]).filter((s) => (TRANSPARENCY_ORDER as string[]).includes(s))));
       if (typeof f.search === "string") setSearch(f.search);
       if (f.view === "cards" || f.view === "table") setView(f.view);
       if (typeof f.sortKey === "string") setSortKey(f.sortKey as SortKey);
@@ -141,13 +164,15 @@ export default function MasterComparison({
         districts: [...selectedDistricts],
         severities: [...selectedSeverities],
         stars: [...selectedStars],
+        conflicts: [...selectedConflicts],
+        transparencies: [...selectedTransparencies],
         search,
         view,
         sortKey,
         sortDesc,
       }));
     } catch { /* ignore */ }
-  }, [selectedParties, selectedTiers, selectedDistricts, selectedSeverities, selectedStars, search, view, sortKey, sortDesc]);
+  }, [selectedParties, selectedTiers, selectedDistricts, selectedSeverities, selectedStars, selectedConflicts, selectedTransparencies, search, view, sortKey, sortDesc]);
 
   // Drag-to-dismiss (mobile bottom sheet)
   const dragStartY = useRef(0);
@@ -213,6 +238,8 @@ export default function MasterComparison({
       if (!selectedSeverities.has(c.controversySeverity)) return false;
       if (c.trackRecordStars > 0 && !selectedStars.has(c.trackRecordStars)) return false;
       if (districts && !selectedDistricts.has(c.district)) return false;
+      if (!selectedConflicts.has(c.conflictOfInterest)) return false;
+      if (!selectedTransparencies.has(c.financialTransparency)) return false;
       if (
         q &&
         !c.name.toLowerCase().includes(q) &&
@@ -255,7 +282,8 @@ export default function MasterComparison({
     return sorted;
   }, [
     candidates, selectedParties, selectedTiers, selectedSeverities,
-    selectedStars, selectedDistricts, districts, search, sortKey, sortDesc,
+    selectedStars, selectedDistricts, selectedConflicts, selectedTransparencies,
+    districts, search, sortKey, sortDesc,
   ]);
 
   function toggleInSet<T>(value: T, set: Set<T>, setter: (s: Set<T>) => void) {
@@ -284,6 +312,8 @@ export default function MasterComparison({
     selectedTiers.size < TIER_ORDER.length ||
     selectedSeverities.size < SEVERITY_ORDER.length ||
     selectedStars.size < TRACK_RECORD_ORDER.length ||
+    selectedConflicts.size < CONFLICT_ORDER.length ||
+    selectedTransparencies.size < TRANSPARENCY_ORDER.length ||
     (!!districts && selectedDistricts.size < districts.length);
 
   const activeFilterCount =
@@ -291,6 +321,8 @@ export default function MasterComparison({
     (selectedTiers.size < TIER_ORDER.length ? 1 : 0) +
     (selectedSeverities.size < SEVERITY_ORDER.length ? 1 : 0) +
     (selectedStars.size < TRACK_RECORD_ORDER.length ? 1 : 0) +
+    (selectedConflicts.size < CONFLICT_ORDER.length ? 1 : 0) +
+    (selectedTransparencies.size < TRANSPARENCY_ORDER.length ? 1 : 0) +
     (districts && selectedDistricts.size < districts.length ? 1 : 0);
 
   function resetFilters() {
@@ -299,6 +331,8 @@ export default function MasterComparison({
     setSelectedTiers(new Set(TIER_ORDER));
     setSelectedSeverities(new Set(SEVERITY_ORDER));
     setSelectedStars(new Set(TRACK_RECORD_ORDER));
+    setSelectedConflicts(new Set(CONFLICT_ORDER));
+    setSelectedTransparencies(new Set(TRANSPARENCY_ORDER));
     if (districts) setSelectedDistricts(new Set(districts));
   }
 
@@ -456,6 +490,22 @@ export default function MasterComparison({
                     selected={selectedStars}
                     onToggle={(v) => toggleInSet(v, selectedStars, setSelectedStars)}
                     colorMap={STAR_CHIP_COLORS}
+                  />
+
+                  <FilterRow
+                    label={strings.filterConflict}
+                    options={CONFLICT_ORDER.map((v) => ({ value: v, label: v === "Unknown" ? "—" : v }))}
+                    selected={selectedConflicts}
+                    onToggle={(v) => toggleInSet(v, selectedConflicts, setSelectedConflicts)}
+                    colorMap={CONFLICT_CHIP_COLORS}
+                  />
+
+                  <FilterRow
+                    label={strings.filterTransparency}
+                    options={TRANSPARENCY_ORDER.map((v) => ({ value: v, label: v === "Unknown" ? "—" : v }))}
+                    selected={selectedTransparencies}
+                    onToggle={(v) => toggleInSet(v, selectedTransparencies, setSelectedTransparencies)}
+                    colorMap={TRANSPARENCY_CHIP_COLORS}
                   />
 
                   {isFiltered && (
