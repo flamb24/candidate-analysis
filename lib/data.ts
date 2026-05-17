@@ -6,7 +6,10 @@ import type { Candidate, CandidateAggregate, CandidateDistrictView, District } f
 const REPORTS_DIR = path.join(process.cwd(), "reports");
 const CANDIDATES_DIR = path.join(process.cwd(), "candidates");
 
+// In development, skip the module-level cache so markdown file edits are
+// picked up on each request without restarting the dev server.
 let cached: District[] | null = null;
+const DEV = process.env.NODE_ENV === "development";
 
 /** Load all per-candidate markdown overrides from candidates/*.md */
 function loadCandidateOverrides(): Map<string, Partial<Candidate>> {
@@ -28,7 +31,7 @@ function loadCandidateOverrides(): Map<string, Partial<Candidate>> {
 }
 
 export function getAllDistricts(): District[] {
-  if (cached) return cached;
+  if (cached && !DEV) return cached;
   if (!fs.existsSync(REPORTS_DIR)) {
     cached = [];
     return cached;
