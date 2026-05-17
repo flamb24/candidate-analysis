@@ -24,10 +24,13 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
 
   const districts = getAllDistricts();
   const candidates = districts.flatMap((d) => d.candidates);
+  // Deduplicate multi-district candidates (they appear in several districts but
+  // are one person) by stripping the district prefix from the candidate id.
+  const uniqueCandidateCount = new Set(candidates.map((c) => c.id.replace(/^\d+-/, ""))).size;
   const partyCount = new Set(candidates.map((c) => c.party).filter(Boolean)).size;
 
   const STATS: Array<[string, string]> = [
-    [String(candidates.length), t.statCandidates],
+    [String(uniqueCandidateCount), t.statCandidates],
     [String(districts.length),  t.statDistricts],
     ["65",                       t.statSeats],
     [String(partyCount || PARTIES.length), t.statParties],

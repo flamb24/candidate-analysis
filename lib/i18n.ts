@@ -22,7 +22,7 @@ const en = {
     "Too many unknown names, not enough time to research them all. Distrett profiles every candidate — track record, controversies, electability — so you can cut through the noise and vote for someone who actually represents you.",
   inThisIssue: "Who we are",
   issueBlurb: (_n: number) =>
-    `No party. No agenda. Just people who got tired of manually digging through years of coverage to figure out if a candidate was even worth voting for. Politicians across every party have long relied on a poorly-informed electorate to coast to re-election — it keeps them comfortable and unaccountable. This is our small attempt to change that.`,
+    `No party. No hidden agenda. Just people who got tired of manually digging through years of coverage to figure out if a candidate was even worth voting for. Politicians across every party have long relied on a poorly-informed electorate to coast to re-election — it keeps them comfortable and unaccountable. This is our small attempt to change that.`,
   statCandidates: "Candidates",
   statDistricts: "Districts",
   statSeats: "Seats in parliament",
@@ -91,6 +91,8 @@ const en = {
   platforms: "Platforms",
 
   // ── Filter / search ───────────────────────────────────────────────────
+  localitySearchPlaceholder: "Search your locality…",
+  localitySearchNoResults:   "No locality found",
   searchPlaceholder: "Search candidate name…",
   viewCards: "Cards",
   viewTable: "Table",
@@ -151,7 +153,7 @@ const mt: typeof en = {
     "Fil-jum tal-elezzjoni, il-biċċa l-kbira tal-ismijiet fuq il-ballot huma barranin — u hemm wisq biex tirriċerka minn daqshekk. Distrett jagħmel ix-xogħol tal-bażi: kull kandidat huwa proffilat, ivvalutat bil-preżenza fil-midja, u ttikkettat biex tifred malajr il-kandidati serji mill-mimlejn lista. Iffiltja biex issib dak li jgħodd, imbagħad iqdim. Aqra aktar. Agħmel għażla infurmata. Malta tistħoqqilha aħjar.",
   inThisIssue: "Min aħna",
   issueBlurb: (_n: number) =>
-    `L-ebda partit. L-ebda aġenda. Sempliċement nies li qegudin jitħabtu jfittxu snin ta’ artikli biex jifhmu jekk kandidat jistħoqqilhomx il-vot. Il-politiċi ta’ kull partit ilhom jiddependu fuq elettorat li m’għandux informazzjoni biżżejjed — u dan iżommhom komdi u mhux responsabbli. Dan huwa t-tentattiv żgħir tagħna biex nibdlu dan.`,
+    `L-ebda partit. L-ebda aġenda moħbija. Sempliċement nies li qegudin jitħabtu jfittxu snin ta’ artikli biex jifhmu jekk kandidat jistħoqqilhomx il-vot. Il-politiċi ta’ kull partit ilhom jiddependu fuq elettorat li m’għandux informazzjoni biżżejjed — u dan iżommhom komdi u mhux responsabbli. Dan huwa t-tentattiv żgħir tagħna biex nibdlu dan.`,
   statCandidates: "Kandidati",
   statDistricts: "Distretti",
   statSeats: "Siġġijiet fil-Parlament",
@@ -220,6 +222,8 @@ const mt: typeof en = {
   platforms: "Pjattaformi",
 
   // ── Filter / search ───────────────────────────────────────────────────
+  localitySearchPlaceholder: "Fittex il-lokalità tiegħek…",
+  localitySearchNoResults:   "Ma nstabet l-ebda lokalità",
   searchPlaceholder: "Fittex isem il-kandidat…",
   viewCards: "Karti",
   viewTable: "Tabella",

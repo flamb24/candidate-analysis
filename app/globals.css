@@ -46,11 +46,11 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --background: #100d09;
-    --foreground: #f4f0ea;
-    --muted: #b09880;
-    --muted-bg: #1e1a14;
-    --border: #352a1c;
+    --background: #0d0e10;
+    --foreground: #f0f0f2;
+    --muted: #8c929c;
+    --muted-bg: #16171b;
+    --border: #25272e;
     --cta: #d97757;
   }
 }

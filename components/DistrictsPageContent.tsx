@@ -2,11 +2,40 @@ import Link from "next/link";
 import { getAllDistricts } from "@/lib/data";
 import { getT } from "@/lib/i18n";
 import type { Lang } from "@/lib/i18n";
+import LocalitySearch, { type LocalityEntry } from "@/components/LocalitySearch";
+
+// ─── Locality parsing ─────────────────────────────────────────────────────────
+// Splits a raw localities string (e.g. "Qormi, Siġġiewi, Luqa and Ħal Farruġ")
+// into individual locality names, handling all edge cases in the dataset.
+function parseLocalities(localities: string): string[] {
+  const parts = localities.split(",").map(s => s.trim()).filter(Boolean);
+  const result: string[] = [];
+  for (const part of parts) {
+    // Strip Oxford-comma "and " prefix (e.g. ", and In-Naxxar (part of)")
+    const cleaned = part.replace(/^and\s+/i, "").trim();
+    // Split on " and " that is NOT inside parentheses
+    const andMatch = cleaned.match(/ and (?![^(]*\))/);
+    if (andMatch && andMatch.index !== undefined) {
+      result.push(cleaned.slice(0, andMatch.index).trim());
+      result.push(cleaned.slice(andMatch.index + 5).trim());
+    } else {
+      result.push(cleaned);
+    }
+  }
+  return result.filter(Boolean);
+}
 
 export default function DistrictsPageContent({ lang }: { lang: Lang }) {
   const t = getT(lang);
   const districts = getAllDistricts();
   const prefix = lang === "mt" ? "/mt" : "";
+
+  const entries: LocalityEntry[] = districts.flatMap(d =>
+    parseLocalities(d.localities).map(locality => ({
+      locality,
+      districtNumber: d.number,
+    }))
+  );
 
   return (
     <div className="mx-auto w-full max-w-6xl flex flex-col gap-8 px-4 py-10 sm:px-6 sm:py-14">
@@ -20,6 +49,13 @@ export default function DistrictsPageContent({ lang }: { lang: Lang }) {
           {t.electoralDistrictsTitle(districts.length)}
         </h1>
       </header>
+
+      <LocalitySearch
+        entries={entries}
+        prefix={prefix}
+        placeholder={t.localitySearchPlaceholder}
+        noResults={t.localitySearchNoResults}
+      />
 
       <ol
         className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-px bg-border"
