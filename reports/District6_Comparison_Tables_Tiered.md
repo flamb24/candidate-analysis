@@ -54,7 +54,7 @@ PN: Jerome Caruana Cilia, Rosianne Cutajar (Labour — treated as Notable given 
 |---|---|---|---|---|---|---|
 | **Ian Borg** 🏛️ Gov. | Labour | S&D | Centre-left; internationalist; infrastructural nationalist | Deputy PM & Foreign Affairs Minister; Labour Deputy Leader; born in Dingli (D7) but D6/D7 anchor | Foreign policy; OSCE chairmanship; EU relations; infrastructure legacy | Silent |
 | **Malcolm Paul Agius Galea** 🏛️ Gov. | Labour | S&D | Centre-left; technocrat | Parliamentary Secretary (local government/planning); D6 and D7; Żebbuġ roots | Local government; planning; EU funds | Silent |
-| **Silvio Schembri** 🏛️ Gov. | Labour | S&D | Centre-left; economy and enterprise | Minister for Economy, Enterprise & Strategic Projects (2022–); MP since 2013; D6 primary; D6 and D7 | Economy; enterprise; digital economy; AI strategy; blockchain regulation | Silent |
+| **Silvio Schembri** *(Official ballot name: Saviour Schembri)* 🏛️ Gov. | Labour | S&D | Centre-left; economy and enterprise | Minister for Economy, Enterprise & Strategic Projects (2022–); MP since 2013; D6 primary; D6 and D7 | Economy; enterprise; digital economy; AI strategy; blockchain regulation | Silent |
 | **Rosianne Cutajar** | Labour | S&D | Progressive; centre-left; civil rights focus | MP (2017–, independent 2023–24, returned to PL 2024); former Parliamentary Secretary for Equality | Civil rights; LGBTQ; social inclusion | Silent |
 | **Jerome Caruana Cilia** | PN | EPP | Centre-right; economy and enterprise | MP (2022–); Shadow Min. Economy & Enterprise; prominent PN media figure | Economy; enterprise; cost of living | Silent |
 
@@ -184,7 +184,7 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
-| **List-filler** | Billy McBee | Momentum | ⭐⭐⭐ | 🟢 | 📡 | ✗ Structural ceiling (D1 primary) |
+| **List-filler** | Billy McBee *(Official ballot name: Billy Joe McBee)* | Momentum | ⭐⭐⭐ | 🟢 | 📡 | ✗ Structural ceiling (D1 primary) |
 | **List-filler** | Sandra Gauci | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
 | **List-filler** | Marianne Sacco | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
 | **List-filler** | Noel Apap | Independent | ⭐ | 🟢 | 📵 | ✗ |

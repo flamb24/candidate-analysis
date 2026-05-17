@@ -79,6 +79,9 @@ function skipTable(lines: string[], start: number): number {
   return i;
 }
 
+// Catch-all placeholder rows used in controversy/social tables (e.g. "All others", "All remaining")
+const PLACEHOLDER_RE = /^all\b/i;
+
 function cleanName(raw: string): { name: string; isGovIncumbent: boolean; ballotName?: string } {
   let s = stripBold(raw).trim();
   const isGov = /🏛️\s*Gov\./.test(s);
@@ -230,7 +233,7 @@ function buildCandidates(
     if (t1) {
       for (const row of t1.rows) {
         const { name, isGovIncumbent, ballotName } = cleanName(row["Candidate"] ?? "");
-        if (!name) continue;
+        if (!name || PLACEHOLDER_RE.test(name)) continue;
         const key = normalizeKey(name);
         const c = getOrCreate(map, key, name, districtNumber, tier);
         c.isGovIncumbent = c.isGovIncumbent || isGovIncumbent;
@@ -249,7 +252,7 @@ function buildCandidates(
     if (t2) {
       for (const row of t2.rows) {
         const { name, isGovIncumbent, ballotName } = cleanName(row["Candidate"] ?? "");
-        if (!name) continue;
+        if (!name || PLACEHOLDER_RE.test(name)) continue;
         const key = normalizeKey(name);
         const c = getOrCreate(map, key, name, districtNumber, tier);
         c.isGovIncumbent = c.isGovIncumbent || isGovIncumbent;
@@ -266,7 +269,7 @@ function buildCandidates(
     if (t3) {
       for (const row of t3.rows) {
         const { name, isGovIncumbent, ballotName } = cleanName(row["Candidate"] ?? "");
-        if (!name) continue;
+        if (!name || PLACEHOLDER_RE.test(name)) continue;
         const key = normalizeKey(name);
         const c = getOrCreate(map, key, name, districtNumber, tier);
         c.isGovIncumbent = c.isGovIncumbent || isGovIncumbent;
@@ -290,7 +293,7 @@ function buildCandidates(
     if (t4) {
       for (const row of t4.rows) {
         const { name, isGovIncumbent, ballotName } = cleanName(row["Candidate"] ?? "");
-        if (!name) continue;
+        if (!name || PLACEHOLDER_RE.test(name)) continue;
         const key = normalizeKey(name);
         const c = getOrCreate(map, key, name, districtNumber, tier);
         c.isGovIncumbent = c.isGovIncumbent || isGovIncumbent;
@@ -309,7 +312,7 @@ function buildCandidates(
     if (t5) {
       for (const row of t5.rows) {
         const { name, isGovIncumbent, ballotName } = cleanName(row["Candidate"] ?? "");
-        if (!name) continue;
+        if (!name || PLACEHOLDER_RE.test(name)) continue;
         const key = normalizeKey(name);
         const c = getOrCreate(map, key, name, districtNumber, tier);
         c.isGovIncumbent = c.isGovIncumbent || isGovIncumbent;

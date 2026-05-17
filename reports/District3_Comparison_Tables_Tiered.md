@@ -52,7 +52,7 @@ Note: Stephen Spiteri is primarily a D2 MP contesting D3 as his second district 
 
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
-| **Chris Fearne** | Labour | S&D | Centre-left; technocratic; health-focused | Former Deputy PM; awaiting trial; Abela-backed return; lost deputy leadership; contesting D3 and D4 | Healthcare; social policy; EU health cooperation | **Explicitly pro-life** (opposed abortion; described ban as reason for Malta's low healthcare ranking) |
+| **Chris Fearne** *(Official ballot name: Christopher Fearne)* | Labour | S&D | Centre-left; technocratic; health-focused | Former Deputy PM; awaiting trial; Abela-backed return; lost deputy leadership; contesting D3 and D4 | Healthcare; social policy; EU health cooperation | **Explicitly pro-life** (opposed abortion; described ban as reason for Malta's low healthcare ranking) |
 | **Owen Bonnici** 🏛️ Gov. | Labour | S&D | Centre-left; justice and culture focus | Minister for Heritage, Arts & Local Government; born and raised in Żejtun | Heritage; arts; local governance; justice reform | Silent |
 | **Carmelo Abela** | Labour | S&D | Old-guard centre-left | Former minister (multiple portfolios); MP since 2008; D3 primary | Agriculture; social policy; rural communities | Silent |
 | **Andy Ellul** *(Official ballot name: Andrew Ellul)* 🏛️ Gov. | Labour | S&D | Centre-left; pragmatist | Parliamentary Secretary for Social Dialogue & Consumer Affairs; Government Whip | Social dialogue; consumer protection; employment | Silent |
@@ -137,14 +137,14 @@ ADPD: Brian Decelis
 
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
-| **Alicia Bugeja Said** 🏛️ Gov. | Labour | S&D | Centre-left; scientist; fisheries focus | Parliamentary Secretary Fisheries, Aquaculture & Animal Rights (2022–); D3 and D12 | Fisheries; animal rights; coastal environment | Silent |
-| **Ray Abela** | Labour | S&D | Centre-left; tech/digital | MP (2022–); primarily D3; digital economy focus | Digital economy; technology; innovation | Silent |
+| **Alicia Bugeja Said** *(Official ballot name: Alicia Maree Beth Sephora Bugeja Said)* 🏛️ Gov. | Labour | S&D | Centre-left; scientist; fisheries focus | Parliamentary Secretary Fisheries, Aquaculture & Animal Rights (2022–); D3 and D12 | Fisheries; animal rights; coastal environment | Silent |
+| **Ray Abela** *(Official ballot name: Raymond Abela)* | Labour | S&D | Centre-left; tech/digital | MP (2022–); primarily D3; digital economy focus | Digital economy; technology; innovation | Silent |
 | **Andrew Agius** | PN | EPP | Centre-right; young professional | First-time D3 candidate; veterinarian; son of former MP Francis Agius | Veterinary/agriculture; community | Silent |
 | **Miriana Calleja Testaferrata de Noto** | PN | EPP | Centre-right; youth-oriented | Former MŻPN President; contested 2024 MEP elections (408 votes); D3 and D5 | Youth; European affairs | Silent |
 | **John Baptist Camilleri** | PN | EPP | Centre-right | Aviation engineer; Marsaskala minority leader; contested D2 and D3 | Marsaskala local issues; infrastructure | Silent |
 | **Raymond Gatt** | PN | EPP | Centre-right | Orthopaedic consultant; new PN D3 candidate | Healthcare | Silent |
-| **Mark Camilleri Gambin** | Momentum | EDP | Centrist-green | Momentum D3 candidate | Good governance; environment | Pro-choice |
-| **Brian Decelis** | ADPD | EGP | Left-wing green | ADPD D3 and D4 candidate | Environment; planning | Pro-choice |
+| **Mark Camilleri Gambin** *(Official ballot name: Mark Philip Camilleri Gambin)* | Momentum | EDP | Centrist-green | Momentum D3 candidate | Good governance; environment | Pro-choice |
+| **Brian Decelis** *(Official ballot name: Brian Charles Decelis)* | ADPD | EGP | Left-wing green | ADPD D3 and D4 candidate | Environment; planning | Pro-choice |
 
 ---
 
@@ -221,7 +221,7 @@ Independent: Nazzareno Bonnici
 
 | Candidate | Party | EU Group | Ideological Position | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|
-| **Chris Bonett** 🏛️ Gov. | Labour | S&D | Centre-left | Transport, Infrastructure and Public Works; D4 primary; also contesting D3 | Silent |
+| **Chris Bonett** *(Official ballot name: Christian Paul Bonett)* 🏛️ Gov. | Labour | S&D | Centre-left | Transport, Infrastructure and Public Works; D4 primary; also contesting D3 | Silent |
 | **Martina Paula Buhagiar** | Labour | S&D | Centre-left | Not confirmed | Silent |
 | **James Grech** | Labour | S&D | Centre-left | Not confirmed | Silent |
 | **Eric Plumpton** | Labour | S&D | Centre-left | Not confirmed; D3 and D4 | Silent |

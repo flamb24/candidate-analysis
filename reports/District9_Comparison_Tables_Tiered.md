@@ -135,7 +135,7 @@ Labour: Vania Agius Tabone, Clint Azzopardi Flores
 | **Second-tier** | Graham Bencini | PN | ⭐⭐ | 🟢 | 📡 | ✅ Competitive |
 | **Second-tier** | Julie Zahra | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Noel Muscat | PN | ⭐⭐ | 🟢 | 📡 | ✅ Possible |
-| **Second-tier** | Alex Perici Calascione | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible (D1 primary) |
+| **Second-tier** | Alex Perici Calascione *(Official ballot name: Alexander Perici Calascione)* | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible (D1 primary) |
 | **Second-tier** | Jonathan Muscat *(Official ballot name: Jonathan Albert Muscat)* | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Charles Selvaggi | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Joseph Aquilina *(Official ballot name: Joseph Mary Aquilina)* | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |

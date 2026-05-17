@@ -49,12 +49,12 @@ PN: Darren Carabott, Paula Mifsud Bonnici, Alex Perici Calascione
 
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
-| **Keith Azzopardi Tanti** 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Abela mainstream; strong D1 vote-getter | Youth policy; research & innovation; digital economy | Silent |
+| **Keith Azzopardi Tanti** *(Official ballot name: Keith John Azzopardi Tanti)* 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Abela mainstream; strong D1 vote-getter | Youth policy; research & innovation; digital economy | Silent |
 | **Deo Debattista** *(Official ballot name: Jude-Taddeo Debattista)* | Labour | S&D | Old-guard centre-left | Long-tenured backbencher; Muscat-era MP now on Abela ticket | Local constituency; social services; housing | Silent |
 | **Glenn Bedingfield** 🏛️ Gov. | Labour | S&D | Loyalist centre-left | Parliamentary Secretary for Public Cleanliness (Jan 2024–); former Government Whip; Muscat-era enforcer now under Abela | Public cleanliness; environmental maintenance; institutional affairs | Silent |
 | **Darren Carabott** | PN | EPP | Centre-right; rule-of-law focus | Rising star; PAC chair; favoured for future leadership | Home affairs; police accountability; public accounts scrutiny | Silent |
 | **Paula Mifsud Bonnici** | PN | EPP | Centre-right; traditional conservative | Deputy whip; Mifsud Bonnici dynasty; active-ageing portfolio | Active ageing; elderly care; social affairs | **Explicitly pro-life** |
-| **Alex Perici Calascione** | PN | EPP | Centre-right; liberal-technocrat | PN Deputy Leader; first attempt at elected MP seat | Rule of law; good governance; constitutional reform | Silent |
+| **Alex Perici Calascione** *(Official ballot name: Alexander Perici Calascione)* | PN | EPP | Centre-right; liberal-technocrat | PN Deputy Leader; first attempt at elected MP seat | Rule of law; good governance; constitutional reform | Silent |
 
 **Tier 1 notes:** This tier is dominated by incumbents. The PN slot vacated by Mario de Marco is being contested between Perici Calascione (Deputy Leader, high profile but unelected after two tries) and Carabott (young sitting MP with strong first-count performance in 2022). Of the Labour three, Bedingfield is the most contested internally due to his blog controversy legacy and ongoing CMD patronage concerns; he has held the Parliamentary Secretary for Public Cleanliness role since January 2024. Azzopardi Tanti topped the D1 first count in 2022 with more than a quota, making him near-certain. Paula Mifsud Bonnici is the only explicitly pro-life notable candidate in D1.
 
@@ -138,7 +138,7 @@ ADPD: Mark Zerafa
 | **Justin Schembri** | PN | EPP | Centre-right; nativist-adjacent on immigration | Shadow Min. Education; MP elected D8 in 2022, now repositioning to D1 | Education; vocational training | Silent |
 | **James Aaron Ellul** | PN | EPP | Centre-right; community/heritage focused | Deputy Mayor of Floriana (2024–); former PN Communications Director (2023–24); Floriana councillor since 2015 | Floriana regeneration; local governance; heritage | Silent |
 | **Antonello Cuschieri** | PN | EPP | Centre-right | New face; limited public profile | Not confirmed | Silent |
-| **Billy McBee** | Momentum | EDP | Centrist-green; community-first | Founder of Residenti Beltin; Valletta community activist | Overdevelopment; Valletta residents' rights; tourism management; heritage | Pro-choice (party position) |
+| **Billy McBee** *(Official ballot name: Billy Joe McBee)* | Momentum | EDP | Centrist-green; community-first | Founder of Residenti Beltin; Valletta community activist | Overdevelopment; Valletta residents' rights; tourism management; heritage | Pro-choice (party position) |
 | **Mark Zerafa** *(Official ballot name: Mark Anthony Zerafa)* | ADPD | EGP | Left-wing green | ADPD candidate D1 and D9 | Environment; planning; proportional representation | Pro-choice (party position) |
 
 ---

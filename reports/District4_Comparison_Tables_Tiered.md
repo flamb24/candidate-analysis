@@ -52,10 +52,10 @@ PN: Mark Anthony Sammut, Bernice Bonello
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
 | **Jonathan Attard** 🏛️ Gov. | Labour | S&D | Centre-left; legal/justice focus | Justice Minister since 2022; rising star; born in Tarxien; strong D4 roots; contesting D4 and D12 | Justice reform; construction sector reform; rule of law; digital governance | Silent |
-| **Chris Bonett** 🏛️ Gov. | Labour | S&D | Centre-left; infrastructure focus | Transport/Infrastructure Minister; internally polling behind; at risk; contesting D3 and D4 | Transport; roads; infrastructure; "Malta in Motion" mass transit plan | Silent |
-| **Chris Fearne** | Labour | S&D | Centre-left; health | Former Deputy PM; awaiting criminal trial (Vitals); contesting D3 and D4 | Healthcare; EU health cooperation | **Explicitly pro-life** (on record opposing abortion) |
+| **Chris Bonett** *(Official ballot name: Christian Paul Bonett)* 🏛️ Gov. | Labour | S&D | Centre-left; infrastructure focus | Transport/Infrastructure Minister; internally polling behind; at risk; contesting D3 and D4 | Transport; roads; infrastructure; "Malta in Motion" mass transit plan | Silent |
+| **Chris Fearne** *(Official ballot name: Christopher Fearne)* | Labour | S&D | Centre-left; health | Former Deputy PM; awaiting criminal trial (Vitals); contesting D3 and D4 | Healthcare; EU health cooperation | **Explicitly pro-life** (on record opposing abortion) |
 | **Mark Anthony Sammut** | PN | EPP | Centre-right; reform-minded | MP (2022–); PN General Council President; Shadow Min. Transport & Mobility; from Gudja; contesting D4 and D10 | Transport; traffic; road reform; population growth | Silent |
-| **Bernice Bonello** | PN | EPP | Centre-right; progressive-youth | MP via 52A (2022–); Shadow Min. Youth & Local Government; contesting D2 and D4 | Youth; local government; open spaces | Silent |
+| **Bernice Bonello** *(Official ballot name: Bernice Theresa Bonello)* | PN | EPP | Centre-right; progressive-youth | MP via 52A (2022–); Shadow Min. Youth & Local Government; contesting D2 and D4 | Youth; local government; open spaces | Silent |
 
 **Tier 1 notes:** D4 is the only district where the sitting transport minister (Bonett) is being assessed as electorally vulnerable in his own primary district. Internal Labour polling (The Shift, 6 May 2026) placed Bonett trailing Attard, Fearne and Camilleri in internal rankings. The PN's two candidates (Sammut, Bonello) are competing for one seat; Sammut is the clear frontrunner, having contested D4 twice already.
 
@@ -136,7 +136,7 @@ PN: Duncan Borg Myatt, Michael Piccinino, Stefan Caruana
 | **Amanda Spiteri Grech** | Labour | S&D | Centre-left | MP via 52A (2022–); D4 primary | Social affairs; gender issues | Silent |
 | **Andy Ellul** *(Official ballot name: Andrew Ellul)* 🏛️ Gov. | Labour | S&D | Centre-left | Parliamentary Secretary; D3 primary; D4 secondary | Social dialogue; consumer affairs | Silent |
 | **Duncan Borg Myatt** | PN | EPP | Centre-right | PN activist; new candidate; D4 and D5 | Not confirmed | Silent |
-| **Michael Piccinino** | PN | EPP | Centre-right | PN Secretary General; D4 candidate | Party organisation; governance | Silent |
+| **Michael Piccinino** *(Official ballot name: Michael Richard Piccinino)* | PN | EPP | Centre-right | PN Secretary General; D4 candidate | Party organisation; governance | Silent |
 | **Stefan Caruana** | PN | EPP | Centre-right | Teacher; PN executive secretary; D4 and D5 | Education; community | Silent |
 
 ---
@@ -216,8 +216,8 @@ Aħwa Maltin: Giuseppe Aquilina
 | **Raymond Abela** | Labour | S&D | Not confirmed | Silent |
 | **Eric Plumpton** | Labour | S&D | Not confirmed; D3 and D4 | Silent |
 | **Shana Woods** | Labour | S&D | Not confirmed | Silent |
-| **Alastair Farrugia** | Momentum | EDP | Good governance; anti-corruption; contesting D4 and D5 | Pro-choice |
-| **Brian Decelis** | ADPD | EGP | Environment; planning | Pro-choice |
+| **Alastair Farrugia** *(Official ballot name: Alastair Joseph Farrugia)* | Momentum | EDP | Good governance; anti-corruption; contesting D4 and D5 | Pro-choice |
+| **Brian Decelis** *(Official ballot name: Brian Charles Decelis)* | ADPD | EGP | Environment; planning | Pro-choice |
 | **Giuseppe Aquilina** | Aħwa Maltin | — | Not confirmed | Silent |
 
 ---

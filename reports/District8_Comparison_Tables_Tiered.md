@@ -39,7 +39,7 @@ PN: Beppe Fenech Adami, Adrian Delia, Justin Schembri, Julie Zahra, Ivan Castill
 
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
-| **Alex Muscat** | Labour | S&D | Centre-left; technocratic | Post-ministerial; rebuilding; contesting D8 after D11 ouster from Cabinet | Economy; cost of living; communities | Silent |
+| **Alex Muscat** *(Official ballot name: Alexander Muscat)* | Labour | S&D | Centre-left; technocratic | Post-ministerial; rebuilding; contesting D8 after D11 ouster from Cabinet | Economy; cost of living; communities | Silent |
 | **Ramona Attard** | Labour | S&D | Progressive-liberal; centre-left | Abela loyalist; former PL President; progressive wing standard-bearer | Civil rights; IVF; equality; housing | Pro-IVF/fertility rights; civil liberties emphasis |
 | **Beppe Fenech Adami** *(Official ballot name: Joseph Fenech Adami)* | PN | EPP | Centre-right; internationalist; Europeanist | Senior establishment PN; son of former PM/President; shadow Foreign Affairs | Foreign affairs; EU; Malta's neutrality; trade | Silent |
 | **Adrian Delia** | PN | EPP | Centre-right; populist-adjacent; social conservative | Former leader (2017–20); shadow Finance; grassroots appeal; leadership contender Sep 2025 (lost to Borg) | Finance; health; Vitals/hospital accountability | Implicitly pro-life (no formal declaration) |
@@ -228,7 +228,7 @@ Aħwa Maltin: Francis Mallia
 | Candidate | Party | EU Group | Ideological Position | Abortion Stance |
 |---|---|---|---|---|
 | **Vania Agius Tabone** | Labour | S&D | Centre-left | Silent |
-| **Keith Azzopardi Tanti** | Labour | S&D | Centre-left; Muscat-era loyalist | Silent |
+| **Keith Azzopardi Tanti** *(Official ballot name: Keith John Azzopardi Tanti)* | Labour | S&D | Centre-left; Muscat-era loyalist | Silent |
 | **Jesmond Bonello** | Labour | S&D | Centre-left | Silent |
 | **Clyde Caruana** | Labour | S&D | Centre-left | Silent |
 | **Rosette Cassar** | Labour | S&D | Centre-left | Silent |

@@ -41,7 +41,7 @@ Returning: Deborah Schembri (Labour)
 
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
-| **Jo Etienne Abela** 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Abela mainstream; weakened by healthcare controversy; contesting D10 and D13 | Healthcare; Gozo | Silent |
+| **Jo Etienne Abela** *(Official ballot name: Joetienne Abela)* 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Abela mainstream; weakened by healthcare controversy; contesting D10 and D13 | Healthcare; Gozo | Silent |
 | **Clifton Grima** 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Abela mainstream; MCAST-damaged | Education; sport; research | Silent |
 | **Michael Falzon** 🏛️ Gov. | Labour | S&D | Old-guard centre-left | Institutional pillar; Abela loyalist | Social security; pensions; family | Silent |
 | **Deborah Schembri** | Labour | S&D | Progressive humanist; centre-left | Abela's personal invitee; returning | Civil rights; planning reform; Lands | **Explicitly pro-life** |
@@ -277,7 +277,7 @@ Aħwa Maltin: Josephine Borg
 | **Rosette Cassar** | Labour | S&D | Centre-left | New face; no profile | Unknown | Silent |
 | **Edward Cassar Delia** | Labour | S&D | Traditional left; social democrat | Old-guard values framing | Sport; culture; environment | Silent |
 | **Lisa Cassar Shaw** | Labour | S&D | Centre-left | Unknown | Unknown | Silent |
-| **Damien Spiteri** | Labour | S&D | Centre-left | Repeat candidate; no profile | Unknown | Silent |
+| **Damien Spiteri** *(Official ballot name: Damian Spiteri)* | Labour | S&D | Centre-left | Repeat candidate; no profile | Unknown | Silent |
 | **Mariah Meli** | Labour | S&D | Centre-left | New face; no profile | Unknown | Silent |
 | **Marija Elena Gauci** | PN | EPP | Centre-right | Repeat candidate; no strong profile | Unknown | Silent |
 | **Pierre Schembri-Wismayer** | Momentum | EDP | Centrist; science-ethics focused | First-time candidate; academic | Science; medical ethics; public service | **Explicitly pro-life** |

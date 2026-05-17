@@ -120,7 +120,7 @@ PN: Charles Azzopardi, David Anthony Bonello, Joseph Mark Grech, Anthony Mifsud,
 | **Second-tier** | Ian Mario Vassallo | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Rachel Antoinette Williams | PN | ⭐ | 🟢 | 📶 | ✅ Possible (Rachel Williams is a PN D9/D12 councillor and first-time candidate) |
 | **Second-tier** | Charles Azzopardi | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
-| **Second-tier** | Damien Spiteri | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
+| **Second-tier** | Damien Spiteri *(Official ballot name: Damian Spiteri)* | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Carlos Zarb | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Romilda Zarb | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | David Anthony Bonello | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |

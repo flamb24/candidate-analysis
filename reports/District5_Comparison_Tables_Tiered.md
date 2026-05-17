@@ -198,8 +198,8 @@ Aħwa Maltin: Iris Vella
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
 | **List-filler** | Kaydem Schembri | Labour | ⭐ | 🟢 | 📵 | ✗ |
-| **List-filler** | Roderick Zerafa | Labour | ⭐ | 🟢 | 📵 | ✗ |
-| **List-filler** | Alastair Farrugia | Momentum | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
+| **List-filler** | Roderick Zerafa *(Official ballot name: Rodrick Zerafa)* | Labour | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | Alastair Farrugia *(Official ballot name: Alastair Joseph Farrugia)* | Momentum | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
 | **List-filler** | Melissa Bagley *(Official ballot name: Melissa Joan Bagley)* | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
 | **List-filler** | Iris Vella | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
 
