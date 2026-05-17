@@ -80,7 +80,7 @@ export default function LocalitySearch({ entries, prefix, placeholder, noResults
   }
 
   return (
-    <div className="relative w-full max-w-sm">
+    <div className="relative w-full">
       <div className="flex items-center gap-2 rounded-md border border-border bg-background px-3 py-2 focus-within:ring-2 focus-within:ring-accent/40 transition-shadow">
         <MapPin size={14} className="shrink-0 text-[var(--muted)]" aria-hidden />
         <input
@@ -95,7 +95,7 @@ export default function LocalitySearch({ entries, prefix, placeholder, noResults
           onFocus={() => { if (query) setIsOpen(true); }}
           onBlur={() => setTimeout(() => setIsOpen(false), 150)}
           placeholder={placeholder}
-          className="flex-1 min-w-0 bg-transparent text-sm outline-none placeholder:text-[var(--muted)]"
+          className="flex-1 min-w-0 bg-transparent text-base sm:text-sm outline-none placeholder:text-[var(--muted)]"
           role="combobox"
           aria-expanded={isOpen && filtered.length > 0}
           aria-autocomplete="list"

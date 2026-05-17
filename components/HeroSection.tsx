@@ -3,6 +3,8 @@
 // Distrett — Malta General Election 2026 home-page hero.
 // Editorial / broadsheet direction. React Server Component, Tailwind v4.
 
+import Link from "next/link";
+import { BookOpen } from "lucide-react";
 import { getAllDistricts } from "@/lib/data";
 import { getT } from "@/lib/i18n";
 import type { Lang } from "@/lib/i18n";
@@ -123,6 +125,23 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
               ))}
             </dl>
 
+            {/* ── Voting guide promo ───────────────────────────────── */}
+            <Link
+              href={`${prefix}/guide`}
+              className="group flex flex-col gap-2 rounded-lg border border-[var(--cta)]/30 bg-[var(--cta)]/5 px-4 py-3.5 hover:bg-[var(--cta)]/10 transition-colors"
+            >
+              <span className="font-mono text-[11px] uppercase tracking-[0.25em] text-[var(--cta)] flex items-center gap-2">
+                <BookOpen size={11} aria-hidden />
+                {t.votingGuide}
+              </span>
+              <span className="font-serif italic text-[15px] leading-snug text-[var(--fg)]">
+                Not sure how the single-transferable voting system works? Our non-partisan guide walks you through casting your vote well.
+              </span>
+              <span className="text-xs font-medium text-[var(--cta)] group-hover:underline underline-offset-2">
+                How to vote well →
+              </span>
+            </Link>
+
             <div className="h-px bg-[var(--border)]" />
 
             <div className="flex flex-col gap-2.5">
@@ -171,7 +190,6 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
               </time>
               <ElectionCountdown />
             </div>
-
 
           </div>
         </div>

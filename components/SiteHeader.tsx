@@ -1,7 +1,7 @@
 "use client";
 
 import Link from "next/link";
-import { Home } from "lucide-react";
+import { BookOpen, Home } from "lucide-react";
 import { usePathname } from "next/navigation";
 import HVToggle from "@/components/HVToggle";
 import ShareButton from "@/components/ShareButton";
@@ -30,6 +30,13 @@ export default function SiteHeader() {
           </Link>
         )}
         <nav className="flex items-center gap-2 sm:gap-3 text-sm text-muted">
+          <Link
+            href={lang === "mt" ? "/mt/guide" : "/guide"}
+            className="inline-flex items-center gap-1.5 rounded-md border border-[var(--cta)]/40 px-2.5 py-1 text-xs text-[var(--cta)] hover:bg-[var(--cta)]/5 transition-colors"
+          >
+            <BookOpen size={11} aria-hidden />
+            {t.votingGuide}
+          </Link>
           <ShareButton shareLabel={t.share} copiedLabel={t.copied} />
           {/* <LangToggle /> — hidden until translations are reviewed */}
           <HVToggle label={t.highVis} />

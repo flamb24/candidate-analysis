@@ -363,7 +363,7 @@ export default function MasterComparison({
           value={search}
           onChange={(e) => setSearch(e.target.value)}
           placeholder={strings.searchPlaceholder}
-          className="flex-1 rounded-md border border-border bg-background px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-accent/40"
+          className="flex-1 rounded-md border border-border bg-background px-3 py-2 text-base sm:text-sm focus:outline-none focus:ring-2 focus:ring-accent/40"
         />
       </div>
 

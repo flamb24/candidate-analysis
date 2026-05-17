@@ -7,6 +7,7 @@ const en = {
   copied: "Copied!",
   highVis: "High vis",
   langSwitch: "MT",
+  votingGuide: "Voting guide",
 
   // ── Masthead ─────────────────────────────────────────────────────────
   tagline: "an independent voter guide",
@@ -51,7 +52,7 @@ const en = {
   // ── Districts page ────────────────────────────────────────────────────
   chooseYourDistrict: "Choose your district",
   allCandidatesTitle: "All candidates",
-  viewAllCandidates: "View all candidates",
+  viewAllCandidates: "Browse all candidates",
 
   // ── District page ──────────────────────────────────────────────────────
   districtsLabel: "Districts",
@@ -147,6 +148,7 @@ const mt: typeof en = {
   copied: "Ikkupjat!",
   highVis: "ViŻibbiltà",
   langSwitch: "EN",
+  votingGuide: "Gwida tal-vot",
 
   // ── Masthead ─────────────────────────────────────────────────────────
   tagline: "gwida indipendenti tal-votant",
@@ -191,7 +193,7 @@ const mt: typeof en = {
   // ── Districts page ────────────────────────────────────────────────────
   chooseYourDistrict: "Agħžel id-Distrett Tiegħek",
   allCandidatesTitle: "Il-Kandidati Kollha",
-  viewAllCandidates: "Ara l-kandidati kollha",
+  viewAllCandidates: "Esplora l-kandidati kollha",
 
   // ── District page ──────────────────────────────────────────────────────
   districtsLabel: "Distretti",

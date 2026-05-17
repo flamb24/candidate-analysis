@@ -50,12 +50,30 @@ export default function DistrictsPageContent({ lang }: { lang: Lang }) {
         </h1>
       </header>
 
-      <LocalitySearch
-        entries={entries}
-        prefix={prefix}
-        placeholder={t.localitySearchPlaceholder}
-        noResults={t.localitySearchNoResults}
-      />
+      <div className="flex flex-col sm:flex-row sm:items-center gap-3">
+        <div className="flex-1">
+          <LocalitySearch
+            entries={entries}
+            prefix={prefix}
+            placeholder={t.localitySearchPlaceholder}
+            noResults={t.localitySearchNoResults}
+          />
+        </div>
+        {/* — or — divider: horizontal on mobile, vertical on desktop */}
+        <div className="flex items-center gap-2 shrink-0 text-xs text-[var(--muted)] sm:flex-col sm:gap-1">
+          <span className="flex-1 h-px bg-border sm:flex-none sm:w-px sm:h-3" />
+          <span className="lowercase tracking-widest">or</span>
+          <span className="flex-1 h-px bg-border sm:flex-none sm:w-px sm:h-3" />
+        </div>
+
+        <Link
+          href={`${prefix}/districts/all`}
+          className="group flex items-center justify-between gap-3 rounded-md border border-border bg-muted-bg/40 px-4 py-2.5 text-sm font-medium transition-colors hover:bg-muted-bg hover:border-foreground/30 shrink-0"
+        >
+          <span className="group-hover:underline">{t.viewAllCandidates}</span>
+          <span aria-hidden className="text-muted group-hover:text-foreground transition-colors">→</span>
+        </Link>
+      </div>
 
       <ol
         className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-px bg-border"
@@ -89,21 +107,6 @@ export default function DistrictsPageContent({ lang }: { lang: Lang }) {
           </li>
         ))}
       </ol>
-
-      <Link
-        href={`${prefix}/districts/all`}
-        className="group flex items-center justify-between gap-4 rounded-lg border border-border bg-muted-bg/40 px-5 py-4 transition-colors hover:bg-muted-bg hover:border-foreground/30"
-      >
-        <div className="flex flex-col gap-0.5">
-          <span className="font-semibold text-foreground group-hover:underline">
-            {t.viewAllCandidates}
-          </span>
-          <span className="text-sm text-muted">
-            Compare candidates across all {districts.length} districts in one view
-          </span>
-        </div>
-        <span aria-hidden className="shrink-0 text-muted text-lg group-hover:text-foreground transition-colors">→</span>
-      </Link>
 
     </div>
   );
