@@ -2,6 +2,7 @@ import Link from "next/link";
 import { notFound } from "next/navigation";
 import { getCandidate } from "@/lib/data";
 import {
+  ConflictBadge,
   ControversyBadge,
   ElectabilityBadge,
   GovBadge,
@@ -9,6 +10,7 @@ import {
   SocialReachBadge,
   Stars,
   TierBadge,
+  TransparencyBadge,
 } from "@/components/Badges";
 import { InterviewLinks } from "@/components/InterviewLinks";
 import { getCandidateInterviews } from "@/lib/interviews";
@@ -81,7 +83,7 @@ export default function CandidatePageContent({
         lang={lang}
       />
 
-      <section className="grid grid-cols-3 gap-3 rounded-lg border border-border bg-muted-bg/40 p-4 text-sm sm:grid-cols-3">
+      <section className="grid grid-cols-3 gap-3 rounded-lg border border-border bg-muted-bg/40 p-4 text-sm sm:grid-cols-5">
         <div>
           <dt className="text-xs uppercase tracking-wide text-muted">
             {t.cardTrackRecord}
@@ -106,6 +108,22 @@ export default function CandidatePageContent({
             <SocialReachBadge reach={candidate.socialReach} />
           </dd>
         </div>
+        <div>
+          <dt className="text-xs uppercase tracking-wide text-muted">
+            {t.cardConflict}
+          </dt>
+          <dd className="mt-1">
+            <ConflictBadge severity={candidate.conflictOfInterest} />
+          </dd>
+        </div>
+        <div>
+          <dt className="text-xs uppercase tracking-wide text-muted">
+            {t.cardTransparency}
+          </dt>
+          <dd className="mt-1">
+            <TransparencyBadge rating={candidate.financialTransparency} />
+          </dd>
+        </div>
       </section>
 
       <Section title={t.politicalAlignment}>
@@ -121,6 +139,61 @@ export default function CandidatePageContent({
         <Field label={t.keyAchievement} value={candidate.achievement} />
         <Field label={t.principleGap} value={candidate.gap} muted />
       </Section>
+
+      {(candidate.businessInterests.conflictSummary || candidate.businessInterests.transparencySummary) && (
+        <Section title={t.businessInterestsSection}>
+          {candidate.businessInterests.conflictSummary && (
+            <div className="rounded-md border border-border bg-background p-3 flex flex-col gap-2">
+              <div className="flex flex-wrap items-center gap-2">
+                <span className="text-xs uppercase tracking-wide text-muted">{t.conflictLabel}</span>
+                <ConflictBadge severity={candidate.conflictOfInterest} />
+              </div>
+              <p className="text-sm leading-6">{candidate.businessInterests.conflictSummary}</p>
+              {candidate.businessInterests.conflictSources.length > 0 && (
+                <p className="flex flex-wrap gap-x-2 gap-y-1 text-xs">
+                  <span className="text-muted">{t.sourcesLabel}</span>
+                  {candidate.businessInterests.conflictSources.map((s, i) => (
+                    <span key={i}>
+                      {s.url ? (
+                        <a href={s.url} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">
+                          {s.text}
+                        </a>
+                      ) : (
+                        <span className="text-muted">{s.text}</span>
+                      )}
+                    </span>
+                  ))}
+                </p>
+              )}
+            </div>
+          )}
+          {candidate.businessInterests.transparencySummary && (
+            <div className="rounded-md border border-border bg-background p-3 flex flex-col gap-2">
+              <div className="flex flex-wrap items-center gap-2">
+                <span className="text-xs uppercase tracking-wide text-muted">{t.transparencyLabel}</span>
+                <TransparencyBadge rating={candidate.financialTransparency} />
+              </div>
+              <p className="text-sm leading-6">{candidate.businessInterests.transparencySummary}</p>
+              {candidate.businessInterests.transparencySources.length > 0 && (
+                <p className="flex flex-wrap gap-x-2 gap-y-1 text-xs">
+                  <span className="text-muted">{t.sourcesLabel}</span>
+                  {candidate.businessInterests.transparencySources.map((s, i) => (
+                    <span key={i}>
+                      {s.url ? (
+                        <a href={s.url} target="_blank" rel="noopener noreferrer" className="text-accent hover:underline">
+                          {s.text}
+                        </a>
+                      ) : (
+                        <span className="text-muted">{s.text}</span>
+                      )}
+                    </span>
+                  ))}
+                </p>
+              )}
+            </div>
+          )}
+        </Section>
+      )}
 
       <Section title={t.controversiesSection(candidate.controversies.length)}>
         {candidate.controversies.length === 0 ? (

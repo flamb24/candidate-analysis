@@ -25,3 +25,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/bedingfieldg/) · [glennbedingfield.mt](https://glennbedingfield.mt) | Moderate (~27k Facebook) | Partisan Labour loyalist; ministerial portfolio | — | 📡 Moderate |
+
+## Business Interests
+<!-- conflict-rating: Medium -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | State foundation chairmanship directing public funds to own constituency | [The Shift, Mar 2022](https://theshiftnews.com/2022/03/01/its-easy-when-its-someone-elses-money/) |
+| Transparency | MPs' declaration (Sch.1) only — backbench MP; not a minister. Submitted annually to Speaker; most recent: 2025. No ministerial (Sch.2) form required | — |

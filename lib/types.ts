@@ -2,6 +2,15 @@ export type Tier = "Notable" | "Second-tier" | "List-filler";
 export type Severity = "None" | "Low" | "Medium" | "High";
 export type SocialReach = "None" | "Low" | "Moderate" | "High";
 export type ElectabilitySymbol = "✗" | "✅" | "✅✅" | "✅✅✅";
+export type ConflictSeverity   = "None" | "Low" | "Medium" | "High" | "Unknown";
+export type TransparencyRating = "Full" | "Partial" | "Poor"  | "Unknown";
+
+export interface BusinessInterests {
+  conflictSummary?:     string;
+  conflictSources:      Source[];
+  transparencySummary?: string;
+  transparencySources:  Source[];
+}
 
 export interface Source {
   text: string;
@@ -49,6 +58,10 @@ export interface Candidate {
   campaignTone?: string;
   campaignMessage?: string;
   socialReach: SocialReach;
+
+  conflictOfInterest:    ConflictSeverity;
+  financialTransparency: TransparencyRating;
+  businessInterests:     BusinessInterests;
 
   electability: string;
   electabilitySymbol: ElectabilitySymbol;

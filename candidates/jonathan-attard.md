@@ -23,3 +23,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/JonathanAttardOfficial/) · [justice.gov.mt](https://justice.gov.mt/minister/) | High (~11.5k Facebook) | Reformist; rule of law; Tarxien local | — | 📢 High |
+
+## Business Interests
+<!-- conflict-rating: Medium -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | Authored transparency rollback covering his own disclosures; no private business conflicts documented | [Wikipedia](https://en.wikipedia.org/wiki/Jonathan_Attard) · [Malta Post](https://themaltapost.com/posts/malta-quietly-hides-ministers-assets-what-this-transparency-rollback-means-for-you) |
+| Transparency | Ministerial (Sch.2): **2022** (tabled April 2023, [MaltaToday](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house)). 2023/2024: not published. Notably, Attard himself introduced the March 2026 parliamentary amendment that formally eliminated the separate ministerial form ([Malta Post](https://themaltapost.com/posts/malta-quietly-hides-ministers-assets-what-this-transparency-rollback-means-for-you)). MPs' form: submitted 2025 to Speaker | [MaltaToday](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house) · [Malta Post](https://themaltapost.com/posts/malta-quietly-hides-ministers-assets-what-this-transparency-rollback-means-for-you) |

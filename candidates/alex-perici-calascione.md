@@ -23,3 +23,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/alexpericicalascione/) · [alexpericicalascione.mt](https://alexpericicalascione.mt) | Low-moderate | Institutional; governance-reform | — | 📡 Moderate |
+
+## Business Interests
+<!-- conflict-rating: Low -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | No documented conflicts | [MaltaToday, Aug 2017](https://www.maltatoday.com.mt/news/national/79699/thinskinned_reaction_to_news_of_delias_gozo_company_72_million_debt) |
+| Transparency | MPs' declaration (Sch.1) only — not a minister. Submitted annually to Speaker; most recent: 2025. Accessible via Speaker's office; not publicly tabled in Parliament. No ministerial (Sch.2) form required | — |

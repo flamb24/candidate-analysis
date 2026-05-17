@@ -24,3 +24,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [fisheries.gov.mt](https://fisheries.gov.mt/parliamentary-secretary/) | — | — | — | 📡 Moderate |
+
+## Business Interests
+<!-- conflict-rating: Medium -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | Donations from regulated industry prior to sector appointment | [MaltaToday, Apr 2023](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house) · [Malta Independent, May 2022](https://www.independent.com.mt/articles/2022-05-27/newspaper-leader/The-Malta-Independent-editorial-Conflict-of-interest-6736243250) |
+| Transparency | Ministerial (Sch.2): **2022** — last publicly tabled, April 2023 ([MaltaToday](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house)). 2023: privately shared with Standards Commissioner only, never published publicly. 2024: not submitted. MPs' form (Sch.1): submitted to Speaker in 2025 — reduced format, income and spousal accounts no longer required ([MaltaToday, Jan 2026](https://www.maltatoday.com.mt/news/national/139039/standards_commissioner_irked_as_opm_refuses_to_publish_ministers_full_asset_declarations); [Lovin Malta, Jan 2026](https://lovinmalta.com/news/local/standards-commissioner-expresses-concern-about-ministers-asset-declarations/)) | [MaltaToday](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house) · [MaltaToday, Jan 2026](https://www.maltatoday.com.mt/news/national/139039/standards_commissioner_irked_as_opm_refuses_to_publish_ministers_full_asset_declarations) · [Lovin Malta, Jan 2026](https://lovinmalta.com/news/local/standards-commissioner-expresses-concern-about-ministers-asset-declarations/) |

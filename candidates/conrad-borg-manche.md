@@ -25,3 +25,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/borgmancheconrad/) | High (~10,000+ FB) | Personal brand; non-partisan framing | Environment; Manoel Island; family law; housing | 📢 High |
+
+## Business Interests
+<!-- conflict-rating: Low -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | No documented private business interests | [MaltaToday, Oct 2023](https://www.maltatoday.com.mt/news/national/125335/conrad_borg_manch_quits_labour_remains_as_independent_gira_mayor) · [Newsbook, Jun 2024](https://newsbook.com.mt/en/gzira-petrol-station-owner-tried-buying-my-silence-borg-manche-says/) · [Lovin Malta, May 2026](https://lovinmalta.com/news/general-election-2026/conrad-borg-manche-consultancy-offer-claims/) |
+| Transparency | Not a current MP — no parliamentary declaration on file. If elected, will be required to submit MPs' declaration (Sch.1) | — |

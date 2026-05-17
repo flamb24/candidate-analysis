@@ -22,3 +22,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/marksammutinfo/) · [markanthonysammut.com](https://markanthonysammut.com/) | High (~17.3k FB) | Measured; moderate; reform-oriented | Political system reform; anti-polarisation | 📢 High |
+
+## Business Interests
+<!-- conflict-rating: Low -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | No documented conflicts | [Wikipedia](https://en.wikipedia.org/wiki/Mark_Anthony_Sammut) |
+| Transparency | MPs' declaration (Sch.1) only — not a minister. Submitted annually to Speaker; most recent: 2025. Accessible via Speaker's office; not publicly tabled in Parliament. No ministerial (Sch.2) form required | — |

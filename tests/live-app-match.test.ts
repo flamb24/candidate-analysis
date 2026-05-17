@@ -72,6 +72,16 @@ function normaliseCandidate(c: Candidate) {
       url:      l.url   ?? null,
       label:    l.label ?? null,
     })),
+
+    // Business interests section
+    conflictOfInterest:    c.conflictOfInterest,
+    financialTransparency: c.financialTransparency,
+    businessInterests: {
+      conflictSummary:     c.businessInterests.conflictSummary     ?? null,
+      conflictSources:     c.businessInterests.conflictSources.map(s => ({ text: s.text, url: s.url ?? null })),
+      transparencySummary: c.businessInterests.transparencySummary ?? null,
+      transparencySources: c.businessInterests.transparencySources.map(s => ({ text: s.text, url: s.url ?? null })),
+    },
   };
 }
 

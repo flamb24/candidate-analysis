@@ -24,3 +24,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/DrByronCamilleri/) · [Instagram](https://www.instagram.com/byroncamilleri/) · [LinkedIn](https://mt.linkedin.com/in/byron-camilleri-88172674) | Moderate-High | Institutional; security-focused | — | 📡 Moderate |
+
+## Business Interests
+<!-- conflict-rating: Low -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | No significant documented private business interests | [MaltaToday, Apr 2023](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house) |
+| Transparency | Ministerial (Sch.2): **2022** — last publicly tabled, April 2023 ([MaltaToday](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house)). 2023: privately shared with Standards Commissioner only, never published publicly. 2024: not submitted. MPs' form (Sch.1): submitted to Speaker in 2025 — reduced format, income and spousal accounts no longer required ([MaltaToday, Jan 2026](https://www.maltatoday.com.mt/news/national/139039/standards_commissioner_irked_as_opm_refuses_to_publish_ministers_full_asset_declarations); [Lovin Malta, Jan 2026](https://lovinmalta.com/news/local/standards-commissioner-expresses-concern-about-ministers-asset-declarations/)) | [MaltaToday](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house) · [MaltaToday, Jan 2026](https://www.maltatoday.com.mt/news/national/139039/standards_commissioner_irked_as_opm_refuses_to_publish_ministers_full_asset_declarations) · [Lovin Malta, Jan 2026](https://lovinmalta.com/news/local/standards-commissioner-expresses-concern-about-ministers-asset-declarations/) |

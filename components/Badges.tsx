@@ -1,9 +1,11 @@
 import { Check, Circle, Landmark, Megaphone, Volume1, Volume2, VolumeX, X } from "lucide-react";
 import type {
+  ConflictSeverity,
   ElectabilitySymbol,
   Severity,
   SocialReach,
   Tier,
+  TransparencyRating,
 } from "@/lib/types";
 
 const PARTY_COLORS: Record<string, string> = {
@@ -114,6 +116,49 @@ export function SocialReachBadge({ reach }: { reach: SocialReach }) {
     <span data-reach={reach} aria-label={`Social media reach: ${reach}`} className="inline-flex items-center gap-1 text-sm leading-none">
       {REACH_ICON[reach]}
       <span className="text-muted">{reach}</span>
+    </span>
+  );
+}
+
+const CONFLICT_STYLES: Record<ConflictSeverity, { label: string; cls: string }> = {
+  None:    { label: "None",    cls: "text-emerald-700 dark:text-emerald-400" },
+  Low:     { label: "Low",     cls: "text-emerald-700 dark:text-emerald-400" },
+  Medium:  { label: "Medium",  cls: "text-amber-700 dark:text-amber-400" },
+  High:    { label: "High",    cls: "text-red-700 dark:text-red-400" },
+  Unknown: { label: "—",       cls: "text-zinc-400 dark:text-zinc-600" },
+};
+
+export function ConflictBadge({ severity }: { severity: ConflictSeverity }) {
+  const s = CONFLICT_STYLES[severity];
+  return (
+    <span
+      data-conflict={severity}
+      aria-label={`Conflict of interest: ${s.label}`}
+      className={`inline-flex items-center gap-1 text-sm leading-none ${s.cls}`}
+    >
+      <Circle size={10} fill="currentColor" strokeWidth={0} aria-hidden />
+      <span>{s.label}</span>
+    </span>
+  );
+}
+
+const TRANSPARENCY_STYLES: Record<TransparencyRating, { label: string; cls: string }> = {
+  Full:    { label: "Full",    cls: "text-emerald-700 dark:text-emerald-400" },
+  Partial: { label: "Partial", cls: "text-amber-700 dark:text-amber-400" },
+  Poor:    { label: "Poor",    cls: "text-red-700 dark:text-red-400" },
+  Unknown: { label: "—",       cls: "text-zinc-400 dark:text-zinc-600" },
+};
+
+export function TransparencyBadge({ rating }: { rating: TransparencyRating }) {
+  const s = TRANSPARENCY_STYLES[rating];
+  return (
+    <span
+      data-transparency={rating}
+      aria-label={`Financial transparency: ${s.label}`}
+      className={`inline-flex items-center gap-1 text-sm leading-none ${s.cls}`}
+    >
+      <Circle size={10} fill="currentColor" strokeWidth={0} aria-hidden />
+      <span>{s.label}</span>
     </span>
   );
 }

@@ -1,5 +1,7 @@
 import type {
+  BusinessInterests,
   Candidate,
+  ConflictSeverity,
   Controversy,
   District,
   ElectabilitySymbol,
@@ -9,6 +11,7 @@ import type {
   SocialLink,
   SocialReach,
   Tier,
+  TransparencyRating,
 } from "./types";
 
 const SEP_REGEX = /^\s*\|?[\s:|\-]+\|[\s:|\-]+$/;
@@ -142,6 +145,23 @@ function parseSocialReach(s: string): SocialReach {
   return "None";
 }
 
+function parseConflictSeverity(s: string): ConflictSeverity {
+  const v = s.trim().toLowerCase();
+  if (v === "high")   return "High";
+  if (v === "medium") return "Medium";
+  if (v === "low")    return "Low";
+  if (v === "none")   return "None";
+  return "Unknown";
+}
+
+function parseTransparencyRating(s: string): TransparencyRating {
+  const v = s.trim().toLowerCase();
+  if (v === "full")    return "Full";
+  if (v === "partial") return "Partial";
+  if (v === "poor")    return "Poor";
+  return "Unknown";
+}
+
 function parseElectability(s: string): { symbol: ElectabilitySymbol; label: string } {
   let symbol: ElectabilitySymbol = "✗";
   if (s.includes("✅✅✅")) symbol = "✅✅✅";
@@ -202,6 +222,9 @@ function getOrCreate(
     controversySeverity: "None",
     socialLinks: [],
     socialReach: "None",
+    conflictOfInterest:    "Unknown",
+    financialTransparency: "Unknown",
+    businessInterests:     { conflictSources: [], transparencySources: [] },
     electability: "",
     electabilitySymbol: "✗",
     electabilityLabel: "",
@@ -410,6 +433,10 @@ export function parseCandidateFile(md: string, _slug: string): Partial<Candidate
     if (govMatch) result.isGovIncumbent = govMatch[1].toLowerCase() === "true";
     const ballotMatch = line.match(/<!--\s*ballot-name:\s*(.+?)\s*-->/);
     if (ballotMatch) result.ballotName = ballotMatch[1].trim();
+    const conflictMatch = line.match(/<!--\s*conflict-rating:\s*(.+?)\s*-->/);
+    if (conflictMatch) result.conflictOfInterest = parseConflictSeverity(conflictMatch[1]);
+    const transparencyMatch = line.match(/<!--\s*transparency-rating:\s*(.+?)\s*-->/);
+    if (transparencyMatch) result.financialTransparency = parseTransparencyRating(transparencyMatch[1]);
   }
 
   // Section-level table parsing
@@ -482,6 +509,21 @@ export function parseCandidateFile(md: string, _slug: string): Partial<Candidate
               result.campaignMessage = r["Key Campaign Message"] || undefined;
               result.socialReach = parseSocialReach(r["Rating"] ?? "");
             }
+            break;
+          }
+          case "Business Interests": {
+            const bi: BusinessInterests = { conflictSources: [], transparencySources: [] };
+            for (const r of table.rows) {
+              const type = (r["Type"] ?? "").trim().toLowerCase();
+              if (type === "conflict") {
+                bi.conflictSummary = r["Summary"] || undefined;
+                bi.conflictSources = parseLinks(r["Sources"] ?? "").map(l => ({ text: l.text, url: l.url }));
+              } else if (type === "transparency") {
+                bi.transparencySummary = r["Summary"] || undefined;
+                bi.transparencySources = parseLinks(r["Sources"] ?? "").map(l => ({ text: l.text, url: l.url }));
+              }
+            }
+            result.businessInterests = bi;
             break;
           }
         }

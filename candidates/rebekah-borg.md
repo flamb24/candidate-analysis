@@ -23,3 +23,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/rebekahborgmp/) · [X/Twitter](https://x.com/RebekahBorg) · [Website](https://rebekahborg.com) | Moderate-high (~8.3k Facebook) | Technical; environment; planning | ODZ; environment; rural heritage; planning accountability | 📡 Moderate |
+
+## Business Interests
+<!-- conflict-rating: Low -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | No documented conflicts | [Wikipedia](https://en.wikipedia.org/wiki/Rebekah_Borg) |
+| Transparency | MPs' declaration (Sch.1) only — not a minister. Submitted annually to Speaker; most recent: 2025. Accessible via Speaker's office; not publicly tabled in Parliament. No ministerial (Sch.2) form required | — |

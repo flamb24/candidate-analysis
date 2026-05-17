@@ -23,3 +23,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/@bfenechadami/) | High | Measured; EPP-style; institutional | Foreign affairs; EU; Malta's neutrality; trade | 📢 High |
+
+## Business Interests
+<!-- conflict-rating: Unknown -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | Insufficient public information | [Wikipedia](https://en.wikipedia.org/wiki/Beppe_Fenech_Adami) |
+| Transparency | MPs' declaration (Sch.1) only — not a minister. Submitted annually to Speaker; most recent: 2025. Accessible via Speaker's office; not publicly tabled in Parliament. No ministerial (Sch.2) form required | — |

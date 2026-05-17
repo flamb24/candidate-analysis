@@ -25,3 +25,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/drmiriamdalli/) · [Instagram](https://www.instagram.com/miriamdalli/) · [miriamdalli.com](https://miriamdalli.com/) | — | — | — | 📢 High |
+
+## Business Interests
+<!-- conflict-rating: Medium -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | Substantial multi-country property portfolio; Energy Ministry with planning oversight | [MaltaToday, Jan 2026](https://www.maltatoday.com.mt/news/national/139054/robert_abela_wants_mps_ministers_to_be_subject_to_same_asset_declaration_system_) · [Newsbook, Apr 2023](https://newsbook.com.mt/en/declaration-of-assets-who-is-the-richest-in-robert-abelas-administration/) |
+| Transparency | Ministerial (Sch.2): **2022** — last publicly tabled, April 2023 ([MaltaToday](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house)). 2023: privately shared with Standards Commissioner only, never published publicly. 2024: not submitted. MPs' form (Sch.1): submitted to Speaker in 2025 — reduced format, income and spousal accounts no longer required ([MaltaToday, Jan 2026](https://www.maltatoday.com.mt/news/national/139039/standards_commissioner_irked_as_opm_refuses_to_publish_ministers_full_asset_declarations); [Lovin Malta, Jan 2026](https://lovinmalta.com/news/local/standards-commissioner-expresses-concern-about-ministers-asset-declarations/)) | [MaltaToday](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house) · [MaltaToday, Jan 2026](https://www.maltatoday.com.mt/news/national/139039/standards_commissioner_irked_as_opm_refuses_to_publish_ministers_full_asset_declarations) · [Lovin Malta, Jan 2026](https://lovinmalta.com/news/local/standards-commissioner-expresses-concern-about-ministers-asset-declarations/) |

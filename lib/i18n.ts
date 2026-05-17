@@ -113,9 +113,16 @@ const en = {
   govBadge: "Gov",
 
   // ── Card labels ───────────────────────────────────────────────────────
-  cardTrackRecord: "Track record",
-  cardControversy: "Controversy",
-  cardSocialMedia: "Social media",
+  cardTrackRecord:  "Track record",
+  cardControversy:  "Controversy",
+  cardSocialMedia:  "Social media",
+  cardConflict:     "Conflict",
+  cardTransparency: "Transparency",
+
+  // ── Business interests section ────────────────────────────────────────
+  businessInterestsSection: "Business interests & transparency",
+  conflictLabel:            "Conflict of interest",
+  transparencyLabel:        "Financial transparency",
 
   // ── Interview formats ─────────────────────────────────────────────────
   watchLabel: "Watch",
@@ -244,9 +251,16 @@ const mt: typeof en = {
   govBadge: "Gvern",
 
   // ── Card labels ───────────────────────────────────────────────────────
-  cardTrackRecord: "Rekord",
-  cardControversy: "Kontroversja",
-  cardSocialMedia: "Midja Soċjali",
+  cardTrackRecord:  "Rekord",
+  cardControversy:  "Kontroversja",
+  cardSocialMedia:  "Midja Soċjali",
+  cardConflict:     "Kunflitt",
+  cardTransparency: "Trasparenza",
+
+  // ── Business interests section ────────────────────────────────────────
+  businessInterestsSection: "Interessi kummerċjali u trasparenza",
+  conflictLabel:            "Kunflitt ta' interess",
+  transparencyLabel:        "Trasparenza finanzjarja",
 
   // ── Interview formats ─────────────────────────────────────────────────
   watchLabel: "Ara",

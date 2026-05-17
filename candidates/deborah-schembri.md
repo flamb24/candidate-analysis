@@ -25,3 +25,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/deborah.schembri.3/) | Moderate | Personal narrative; "fire never died" | Civil rights legacy; Lands reform; planning | 📡 Moderate |
+
+## Business Interests
+<!-- conflict-rating: Medium -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | Post-ministerial revolving door consultancy from supervised public body | [MaltaToday](https://www.maltatoday.com.mt/news/national/85449/former_mp_lands_56000_identity_malta_consultancy) |
+| Transparency | Not a current MP — returning after 8-year absence. Last declaration as Parliamentary Secretary: 2017 legislature. No current parliamentary declaration on file | — |

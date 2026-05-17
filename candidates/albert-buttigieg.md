@@ -22,3 +22,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/AlbertButtigiegMP/) · [Website](https://www.albertbuttigieg.com/) | Moderate-high | Morally earnest; community | Overdevelopment; developer accountability; community | 📡 Moderate |
+
+## Business Interests
+<!-- conflict-rating: Low -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | No documented conflicts | [The Shift, Jun 2022](https://theshiftnews.com/2022/06/25/st-julians-mayor-albert-buttigieg-on-fat-cats-and-need-for-politics-to-return-to-the-common-good/) |
+| Transparency | MPs' declaration (Sch.1) only — not a minister. Submitted annually to Speaker; most recent: 2025. Accessible via Speaker's office; not publicly tabled in Parliament. No ministerial (Sch.2) form required | — |

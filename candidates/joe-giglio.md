@@ -25,3 +25,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/joegigliomt/) · [Website](https://www.joegiglio.mt) | High | Authoritative; legal framing | Rule of law; planning; accountability | 📢 High |
+
+## Business Interests
+<!-- conflict-rating: Medium -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | Active law firm while Shadow Justice Minister; Pilatus Bank representation cited as conflict | [LexPractis](https://www.lexpractis.com/our-team/dr-joe-giglio/) · [The Shift, Jun 2022](https://theshiftnews.com/2022/06/11/ngo-repubblika-calls-out-pns-home-affairs-spokesperson-former-pilatus-bank-lawyer-joe-giglio/) |
+| Transparency | MPs' declaration (Sch.1) only — not a minister. Submitted annually to Speaker; most recent: 2025. Accessible via Speaker's office; not publicly tabled in Parliament. No ministerial (Sch.2) form required | — |

@@ -27,3 +27,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/alexborgpn/) | — | — | — | 📢 High |
+
+## Business Interests
+<!-- conflict-rating: Low -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | No documented conflicts | [Wikipedia](https://en.wikipedia.org/wiki/Alex_Borg_(politician) |
+| Transparency | MPs' declaration (Sch.1) only — MP since 2022, never a minister. Submitted annually to Speaker; most recent: 2025 | — |

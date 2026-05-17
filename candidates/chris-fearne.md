@@ -24,3 +24,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/chrisfearne/) · [Instagram](https://www.instagram.com/chris.fearne/) · [X / Twitter](https://x.com/chrisfearne) | High (ex-deputy PM) | Comeback; dignity; innocence maintained | — | 📢 High |
+
+## Business Interests
+<!-- conflict-rating: Medium -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | Vitals criminal charges are financial/institutional; no active private business conflicts identified beyond medical career | [Wikipedia](https://en.wikipedia.org/wiki/Chris_Fearne) · [MaltaToday, Jun 2019](https://www.maltatoday.com.mt/news/national/95788/ministers_declare_their_income_and_assets) |
+| Transparency | Ministerial (Sch.2): **2022** (tabled April 2023, [MaltaToday](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house)). Also declared in 2019 ([MaltaToday](https://www.maltatoday.com.mt/news/national/95788/ministers_declare_their_income_and_assets)). 2023/2024: not published (system rollback). MPs' form: submitted 2025 to Speaker | [MaltaToday](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house) · [MaltaToday](https://www.maltatoday.com.mt/news/national/95788/ministers_declare_their_income_and_assets) |

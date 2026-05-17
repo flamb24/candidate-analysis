@@ -23,3 +23,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/ilgaga/) | Low-moderate | Institutional; community | Inclusion; voluntary sector | 📶 Low |
+
+## Business Interests
+<!-- conflict-rating: Medium -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | Institutional financial governance breach as mayor | [MaltaToday, Jan 2018](https://www.maltatoday.com.mt/news/national/83602/st_pauls_bay_mayor_resigns_accuses_rival_councillors_of_hate) |
+| Transparency | MPs' declaration (Sch.1) only — not a minister. Submitted annually to Speaker; most recent: 2025. Accessible via Speaker's office; not publicly tabled in Parliament. No ministerial (Sch.2) form required | — |

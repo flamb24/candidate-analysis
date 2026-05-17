@@ -28,3 +28,11 @@
 | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |-------------------|---------------|---------------|---------------------|--------|
 | [Facebook](https://www.facebook.com/adriandeliapn/) · [Instagram](https://www.instagram.com/adriandelia_pn/) · [X/Twitter](https://x.com/adriandeliapn) · TikTok @adrian.deliapn | Very high (~48k Facebook) | Combative; anti-establishment PN; finance | Finance; hospital concession victory; rule of law | 📢 High |
+
+## Business Interests
+<!-- conflict-rating: High -->
+<!-- transparency-rating: Unknown -->
+| Type | Summary | Sources |
+|------|---------|----------|
+| Conflict | FIAU money laundering finding; Erste Bank directorship; Mgarr Developments debts; Bajada family business links; Healey Properties offshore directorship; tax arrears settlement | [MaltaToday, Aug 2017](https://www.maltatoday.com.mt/news/national/79560/adrian_delia_is_business_partner_with_busuttils_exbrother_in_law) · [Wikipedia](https://en.wikipedia.org/wiki/Adrian_Delia) · [lawyers.com profile](https://www.lawyers.com/valletta/malta/adrian-delia-37174956-a/) · [MaltaToday, Aug 2017](https://www.maltatoday.com.mt/news/national/79699/thinskinned_reaction_to_news_of_delias_gozo_company_72_million_debt) · [MaltaToday, Mar 2019](https://www.maltatoday.com.mt/news/national/93826/roughly_500000_deposited_into_delias_jersey_account_linked_to_soho_brothel__media_report) · [MaltaToday, Jun 2019](https://www.maltatoday.com.mt/news/national/95699/london_property_deal_soho_tarnished_adrian_delia) · [MaltaToday, Sep 2017](https://www.maltatoday.com.mt/news/national/80509/adrian_delia_limited_assurance_engagement_shows_16_million_net_worth) |
+| Transparency | MPs' declaration (Sch.1): submitted annually to Speaker since elected in 2022; most recent: 2025. No ministerial form — never been a minister. During 2017 PN leadership race, voluntarily published a **limited assurance engagement** (Mazars): net worth €1.6m, property €2.25m, bank loans €829,510 — this is a private audit, not a parliamentary declaration ([MaltaToday, Sep 2017](https://www.maltatoday.com.mt/news/national/80509/adrian_delia_limited_assurance_engagement_shows_16_million_net_worth)) | [MaltaToday, Sep 2017](https://www.maltatoday.com.mt/news/national/80509/adrian_delia_limited_assurance_engagement_shows_16_million_net_worth) |

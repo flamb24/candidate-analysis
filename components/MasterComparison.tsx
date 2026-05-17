@@ -7,6 +7,7 @@ import type { Candidate, Severity, Tier } from "@/lib/types";
 import { getT } from "@/lib/i18n";
 import type { Lang } from "@/lib/i18n";
 import {
+  ConflictBadge,
   ControversyBadge,
   ElectabilityBadge,
   GovBadge,
@@ -14,6 +15,7 @@ import {
   SocialReachBadge,
   Stars,
   TierBadge,
+  TransparencyBadge,
 } from "./Badges";
 
 type SortKey =
@@ -605,18 +607,30 @@ function CardGrid({
               <p className="text-sm text-muted line-clamp-2">{c.ideology}</p>
             )}
 
-            <dl className="mt-auto grid grid-cols-3 gap-2 border-t border-border pt-3 text-xs">
-              <div>
-                <dt className="mb-1 leading-tight text-muted">{strings.cardTrackRecord}</dt>
-                <dd className="flex items-center"><Stars count={c.trackRecordStars} /></dd>
+            <dl className="mt-auto border-t border-border pt-3 text-xs">
+              <div className="grid grid-cols-3 gap-2">
+                <div>
+                  <dt className="mb-1 leading-tight text-muted">{strings.cardTrackRecord}</dt>
+                  <dd className="flex items-center"><Stars count={c.trackRecordStars} /></dd>
+                </div>
+                <div>
+                  <dt className="mb-1 leading-tight text-muted">{strings.cardControversy}</dt>
+                  <dd className="flex items-center"><ControversyBadge severity={c.controversySeverity} /></dd>
+                </div>
+                <div>
+                  <dt className="mb-1 leading-tight text-muted">{strings.cardSocialMedia}</dt>
+                  <dd className="flex items-center"><SocialReachBadge reach={c.socialReach} /></dd>
+                </div>
               </div>
-              <div>
-                <dt className="mb-1 leading-tight text-muted">{strings.cardControversy}</dt>
-                <dd className="flex items-center"><ControversyBadge severity={c.controversySeverity} /></dd>
-              </div>
-              <div>
-                <dt className="mb-1 leading-tight text-muted">{strings.cardSocialMedia}</dt>
-                <dd className="flex items-center"><SocialReachBadge reach={c.socialReach} /></dd>
+              <div className="grid grid-cols-2 gap-2 mt-2 pt-2 border-t border-border">
+                <div>
+                  <dt className="mb-1 leading-tight text-muted">{strings.cardConflict}</dt>
+                  <dd className="flex items-center"><ConflictBadge severity={c.conflictOfInterest} /></dd>
+                </div>
+                <div>
+                  <dt className="mb-1 leading-tight text-muted">{strings.cardTransparency}</dt>
+                  <dd className="flex items-center"><TransparencyBadge rating={c.financialTransparency} /></dd>
+                </div>
               </div>
             </dl>
           </Link>
