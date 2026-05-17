@@ -13,11 +13,9 @@
  */
 
 import { describe, it, expect } from "vitest";
-import { parseDistrict } from "../lib/parser";
+import { getDistrict } from "../lib/data";
 import fs from "fs";
 import path from "path";
-
-const REPORTS_DIR = path.join(__dirname, "../reports");
 const BALLOT_PATH = path.join(__dirname, "fixtures/official-ballot.md");
 
 // Party label normalisation: ballot uses full Maltese names
@@ -121,11 +119,7 @@ describe("Ballot verification — all 13 districts", () => {
   for (let district = 1; district <= 13; district++) {
     describe(`District ${district}`, () => {
       const official = officialBallot.get(district)!;
-      const md = fs.readFileSync(
-        path.join(REPORTS_DIR, `District${district}_Comparison_Tables_Tiered.md`),
-        "utf-8"
-      );
-      const parsed = parseDistrict(md, district);
+      const parsed = getDistrict(district)!;
 
       it(`has the correct candidate count (${official.length})`, () => {
         expect(parsed.candidates.length).toBe(official.length);

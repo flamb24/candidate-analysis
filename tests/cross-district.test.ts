@@ -16,13 +16,23 @@
  */
 
 import { describe, it, expect } from "vitest";
-import { parseDistrict } from "../lib/parser";
+import { getAllDistricts } from "../lib/data";
 import type { Candidate } from "../lib/types";
 import fs from "fs";
 import path from "path";
+import { readdirSync } from "fs";
+import { join } from "path";
 
-const REPORTS_DIR = path.join(__dirname, "../reports");
 const BALLOT_PATH = path.join(__dirname, "fixtures/official-ballot.md");
+
+// Slugs that have a canonical candidates/*.md file — their profile data lives
+// in one place, so cross-district consistency is guaranteed structurally.
+const CANDIDATES_DIR = join(process.cwd(), "candidates");
+const hasCandidateFile = new Set(
+  readdirSync(CANDIDATES_DIR)
+    .filter((f) => f.endsWith(".md"))
+    .map((f) => f.replace(/\.md$/, ""))
+);
 
 // ─── Canonical name normalisation ─────────────────────────────────────────────
 // Must stay in sync with ballot-verification.test.ts
@@ -108,23 +118,12 @@ function findMultiDistrictCandidates(): MultiDistrictCandidate[] {
     .sort((a, b) => a.fullName.localeCompare(b.fullName));
 }
 
-// ─── Parsed district cache ─────────────────────────────────────────────────────
+// ─── Parsed district map (with candidate-file overrides applied) ───────────────
 
-const _parsedCache = new Map<number, ReturnType<typeof parseDistrict>>();
-
-function getDistrict(d: number): ReturnType<typeof parseDistrict> {
-  if (!_parsedCache.has(d)) {
-    const md = fs.readFileSync(
-      path.join(REPORTS_DIR, `District${d}_Comparison_Tables_Tiered.md`),
-      "utf-8"
-    );
-    _parsedCache.set(d, parseDistrict(md, d));
-  }
-  return _parsedCache.get(d)!;
-}
+const _districtMap = new Map(getAllDistricts().map((d) => [d.number, d]));
 
 function findCandidate(districtNumber: number, key: string): Candidate | undefined {
-  return getDistrict(districtNumber).candidates.find(
+  return _districtMap.get(districtNumber)?.candidates.find(
     (c) => canon(c.ballotName ?? c.name) === key
   );
 }
@@ -220,6 +219,11 @@ describe("Cross-district candidates", () => {
         // If the candidate is only found in one district (presence test handles
         // the missing-district case), there is nothing to compare.
         if (entries.length < 2) return;
+
+        // Candidates with a canonical file have a single source of truth —
+        // consistency is structurally guaranteed by the override merge.
+        const slug = entries[0].c.id.replace(/^\d+-/, "");
+        if (hasCandidateFile.has(slug)) return;
 
         const mismatches: string[] = [];
 

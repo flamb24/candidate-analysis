@@ -52,10 +52,6 @@ PN: Jerome Caruana Cilia, Rosianne Cutajar (Labour — treated as Notable given 
 
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
-| **Ian Borg** 🏛️ Gov. | Labour | S&D | Centre-left; internationalist; infrastructural nationalist | Deputy PM & Foreign Affairs Minister; Labour Deputy Leader; born in Dingli (D7) but D6/D7 anchor | Foreign policy; OSCE chairmanship; EU relations; infrastructure legacy | Silent |
-| **Malcolm Paul Agius Galea** 🏛️ Gov. | Labour | S&D | Centre-left; technocrat | Parliamentary Secretary (local government/planning); D6 and D7; Żebbuġ roots | Local government; planning; EU funds | Silent |
-| **Silvio Schembri** *(Official ballot name: Saviour Schembri)* 🏛️ Gov. | Labour | S&D | Centre-left; economy and enterprise | Minister for Economy, Enterprise & Strategic Projects (2022–); MP since 2013; D6 primary; D6 and D7 | Economy; enterprise; digital economy; AI strategy; blockchain regulation | Silent |
-| **Rosianne Cutajar** | Labour | S&D | Progressive; centre-left; civil rights focus | MP (2017–, independent 2023–24, returned to PL 2024); former Parliamentary Secretary for Equality | Civil rights; LGBTQ; social inclusion | Silent |
 | **Jerome Caruana Cilia** | PN | EPP | Centre-right; economy and enterprise | MP (2022–); Shadow Min. Economy & Enterprise; prominent PN media figure | Economy; enterprise; cost of living | Silent |
 
 ---
@@ -64,10 +60,6 @@ PN: Jerome Caruana Cilia, Rosianne Cutajar (Labour — treated as Notable given 
 
 | Candidate | Prior Office/Role | Key Documented Achievement | Principle vs Delivery Gap | Rating |
 |---|---|---|---|---|
-| **Ian Borg** 🏛️ Gov. | Deputy PM & Min. Foreign Affairs & Tourism (2024–); Min. Foreign Affairs (2022–24); Min. Transport & Infrastructure (2017–22); Parliamentary Secretary EU Funds (2013–17); Mayor of Dingli (2005–13) | 100% EU funds absorption 2007–13; UN Security Council Chair (2023, 2024); OSCE Chair-in-Office (2024); EU Presidency (2017); launched Malta's first metro plan; OSCE ministerial council in Malta (Dec 2024); Forbes 30 Under 30 (2016) | Infrastructure ministry era: rampant construction, overdevelopment criticism — though Borg was popular; transit from infrastructure to diplomacy created some policy continuity gaps | ⭐⭐⭐⭐ |
-| **Malcolm Paul Agius Galea** 🏛️ Gov. | Parliamentary Secretary Local Government (co-opted 2022–); Mayor of Żebbuġ; MP D6 and D7 | Local government portfolio; Żebbuġ community engagement; Planning Authority oversight added | Asked zero parliamentary questions during entire legislature (MaltaToday, Jun 2025); limited public-facing legislative record; secondary to Borg in D6 profile | ⭐⭐ |
-| **Silvio Schembri** 🏛️ Gov. | Minister for Economy, Enterprise & Strategic Projects (2022–); Minister Economy & Industry (2020–22); Parliamentary Secretary Financial Services & Digital Economy (2017–20); MP since 2013 (D6 primary, highest first-count 2017: 3,950 D6 + 1,184 D7); Luqa roots | First jurisdiction to regulate blockchain (2018); Malta AI Strategy; COVID-19 economic regeneration plan; EU Startup Summit keynote 2026; founded GAL Xlokk foundation | Responsible Gaming Foundation funds directed exclusively to own constituency (The Shift, Feb 2022); lied to parliament over direct orders list; Standards Commissioner controversy over ministerial social media use | ⭐⭐⭐ |
-| **Rosianne Cutajar** | MP (2017–); Parliamentary Secretary Equality (2017–21); resigned under ethics pressure; re-elected 2022; expelled PL group 2023; returned 2024 | LGBTQ legislation; EuroPride 2023 bid; divorce law reform; cannabis decriminalisation debate; VOTE16 work | Ethics investigation: found to have breached standards in Yorgen Fenech property deal (brokerage fee); ITS consultancy found "illegitimate" (NAO); WhatsApp chats with Fenech published — showed intimacy with murder suspect | ⭐⭐ |
 | **Jerome Caruana Cilia** | MP (2022–); Shadow Finance Minister (Sep 2025 reshuffle); previously Shadow Economy; former Qormi councillor; NET TV media career | Topped Opposition PQ list 2022–25 with 659 questions; economy and enterprise scrutiny; entrepreneurship advocacy | First term; limited solo legislative output as opposition | ⭐⭐⭐ |
 
 ---
@@ -76,18 +68,7 @@ PN: Jerome Caruana Cilia, Rosianne Cutajar (Labour — treated as Notable given 
 
 | Candidate | Controversy | Severity | Nature | Source |
 |---|---|---|---|---|
-| **Ian Borg** 🏛️ Gov. | Nominated Trump for Nobel Peace Prize during OSCE chairmanship (later qualified) | 🟡 Medium | Political judgment | [Malta Independent, Jan 2026](https://www.independent.com.mt/articles/2026-01-12/local-news/Foreign-Minister-defends-Malta-s-silence-on-Trump-s-Greenland-threats-6736286292) |
-| **Ian Borg** 🏛️ Gov. | Oversaw infrastructure era linked to rampant overdevelopment and traffic — though popular among voters | 🟡 Medium | Policy legacy | [Wikipedia — Ian Borg](https://en.wikipedia.org/wiki/Ian_Borg) |
-| **Silvio Schembri** 🏛️ Gov. | Responsible Gaming Foundation funds directed exclusively to sports clubs and organisations in his own D6 constituency; all seven most recent grants went to Qormi-area groups; Ian Borg and Rosianne Cutajar reportedly complained to OPM | 🔴 High | Public funds used for electoral advantage; institutional abuse | [The Shift News, Feb 2022](https://theshiftnews.com/2022/02/25/responsible-gaming-funds-diverted-to-silvio-schembris-electioneering-campaign/) |
-| **Silvio Schembri** 🏛️ Gov. | Lied to parliament over MGA direct orders list — omitted €5,000/month retainer to Labour pollster Vincent Marmarà, €30,000 to One TV Productions, and order to Eden Leisure Group | 🔴 High | Parliamentary dishonesty | [The Shift News, Dec 2021](https://theshiftnews.com/2021/12/01/minister-withholds-information-from-parliament-on-mga-direct-orders/) |
-| **Silvio Schembri** 🏛️ Gov. | Standards Commissioner found he used ministerial Facebook page for official press conferences and paid adverts the day after Commissioner condemned the practice | 🟡 Medium | Ethics; institutional | [The Shift News, May 2020](https://theshiftnews.com/2020/05/09/silvio-schembri-with-facebook-advert-as-commissioner-slams-use/) |
-| **Silvio Schembri** *(Official ballot name: Saviour Schembri)* 🏛️ Gov. | Direct orders and government patronage practices within economy portfolio | 🟡 Medium | Political patronage; institutional abuse | [The Shift News, Dec 2022](https://theshiftnews.com/2022/12/27/schembri-put-campaign-videographer-on-public-payroll-just-before-the-election/) · [The Shift News, Mar 2023](https://theshiftnews.com/2023/03/01/silvio-schembri-places-canvasser-in-crucial-role-at-indis-malta/) |
-| **Silvio Schembri** *(Official ballot name: Saviour Schembri)* 🏛️ Gov. | Dec 2025: lawyer Jason Azzopardi filed magisterial inquiry request alleging corruption and misconduct — Lands Authority land deals undervalued for developers (€12m plot for €380k/yr), developer-linked constituency office, and lifestyle inconsistent with asset declarations; Schembri denied all allegations | 🔴 High | Alleged corruption; institutional | [MaltaToday, Dec 2025](https://www.maltatoday.com.mt/news/court_and_police/133097/jason_azzopardi_alleges_corruption_misconduct_by_silvio_schembri_in_magisterial_inquiry_request_) · [Malta Independent, Jan 2025](https://www.independent.com.mt/articles/2025-01-11/local-news/Jason-Azzopardi-seeks-magisterial-inquiry-regarding-Silvio-Schembri-6736267071) |
-| **Rosianne Cutajar** | Ethics breach: Standards Commissioner found she acted as broker in Fenech property deal and did not declare income; ITS consultancy ruled "illegitimate" by NAO | 🔴 High | Ethics/corruption | [MaltaToday — Standards inquiry](https://www.maltatoday.com.mt/news/national/127477/rosianne_cutajar_defamation_yorgen_fenech_allegations_Labour) |
-| **Rosianne Cutajar** | WhatsApp chats with Yorgen Fenech (murder suspect): intimate relationship revealed; argued against Council of Europe resolution on 17 Black while receiving gifts from Fenech | 🔴 High | Integrity; institutional conflict of interest | [Wikipedia — Rosianne Cutajar](https://en.wikipedia.org/wiki/Rosianne_Cutajar) |
 | **Jerome Caruana Cilia** | No documented controversy | 🟢 None/Low | — | — |
-| **Malcolm Paul Agius Galea** | No documented controversy | 🟢 None/Low | — | — |
-| **Malcolm Paul Agius Galea** 🏛️ Gov. | Asked zero parliamentary questions during entire legislature (MaltaToday, Jun 2025) | 🟡 Medium | Parliamentary disengagement | [MaltaToday, Jun 2025](https://www.maltatoday.com.mt/news/national/123385/jerome_caruana_cilia_tops_list_for_most_pqs_asked_by_opposition) |
 
 ---
 
@@ -95,10 +76,6 @@ PN: Jerome Caruana Cilia, Rosianne Cutajar (Labour — treated as Notable given 
 
 | Candidate | Facebook | Instagram | X / Twitter | Website / Other | Rating |
 |---|---|---|---|---|---|
-| **Ian Borg** 🏛️ Gov. | [Link](https://www.facebook.com/ianborgpage/) (~71.5k) | Not confirmed | [Link](https://x.com/deputypmianborg) | [foreign.gov.mt](https://foreign.gov.mt/deputy-prime-minister/) | 📢 High |
-| **Malcolm Paul Agius Galea** 🏛️ Gov. | [Link](https://www.facebook.com/mpagiusgalea/) | Not confirmed | Not confirmed | Not identified | 📶 Low |
-| **Silvio Schembri** 🏛️ Gov. | [Link](https://www.facebook.com/SilvioSchembriPage/) (~48.5k) | Not confirmed | Not confirmed | [economy.gov.mt](https://economy.gov.mt/minister/) | 📢 High |
-| **Rosianne Cutajar** | [Link](https://www.facebook.com/rosiannecutajar/) (~37.2k) | Not confirmed | Not confirmed | Not identified | 📢 High |
 | **Jerome Caruana Cilia** | [Link](https://www.facebook.com/JeromeCaruanaCilia/) (~11.2k) | Not confirmed | [Link](https://x.com/JCaruanaCilia) | Not identified | 📡 Moderate |
 
 ---
@@ -127,15 +104,9 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 
 | Candidate | Party | EU Group | Ideological Position | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|
-| **Ramona Attard** | Labour | S&D | Centre-left | D6 and D8; social policy | Pro-IVF/fertility rights; civil liberties emphasis |
-| **Omar Farrugia** 🏛️ Gov. | Labour | S&D | Centre-left | Parliamentary Secretary for Public Works; D5 and D6 | Public works; local infrastructure | Silent |
-| **Omar Rababah** | Labour | S&D | Centre-left; diversity | First Arab-origin candidate on Labour ticket; D6 and D7; target of racist online abuse; defended by PM Abela and Mario de Marco | Community; diversity; social inclusion | Silent |
 | **Frederick Aquilina** | PN | EPP | Centre-right | Luqa PN minority leader; accountant; contested 2022 | Local government; tax | Silent |
 | **Julian Borg** | PN | EPP | Centre-right | New candidate | Not confirmed | Silent |
 | **Annabelle Cilia** | PN | EPP | Centre-right | President, Moviment Solidarjetà Ħaddiema PN; first general election | Workers' rights; solidarity | Silent |
-| **George Muscat** | PN | EPP | Centre-right | D6 and D7 | Not confirmed | Silent |
-| **George Vital Zammit** | PN | EPP | Centre-right | D6 | Not confirmed | Silent |
-| **Oliver Cini** | PN | EPP | Centre-right | New candidate; D5 primary; D5 and D6 | Not confirmed | Silent |
 
 ---
 
@@ -143,15 +114,9 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 
 | Candidate | Role | Rating |
 |---|---|---|
-| **Ramona Attard** | MP via 52A (2022–); D6 and D8 | ⭐⭐⭐ |
-| **Omar Farrugia** 🏛️ Gov. | Parliamentary Secretary for Public Works (2024–); MP (2022–); D5 and D6 | ⭐⭐ |
-| **Omar Rababah** | New candidate 2026; D6 and D7; Arab-Maltese community figure | ⭐ |
 | **Frederick Aquilina** | Luqa PN minority leader; contested 2022; accountant | ⭐⭐ |
 | **Julian Borg** | New candidate | ⭐ |
 | **Annabelle Cilia** | Moviment Solidarjetà Ħaddiema PN president | ⭐ |
-| **George Muscat** | D6 and D7 candidate | ⭐ |
-| **George Vital Zammit** | D6 candidate | ⭐ |
-| **Oliver Cini** | New candidate; D5 primary; no prior elected office | ⭐ |
 
 ---
 
@@ -159,11 +124,7 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 
 | Candidate | Controversy | Severity | Nature | Source |
 |---|---|---|---|---|
-| **Omar Rababah** | Target of online racist abuse following candidacy announcement; not a controversy of his own conduct | 🟢 None/Low | Victim of racism; not own conduct | [MaltaToday, May 2026](https://www.maltatoday.com.mt/news/election-2026/141454/omar_rababah_speaks_out_on_racial_slurs_directed_at_him_after_candidacy_announcement) |
 | **All others** | No documented controversy | 🟢 None/Low | — | — |
-| **Omar Farrugia** 🏛️ Gov. | May 2026: The Shift News reported he used his Parliamentary Secretary office to issue 10 press releases announcing public works projects in his electoral districts since January 2026 — described as "abusing incumbency" for electoral advantage | 🟡 Medium | Incumbency abuse allegation | [The Shift News, May 2026](https://theshiftnews.com/2026/05/11/parliamentary-secretary-for-public-works-abuses-incumbency-with-tour-of-projects-in-home-districts/) |
-| **Ramona Attard** | Standards Commissioner remark: called for revision to stop it being used to "scare" (critics: undermining accountability) | 🟡 Medium | Accountability/institutional | [Malta Independent, Sep 2025](https://www.independent.com.mt/articles/2025-09-24/newspaper-leader/TMID-Editorial-Ramona-Attard-s-remark-When-the-box-ticks-back-6736273371) |
-| **Ramona Attard** | Criminal libel remark: said removal of prison sentences was a "mistake" — press freedom implications | 🟡 Medium | Press freedom | [MaltaToday](https://www.maltatoday.com.mt/news/national/131202/outgoing_pl_president_wants_return_of_criminal_libel) |
 
 ---
 
@@ -189,7 +150,6 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 
 | Candidate | Party | EU Group | Abortion Stance |
 |---|---|---|---|
-| **Billy McBee** | Momentum | EDP | Pro-choice (party position) |
 | **Marianne Sacco** | Aħwa Maltin | — | Conservative |
 | **Nazzareno Bonnici** | Independent | — | Not confirmed |
 
@@ -199,7 +159,6 @@ PN: Frederick Aquilina, Oliver Cini, Julian Borg, Annabelle Cilia, George Muscat
 
 | Candidate | Controversy | Severity | Nature | Source |
 |---|---|---|---|---|
-| **Billy McBee** *(Official ballot name: Billy Joe McBee)* | No documented controversy | 🟢 None/Low | — | — |
 | **Marianne Sacco** | Aħwa Maltin's nativist platform | 🟡 Medium | Ideological | [MaltaToday, May 2026](https://www.maltatoday.com.mt/news/election-2026/141360/awa_maltin_announce_election_campaign_under_slogan_malta_gallmaltin) |
 
 ---

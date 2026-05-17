@@ -50,9 +50,6 @@ PN: Toni Bezzina, Stanley Zammit
 
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
-| **Miriam Dalli** 🏛️ Gov. | Labour | S&D | Centre-left; progressive on environment and energy | Energy/Environment Minister; MEP 2014–20; strong D5 roots; father-in-law Karmenu Vella was D5 heavyweight | Energy transition; environment; renewable energy; Birżebbuġa regeneration | Silent |
-| **Julia Farrugia** 🏛️ Gov. | Labour | S&D | Centre-left; inclusion and social rights | Minister for Inclusion; contested D5 and D7; Qrendi family roots | Inclusion; disability rights; social wellbeing; LGBTQ rights | Silent |
-| **Omar Farrugia** 🏛️ Gov. | Labour | S&D | Centre-left | Parliamentary Secretary for Public Works (2024–); youngest in Cabinet; contesting D5 and D6 | Public works; local infrastructure; communities | Public works; local infrastructure |
 | **Toni Bezzina** *(Official ballot name: Anthony Bezzina)* | PN | EPP | Centre-right; agriculture, fisheries and transport | Shadow Min. Transport, Agriculture & Fisheries (Sep 2025); multiple elections on D5 since 2013; PN's D5 anchor | Agriculture; fisheries; transport; rural communities | Silent |
 | **Stanley Zammit** | PN | EPP | Centre-right; planning focus | MP (2022–); Shadow Min. Planning, Research & Innovation (Sep 2025); from Żurrieq | Planning; ODZ protection; research; environment | Silent |
 
@@ -64,9 +61,6 @@ PN: Toni Bezzina, Stanley Zammit
 
 | Candidate | Prior Office/Role | Key Documented Achievement | Principle vs Delivery Gap | Rating |
 |---|---|---|---|---|
-| **Miriam Dalli** 🏛️ Gov. | Energy/Environment/Public Cleanliness Minister (2022–); MEP (2014–20); MP (co-opted 2020); D5 roots through Karmenu Vella family | Energy subsidy scheme maintained; White Rocks first phase completed (national park); Project Green tree-planting initiative; Council of Europe youth presidency environmental work | Is-Siċċa project: pledged 2 days before 2022 election as €40m flagship, four years on only cleaning of tanks commenced; €1m Project Green direct orders to political associates (Cuschieri controversy); ARMS eco-reduction billing failure | ⭐⭐⭐ |
-| **Julia Farrugia** 🏛️ Gov. | Minister for Inclusion (2022–); Tourism Minister (2020–22); Parliamentary Secretary (2017–20); MP (2017–); VOTE16 reform | VOTE16 reform (Malta 2nd EU state to lower voting age to 16); National Strategy for Disability Rights; hate speech law extended to disability | €10,000 fine for disability meme — critics said overreach; contested D5 and D7 simultaneously — neither her primary district | ⭐⭐⭐ |
-| **Omar Farrugia** 🏛️ Gov. | Parliamentary Secretary for Public Works (2024–); MP (2022–); Mayor of Mqabba (2019–22); Chairman Sport Malta (2023–); contesting D5 and D6 | Mqabba Square revitalisation (€5m+); youngest PS in Cabinet; public works portfolio | Used ministerial office to announce 10 electoral-district projects during campaign period (The Shift, May 2026) | ⭐⭐ |
 | **Toni Bezzina** | MP (2022–, via gender mechanism); Shadow Min. Transport, Agriculture & Fisheries; D5 candidate since 2013 | Agriculture and fisheries advocacy; rural community representation; transport scrutiny | Never won a government portfolio; opposition limits delivery | ⭐⭐ |
 | **Stanley Zammit** | MP (2022–); Shadow Min. Planning, Research & Innovation | ODZ planning advocacy; planning reform scrutiny | First term only | ⭐⭐ |
 
@@ -76,14 +70,8 @@ PN: Toni Bezzina, Stanley Zammit
 
 | Candidate | Controversy | Severity | Nature | Source |
 |---|---|---|---|---|
-| **Miriam Dalli** 🏛️ Gov. | Is-Siċċa project: announced 2 days before 2022 election; €40m investment pledged; Pininfarina admitted only a desktop design was commissioned; no funding earmarked in 2026 budget | 🔴 High | Electoral deception; undelivered flagship promise | [The Shift News, Feb 2026](https://theshiftnews.com/2026/02/17/dalli-revives-pre-election-birzebbuga-proposal-as-elections-near/) |
-| **Miriam Dalli** 🏛️ Gov. | Project Green: CEO Joseph Cuschieri (disgraced former MFSA chief) appointed by Dalli; €1m in direct orders to political associates in 6 months (2025) | 🔴 High | Patronage; public procurement abuse | [The Shift News, 27 Apr 2026](https://theshiftnews.com/2026/04/27/dalli-cuschieri-dish-out-e1-million-in-project-green-direct-orders/) |
-| **Miriam Dalli** 🏛️ Gov. | ARMS eco-reduction billing failure — consumers losing the discount for 2 years; minister said to have "gone into hiding" when crisis emerged | 🟡 Medium | Ministerial accountability | [Malta Independent, Jan 2026](https://www.independent.com.mt/articles/2026-01-17/local-news/Minister-Miriam-Dalli-goes-into-hiding-once-again-PN-says-6736286447) |
-| **Miriam Dalli** 🏛️ Gov. | April 2026: promoted a third electricity interconnector while the second — pledged in the 2022 Labour manifesto — remained years from delivery with no confirmed timeline; critics say this signals a pattern of announcing new projects to deflect from undelivered ones | 🟡 Medium | Delivery gap; pre-election repositioning | [The Shift News, Apr 2026](https://theshiftnews.com/2026/04/30/dalli-floats-third-interconnector-as-second-remains-undelivered/) |
-| **Julia Farrugia** 🏛️ Gov. | Proposed €10,000 fine for sharing disability meme — criticised as disproportionate censorship | 🟡 Medium | Free speech concerns | [Lovin Malta, Sep 2023](https://lovinmalta.com/opinion/opinion-is-julia-farrugia-portelli-out-of-her-mind/) |
 | **Toni Bezzina** | 2012 corruption probe: alleged coercion of public works employees to carry out works at PN club in Żurrieq ahead of 2012 local elections — **cleared** by police investigation in 2021 | 🟢 Low | Resolved; cleared before contested election | [Wikipedia / Times of Malta, May 2021](https://timesofmalta.com/articles/view/toni-bezzina-cleared-following-corruption-probe.872047) |
 | **Stanley Zammit** | No documented controversy | 🟢 None/Low | — | — |
-| **Omar Farrugia** 🏛️ Gov. | May 2026: The Shift News reported he used his Parliamentary Secretary office to issue 10 press releases announcing public works projects in his electoral districts since January 2026 — described as "abusing incumbency" for electoral advantage | 🟡 Medium | Ministerial resources for campaign purposes | [The Shift News, May 2026](https://theshiftnews.com/2026/05/11/parliamentary-secretary-for-public-works-abuses-incumbency-with-tour-of-projects-in-home-districts/) |
 
 ---
 
@@ -91,9 +79,6 @@ PN: Toni Bezzina, Stanley Zammit
 
 | Candidate | Facebook | Instagram | X / Twitter | Website / Other | Reach | Tone | Key Message | Rating |
 |---|---|---|---|---|---|---|---|---|
-| **Miriam Dalli** 🏛️ Gov. | [Link](https://www.facebook.com/drmiriamdalli/) (~68.8k) | [Link](https://www.instagram.com/miriamdalli/) (~25k) | [Link](https://x.com/Miriamdalli) | [miriamdalli.com](https://miriamdalli.com/) | Very high (~68.8k Facebook) | Green/energy; ministerial record | Energy stability; green future | 📢 High |
-| **Julia Farrugia** 🏛️ Gov. | [Link](https://www.facebook.com/JuliaFarrugiamt/) (~38.6k) | [Link](https://www.instagram.com/juliafarrugiamt/) (~9.9k) | [Link](https://x.com/JuliaFarrugia) | Not identified | Very high (~38.6k Facebook) | Inclusion; social rights | Disability; VOTE16 legacy; equality | 📢 High |
-| **Omar Farrugia** 🏛️ Gov. | [Link](https://www.facebook.com/omar.farrugia.9/) | Not confirmed | Not confirmed | [infrastruttura.gov.mt](https://infrastructure.gov.mt/parliamentary-secretary/) | Moderate | Public works; community projects | Infrastructure delivery; D5+D6 | 📡 Moderate |
 | **Toni Bezzina** | [Link](https://www.facebook.com/Perit.Toni.Bezzina/) (~11.8k) | Not confirmed | [Link](https://x.com/tonibezzina) | Not identified | Moderate (~11.8k Facebook) | Rural; agriculture; transport | Fishing communities; rural Malta; transport reform | 📡 Moderate |
 | **Stanley Zammit** | [Link](https://www.facebook.com/engstanleyzammit/) | Not confirmed | Not confirmed | Not identified | Low-moderate | Planning | ODZ protection; planning reform | 📶 Low |
 
@@ -123,15 +108,8 @@ PN: Conrad Borg Manché, Miriana Calleja Testaferrata de Noto, Duncan Borg Myatt
 
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
-| **Robert Abela** 🏛️ Gov. | Labour | S&D | Centre-left; PM | PM and party leader; D2 primary, D5 secondary | National economic stability; cost of living | Silent (2022 abortion medical exception passed on his watch; framed as compromise) |
-| **Owen Bonnici** 🏛️ Gov. | Labour | S&D | Centre-left; culture/arts | Culture Minister; D3 primary, D5 secondary; lives in Żurrieq | Heritage; arts; local government | Silent |
 | **Remenda Grech** | Labour | S&D | Centre-left | New candidate; partner of Owen Bonnici; Żurrieq connections | Not confirmed | Silent |
-| **Conrad Borg Manché** | PN | EPP (formerly ECR-adjacent) | Cross-spectrum; socialist-origin | Former Labour Gżira mayor; D10 primary | Environment; family law; developer accountability | Silent |
-| **Miriana Calleja Testaferrata de Noto** *(Official ballot name: Miriana Calleja Testaferrata De Noto)* | PN | EPP | Centre-right | Former MŻPN president; D3 and D5 | Youth; European affairs | Silent |
-| **Duncan Borg Myatt** | PN | EPP | Centre-right | New candidate; D4 and D5 | Not confirmed | Silent |
 | **Owen Sciberras** | PN | EPP | Centre-right | Previous D5 candidate | Not confirmed | Silent |
-| **Stefan Caruana** | PN | EPP | Centre-right | Teacher; PN executive; D4 and D5 | Education | Silent |
-| **Oliver Cini** | PN | EPP | Centre-right | D5 and D6 candidate | Not confirmed | Not confirmed |
 
 ---
 
@@ -139,15 +117,8 @@ PN: Conrad Borg Manché, Miriana Calleja Testaferrata de Noto, Duncan Borg Myatt
 
 | Candidate | Prior Role | Key Achievement | Rating |
 |---|---|---|---|
-| **Robert Abela** 🏛️ Gov. | PM (D2 primary) | Led Malta through COVID; maintained energy subsidies (€320m/yr); economy maintained AAA/A+ rating (Scope Ratings confirmed May 2026); oversaw Vitals hospital denationalisation (court-mandated); introduced 2022 abortion medical exception | ⭐⭐⭐ |
-| **Owen Bonnici** 🏛️ Gov. | Culture Minister (D3 primary) | Valletta 2018 European Capital of Culture; MICAS (Malta's first contemporary art museum — €30m); drug law reform (2013–17); whistleblower act (second in EU); judicial appointment reform | ⭐⭐⭐⭐ |
 | **Remenda Grech** | New candidate 2026; partner of Owen Bonnici | No prior elected office | ⭐ |
-| **Conrad Borg Manché** | Former Gżira Mayor 2016–23 (Labour); D10 primary PN candidate | Manoel Island foreshore win; Council of Europe Garden victory; 60% re-election as mayor | ⭐⭐⭐⭐⭐ (see D10 report) |
-| **Miriana Calleja Testaferrata de Noto** | Former MŻPN President; 2024 MEP candidate (408 votes) | No elected national record | ⭐ |
-| **Duncan Borg Myatt** | New candidate | No prior record | ⭐ |
 | **Owen Sciberras** | Contested D5 previously | No elected record | ⭐ |
-| **Stefan Caruana** | Teacher; PN executive | Professional background | ⭐ |
-| **Oliver Cini** | New candidate | No prior record | ⭐ |
 
 ---
 
@@ -155,20 +126,8 @@ PN: Conrad Borg Manché, Miriana Calleja Testaferrata de Noto, Duncan Borg Myatt
 
 | Candidate | Controversy | Severity | Nature | Source |
 |---|---|---|---|---|
-| **Robert Abela** | Planning Authority paid €17,000/month to Abela's family law firm before he became PM | 🔴 High | Conflict of interest | [MaltaToday](https://www.maltatoday.com.mt/news/national/99697/explainer__who_is_maltas_new_prime_minister_robert_abela) · [Newsbook](https://newsbook.com.mt/en/no-place-for-hatred-in-politics-according-to-glenn-bedingfield/) |
-| **Robert Abela** | Accused by PN of knowing in 2021 the Vitals hospitals deal was fraudulent but continuing payments; Muscat subsequently charged criminally | 🔴 High | Governance/accountability | [The Malta Independent — Vitals inquiry](https://www.independent.com.mt/articles/2024-05-27/local-news/PN-leader-accuses-PM-of-withholding-hospitals-inquiry-to-conceal-involvement-6736261469) |
-| **Robert Abela** | Attacked magistrate overseeing Vitals inquiry; described "the establishment" as conspiring against Labour — widely condemned as undermining judicial independence | 🔴 High | Rule of law/institutional | [MaltaToday](https://www.maltatoday.com.mt/news/national/128939/watch_abela_claims_the_establishment_is_using_the_vitals_inquiry_to_disrupt_elections) |
-| **Robert Abela** 🏛️ Gov. | Rushed magisterial inquiry reform (early 2025) restricting who can initiate inquiries — widely condemned as protecting Muscat-era associates; PN called it "changing goalposts to save his own skin" | 🔴 High | Rule of law/institutional | [Malta Independent, Jan 2025](https://www.independent.com.mt/articles/2025-01-30/local-news/Government-unveils-magisterial-inquiry-changes-police-report-would-need-to-come-first-6736267535) |
-| **Robert Abela** 🏛️ Gov. | April 2026 — Vitals/Steward CEO Armin Ernst sent for trial by Magistrate Lanfranco; Abela continued publicly defending the deal ("fair value"), contradicting court findings of fraud | 🔴 High | Governance/accountability | [MaltaToday](https://www.maltatoday.com.mt/news/court_and_police/137617/armin_ernst_to_stand_trial_over_hospital_concession_corruption_charges) |
-| **Owen Bonnici** 🏛️ Gov. | Arts Council Malta awarded €25,000 contract to blogger Mark Camilleri; described as nepotism/political favoritism by critics | 🟡 Medium | Conflict of interest/political patronage | [MaltaToday](https://www.maltatoday.com.mt/news/national/135163/robert_abela_mulls_cabinet_changes_as_byron_camilleri_wants_out_of_home_affairs) |
-| **Owen Bonnici** 🏛️ Gov. | Daphne Caruana Galizia vigil flowers removal: Bonnici, as justice minister, repeatedly ordered police to remove flowers placed as vigil memorial outside Castille — widely condemned internationally | 🔴 High | Rule of law; press freedom | [The Shift News, Jan 2020](https://theshiftnews.com/2020/01/30/justice-ministers-orders-to-clear-protest-memorial-a-breach-of-freedom-of-expression/) · [MaltaToday](https://www.maltatoday.com.mt/news/national/100097/watch_owen_bonnici_unapologetic_about_daphne_caruana_galizia_memorial_cleanups) |
-| **Owen Bonnici** 🏛️ Gov. | May 2026: The Shift reported Bonnici failed to reply to questions about exorbitant spending on the official launch of his campaign materials; also handed a taxpayer-funded directorship to veteran Labour loyalist Albert Marshall under the Culture Ministry | 🟡 Medium | Ministerial accountability; political patronage | [The Shift News, May 2026](https://theshiftnews.com/2026/05/08/minister-fails-to-explain-exorbitant-campaign-launch-spend/) · [The Shift News, May 2026](https://theshiftnews.com/2026/05/11/owen-bonnici-hands-albert-marshall-fifth-job/) |
 | **All PN second-tier** | No documented controversy | 🟢 None/Low | — | — |
 | **Remenda Grech** | No documented controversy | 🟢 None/Low | — | — |
-| **Conrad Borg Manché** | Ideological contradiction — socialist joins centre-right PN | 🟡 Medium | Political credibility question | [MaltaToday, Oct 2023](https://www.maltatoday.com.mt/news/national/125335/conrad_borg_manch_quits_labour_remains_as_independent_gira_mayor) · [Newsbook, May 2026](https://newsbook.com.mt/en/former-labour-mayor-conrad-borg-manche-to-contest-election-with-pn/) |
-| **Conrad Borg Manché** | Alleged bribe offer (unverified; refused; not denied by other party) | 🟡 Medium | Unverified allegation of inducement | [Newsbook, Jun 2024](https://newsbook.com.mt/en/gzira-petrol-station-owner-tried-buying-my-silence-borg-manche-says/) |
-| **Conrad Borg Manché** | Historical press freedom complaint (Change.org, 2016) | 🟢 Low | Old, unresolved, low-profile | [Change.org, Sep 2016](https://www.change.org/p/joseph-muscat-the-mayor-of-gzira-conrad-borg-manche-and-the-freedom-of-the-press) |
-| **Conrad Borg Manché** | May 2026: publicly claimed he was offered a consultant position worth thousands during the final nominations week in an apparent attempt to dissuade him from contesting; he refused and disclosed the offer publicly | 🟡 Medium | Alleged inducement; distinct from 2024 petrol station bribe allegation | [Lovin Malta, May 2026](https://lovinmalta.com/news/general-election-2026/conrad-borg-manche-consultancy-offer-claims/) |
 
 ---
 

@@ -408,6 +408,8 @@ export function parseCandidateFile(md: string, _slug: string): Partial<Candidate
     if (partyMatch) result.party = partyMatch[1].trim();
     const govMatch = line.match(/<!--\s*gov-incumbent:\s*(true|false)\s*-->/i);
     if (govMatch) result.isGovIncumbent = govMatch[1].toLowerCase() === "true";
+    const ballotMatch = line.match(/<!--\s*ballot-name:\s*(.+?)\s*-->/);
+    if (ballotMatch) result.ballotName = ballotMatch[1].trim();
   }
 
   // Section-level table parsing

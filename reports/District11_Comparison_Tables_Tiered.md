@@ -51,11 +51,8 @@ PN: Bernard Grech, Ivan Bartolo, Rebekah Borg
 
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
-| **Alex Muscat** *(Official ballot name: Alexander Muscat)* | Labour | S&D | Centre-left; digital economy | MP (2022–, casual election 2022); digital economy background; contesting D8 and D11 | Digital economy; technology | Silent |
-| **Miriam Dalli** 🏛️ Gov. | Labour | S&D | Centre-left; energy/environment | Energy Minister; D5 primary, D11 secondary | Energy; environment | Silent |
 | **Bernard Grech** | PN | EPP | Centre-right; rule of law | Former PN leader (2020–25); resigned June 2025; Shadow Min. Capital Projects | Rule of law; Vitals case; infrastructure | **Explicitly pro-life** |
 | **Ivan Bartolo** | PN | EPP | Centre-right; social affairs | MP (2022–); Shadow Min. Social/Affordable Housing; former Mosta mayor | Social housing; poverty; pensions | Silent |
-| **Rebekah Borg** *(Official ballot name: Rebekah-Ann Borg)* | PN | EPP | Centre-right; environment | Shadow Min. Environment; D7 and D11 | Environment; ODZ protection; rural | Silent |
 
 ---
 
@@ -63,11 +60,8 @@ PN: Bernard Grech, Ivan Bartolo, Rebekah Borg
 
 | Candidate | Prior Office/Role | Key Documented Achievement | Principle vs Delivery Gap | Rating |
 |---|---|---|---|---|
-| **Alex Muscat** | MP (2022–, casual election replacing Miriam Dalli who left for cabinet); digital economy professional | Elected via casual election mechanism; active on digital economy | Limited independent legislative profile | ⭐⭐ |
-| **Miriam Dalli** 🏛️ Gov. | Energy/Environment/Public Cleanliness Minister (2022–); MEP (2014–20); MP (co-opted 2020); D5 roots through Karmenu Vella family | Energy subsidy scheme maintained; White Rocks first phase completed (national park); Project Green tree-planting initiative; Council of Europe youth presidency environmental work | Is-Siċċa project: pledged 2 days before 2022 election as €40m flagship, four years on only cleaning of tanks commenced; €1m Project Green direct orders to political associates (Cuschieri controversy); ARMS eco-reduction billing failure | ⭐⭐⭐ |
 | **Bernard Grech** | PN Leader (2020–25); hospitals concession court case co-plaintiff; lawyer; MP (co-opted 2020, elected 2022) | Hospitals concession annulled — Adrian Delia litigated, Grech co-plaintiff; narrowed Labour's polling gap in 2024 local/MEP elections | Lost 2022 election by even larger margin than 2017; resigned June 2025 after trust rating collapsed to 18.8%; legacy contested | ⭐⭐ |
 | **Ivan Bartolo** | MP (2022–); Shadow Min. Social/Affordable Housing, Pensions; former Mayor of Mosta | Pensions and social housing advocacy; strong local roots in Mosta | First term only; limited legislative output | ⭐⭐ |
-| **Rebekah Borg** | MP via 52A (2022–); Shadow Min. Environment | Environment and ODZ advocacy; first term | Entered via gender mechanism; first direct election attempt | ⭐⭐ |
 
 ---
 
@@ -77,15 +71,7 @@ PN: Bernard Grech, Ivan Bartolo, Rebekah Borg
 |---|---|---|---|
 | **Bernard Grech** | Resigned as PN leader June 2025 after trust rating fell to 18.8% — widely seen as a failed leadership; earlier controversy over legal bill expenses | 🟡 Medium | [MaltaToday, Jun 2025](https://www.maltatoday.com.mt/news/national/135373/breaking__bernard_grech_to_resign) · [The Shift News, Jun 2025](https://theshiftnews.com/2025/06/10/opposition-leader-bernard-grech-resigns/) |
 | **Bernard Grech** | 2022 general election loss — Labour's biggest majority ever under his leadership | 🟡 Medium | [Lovin Malta, Mar 2022](https://lovinmalta.com/news/election-2022/malta-election-result-labour-2022/) · [MaltaToday](https://www.maltatoday.com.mt/news/data_and_surveys/135330/pn_in_freefall_as_labour_leads_by_14_points_) |
-| **Miriam Dalli** 🏛️ Gov. | Is-Siċċa project: announced 2 days before 2022 election; €40m investment pledged; Pininfarina admitted only a desktop design was commissioned; no funding earmarked in 2026 budget | 🔴 High | [The Shift News, Feb 2026](https://theshiftnews.com/2026/02/17/dalli-revives-pre-election-birzebbuga-proposal-as-elections-near/) |
-| **Miriam Dalli** 🏛️ Gov. | Project Green: CEO Joseph Cuschieri (disgraced former MFSA chief) appointed by Dalli; €1m in direct orders to political associates in 6 months (2025) | 🔴 High | [The Shift News, 27 Apr 2026](https://theshiftnews.com/2026/04/27/dalli-cuschieri-dish-out-e1-million-in-project-green-direct-orders/) |
-| **Miriam Dalli** 🏛️ Gov. | ARMS eco-reduction billing failure — consumers losing the discount for 2 years; minister said to have "gone into hiding" when crisis emerged | 🟡 Medium | [Malta Independent, Jan 2026](https://www.independent.com.mt/articles/2026-01-17/local-news/Minister-Miriam-Dalli-goes-into-hiding-once-again-PN-says-6736286447) |
-| **Miriam Dalli** 🏛️ Gov. | April 2026: promoted a third electricity interconnector while the second — pledged in the 2022 Labour manifesto — remained years from delivery with no confirmed timeline; critics say this signals a pattern of announcing new projects to deflect from undelivered ones | 🟡 Medium | [The Shift News, May 2022](https://theshiftnews.com/2022/05/16/pininfarina-says-it-will-not-invest-in-dallis-birzebbugia-project-as-ministry-keeps-mum/) |
-| **Alex Muscat** | No documented controversy | 🟢 None/Low | — |
-| **Alex Muscat** *(Official ballot name: Alexander Muscat)* | Passport funds (NSDF) diverted to his D11 constituency (Mosta church lighting; playing field) | 🔴 High | [The Shift News](https://theshiftnews.com/) |
-| **Alex Muscat** *(Official ballot name: Alexander Muscat)* | Nexia BT consultancy while OPM employee during Schembri era; never explained | 🟡 Medium | [The Shift News](https://theshiftnews.com/) |
 | **Ivan Bartolo** | No documented controversy | 🟢 None/Low | — |
-| **Rebekah Borg** | No documented controversy | 🟢 None/Low | — |
 
 ---
 
@@ -116,11 +102,6 @@ Labour: Anthony Agius Decelis, Francesca Zarb, Romilda Zarb
 | Candidate | Party | EU Group | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|
 | **Dione Borg** *(Official ballot name: Spiridione Borg)* | PN | EPP | Local governance; community | Silent |
-| **Edmond Cuschieri** | PN | EPP | New candidate | Silent |
-| **Joseph Mark Grech** | PN | EPP | New candidate | Silent |
-| **Anthony Agius Decelis** | Labour | S&D | Local constituency; D7 primary | Silent |
-| **Francesca Zarb** | Labour | S&D | New candidate | Silent |
-| **Romilda Zarb** | Labour | S&D | New candidate; also on D12 | Silent |
 
 ---
 
@@ -129,21 +110,8 @@ Labour: Anthony Agius Decelis, Francesca Zarb, Romilda Zarb
 | Candidate | Role | Rating |
 |---|---|---|
 | **Dione Borg** | PN councillor; local government background | ⭐⭐ |
-| **Edmond Cuschieri** | New candidate | ⭐ |
-| **Joseph Mark Grech** | New candidate | ⭐ |
-| **Anthony Agius Decelis** | MP (2022–); D7 primary | ⭐⭐ |
-| **Francesca Zarb** | New candidate | ⭐ |
-| **Romilda Zarb** | New candidate; also D12 | ⭐ |
 
 ---
-
-## T2 — TABLE 3: CONTROVERSIES
-
-| Candidate | Controversy | Severity | Nature | Source |
-|---|---|---|---|---|
-| **Francesca Zarb** | No documented controversy | 🟢 None/Low | — | — |
-| **Anthony Agius Decelis** | Daughter Danika appointed to Malta Medicines Authority — cited in The Shift report on Labour patronage appointments | 🟡 Medium | Alleged nepotism | [The Shift News](https://theshiftnews.com/) |
-
 ---
 
 ## T2 — TABLE 5: MASTER SUMMARY (Tier 2)
@@ -165,13 +133,6 @@ Labour: Anthony Agius Decelis, Francesca Zarb, Romilda Zarb
 Momentum: Mark Camilleri Gambin
 ADPD: Carmel Cacopardo
 Aħwa Maltin: Simon Elmer
-
-## T3 — TABLE 1: POLITICAL ALIGNMENT
-
-| Candidate | Party | EU Group | Abortion Stance |
-|---|---|---|---|
-| **Mark Camilleri Gambin** | Momentum | EDP | Pro-choice |
-
 ---
 
 ## T3 — TABLE 5: MASTER SUMMARY (Tier 3)

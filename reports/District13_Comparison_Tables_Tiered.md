@@ -56,10 +56,8 @@ PN: Alex Borg, Beppe Galea, Luke Said, Norma Camilleri
 
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
-| **Jo Etienne Abela** *(Official ballot name: Joetienne Abela)* 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Health Minister (2024–); D10 primary; D13 secondary; from Gozo | Healthcare; Gozo hospital expansion; active ageing | Silent |
 | **Clint Camilleri** 🏛️ Gov. | Labour | S&D | Centre-left; Gozitan | Gozo and Planning Minister; D13 primary; most prominent Gozitan Labour MP | Gozo development; planning; agriculture; fisheries | Silent |
 | **Anton Refalo** *(Official ballot name: Anthony Refalo)* 🏛️ Gov. | Labour | S&D | Old-guard centre-left; Gozitan | Minister for Agriculture, Fisheries and Animal Rights; D13; long-serving MP since 2013 | Agriculture; fisheries; rural Gozo; animal rights | Silent |
-| **Alex Borg** *(Official ballot name: Alexander Borg)* | PN | EPP | Centre-right; reform-focused | PN leader since Sep 2025; Gozitan origin (Nadur/Fontana); D12 and D13 | PN renewal; Gozo as region; healthcare; cost of living | **Explicitly pro-life** (personal; moderate on enforcement) |
 | **Beppe Galea** | PN | EPP | Centre-right; European focus | Former European Democrat Students chairman; endorsed by Roberta Metsola; Gozo candidate | EU affairs; youth; governance | Silent |
 | **Luke Said** | PN | EPP | Centre-right; Gozitan | Son of Chris Said (former D13 PN MP who is not contesting); Gozo connections | Local government; Gozitan identity | Silent |
 | **Norma Camilleri** | PN | EPP | Centre-right; Gozitan | Contested previous elections; PN Gozo presence | Local issues; community | Silent |
@@ -70,10 +68,8 @@ PN: Alex Borg, Beppe Galea, Luke Said, Norma Camilleri
 
 | Candidate | Prior Office/Role | Key Documented Achievement | Principle vs Delivery Gap | Rating |
 |---|---|---|---|---|
-| **Jo Etienne Abela** 🏛️ Gov. | Health Minister (2024–); Active Ageing Minister (2022–24); MP D10 (primary) | Gozo hospital expansion pledged; healthcare masterplan announced; expanded portfolio to health (2024) | D10 primary — his D13 connection is Gozitan heritage, not primary constituency; healthcare controversies (MAM; nepotism allegations) | ⭐⭐ |
 | **Clint Camilleri** 🏛️ Gov. | Gozo and Planning Minister (2022–); Agriculture Minister (2017–22); Parliamentary Secretary (2013–17); Mayor of Fontana (young) | Gozo Channel modernisation; planning portfolio added 2024 (controversial); longest-serving Gozitan Labour MP; agricultural reform | Gozo overdevelopment under his Planning portfolio is a growing criticism; ferry service delays; Gozo Channel fleet adequacy disputed | ⭐⭐⭐ |
 | **Anton Refalo** 🏛️ Gov. | Minister for Agriculture, Fisheries and Animal Rights (2022–); Minister for Gozo (2013–17); Parliamentary Secretary for Gozo (1996–98); MP (2013–); lawyer | Long-serving Gozitan Labour presence; agricultural and fisheries support; rural Gozo advocate | Multiple documented controversies (hotel EU funds, stone marker, Riina link); low national visibility | ⭐⭐ |
-| **Alex Borg** | PN leader (2025–); MP (2022–); Shadow Min. Gozo; lawyer; Mr World Malta (2020); from Nadur | Won PN leadership Sep 2025; launched "Nifs Ġdid" campaign; mass meetings; north hospital pledge; promised to make Gozo a region not just a ministry; UN Security Council observation during PN term | No government record; youngest PN leader; narrow leadership win (44 votes); AI-manipulated photos targeted him | ⭐⭐ |
 | **Beppe Galea** | Former EDS Chairman; endorsed by MEP Roberta Metsola; law background | European focus; youth politics; Gozo connections | No elected national record | ⭐ |
 | **Luke Said** | Son of former PN MP Chris Said (D13, 2022); Gozo connections | Family political legacy; local presence | No prior elected office | ⭐ |
 | **Norma Camilleri** | Contested previous Gozo elections; PN activist | Long Gozo PN presence | No elected national record | ⭐ |
@@ -84,18 +80,10 @@ PN: Alex Borg, Beppe Galea, Luke Said, Norma Camilleri
 
 | Candidate | Controversy | Severity | Nature | Source |
 |---|---|---|---|---|
-| **Jo Etienne Abela** 🏛️ Gov. | Favouritism/nepotism allegations in Health Ministry | 🟡 Medium | — | [Critical Angle Project, Dec 2024](https://cap.mt) |
-| **Jo Etienne Abela** 🏛️ Gov. | Brother reportedly in Gozo Ministry "phantom job" | 🟡 Medium | — | [The Shift News, May 2025](https://theshiftnews.com/2025/05/14/e42000-direct-order-for-ministers-brother-to-transport-vegetables/) · [The Shift News, Dec 2022](https://theshiftnews.com/2022/12/10/gozo-ministry-creates-more-phantom-jobs-through-private-contractors/) |
-| **Jo Etienne Abela** *(Official ballot name: Joetienne Abela)* 🏛️ Gov. | Favouritism/nepotism allegations in Health Ministry — Standards Commissioner investigation formally closed April 2026 with no ethics breach found | 🟡 Medium | — | [The Shift News, Jul 2025](https://theshiftnews.com/2025/07/28/ministers-nephew-his-private-secretarys-son-put-on-government-payroll-through-contractor/) · [The Shift News, Apr 2026](https://theshiftnews.com/2026/04/08/probe-confirms-family-hiring-at-gozo-hospital-clears-minister-despite-gaps-in-investigation/) |
-| **Jo Etienne Abela** *(Official ballot name: Joetienne Abela)* 🏛️ Gov. | Political use of ministerial resources (sister-in-law council campaign) | 🟡 Medium | — | [The Shift News, Aug 2022](https://theshiftnews.com/2022/08/02/newest-minister-hires-his-brothers-wife/) |
-| **Jo Etienne Abela** *(Official ballot name: Joetienne Abela)* 🏛️ Gov. | April 2026: hosted a taxpayer-funded celebration at the Mediterranean Conference Centre for the Medical School's 350th anniversary; health insiders told The Shift it was "an excuse to launch the minister's personal re-election campaign using public funds"; minister did not reply to budget questions | 🟡 Medium | — | [The Shift News, Apr 2026](https://theshiftnews.com/2026/04/09/health-minister-celebrates-as-new-medical-school-remains-in-limbo/) |
 | **Clint Camilleri** 🏛️ Gov. | Planning portfolio added 2024 — Gozo overdevelopment and permit controversies | 🟡 Medium | — | [The Shift News, Feb 2024](https://theshiftnews.com/2024/02/03/planning-authority-turns-gozitan/) · [The Shift News, Feb 2024](https://theshiftnews.com/2024/02/13/planning-authority-ignores-recommendations-buys-time-on-gozo-ministers-drivers-odz-development/) |
 | **Anton Refalo** 🏛️ Gov. | Stolen British-era stone marker (Victoria Regina) found at his private Qala home — police investigated; no charges filed; Refalo never explained how the protected heritage artefact arrived there | 🔴 High | Illegal possession of protected heritage | [The Shift News, Feb 2025](https://theshiftnews.com/2025/02/14/planning-authority-inspection-at-ministers-hotel-draws-a-blank-despite-evidence/) |
 | **Anton Refalo** 🏛️ Gov. | L-Eremita hotel: wife received €270,000 in EU funds (80% of costs) for "yoga-meditation" hotel built mostly illegally on ODZ land in Qala; Brussels investigating; illegal car park bulldozed without permits; Planning Authority took no action despite evidence | 🔴 High | EU funds misuse; illegal ODZ development | [The Shift News, Jun 2023](https://theshiftnews.com/2023/06/17/anton-refalo-and-wife-get-e270000-in-eu-funding-for-their-yoga-meditation-hotel/) |
 | **Anton Refalo** 🏛️ Gov. | April 2026: Italian La Stampa linked his Qala villa to a hideout used by Sicilian mafia boss Toto Riina; Refalo contradicted himself (first said he bought it, then denied owning it); told reporter "mind your own business" | 🟡 Medium | Credibility; unproven link | [MaltaToday, Apr 2026](https://www.maltatoday.com.mt/news/national/140754/italian_report_links_anton_refalos_gozo_villa_to_former_salvatore_toto_riina_hideout) |
-| **Alex Borg** | AI-manipulated image showing him smoking cannabis circulated — not his conduct; endorsed Trump (see D12 report) | 🟢 None/Low (victim of disinformation) | — | [Wikipedia — Alex Borg](https://en.wikipedia.org/wiki/Alex_Borg_(politician)) |
-| **Alex Borg** | May 2026: launched campaign at maritime school without press access, no journalist Q&A — "camera-shy" coverage (MaltaToday) | 🟢 Low | Campaign conduct | [MaltaToday, May 2026](https://www.maltatoday.com.mt/news/election-2026/141376/election_playbook_dont_be_shy_alex_just_pretend_youre_contesting_mr_world_malta) |
-| **Alex Borg** *(Official ballot name: Alexander Borg)* | Endorsed Trump as "more pro-business"; praised Trump's pro-life stance — some see this as divisive | 🟡 Medium | — | [Lovin Malta](https://lovinmalta.com/news/watch-trump-is-a-nationalist-alex-borg-praises-us-president-but-criticises-alcohol-tariff-threat/) · [Lovin Malta](https://lovinmalta.com/news/watch-i-hate-u-turns-alex-borg-distances-himself-from-trump-and-praises-meloni/) |
 | **Beppe Galea** | No documented controversy | 🟢 None/Low | — | — |
 | **Luke Said** | No documented controversy | 🟢 None/Low | — | — |
 | **Norma Camilleri** | No documented controversy | 🟢 None/Low | — | — |
@@ -106,10 +94,8 @@ PN: Alex Borg, Beppe Galea, Luke Said, Norma Camilleri
 
 | Candidate | Facebook | X / Twitter | Website / Other | Rating |
 |---|---|---|---|---|
-| **Jo Etienne Abela** 🏛️ Gov. | [Link](https://www.facebook.com/abelajoetienne/) | [Link](https://x.com/joetienneabela) | Not identified | 📡 Moderate |
 | **Clint Camilleri** 🏛️ Gov. | [Link](https://www.facebook.com/ClintCamilleriMP/) | [Link](https://www.instagram.com/clintcamilleri/) | Not identified | 📡 Moderate |
 | **Anton Refalo** 🏛️ Gov. | [Link](https://www.facebook.com/Dr.Refalo/) (~14.5k) | Not confirmed | [agriculture.gov.mt](https://agriculture.gov.mt/minister/) | 📡 Moderate |
-| **Alex Borg** | [Link](https://www.facebook.com/alexborgpn/) (~54.4k) | Not confirmed | Not identified | 📢 High |
 | **Beppe Galea** | Not confirmed | Not confirmed | Not identified | 📶 Low |
 | **Luke Said** | Not confirmed | Not confirmed | Not identified | 📵 None |
 | **Norma Camilleri** | Not confirmed | Not confirmed | Not identified | 📵 None |
@@ -147,21 +133,7 @@ Labour: Abigail Camilleri, George Paul Camilleri
 ---
 
 # TIER 3 — LIST-FILLERS
-
-## T3 — TABLE 1: POLITICAL ALIGNMENT
-
-| Candidate | Party | EU Group | Abortion Stance |
-|---|---|---|---|
-| **Paul Salomone** | Aħwa Maltin | — | Conservative |
-
 ---
-
-## T3 — TABLE 3: CONTROVERSIES
-
-| Candidate | Controversy | Severity | Nature | Source |
-|---|---|---|---|---|
-| **Paul Salomone** | Aħwa Maltin's "Malta għall-Maltin" nativist platform is explicitly anti-immigration | 🟡 Medium | Ideological/political | [MaltaToday, May 2026](https://www.maltatoday.com.mt/news/election-2026/141360/awa_maltin_announce_election_campaign_under_slogan_malta_gallmaltin) |
-
 ---
 
 ## T3 — TABLE 5: MASTER SUMMARY (Tier 3)
