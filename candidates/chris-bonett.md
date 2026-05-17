@@ -31,7 +31,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Low -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Poor -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | No documented conflicts | [MaltaToday, Apr 2023](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house) |

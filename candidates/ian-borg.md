@@ -26,7 +26,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Medium -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Poor -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | Substantial rental income portfolio; ministerial record of developer-friendly decisions | [Newsbook, Apr 2023](https://newsbook.com.mt/en/declaration-of-assets-who-is-the-richest-in-robert-abelas-administration/) · [The Shift, Apr 2022](https://theshiftnews.com/2022/04/08/skeletons-in-the-cabinet-the-stories-ministers-and-parliamentary-secretaries-wish-youd-forget/) |

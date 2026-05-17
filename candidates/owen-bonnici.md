@@ -27,7 +27,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Low -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Poor -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | No significant documented private business interests | [Wikipedia](https://en.wikipedia.org/wiki/Owen_Bonnici) · [The Shift, Apr 2022](https://theshiftnews.com/2022/04/08/skeletons-in-the-cabinet-the-stories-ministers-and-parliamentary-secretaries-wish-youd-forget/) |

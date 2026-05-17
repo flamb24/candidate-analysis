@@ -26,7 +26,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Medium -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Poor -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | Authored transparency rollback covering his own disclosures; no private business conflicts documented | [Wikipedia](https://en.wikipedia.org/wiki/Jonathan_Attard) · [Malta Post](https://themaltapost.com/posts/malta-quietly-hides-ministers-assets-what-this-transparency-rollback-means-for-you) |

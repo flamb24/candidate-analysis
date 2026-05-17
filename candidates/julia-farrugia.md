@@ -25,7 +25,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Low -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Poor -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | No documented conflicts | — |

@@ -26,7 +26,7 @@
 
 ## Business Interests
 <!-- conflict-rating: High -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Partial -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | Cash from alleged murder-plotter; Standards Commissioner ethics breach; tax investigation | [Malta Independent, Jul 2021](https://www.independent.com.mt/articles/2021-07-02/local-news/Rosianne-Cutajar-found-in-breach-of-ethics-by-Standards-czar-over-Yorgen-Fenech-property-deal-6736234883) · [The Shift, Jul 2021](https://theshiftnews.com/2021/07/05/cutajar-couldnt-refund-property-commission-because-shed-already-spent-her-share/) · [MaltaToday, Jul 2021](https://www.maltatoday.com.mt/news/national/110857/rosianne_cutajars_associate_takes_the_fall_for_mdina_property_deal_involving_yorgen_fenech) · [The Shift, Mar 2022](https://theshiftnews.com/2022/03/15/exclusive-taxpayers-paid-rosianne-cutajar-e28000-for-resigning-following-scandal/) · [Lovin Malta, Jul 2021](https://lovinmalta.com/news/rosianne-cutajar-associates-claims-of-ex-gratia-payment-in-yorgen-fenech-property-deal-raises-eyebrows/) |

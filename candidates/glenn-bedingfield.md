@@ -28,7 +28,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Medium -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Partial -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | State foundation chairmanship directing public funds to own constituency | [The Shift, Mar 2022](https://theshiftnews.com/2022/03/01/its-easy-when-its-someone-elses-money/) |

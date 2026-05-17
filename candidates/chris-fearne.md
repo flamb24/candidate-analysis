@@ -27,7 +27,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Medium -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Poor -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | Vitals criminal charges are financial/institutional; no active private business conflicts identified beyond medical career | [Wikipedia](https://en.wikipedia.org/wiki/Chris_Fearne) · [MaltaToday, Jun 2019](https://www.maltatoday.com.mt/news/national/95788/ministers_declare_their_income_and_assets) |

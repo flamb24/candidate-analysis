@@ -26,7 +26,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Unknown -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Partial -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | Insufficient public information | [Wikipedia](https://en.wikipedia.org/wiki/Beppe_Fenech_Adami) |

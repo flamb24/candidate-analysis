@@ -30,7 +30,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Medium -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Poor -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | Active private medical practice concurrent with Health Ministry role | [MaltaToday, Apr 2023](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house) · [Newsbook, Apr 2023](https://newsbook.com.mt/en/declaration-of-assets-who-is-the-richest-in-robert-abelas-administration/) |

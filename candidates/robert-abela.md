@@ -29,7 +29,7 @@
 
 ## Business Interests
 <!-- conflict-rating: High -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Poor -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | Law firm contracts with regulated entities; property development JV with government contractor whose company won large subsequent contracts; undisclosed yacht; IIP citizenship business via spouse | [The Shift, Sep 2021](https://theshiftnews.com/2021/09/14/pa-blocks-information-on-substantial-legal-fees-paid-to-robert-abela/) · [Wikipedia](https://en.wikipedia.org/wiki/Robert_Abela) · [The Shift, Jul 2021](https://theshiftnews.com/2021/07/30/pm-robert-abela-earned-hundreds-of-thousands-of-euros-from-property-development/) · [The Shift, Mar 2022](https://theshiftnews.com/2022/03/05/planning-authority-silent-on-prime-ministers-conflict-of-interest-in-property-deals/) · [The Shift, May 2026](https://theshiftnews.com/2026/05/10/abela-in-a-rush-to-sign-e120-million-direct-order-before-elections/) · [MaltaToday, Apr 2023](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house) · [The Shift, Jan 2022](https://theshiftnews.com/2022/01/24/deeds-not-words/) · [The Shift, Jan 2025](https://theshiftnews.com/2025/01/23/asset-declarations-robert-abela-ignores-transparency-rules-followed-for-30-years/) · [Malta Independent, Mar 2026](https://www.independent.com.mt/articles/2026-03-17/local-news/Robert-Abela-wants-to-hide-his-and-his-ministers-assets-PN-says-6736288067) |

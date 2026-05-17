@@ -29,7 +29,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Medium -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Poor -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | No private interests documented; serious ministerial oversight failures | [MaltaToday, Apr 2023](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house) · [The Shift, Aug 2025](https://theshiftnews.com/2025/08/08/education-minister-mcast-board-ignored-years-of-warnings-on-payroll/) · [The Shift, May 2025](https://theshiftnews.com/2025/05/07/three-reports-on-ethics-breaches-by-standards-commissioner/) |

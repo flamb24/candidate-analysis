@@ -28,7 +28,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Medium -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Poor -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | Substantial multi-country property portfolio; Energy Ministry with planning oversight | [MaltaToday, Jan 2026](https://www.maltatoday.com.mt/news/national/139054/robert_abela_wants_mps_ministers_to_be_subject_to_same_asset_declaration_system_) · [Newsbook, Apr 2023](https://newsbook.com.mt/en/declaration-of-assets-who-is-the-richest-in-robert-abelas-administration/) |

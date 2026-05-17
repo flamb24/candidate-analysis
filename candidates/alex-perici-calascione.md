@@ -26,7 +26,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Low -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Partial -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | No documented conflicts | [MaltaToday, Aug 2017](https://www.maltatoday.com.mt/news/national/79699/thinskinned_reaction_to_news_of_delias_gozo_company_72_million_debt) |

@@ -26,7 +26,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Medium -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Partial -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | Institutional financial governance breach as mayor | [MaltaToday, Jan 2018](https://www.maltatoday.com.mt/news/national/83602/st_pauls_bay_mayor_resigns_accuses_rival_councillors_of_hate) |

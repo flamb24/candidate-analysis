@@ -25,7 +25,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Low -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Partial -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | No documented conflicts | [The Shift, Jun 2022](https://theshiftnews.com/2022/06/25/st-julians-mayor-albert-buttigieg-on-fat-cats-and-need-for-politics-to-return-to-the-common-good/) |

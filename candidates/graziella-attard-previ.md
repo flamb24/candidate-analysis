@@ -25,7 +25,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Low -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Partial -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | No documented conflicts | [Wikipedia](https://en.wikipedia.org/wiki/Graziella_Attard_Previ) |

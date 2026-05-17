@@ -27,7 +27,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Medium -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Poor -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | Donations from regulated industry prior to sector appointment | [MaltaToday, Apr 2023](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house) · [Malta Independent, May 2022](https://www.independent.com.mt/articles/2022-05-27/newspaper-leader/The-Malta-Independent-editorial-Conflict-of-interest-6736243250) |

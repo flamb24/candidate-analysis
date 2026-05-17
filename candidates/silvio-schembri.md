@@ -30,7 +30,7 @@
 
 ## Business Interests
 <!-- conflict-rating: High -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Poor -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | Foundation funds diverted to constituency; spousal promotion at supervised entity; property company co-owned via spouse while Lands Minister | [The Shift, Feb 2022](https://theshiftnews.com/2022/02/25/responsible-gaming-funds-diverted-to-silvio-schembris-electioneering-campaign/) · [The Shift, Dec 2021](https://theshiftnews.com/2021/12/08/malta-business-registrys-e31m-rent-for-bathroom-showroom-prohibitive-auditor-general/) · [The Shift, Dec 2021](https://theshiftnews.com/2021/12/15/silvio-schembri-refuses-to-explain-e17-million-discrepancy-on-mbr-office-lease/) · [The Shift, Mar 2022](https://theshiftnews.com/2022/03/22/minister-gives-wife-e14000-promotion-increasing-her-annual-salary-to-e50000/) · [The Shift, Aug 2023](https://theshiftnews.com/2023/08/05/lands-ministers-wife-sets-up-property-development-firm/) · [The Shift, Mar 2022](https://theshiftnews.com/2022/03/01/its-easy-when-its-someone-elses-money/) |

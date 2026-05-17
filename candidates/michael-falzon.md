@@ -26,7 +26,7 @@
 
 ## Business Interests
 <!-- conflict-rating: High -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Poor -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | Largest declared property portfolio in cabinet (25+ properties); documented Lands patronage concerns | [Newsbook, Apr 2023](https://newsbook.com.mt/en/declaration-of-assets-who-is-the-richest-in-robert-abelas-administration/) · [MaltaToday, Jan 2026](https://www.maltatoday.com.mt/news/national/139054/robert_abela_wants_mps_ministers_to_be_subject_to_same_asset_declaration_system_) · [The Shift, Apr 2022](https://theshiftnews.com/2022/04/08/skeletons-in-the-cabinet-the-stories-ministers-and-parliamentary-secretaries-wish-youd-forget/) |

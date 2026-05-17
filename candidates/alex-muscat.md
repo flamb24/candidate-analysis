@@ -27,7 +27,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Medium -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Poor -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | NSDF constituency spending pattern while holding fund responsibility | [MaltaToday, Apr 2023](https://www.maltatoday.com.mt/news/national/122529/who_earned_what_in_the_robert_abela_administration_in_2022_assets_tabled_in_house) · [The Shift, Mar 2022](https://theshiftnews.com/2022/03/01/its-easy-when-its-someone-elses-money/) |

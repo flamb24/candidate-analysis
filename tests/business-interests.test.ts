@@ -95,11 +95,15 @@ describe("Business interests data integrity", () => {
     ).toEqual([]);
   });
 
-  it("every non-Unknown transparency rating has at least one valid source URL", () => {
+  it("every Poor transparency rating has at least one valid source URL", () => {
+    // "Partial" = filed with Speaker's office but not publicly tabled — a structural
+    // fact about Malta's system, no specific URL exists to cite.
+    // "Poor" = substantive failure to disclose — must be sourced.
+    // "Full" = full public disclosure — also requires a source.
     const failures: string[] = [];
 
     for (const c of allCandidates) {
-      if (c.financialTransparency === "Unknown") continue;
+      if (c.financialTransparency !== "Poor" && c.financialTransparency !== "Full") continue;
 
       const sources = c.businessInterests.transparencySources;
 
@@ -121,7 +125,7 @@ describe("Business interests data integrity", () => {
 
     expect(
       failures,
-      `Transparency-rated candidates missing source URLs:\n  ${failures.join("\n  ")}`
+      `Poor/Full transparency ratings missing source URLs:\n  ${failures.join("\n  ")}`
     ).toEqual([]);
   });
 

@@ -31,7 +31,7 @@
 
 ## Business Interests
 <!-- conflict-rating: High -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Partial -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | FIAU money laundering finding; Erste Bank directorship; Mgarr Developments debts; Bajada family business links; Healey Properties offshore directorship; tax arrears settlement | [MaltaToday, Aug 2017](https://www.maltatoday.com.mt/news/national/79560/adrian_delia_is_business_partner_with_busuttils_exbrother_in_law) · [Wikipedia](https://en.wikipedia.org/wiki/Adrian_Delia) · [lawyers.com profile](https://www.lawyers.com/valletta/malta/adrian-delia-37174956-a/) · [MaltaToday, Aug 2017](https://www.maltatoday.com.mt/news/national/79699/thinskinned_reaction_to_news_of_delias_gozo_company_72_million_debt) · [MaltaToday, Mar 2019](https://www.maltatoday.com.mt/news/national/93826/roughly_500000_deposited_into_delias_jersey_account_linked_to_soho_brothel__media_report) · [MaltaToday, Jun 2019](https://www.maltatoday.com.mt/news/national/95699/london_property_deal_soho_tarnished_adrian_delia) · [MaltaToday, Sep 2017](https://www.maltatoday.com.mt/news/national/80509/adrian_delia_limited_assurance_engagement_shows_16_million_net_worth) |

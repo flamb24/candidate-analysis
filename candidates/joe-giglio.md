@@ -28,7 +28,7 @@
 
 ## Business Interests
 <!-- conflict-rating: Medium -->
-<!-- transparency-rating: Unknown -->
+<!-- transparency-rating: Partial -->
 | Type | Summary | Sources |
 |------|---------|----------|
 | Conflict | Active law firm while Shadow Justice Minister; Pilatus Bank representation cited as conflict | [LexPractis](https://www.lexpractis.com/our-team/dr-joe-giglio/) · [The Shift, Jun 2022](https://theshiftnews.com/2022/06/11/ngo-repubblika-calls-out-pns-home-affairs-spokesperson-former-pilatus-bank-lawyer-joe-giglio/) |
