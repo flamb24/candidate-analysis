@@ -41,14 +41,14 @@ Returning: Deborah Schembri (Labour)
 
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
-| **Jo Etienne Abela** 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Abela mainstream; weakened by healthcare controversy | Healthcare; Gozo | Silent |
+| **Jo Etienne Abela** 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Abela mainstream; weakened by healthcare controversy; contesting D10 and D13 | Healthcare; Gozo | Silent |
 | **Clifton Grima** 🏛️ Gov. | Labour | S&D | Centre-left technocrat | Abela mainstream; MCAST-damaged | Education; sport; research | Silent |
 | **Michael Falzon** 🏛️ Gov. | Labour | S&D | Old-guard centre-left | Institutional pillar; Abela loyalist | Social security; pensions; family | Silent |
 | **Deborah Schembri** | Labour | S&D | Progressive humanist; centre-left | Abela's personal invitee; returning | Civil rights; planning reform; Lands | **Explicitly pro-life** |
-| **Conrad Borg Manché** | PN | EPP (formerly ECR-aligned) | Cross-spectrum; socialist-origin | Crossover newcomer; no PN faction | Environment; family law; housing; developer accountability | Silent |
-| **Joe Giglio** | PN | EPP | Centre-right; rule-of-law | Pragmatic; leadership ambitions; cross-factional | Justice; planning; infrastructure accountability | Silent |
+| **Conrad Borg Manché** | PN | EPP (formerly ECR-aligned) | Cross-spectrum; socialist-origin | Crossover newcomer; no PN faction; contesting D10 and D5 | Environment; family law; housing; developer accountability | Silent |
+| **Joe Giglio** *(Official ballot name: Joseph Giglio)* | PN | EPP | Centre-right; rule-of-law | Pragmatic; leadership ambitions; cross-factional | Justice; planning; infrastructure accountability | Silent |
 | **Eve Borg Bonello** | PN | EPP | Centre-right; progressive on environment/youth | Defnisti-origin; cross-factional | Climate; governance; transparency; youth | **Explicitly pro-life** |
-| **Graziella Attard Previ** | PN | EPP | Centre-right; progressive on civil rights | Modernising wing; Equal Opportunities Forum background | Equality; LGBTQ; domestic violence | Silent |
+| **Graziella Attard Previ** | PN | EPP | Centre-right; progressive on civil rights | Modernising wing; Equal Opportunities Forum background; contesting D9 and D10 | Equality; LGBTQ; domestic violence | Silent |
 | **Albert Buttigieg** | PN | EPP | Centre-right; anti-establishment | Anti-developer outsider within PN | Overdevelopment; community governance; political reform | Silent |
 | **Arnold Cassola** | Momentum | EDP | Centrist-green; anti-corruption first | Founder/leader; personifies party | Constitutional reform; transparency; FOI; environment | Pro-life (personal); free vote (party) |
 
@@ -67,7 +67,7 @@ Returning: Deborah Schembri (Labour)
 | **Conrad Borg Manché** | Mayor of Gżira (2016–2023); Gżira councillor (2024, independent) | Manoel Island foreshore reopened + guardianship agreement; Council of Europe Garden court victory (2023); 60% re-election; personal vote survived party removal | All local government; untested nationally | ⭐⭐⭐⭐⭐ |
 | **Joe Giglio** | MP (2022–); Shadow Minister Justice/Infrastructure | Infrastructure PQ scrutiny (Repubblika-backed); 30-year criminal law career | Pilatus Bank episode; Meli extradition advice disputed | ⭐⭐⭐ |
 | **Eve Borg Bonello** | MP (2022–); Shadow Minister Climate | Project Green exposure (€234k marketing vs trees); Copenhagen renewable energy meeting; incinerator referral; pre-parliament: contributed to Muscat resignation, migrant disembarkation (2020) | Opposition limits delivery; still a law student | ⭐⭐⭐ |
-| **Graziella Attard Previ** | MP (2022–); Shadow Minister Equality; Sliema Mayor (brief) | 6 yrs PN Equal Opportunities Forum president; PACE participation (rainbow families 2025); domestic violence campaign | No legislation; limited mayoral tenure | ⭐⭐⭐ |
+| **Graziella Attard Previ** | MP (2022–); Shadow Minister Equality; Sliema Deputy Mayor (Dec 2021–2022) | 6 yrs PN Equal Opportunities Forum president; PACE participation (rainbow families 2025); domestic violence campaign | No legislation; limited mayoral tenure | ⭐⭐⭐ |
 | **Albert Buttigieg** | MP (2022–); Shadow Minister; St Julian's Mayor (2019–22) | "Revolving door" policy adopted by PN; re-elected mayor with highest PN first-count; persistent overdevelopment advocacy against party establishment | Portfolio not matched to key issues; "fat cats" claim unresolved | ⭐⭐⭐ |
 | **Arnold Cassola** | Italian MP (2006–08); Momentum founder | Marsa Junction EPPO referral; systematic FOI requests; multiple Standards Commissioner referrals; 35-year advocacy | Never in Maltese government; referral outcomes slow/inconclusive | ⭐⭐⭐⭐ |
 
@@ -77,9 +77,10 @@ Returning: Deborah Schembri (Labour)
 
 | Candidate | Controversy | Severity | Nature | Source |
 |---|---|---|---|---|
-| **Jo Etienne Abela** 🏛️ Gov. | Favouritism/nepotism allegations in Health Ministry | 🟡 Medium | Investigative report | [Critical Angle Project, Dec 2024](https://cap.mt/2024/12/12/the-health-ministers-inner-circle/) |
+| **Jo Etienne Abela** 🏛️ Gov. | Favouritism/nepotism allegations in Health Ministry — Standards Commissioner investigation formally closed April 2026 with no ethics breach found | 🟡 Medium | Investigative report; resolved | [Critical Angle Project, Dec 2024](https://cap.mt/2024/12/12/the-health-ministers-inner-circle/) · [Malta Independent, Apr 2026](https://www.independent.com.mt/articles/2026-04-07/local-news/No-ethics-breach-found-in-Gozo-Hospital-recruitment-allegations-6736288593) |
 | **Jo Etienne Abela** 🏛️ Gov. | Political use of ministerial resources (sister-in-law council campaign) | 🟡 Medium | Reported pattern | [The Shift News, May 2024](https://theshiftnews.com/2024/05/09/ministers-seek-to-consolidate-stronghold-in-gozo-with-local-council-elections/) |
 | **Jo Etienne Abela** 🏛️ Gov. | Brother reportedly in Gozo Ministry "phantom job" | 🟡 Medium | Reported allegation | [The Shift News](https://theshiftnews.com/) |
+| **Jo Etienne Abela** 🏛️ Gov. | April 2026: hosted a taxpayer-funded celebration at the Mediterranean Conference Centre for the Medical School's 350th anniversary; health insiders told The Shift it was "an excuse to launch the minister's personal re-election campaign using public funds"; minister did not reply to budget questions | 🟡 Medium | Ministerial accountability; public funds for political purposes | [The Shift News, Apr 2026](https://theshiftnews.com/2026/04/09/health-minister-celebrates-as-new-medical-school-remains-in-limbo/) |
 | **Clifton Grima** 🏛️ Gov. | MCAST €2.3m fraud — ignored NAO audit warnings (2019 + 2023) | 🔴 High | Ministerial oversight failure | [The Shift News, Aug 2025](https://theshiftnews.com/2025/08/08/education-minister-mcast-board-ignored-years-of-warnings-on-payroll/) · [Newsbook, Aug 2025](https://newsbook.com.mt/en/greens-demand-resignations-over-mcast-financial-control-failures/) · [Malta Independent, Sep 2025](https://www.independent.com.mt/articles/2025-09-14/blogs-opinions/How-Clifton-Grima-let-it-happen-6736273056) |
 | **Clifton Grima** 🏛️ Gov. | Standards Commissioner ethics breach — refused to apologise | 🔴 High | Formal ethics finding; defiance of Commissioner | [The Shift News, May 2025](https://theshiftnews.com/2025/05/07/three-reports-on-ethics-breaches-by-standards-commissioner/) · [The Shift News, Sep 2025](https://theshiftnews.com/2025/09/09/the-resignation-that-would-never-happen-in-malta/) |
 | **Clifton Grima** 🏛️ Gov. | Chief of staff "unfit for purpose" leaked recordings | 🟡 Medium | Reputational damage at campaign start | [The Shift News, Apr 2026](https://theshiftnews.com/2026/04/30/aims-director-who-branded-minister-unfit-for-purpose-operating-without-contract-or-job-description/) |
@@ -91,6 +92,7 @@ Returning: Deborah Schembri (Labour)
 | **Conrad Borg Manché** | Ideological contradiction — socialist joins centre-right PN | 🟡 Medium | Political credibility question | [MaltaToday, Oct 2023](https://www.maltatoday.com.mt/news/national/125335/conrad_borg_manch_quits_labour_remains_as_independent_gira_mayor) · [Newsbook, May 2026](https://newsbook.com.mt/en/former-labour-mayor-conrad-borg-manche-to-contest-election-with-pn/) |
 | **Conrad Borg Manché** | Alleged bribe offer (unverified; refused; not denied by other party) | 🟡 Medium | Unverified allegation of inducement | [Newsbook, Jun 2024](https://newsbook.com.mt/en/gzira-petrol-station-owner-tried-buying-my-silence-borg-manche-says/) |
 | **Conrad Borg Manché** | Historical press freedom complaint (Change.org, 2016) | 🟢 Low | Old, unresolved, low-profile | [Change.org, Sep 2016](https://www.change.org/p/joseph-muscat-the-mayor-of-gzira-conrad-borg-manche-and-the-freedom-of-the-press) |
+| **Conrad Borg Manché** | May 2026: publicly claimed he was offered a consultant position worth thousands during the final nominations week in an apparent attempt to dissuade him from contesting; he refused and disclosed the offer publicly | 🟡 Medium | Alleged inducement; unverified by other party; distinct from 2024 petrol station bribe allegation | [Lovin Malta, May 2026](https://lovinmalta.com/news/general-election-2026/conrad-borg-manche-consultancy-offer-claims/) |
 | **Joe Giglio** | Pilatus Bank/Efimova whistleblower comments — internal PN criticism | 🔴 High | Self-caused; civil society + PN backlash | [The Shift News, Jun 2022](https://theshiftnews.com/2022/06/11/ngo-repubblika-calls-out-pns-home-affairs-spokesperson-former-pilatus-bank-lawyer-joe-giglio/) · [MaltaToday, Jun 2022](https://www.maltatoday.com.mt/news/national/117240/giglio_had_reservations_about_malevolent_egrant_whistleblower_maria_efimova) · [Newsbook, Jun 2022](https://newsbook.com.mt/en/joe-giglio-rubbishes-egrant-whistleblower-as-manipulative/) · [Lovin Malta, Jun 2022](https://lovinmalta.com/news/watch-joe-giglio-doubts-maria-efimovas-credibility-and-says-pn-much-larger-than-repubblika/) |
 | **Joe Giglio** | Daniel Meli extradition legal advice disputed; US request later dismissed | 🟡 Medium | Professional judgment questioned | [MaltaToday](https://www.maltatoday.com.mt/news/national/130755/giglio_defends_meli_advice_to_accept_us_extradition_) · [Lovin Malta, Aug 2024](https://lovinmalta.com/news/daniel-melis-former-lawyer-joe-giglio-calls-for-thorough-extradition-law-overhaul/) · [Malta Independent, May 2025](https://www.independent.com.mt/articles/2025-05-12/local-news/Daniel-Meli-wins-legal-battle-to-avoid-extradition-to-US-6736270042) |
 | **Eve Borg Bonello** | Accepted gender quota seat despite publicly opposing the mechanism | 🟢 Low | Principled inconsistency; defended | [Lovin Malta, Apr 2022](https://lovinmalta.com/news/watch-eve-borg-bonello-would-still-vote-against-gender-quotas-even-after-being-elected-through-it/) |
@@ -112,11 +114,11 @@ Returning: Deborah Schembri (Labour)
 | **Jo Etienne Abela** 🏛️ Gov. | [Facebook](https://www.facebook.com/abelajoetienne/) · [X/Twitter](https://x.com/joetienneabela) | Moderate (~14k FB) | Professional; defensive on health | Healthcare expertise; Gozo connection | 📡 Moderate |
 | **Clifton Grima** 🏛️ Gov. | [Facebook](https://www.facebook.com/grimaclifton/) · [Instagram](https://www.instagram.com/clifton.grima/) | Moderate (~4.3k IG) | Ministerial; positive-focused; avoids MCAST | Education strategy; sport; EU role | 📡 Moderate |
 | **Michael Falzon** 🏛️ Gov. | [Facebook](https://www.facebook.com/michael.falzon/) · [X/Twitter](https://x.com/drfalzon) | Low (~25k FB; ~1.4k X) | Traditional; institutional | Social security; family policy | 📶 Low |
-| **Deborah Schembri** | Facebook (account not publicly confirmed) | Moderate | Personal narrative; "fire never died" | Civil rights legacy; Lands reform; planning | 📡 Moderate |
+| **Deborah Schembri** | [Facebook](https://www.facebook.com/deborah.schembri.3/) | Moderate | Personal narrative; "fire never died" | Civil rights legacy; Lands reform; planning | 📡 Moderate |
 | **Conrad Borg Manché** | [Facebook](https://www.facebook.com/borgmancheconrad/) | High (~10,000+ FB) | Personal brand; non-partisan framing | Environment; Manoel Island; family law; housing | 📢 High |
 | **Joe Giglio** | [Facebook](https://www.facebook.com/joegigliomt/) · [Website](https://www.joegiglio.mt) | High | Authoritative; legal framing | Rule of law; planning; accountability | 📢 High |
 | **Eve Borg Bonello** | [Facebook](https://www.facebook.com/BorgBonelloEve/) · [Instagram](https://www.instagram.com/eveborgbonello/) · [X/Twitter](https://x.com/eveborgbonello) · [Website](https://eveborgbonello.com/) | High (~3.7k IG; 160k views protest video) | Direct; passionate; youth-oriented | Climate; governance; youth; transparency | 📢 High |
-| **Graziella Attard Previ** | [Facebook](https://www.facebook.com/graziella2511/) · Instagram (not confirmed) | Moderate | Policy; equality-focused | Domestic violence; LGBTQ; women | 📡 Moderate |
+| **Graziella Attard Previ** | [Facebook](https://www.facebook.com/graziella2511/) · Instagram (not confirmed) | Moderate (~11k Facebook) | Policy; equality-focused | Domestic violence; LGBTQ; women | 📡 Moderate |
 | **Albert Buttigieg** | [Facebook](https://www.facebook.com/AlbertButtigiegMP/) · [Website](https://www.albertbuttigieg.com/) | Moderate-high | Morally earnest; community | Overdevelopment; developer accountability; community | 📡 Moderate |
 | **Arnold Cassola** | [Facebook](https://www.facebook.com/CassolaArnold/) · [Website](https://arnoldcassola.eu/en/) | High (~33k FB; 3rd EP first-counts 2024) | Policy-heavy; accountability-focused | Constitutional reform; FOI; anti-corruption | 📢 High |
 
@@ -160,11 +162,11 @@ PN (new/first-time with profile): Raymond Gatt, David Anthony Bonello, Joseph Aq
 | **Graham Bencini** | PN | EPP | Centre-right; fiscal conservative | Party loyalist; accountancy background | Finance; social security; EU funds | Silent |
 | **Noel Muscat** | PN | EPP | Centre-right pragmatist | Community PN; no strong faction | Community security; local governance; sport | Silent |
 | **Mark Anthony Sammut** | PN | EPP | Centre-right; reform-oriented | Defnisti-associated; PN General Council president | Political system reform; transport; anti-polarisation | Silent |
-| **Graziella Galea** | PN | EPP | Centre-right; PN dynasty | Institutional loyalist; no strong current faction | Inclusion; voluntary sector | Silent |
+| **Graziella Galea** | PN | EPP | Centre-right; PN dynasty | Institutional loyalist; D12 primary; D10 new territory | Inclusion; voluntary sector | Silent |
 | **Errol Cutajar** | PN | EPP | Centre-right; moderate | Prior candidacies; no strong faction | Health; infrastructure | Silent |
 | **Raymond Gatt** | PN | EPP | Centre-right; healthcare focus | New candidate; internally described as "star" | Healthcare; hospitals | Silent |
 | **David Anthony Bonello** | PN | EPP | Centre-right | Party-institution loyalist; NET TV background | Unknown | Silent |
-| **Joseph Aquilina** | PN | EPP | Centre-right pragmatist | New candidate; local council base (Sliema) | Community governance | Silent |
+| **Joseph Aquilina** *(Official ballot name: Joseph Mary Aquilina)* | PN | EPP | Centre-right pragmatist | New candidate; local council base (Sliema) | Community governance | Silent |
 | **Rachel Antoinette Williams** | PN | EPP | Centre-right; young | New candidate; St Paul's Bay council; iGaming sector | Law; community | Silent |
 
 **Tier 2 notes:** This tier is almost entirely silent on abortion — a striking uniformity. The PN candidates here mostly sit in the party's pragmatic centre without strong factional identity. Sammut is the exception — his "Break the System" reform agenda gives him the most distinctive positioning in the tier.
@@ -216,12 +218,12 @@ PN (new/first-time with profile): Raymond Gatt, David Anthony Bonello, Joseph Aq
 | Candidate | Platforms & Links | Approx. Reach | Campaign Tone | Key Campaign Message | Rating |
 |---|---|---|---|---|---|
 | **Rebecca Buttigieg** 🏛️ Gov. | [Facebook](https://www.facebook.com/buttigiegrebecca/) · [Instagram](https://www.instagram.com/buttigieg.r/) | Moderate (~7.8k FB; ~2.3k IG) | Professional; policy-oriented | Equality; civil rights; women's health | 📡 Moderate |
-| **Katya De Giovanni** | Facebook (account not confirmed) | Low | Institutional; international | Mediterranean affairs; OSCE; PAM | 📶 Low |
+| **Katya De Giovanni** | [Facebook](https://www.facebook.com/DeGiovanniKatya/) (~7.8k likes) | Institutional; international | Mediterranean affairs; OSCE; PAM | 📡 Moderate |
 | **Janice Abela Chetcuti** | [Instagram](https://www.instagram.com/janicechetcuti/) · Facebook | Low (~600 IG) | Policy-focused; mild | Animal welfare; environment; consumer rights | 📶 Low |
 | **Graham Bencini** | [Facebook](https://www.facebook.com/GrahamBencini/) · [LinkedIn](https://www.linkedin.com/in/graham-bencini-a257654a/) · [Website](https://www.grahambencini.com/) | Moderate (~5.6k FB) | Professional; business-oriented | Finance; cost of living; fiscal accountability | 📡 Moderate |
 | **Noel Muscat** | [Facebook](https://www.facebook.com/NoelMuscat.eu/) · 101 radio | Moderate (~several k) | Community; pragmatic | Local governance; security; sport | 📡 Moderate |
 | **Mark Anthony Sammut** | [Facebook](https://www.facebook.com/marksammutinfo/) | High (~17.3k FB) | Measured; moderate; reform-oriented | Political system reform; anti-polarisation | 📢 High |
-| **Graziella Galea** | Facebook (account not confirmed) | Low-moderate | Institutional; community | Inclusion; voluntary sector | 📶 Low |
+| **Graziella Galea** | [Facebook](https://www.facebook.com/ilgaga/) | Low-moderate | Institutional; community | Inclusion; voluntary sector | 📶 Low |
 | **Errol Cutajar** | Facebook · [Website](https://errolcutajar.com/) | Low | Professional; PN standard | Health; infrastructure | 📶 Low |
 | **Raymond Gatt** | Not identified | Minimal | Medical professional | Healthcare; hospitals | 📶 Low |
 | **David Anthony Bonello** | Not identified | Minimal | Party-institutional | PN standard messaging | 📶 Low |
@@ -236,7 +238,7 @@ PN (new/first-time with profile): Raymond Gatt, David Anthony Bonello, Joseph Aq
 |---|---|---|---|---|---|---|
 | **Mark Anthony Sammut** | PN | Centre-right; reform | ⭐⭐⭐ | 🟢 Low | 📢 | ✅ Competitive |
 | **Rebecca Buttigieg** 🏛️ Gov. | Labour | Progressive centre-left | ⭐⭐⭐ | 🟢 None | 📡 | ✅ Possible seat |
-| **Katya De Giovanni** | Labour | Centre-left; internationalist | ⭐⭐⭐ | 🟡 Medium | 📶 | ✅ Possible seat |
+| **Katya De Giovanni** | Labour | Centre-left; internationalist | ⭐⭐⭐ | 🟡 Medium | 📡 | ✅ Possible seat |
 | **Noel Muscat** | PN | Centre-right pragmatist | ⭐⭐⭐ | 🟢 Low | 📡 | ✅ Competitive |
 | **Janice Abela Chetcuti** | PN | Centre-right; moderate | ⭐⭐ | 🟢 Low | 📶 | ✅ Possible seat |
 | **Graham Bencini** | PN | Centre-right; fiscal | ⭐⭐ | 🟢 Low | 📡 | ✅ Possible seat |
@@ -256,7 +258,7 @@ PN (new/first-time with profile): Raymond Gatt, David Anthony Bonello, Joseph Aq
 *Negligible electability. Minimal or no public profile, no documented political track record, and exist primarily to broaden the ticket or spread transfer votes.*
 
 **Candidates in this tier (13):**
-Labour: Miguel Balzan, Tania Borg, Lorna Borg Vassallo, David Caruana, Rosette Cassar, Edward Cassar Delia, Lisa Cassar Shaw, Damian Spiteri, Mariah Meli
+Labour: Miguel Balzan, Tania Borg, Lorna Borg Vassallo, David Caruana, Rosette Cassar, Edward Cassar Delia, Lisa Cassar Shaw, Damien Spiteri, Mariah Meli
 PN: Marija Elena Gauci
 Momentum: Pierre Schembri-Wismayer
 ADPD: Marcus Lauri
@@ -275,7 +277,7 @@ Aħwa Maltin: Josephine Borg
 | **Rosette Cassar** | Labour | S&D | Centre-left | New face; no profile | Unknown | Silent |
 | **Edward Cassar Delia** | Labour | S&D | Traditional left; social democrat | Old-guard values framing | Sport; culture; environment | Silent |
 | **Lisa Cassar Shaw** | Labour | S&D | Centre-left | Unknown | Unknown | Silent |
-| **Damian Spiteri** | Labour | S&D | Centre-left | Repeat candidate; no profile | Unknown | Silent |
+| **Damien Spiteri** | Labour | S&D | Centre-left | Repeat candidate; no profile | Unknown | Silent |
 | **Mariah Meli** | Labour | S&D | Centre-left | New face; no profile | Unknown | Silent |
 | **Marija Elena Gauci** | PN | EPP | Centre-right | Repeat candidate; no strong profile | Unknown | Silent |
 | **Pierre Schembri-Wismayer** | Momentum | EDP | Centrist; science-ethics focused | First-time candidate; academic | Science; medical ethics; public service | **Explicitly pro-life** |
@@ -297,7 +299,7 @@ Aħwa Maltin: Josephine Borg
 | **Rosette Cassar** | None confirmed | None documented | ⭐ |
 | **Edward Cassar Delia** | None elected; casual election 2022 (not elected) | Sports science career; club partnerships Malta + Italy | ⭐⭐ |
 | **Lisa Cassar Shaw** | None confirmed | None documented | ⭐ |
-| **Damian Spiteri** | None elected | None documented | ⭐ |
+| **Damien Spiteri** | None elected | None documented | ⭐ |
 | **Mariah Meli** | None confirmed | None documented | ⭐ |
 | **Marija Elena Gauci** | Prior candidacies (D9, D10); not elected | None documented | ⭐ |
 | **Pierre Schembri-Wismayer** | Academic; researcher | Peer-reviewed research; European-funded X-lab TV series; Kenya medical volunteering | ⭐⭐ |
@@ -317,7 +319,7 @@ Aħwa Maltin: Josephine Borg
 | **Rosette Cassar** | None found | 🟢 None |
 | **Edward Cassar Delia** | None found | 🟢 None |
 | **Lisa Cassar Shaw** | None found | 🟢 None |
-| **Damian Spiteri** | None found | 🟢 None |
+| **Damien Spiteri** | None found | 🟢 None |
 | **Mariah Meli** | None found | 🟢 None |
 | **Marija Elena Gauci** | None found | 🟢 None |
 | **Pierre Schembri-Wismayer** | None found | 🟢 None |
@@ -339,7 +341,7 @@ Aħwa Maltin: Josephine Borg
 | **Rosette Cassar** | Not identified | Minimal | Unknown | Unknown | 📵 None |
 | **Edward Cassar Delia** | Facebook · [IElectMalta profile](https://ielectmalta.com/candidates/edward-delia-cassar/) | Low | Community; sports-focused | Sport; culture; environment | 📶 Low |
 | **Lisa Cassar Shaw** | Not identified | Minimal | Unknown | Unknown | 📵 None |
-| **Damian Spiteri** | Not identified | Minimal | Unknown | Unknown | 📵 None |
+| **Damien Spiteri** | Not identified | Minimal | Unknown | Unknown | 📵 None |
 | **Mariah Meli** | Not identified | Minimal | Unknown | Unknown | 📵 None |
 | **Marija Elena Gauci** | Not identified | Minimal | Unknown | Unknown | 📵 None |
 | **Pierre Schembri-Wismayer** | Not identified | Minimal | Academic | Science; ethics; constitutional reform | 📶 Low |
@@ -360,7 +362,7 @@ Aħwa Maltin: Josephine Borg
 | **Tania Borg** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **Rosette Cassar** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **Lisa Cassar Shaw** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
-| **Damian Spiteri** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
+| **Damien Spiteri** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **Mariah Meli** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **Marija Elena Gauci** | PN | Centre-right | ⭐ | 🟢 None | 📵 | ✗ |
 | **Marcus Lauri** | ADPD | Left-wing green | ⭐ | 🟢 None | 📵 | ✗ |
@@ -406,7 +408,7 @@ Aħwa Maltin: Josephine Borg
 | **Notable** | Arnold Cassola | Momentum | ⭐⭐⭐⭐ | 🟢 | 📢 | ✅ Competitive (transfers) |
 | **Second-tier** | Mark Anthony Sammut | PN | ⭐⭐⭐ | 🟢 | 📢 | ✅ Competitive |
 | **Second-tier** | Rebecca Buttigieg 🏛️ Gov. | Labour | ⭐⭐⭐ | 🟢 | 📡 | ✅ Possible |
-| **Second-tier** | Katya De Giovanni | Labour | ⭐⭐⭐ | 🟡 | 📶 | ✅ Possible |
+| **Second-tier** | Katya De Giovanni | Labour | ⭐⭐⭐ | 🟡 | 📡 | ✅ Possible |
 | **Second-tier** | Noel Muscat | PN | ⭐⭐⭐ | 🟢 | 📡 | ✅ Competitive |
 | **Second-tier** | Janice Abela Chetcuti | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Graham Bencini | PN | ⭐⭐ | 🟢 | 📡 | ✅ Possible |
@@ -424,7 +426,7 @@ Aħwa Maltin: Josephine Borg
 | **List-filler** | Tania Borg | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Rosette Cassar | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Lisa Cassar Shaw | Labour | ⭐ | 🟢 | 📵 | ✗ |
-| **List-filler** | Damian Spiteri | Labour | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | Damien Spiteri | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Mariah Meli | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Marija Elena Gauci | PN | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Marcus Lauri | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
@@ -432,7 +434,7 @@ Aħwa Maltin: Josephine Borg
 
 ---
 
-*Tables compiled 16 May 2026. Data sourced from party profiles, parliamentary records, news archives (MaltaToday, The Shift News, The Malta Independent, Newsbook, Lovin Malta, The Maltese Herald), official government sources, and the District 10 research series. Electability assessments are editorial judgements — not predictions. Social media URLs verified at time of research; accounts may change.*
+*Tables compiled 16 May 2026. Deep research verification applied 17 May 2026. Data sourced from party profiles, parliamentary records, news archives (MaltaToday, The Shift News, The Malta Independent, Newsbook, Lovin Malta, The Maltese Herald), official government sources, and the District 10 research series. Electability assessments are editorial judgements — not predictions. Social media URLs verified at time of research; accounts may change.*
 
 ---
 
@@ -443,9 +445,9 @@ Aħwa Maltin: Josephine Borg
 | **Jo Etienne Abela** 🏛️ Gov. | Labour | Notable | [Link](https://www.facebook.com/abelajoetienne/) | — | [Link](https://x.com/joetienneabela) | — |
 | **Clifton Grima** 🏛️ Gov. | Labour | Notable | [Link](https://www.facebook.com/grimaclifton/) | [Link](https://www.instagram.com/clifton.grima/) | — | — |
 | **Michael Falzon** 🏛️ Gov. | Labour | Notable | [Link](https://www.facebook.com/michael.falzon/) | — | [Link](https://x.com/drfalzon) | — |
-| **Deborah Schembri** | Labour | Notable | Not confirmed | — | — | — |
+| **Deborah Schembri** | Labour | Notable | [Link](https://www.facebook.com/deborah.schembri.3/) | — | — | — |
 | **Rebecca Buttigieg** 🏛️ Gov. | Labour | Second-tier | [Link](https://www.facebook.com/buttigiegrebecca/) | [Link](https://www.instagram.com/buttigieg.r/) | — | — |
-| **Katya De Giovanni** | Labour | Second-tier | Not confirmed | — | — | — |
+| **Katya De Giovanni** | Labour | Second-tier | [Link](https://www.facebook.com/DeGiovanniKatya/) | — | — | — |
 | **Miguel Balzan** | Labour | List-filler | Not identified | — | — | — |
 | **Tania Borg** | Labour | List-filler | Not identified | — | — | — |
 | **Lorna Borg Vassallo** | Labour | List-filler | Not confirmed | — | — | — |
@@ -453,7 +455,7 @@ Aħwa Maltin: Josephine Borg
 | **Rosette Cassar** | Labour | List-filler | Not identified | — | — | — |
 | **Edward Cassar Delia** | Labour | List-filler | Not confirmed | — | — | [IElectMalta](https://ielectmalta.com/candidates/edward-delia-cassar/) |
 | **Lisa Cassar Shaw** | Labour | List-filler | Not identified | — | — | — |
-| **Damian Spiteri** | Labour | List-filler | Not identified | — | — | — |
+| **Damien Spiteri** | Labour | List-filler | Not identified | — | — | — |
 | **Mariah Meli** | Labour | List-filler | Not identified | — | — | — |
 | **Conrad Borg Manché** | PN | Notable | [Link](https://www.facebook.com/borgmancheconrad/) | — | — | — |
 | **Joe Giglio** | PN | Notable | [Link](https://www.facebook.com/joegigliomt/) | — | — | [joegiglio.mt](https://www.joegiglio.mt) |
@@ -464,7 +466,7 @@ Aħwa Maltin: Josephine Borg
 | **Graham Bencini** | PN | Second-tier | [Link](https://www.facebook.com/GrahamBencini/) | — | — | [grahambencini.com](https://www.grahambencini.com/) · [LinkedIn](https://www.linkedin.com/in/graham-bencini-a257654a/) |
 | **Noel Muscat** | PN | Second-tier | [Link](https://www.facebook.com/NoelMuscat.eu/) | — | — | — |
 | **Mark Anthony Sammut** | PN | Second-tier | [Link](https://www.facebook.com/marksammutinfo/) | — | — | — |
-| **Graziella Galea** | PN | Second-tier | Not confirmed | — | — | — |
+| **Graziella Galea** | PN | Second-tier | [Link](https://www.facebook.com/ilgaga/) | — | — | — |
 | **Errol Cutajar** | PN | Second-tier | Not confirmed | — | — | [errolcutajar.com](https://errolcutajar.com/) |
 | **Raymond Gatt** | PN | Second-tier | Not identified | — | — | — |
 | **David Anthony Bonello** | PN | Second-tier | Not identified | — | — | — |
