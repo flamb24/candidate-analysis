@@ -103,6 +103,47 @@ export default function MasterComparison({
   const [sortKey, setSortKey] = useState<SortKey>("default");
   const [sortDesc, setSortDesc] = useState(true);
 
+  // Restore filter state from sessionStorage on mount
+  useEffect(() => {
+    try {
+      const saved = sessionStorage.getItem("distrett-filters");
+      if (!saved) return;
+      const f = JSON.parse(saved) as Record<string, unknown>;
+      if (Array.isArray(f.parties))
+        setSelectedParties(new Set((f.parties as string[]).filter((p) => parties.includes(p))));
+      if (Array.isArray(f.tiers))
+        setSelectedTiers(new Set((f.tiers as Tier[]).filter((t) => (TIER_ORDER as string[]).includes(t))));
+      if (Array.isArray(f.districts) && districts)
+        setSelectedDistricts(new Set((f.districts as number[]).filter((d) => districts.includes(d))));
+      if (Array.isArray(f.severities))
+        setSelectedSeverities(new Set((f.severities as Severity[]).filter((s) => (SEVERITY_ORDER as string[]).includes(s))));
+      if (Array.isArray(f.stars))
+        setSelectedStars(new Set((f.stars as number[]).filter((s) => TRACK_RECORD_ORDER.includes(s))));
+      if (typeof f.search === "string") setSearch(f.search);
+      if (f.view === "cards" || f.view === "table") setView(f.view);
+      if (typeof f.sortKey === "string") setSortKey(f.sortKey as SortKey);
+      if (typeof f.sortDesc === "boolean") setSortDesc(f.sortDesc);
+    } catch { /* ignore */ }
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  // Persist filter state to sessionStorage whenever it changes
+  useEffect(() => {
+    try {
+      sessionStorage.setItem("distrett-filters", JSON.stringify({
+        parties: [...selectedParties],
+        tiers: [...selectedTiers],
+        districts: [...selectedDistricts],
+        severities: [...selectedSeverities],
+        stars: [...selectedStars],
+        search,
+        view,
+        sortKey,
+        sortDesc,
+      }));
+    } catch { /* ignore */ }
+  }, [selectedParties, selectedTiers, selectedDistricts, selectedSeverities, selectedStars, search, view, sortKey, sortDesc]);
+
   // Drag-to-dismiss (mobile bottom sheet)
   const dragStartY = useRef(0);
   const [dragY, setDragY] = useState(0);
