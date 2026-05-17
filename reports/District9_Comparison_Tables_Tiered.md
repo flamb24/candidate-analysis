@@ -3,7 +3,7 @@
 
 > District 9 covers: Għargħur, Msida, Swatar, Pietà, San Ġwann, Kappara, Swieqi, Madliena and Ta'Xbiex.
 >
-> The 27 District 9 candidates are grouped into three tiers. This is a high-profile PN-leaning district — the same candidate field as D10 but for the inland/northern-harbour belt.
+> The 28 District 9 candidates are grouped into three tiers. This is a high-profile PN-leaning district — the same candidate field as D10 but for the inland/northern-harbour belt.
 >
 > **Rating scales:**
 > - **Track Record:** ⭐ (minimal/none) to ⭐⭐⭐⭐⭐ (exceptional)
@@ -20,7 +20,7 @@
 |---|---|---|
 | **Notable** | Near-certain or likely seat; high profile | 8 candidates |
 | **Second-tier** | Competitive or possible seat | 8 candidates |
-| **List-fillers** | Negligible electability | 11 candidates |
+| **List-fillers** | Negligible electability | 12 candidates |
 
 ---
 
@@ -147,6 +147,7 @@ Labour: Vania Agius Tabone, Clinton-Domenic Azzopardi Flores
 # TIER 3 — LIST-FILLERS
 
 Labour list-fillers in D9: Miguel Balzan, Tania Borg, Lorna Borg Vassallo, David Caruana, Lisa Cassar Shaw, Mariah Meli
+PN: James Aaron Ellul
 Imperium Europa: Eman Alexander Cross
 Aħwa Maltin: Josephine Borg
 
@@ -158,6 +159,7 @@ Aħwa Maltin: Josephine Borg
 | **List-filler** | David Caruana | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Lisa Cassar Shaw | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Mariah Meli | Labour | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | James Aaron Ellul | PN | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Eman Alexander Cross | Imperium Europa | ⭐ | 🔴 | 📶 | ✗ |
 | **List-filler** | Josephine Borg | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
 
@@ -216,6 +218,7 @@ Aħwa Maltin: Josephine Borg
 | **List-filler** | David Caruana | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Lisa Cassar Shaw | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Mariah Meli | Labour | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | James Aaron Ellul | PN | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Eman Alexander Cross | Imperium Europa | ⭐ | 🔴 | 📶 | ✗ |
 | **List-filler** | Josephine Borg | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
 

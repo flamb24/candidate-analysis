@@ -18,9 +18,9 @@
 
 | Tier | Criteria | Count |
 |---|---|---|
-| **Notable** | Near-certain or likely seat; high public profile; individually documented track record | 11 candidates |
+| **Notable** | Near-certain or likely seat; high public profile; individually documented track record | 10 candidates |
 | **Second-tier** | Competitive or possible seat; some documented record; individual public identity | 12 candidates |
-| **List-fillers** | Negligible electability; minimal or no public profile; exist primarily to broaden the ticket | 12 candidates |
+| **List-fillers** | Negligible electability; minimal or no public profile; exist primarily to broaden the ticket | 13 candidates |
 
 ---
 
@@ -29,10 +29,10 @@
 # TIER 1 — NOTABLE CANDIDATES
 *Near-certain or likely seats. Individually established profile, documented record, and meaningful personal vote.*
 
-**Candidates in this tier (11):**
+**Candidates in this tier (10):**
 Labour: Jo Etienne Abela, Clifton Grima, Michael Falzon
 PN: Conrad Borg Manché, Joe Giglio, Eve Borg Bonello, Graziella Attard Previ, Albert Buttigieg
-Third parties: Arnold Cassola (Momentum), Carmel Cacopardo (ADPD)
+Third parties: Arnold Cassola (Momentum)
 Returning: Deborah Schembri (Labour)
 
 ---
@@ -51,9 +51,8 @@ Returning: Deborah Schembri (Labour)
 | **Graziella Attard Previ** | PN | EPP | Centre-right; progressive on civil rights | Modernising wing; Equal Opportunities Forum background | Equality; LGBTQ; domestic violence | Silent |
 | **Albert Buttigieg** | PN | EPP | Centre-right; anti-establishment | Anti-developer outsider within PN | Overdevelopment; community governance; political reform | Silent |
 | **Arnold Cassola** | Momentum | EDP | Centrist-green; anti-corruption first | Founder/leader; personifies party | Constitutional reform; transparency; FOI; environment | Pro-life (personal); free vote (party) |
-| **Carmel Cacopardo** | ADPD | EGP | Left-wing green | Co-founder of Malta's Green movement | Environmental law; proportional representation; ODZ | **Pro-choice (decriminalisation)** |
 
-**Tier 1 notes:** This tier contains the only pro-choice candidate in the district (Cacopardo) and two of the four explicitly pro-life candidates (Schembri, Borg Bonello). It also contains the only crossover candidate (Borg Manché, former Labour mayor joining PN) and the widest ideological spread in the field — from right-wing populist-adjacent (Borg Manché's ECR alignment) to hard-left green (Cacopardo).
+**Tier 1 notes:** This tier contains two explicitly pro-life candidates (Schembri, Borg Bonello). It also contains the only crossover candidate (Borg Manché, former Labour mayor joining PN) and a wide ideological spread in the field.
 
 ---
 
@@ -71,7 +70,6 @@ Returning: Deborah Schembri (Labour)
 | **Graziella Attard Previ** | MP (2022–); Shadow Minister Equality; Sliema Mayor (brief) | 6 yrs PN Equal Opportunities Forum president; PACE participation (rainbow families 2025); domestic violence campaign | No legislation; limited mayoral tenure | ⭐⭐⭐ |
 | **Albert Buttigieg** | MP (2022–); Shadow Minister; St Julian's Mayor (2019–22) | "Revolving door" policy adopted by PN; re-elected mayor with highest PN first-count; persistent overdevelopment advocacy against party establishment | Portfolio not matched to key issues; "fat cats" claim unresolved | ⭐⭐⭐ |
 | **Arnold Cassola** | Italian MP (2006–08); Momentum founder | Marsa Junction EPPO referral; systematic FOI requests; multiple Standards Commissioner referrals; 35-year advocacy | Never in Maltese government; referral outcomes slow/inconclusive | ⭐⭐⭐⭐ |
-| **Carmel Cacopardo** | ADPD co-founder (1989); environmental lawyer | 35+ years Green advocacy; environmental legal cases; written extensively on planning/constitutional reform | Never elected to Maltese parliament; purely external advocacy record | ⭐⭐⭐⭐ |
 
 ---
 
@@ -102,7 +100,6 @@ Returning: Deborah Schembri (Labour)
 | **Albert Buttigieg** | "Fat cats" claim — PN investigation found "no proof" | 🟢 Low | He was the alleged target; probe inconclusive | [The Shift News, Jun 2022](https://theshiftnews.com/2022/06/25/st-julians-mayor-albert-buttigieg-on-fat-cats-and-need-for-politics-to-return-to-the-common-good/) |
 | **Arnold Cassola** | Third-party fragmentation/"ego" split from ADPD | 🟢 Low | Internal third-party politics | [The Maltese Herald, Mar 2026](https://themalteseherald.com/2026/03/02/momentum-seeks-coalition-with-adpd/) |
 | **Arnold Cassola** | Ageist remarks by Jason Micallef (Cassola was the victim) | 🟢 Low | Victim; Micallef's conduct was the issue | [Malta Independent, Nov 2025](https://www.independent.com.mt/articles/2025-11-06/local-news/Momentum-expresses-support-for-Cassola-after-ageist-remarks-by-Jason-Micallef-6736284584) |
-| **Carmel Cacopardo** | ADPD/Momentum split (ideological divergence; now partially resolved) | 🟢 Low | Third-party internal politics | Various |
 
 **Tier 1 controversy summary:** Two candidates carry 🔴 High risk — Grima (MCAST + Standards Commissioner defiance) and Giglio (Pilatus Bank). Both are near-certain seat-winners regardless, illustrating that incumbency and personal vote outweigh controversy in Malta's STV system. Schembri carries the largest number of distinct medium-severity issues (4), all pre-2020. Attard Previ is the cleanest record in the tier.
 
@@ -122,7 +119,6 @@ Returning: Deborah Schembri (Labour)
 | **Graziella Attard Previ** | [Facebook](https://www.facebook.com/graziella2511/) · Instagram (not confirmed) | Moderate | Policy; equality-focused | Domestic violence; LGBTQ; women | 📡 Moderate |
 | **Albert Buttigieg** | [Facebook](https://www.facebook.com/AlbertButtigiegMP/) · [Website](https://www.albertbuttigieg.com/) | Moderate-high | Morally earnest; community | Overdevelopment; developer accountability; community | 📡 Moderate |
 | **Arnold Cassola** | [Facebook](https://www.facebook.com/CassolaArnold/) · [Website](https://arnoldcassola.eu/en/) | High (~33k FB; 3rd EP first-counts 2024) | Policy-heavy; accountability-focused | Constitutional reform; FOI; anti-corruption | 📢 High |
-| **Carmel Cacopardo** | [Facebook](https://www.facebook.com/cacopardocarm) · Blog/media presence | Moderate-high | Intellectual; policy-dense | Environmental law; PR reform; ODZ; social equality | 📡 Moderate |
 
 ---
 
@@ -140,9 +136,6 @@ Returning: Deborah Schembri (Labour)
 | **Albert Buttigieg** | PN | Centre-right; anti-establishment | ⭐⭐⭐ | 🟢 Low | 📡 | ✅✅ Likely |
 | **Deborah Schembri** | Labour | Progressive humanist | ⭐⭐⭐⭐ | 🟡 Medium | 📡 | ✅ Competitive |
 | **Arnold Cassola** | Momentum | Centrist-green | ⭐⭐⭐⭐ | 🟢 Low | 📢 | ✅ Competitive (needs transfers) |
-| **Carmel Cacopardo** | ADPD | Left-wing green | ⭐⭐⭐⭐ | 🟢 Low | 📡 | ✗ Structural ceiling |
-
-> **Note on Cacopardo:** Despite a ⭐⭐⭐⭐ track record and clean record, ADPD has never broken through structurally. Included in Tier 1 for profile and substance, not electability.
 
 ---
 ---
@@ -262,11 +255,12 @@ PN (new/first-time with profile): Raymond Gatt, David Anthony Bonello, Joseph Aq
 # TIER 3 — LIST-FILLERS
 *Negligible electability. Minimal or no public profile, no documented political track record, and exist primarily to broaden the ticket or spread transfer votes.*
 
-**Candidates in this tier (12):**
-Labour: Miguel Balzan, Tania Borg, Lorna Borg Vassallo, David Caruana, Rosette Cassar, Edward Cassar Delia, Lisa Cassar Shaw, Damien Spiteri, Mariah Meli
+**Candidates in this tier (13):**
+Labour: Miguel Balzan, Tania Borg, Lorna Borg Vassallo, David Caruana, Rosette Cassar, Edward Cassar Delia, Lisa Cassar Shaw, Damian Spiteri, Mariah Meli
 PN: Marija Elena Gauci
 Momentum: Pierre Schembri-Wismayer
-Aħwa Maltin: Simon Elmer
+ADPD: Marcus Lauri
+Aħwa Maltin: Josephine Borg
 
 ---
 
@@ -281,13 +275,14 @@ Aħwa Maltin: Simon Elmer
 | **Rosette Cassar** | Labour | S&D | Centre-left | New face; no profile | Unknown | Silent |
 | **Edward Cassar Delia** | Labour | S&D | Traditional left; social democrat | Old-guard values framing | Sport; culture; environment | Silent |
 | **Lisa Cassar Shaw** | Labour | S&D | Centre-left | Unknown | Unknown | Silent |
-| **Damien Spiteri** | Labour | S&D | Centre-left | Repeat candidate; no profile | Unknown | Silent |
+| **Damian Spiteri** | Labour | S&D | Centre-left | Repeat candidate; no profile | Unknown | Silent |
 | **Mariah Meli** | Labour | S&D | Centre-left | New face; no profile | Unknown | Silent |
 | **Marija Elena Gauci** | PN | EPP | Centre-right | Repeat candidate; no strong profile | Unknown | Silent |
 | **Pierre Schembri-Wismayer** | Momentum | EDP | Centrist; science-ethics focused | First-time candidate; academic | Science; medical ethics; public service | **Explicitly pro-life** |
-| **Simon Elmer** | Aħwa Maltin | — | Right-wing populist | Unknown | Immigration control; Maltese identity; traditional values | Implicitly pro-life |
+| **Marcus Lauri** | ADPD | EGP | Left-wing green | New candidate | Environment; planning | Pro-choice |
+| **Josephine Borg** | Aħwa Maltin | — | Right-wing populist | Unknown | Immigration control; Maltese identity | Implicitly pro-life |
 
-**Tier 3 notes:** Despite low electability, this tier contains Schembri-Wismayer — the most academically credentialed candidate in the district — and Simon Elmer, whose party (Aħwa Maltin) is the only one explicitly campaigning on immigration restriction. Lorna Borg Vassallo and Edward Cassar Delia have more individual identity than the others in this tier, but neither is electorally competitive. The Labour list-fillers exist structurally because Labour must field enough candidates to avoid looking thin in District 10, where it historically wins only 2 of 5 seats.
+**Tier 3 notes:** Despite low electability, this tier contains Schembri-Wismayer — the most academically credentialed candidate in the district. Lorna Borg Vassallo and Edward Cassar Delia have more individual identity than the others in this tier, but neither is electorally competitive. The Labour list-fillers exist structurally because Labour must field enough candidates to avoid looking thin in District 10, where it historically wins only 2 of 5 seats.
 
 ---
 
@@ -302,11 +297,12 @@ Aħwa Maltin: Simon Elmer
 | **Rosette Cassar** | None confirmed | None documented | ⭐ |
 | **Edward Cassar Delia** | None elected; casual election 2022 (not elected) | Sports science career; club partnerships Malta + Italy | ⭐⭐ |
 | **Lisa Cassar Shaw** | None confirmed | None documented | ⭐ |
-| **Damien Spiteri** | None elected | None documented | ⭐ |
+| **Damian Spiteri** | None elected | None documented | ⭐ |
 | **Mariah Meli** | None confirmed | None documented | ⭐ |
 | **Marija Elena Gauci** | Prior candidacies (D9, D10); not elected | None documented | ⭐ |
 | **Pierre Schembri-Wismayer** | Academic; researcher | Peer-reviewed research; European-funded X-lab TV series; Kenya medical volunteering | ⭐⭐ |
-| **Simon Elmer** | None confirmed | None documented | ⭐ |
+| **Marcus Lauri** | New candidate | None documented | ⭐ |
+| **Josephine Borg** | New candidate | None documented | ⭐ |
 
 ---
 
@@ -321,13 +317,14 @@ Aħwa Maltin: Simon Elmer
 | **Rosette Cassar** | None found | 🟢 None |
 | **Edward Cassar Delia** | None found | 🟢 None |
 | **Lisa Cassar Shaw** | None found | 🟢 None |
-| **Damien Spiteri** | None found | 🟢 None |
+| **Damian Spiteri** | None found | 🟢 None |
 | **Mariah Meli** | None found | 🟢 None |
 | **Marija Elena Gauci** | None found | 🟢 None |
 | **Pierre Schembri-Wismayer** | None found | 🟢 None |
-| **Simon Elmer** | None found individually; party criticised for xenophobia-adjacent rhetoric | 🟢 Low |
+| **Marcus Lauri** | None found | 🟢 None |
+| **Josephine Borg** | None found individually | 🟢 Low |
 
-**Tier 3 controversy summary:** A uniformly clean slate — 11 of 12 have zero found controversies, and Elmer's is a party-level critique rather than individual conduct. This is largely a function of low public profile: candidates without a public record attract less scrutiny, not necessarily because they have nothing to hide.
+**Tier 3 controversy summary:** A uniformly clean slate — the vast majority have zero found controversies. This is largely a function of low public profile: candidates without a public record attract less scrutiny, not necessarily because they have nothing to hide.
 
 ---
 
@@ -342,11 +339,12 @@ Aħwa Maltin: Simon Elmer
 | **Rosette Cassar** | Not identified | Minimal | Unknown | Unknown | 📵 None |
 | **Edward Cassar Delia** | Facebook · [IElectMalta profile](https://ielectmalta.com/candidates/edward-delia-cassar/) | Low | Community; sports-focused | Sport; culture; environment | 📶 Low |
 | **Lisa Cassar Shaw** | Not identified | Minimal | Unknown | Unknown | 📵 None |
-| **Damien Spiteri** | Not identified | Minimal | Unknown | Unknown | 📵 None |
+| **Damian Spiteri** | Not identified | Minimal | Unknown | Unknown | 📵 None |
 | **Mariah Meli** | Not identified | Minimal | Unknown | Unknown | 📵 None |
 | **Marija Elena Gauci** | Not identified | Minimal | Unknown | Unknown | 📵 None |
 | **Pierre Schembri-Wismayer** | Not identified | Minimal | Academic | Science; ethics; constitutional reform | 📶 Low |
-| **Simon Elmer** | Not identified | Minimal | Party framing | Immigration; Maltese identity | 📵 None |
+| **Marcus Lauri** | Not identified | Minimal | Unknown | Environment; planning | 📵 None |
+| **Josephine Borg** | Not identified | Minimal | Party framing | Immigration; Maltese identity | 📵 None |
 
 ---
 
@@ -362,10 +360,11 @@ Aħwa Maltin: Simon Elmer
 | **Tania Borg** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **Rosette Cassar** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **Lisa Cassar Shaw** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
-| **Damien Spiteri** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
+| **Damian Spiteri** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **Mariah Meli** | Labour | Centre-left | ⭐ | 🟢 None | 📵 | ✗ |
 | **Marija Elena Gauci** | PN | Centre-right | ⭐ | 🟢 None | 📵 | ✗ |
-| **Simon Elmer** | Aħwa Maltin | Right-wing populist | ⭐ | 🟢 Low | 📵 | ✗ |
+| **Marcus Lauri** | ADPD | Left-wing green | ⭐ | 🟢 None | 📵 | ✗ |
+| **Josephine Borg** | Aħwa Maltin | Right-wing populist | ⭐ | 🟢 Low | 📵 | ✗ |
 
 ---
 ---
@@ -385,7 +384,7 @@ Aħwa Maltin: Simon Elmer
 | **Euthanasia** | Schembri (pro, conditions); Buttigieg (review promised); others silent | Abela Chetcuti (open to debate); others silent | Free vote | Supportive | Implicitly opposed |
 | **Immigration restriction** | ❌ None prominently | ❌ None prominently | ❌ None | ❌ None | ✅ Core platform |
 | **Political system reform** | ❌ Defensive | ⚠️ Moderate; Sammut most specific | ✅ Core ("Second Republic") | ✅ Core (PR reform) | Not prominent |
-| **Environment** | ⚠️ Mixed; Manoel Island claim | ✅ Strong rhetoric; Borg Bonello most substantive | ✅ 35-year track record (Cassola/Cacopardo) | ✅ Defining identity | Not prominent |
+| **Environment** | ⚠️ Mixed; Manoel Island claim | ✅ Strong rhetoric; Borg Bonello most substantive | ✅ 35-year track record (Cassola) | ✅ Defining identity | Not prominent |
 | **Cost of living** | Defends subsidies; "super bonus" | 30% utility tariff cut; mortgage relief | Minimum wage; challenge model | Structural reform | Anti-immigration as root cause |
 | **Anti-corruption / rule of law** | ❌ Defensive | ✅ Core opposition message | ✅ Strongest (EPPO referrals; FOI) | ✅ Consistent | Not prominent |
 
@@ -405,7 +404,6 @@ Aħwa Maltin: Simon Elmer
 | **Notable** | Albert Buttigieg | PN | ⭐⭐⭐ | 🟢 | 📡 | ✅✅ Likely |
 | **Notable** | Deborah Schembri | Labour | ⭐⭐⭐⭐ | 🟡 | 📡 | ✅ Competitive |
 | **Notable** | Arnold Cassola | Momentum | ⭐⭐⭐⭐ | 🟢 | 📢 | ✅ Competitive (transfers) |
-| **Notable** | Carmel Cacopardo | ADPD | ⭐⭐⭐⭐ | 🟢 | 📡 | ✗ Structural ceiling |
 | **Second-tier** | Mark Anthony Sammut | PN | ⭐⭐⭐ | 🟢 | 📢 | ✅ Competitive |
 | **Second-tier** | Rebecca Buttigieg 🏛️ Gov. | Labour | ⭐⭐⭐ | 🟢 | 📡 | ✅ Possible |
 | **Second-tier** | Katya De Giovanni | Labour | ⭐⭐⭐ | 🟡 | 📶 | ✅ Possible |
@@ -426,10 +424,11 @@ Aħwa Maltin: Simon Elmer
 | **List-filler** | Tania Borg | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Rosette Cassar | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Lisa Cassar Shaw | Labour | ⭐ | 🟢 | 📵 | ✗ |
-| **List-filler** | Damien Spiteri | Labour | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | Damian Spiteri | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Mariah Meli | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Marija Elena Gauci | PN | ⭐ | 🟢 | 📵 | ✗ |
-| **List-filler** | Simon Elmer | Aħwa Maltin | ⭐ | 🟢 | 📵 | ✗ |
+| **List-filler** | Marcus Lauri | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
+| **List-filler** | Josephine Borg | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
 
 ---
 
@@ -454,7 +453,7 @@ Aħwa Maltin: Simon Elmer
 | **Rosette Cassar** | Labour | List-filler | Not identified | — | — | — |
 | **Edward Cassar Delia** | Labour | List-filler | Not confirmed | — | — | [IElectMalta](https://ielectmalta.com/candidates/edward-delia-cassar/) |
 | **Lisa Cassar Shaw** | Labour | List-filler | Not identified | — | — | — |
-| **Damien Spiteri** | Labour | List-filler | Not identified | — | — | — |
+| **Damian Spiteri** | Labour | List-filler | Not identified | — | — | — |
 | **Mariah Meli** | Labour | List-filler | Not identified | — | — | — |
 | **Conrad Borg Manché** | PN | Notable | [Link](https://www.facebook.com/borgmancheconrad/) | — | — | — |
 | **Joe Giglio** | PN | Notable | [Link](https://www.facebook.com/joegigliomt/) | — | — | [joegiglio.mt](https://www.joegiglio.mt) |
@@ -474,7 +473,7 @@ Aħwa Maltin: Simon Elmer
 | **Marija Elena Gauci** | PN | List-filler | Not identified | — | — | — |
 | **Arnold Cassola** | Momentum | Notable | [Link](https://www.facebook.com/CassolaArnold/) | — | — | [arnoldcassola.eu](https://arnoldcassola.eu/en/) |
 | **Pierre Schembri-Wismayer** | Momentum | List-filler | Not identified | — | — | — |
-| **Carmel Cacopardo** | ADPD | Notable | [Link](https://www.facebook.com/cacopardocarm) | — | — | — |
-| **Simon Elmer** | Aħwa Maltin | List-filler | Not identified | — | — | — |
+| **Marcus Lauri** | ADPD | List-filler | Not identified | — | — | — |
+| **Josephine Borg** | Aħwa Maltin | List-filler | Not identified | — | — | — |
 
 *"Not confirmed" = account believed to exist but URL not verified during research. "Not identified" = no public account found.*

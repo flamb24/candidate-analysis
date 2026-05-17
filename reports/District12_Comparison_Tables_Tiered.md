@@ -3,7 +3,7 @@
 
 > District 12 covers: Mellieħa, part of Naxxar, St Paul's Bay and Burmarrad.
 >
-> The 22 District 12 candidates are grouped into three tiers.
+> The 21 District 12 candidates are grouped into three tiers.
 >
 > **Rating scales:**
 > - **Track Record:** ⭐ (minimal/none) to ⭐⭐⭐⭐⭐ (exceptional)
@@ -20,7 +20,7 @@
 |---|---|---|
 | **Notable** | Near-certain or likely seat; high profile | 6 candidates |
 | **Second-tier** | Competitive or possible seat | 8 candidates |
-| **List-fillers** | Negligible electability | 8 candidates |
+| **List-fillers** | Negligible electability | 7 candidates |
 
 ---
 
@@ -103,7 +103,7 @@ PN: Alex Borg, Ivan Castillo, Graziella Galea
 # TIER 2 — SECOND-TIER CANDIDATES
 
 **Candidates in this tier (8):**
-Labour: Rosianne Cutajar, Deborah Schembri, Franco Mercieca, Damien Spiteri, Carlos Zarb, Romilda Zarb
+Labour: Rosianne Cutajar, Deborah Schembri, Franco Mercieca, Damian Spiteri, Carlos Zarb, Romilda Zarb
 PN: Charles Azzopardi, David Anthony Bonello, Joseph Mark Grech, Anthony Mifsud, Jonathan Albert Muscat, Ian Mario Vassallo, George Vital Zammit, Rachel Antoinette Williams
 
 ---
@@ -119,7 +119,7 @@ PN: Charles Azzopardi, David Anthony Bonello, Joseph Mark Grech, Anthony Mifsud,
 | **Second-tier** | Ian Mario Vassallo | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Rachel Antoinette Williams | PN | ⭐ | 🟢 | 📶 | ✅ Possible (Rachel Williams is a PN D9/D12 councillor and first-time candidate) |
 | **Second-tier** | Charles Azzopardi | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
-| **Second-tier** | Damien Spiteri | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
+| **Second-tier** | Damian Spiteri | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Carlos Zarb | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Romilda Zarb | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | David Anthony Bonello | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
@@ -136,7 +136,6 @@ PN: Charles Azzopardi, David Anthony Bonello, Joseph Mark Grech, Anthony Mifsud,
 | **List-filler** | Luke Joe Caruana | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
 | **List-filler** | Sandra Gauci | ADPD | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Carmel Asciak | Momentum | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
-| **List-filler** | Paul Salomone | Aħwa Maltin | ⭐ | 🟡 | 📶 | ✗ |
 
 ---
 
@@ -179,7 +178,7 @@ PN: Charles Azzopardi, David Anthony Bonello, Joseph Mark Grech, Anthony Mifsud,
 | **Second-tier** | Ian Mario Vassallo | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Rachel Antoinette Williams | PN | ⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Charles Azzopardi | PN | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
-| **Second-tier** | Damien Spiteri | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
+| **Second-tier** | Damian Spiteri | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Carlos Zarb | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | Romilda Zarb | Labour | ⭐ | 🟢 | 📵 | ✗ Unlikely |
 | **Second-tier** | David Anthony Bonello | PN | ⭐ | 🟢 | 📵 | ✗ Unlikely |
@@ -189,7 +188,6 @@ PN: Charles Azzopardi, David Anthony Bonello, Joseph Mark Grech, Anthony Mifsud,
 | **List-filler** | Luke Joe Caruana | ADPD | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Sandra Gauci | ADPD | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Carmel Asciak | Momentum | ⭐ | 🟢 | 📵 | ✗ |
-| **List-filler** | Paul Salomone | Aħwa Maltin | ⭐ | 🟡 | 📶 | ✗ |
 
 ---
 

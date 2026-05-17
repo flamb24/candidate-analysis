@@ -3,7 +3,7 @@
 
 > District 2 covers: Vittoriosa (Birgu), Senglea (l-Isla), Cospicua (Bormla), Żabbar, St Peter's Żabbar, part of Fgura, Kalkara, part of Marsaskala, Xgħajra.
 >
-> The 22 District 2 candidates are grouped into three tiers based on electability, public profile, and documented record. Each tier contains the full set of comparison tables (Alignment, Track Record, Controversies, Social Media, Master Summary). Table 6 (Issue Stance Matrix) appears once at the end.
+> The 23 District 2 candidates are grouped into three tiers based on electability, public profile, and documented record. Each tier contains the full set of comparison tables (Alignment, Track Record, Controversies, Social Media, Master Summary). Table 6 (Issue Stance Matrix) appears once at the end.
 >
 > **Rating scales:**
 > - **Track Record:** ⭐ (minimal/none) to ⭐⭐⭐⭐⭐ (exceptional)
@@ -20,7 +20,7 @@
 |---|---|---|
 | **Notable** | Near-certain or likely seat; high public profile; individually documented track record | 4 candidates |
 | **Second-tier** | Competitive or possible seat; some documented record; individual public identity | 7 candidates |
-| **List-fillers** | Negligible electability; minimal or no public profile; exist primarily to broaden the ticket | 11 candidates |
+| **List-fillers** | Negligible electability; minimal or no public profile; exist primarily to broaden the ticket | 12 candidates |
 
 ---
 
@@ -196,8 +196,8 @@ Note: Several of these are high-profile figures contesting D2 despite their prim
 # TIER 3 — LIST-FILLERS
 *Negligible electability; minimal or no public profile; exist primarily to broaden the ticket.*
 
-**Candidates in this tier (11):**
-Labour: Carmelo Abela, Clinton-Domenic Azzopardi-Flores, Jesmond Bonello, Martina Paula Buhagiar, Clyde Caruana, Edward Cassar Delia, James Grech, Amanda Spiteri Grech, Shana Woods, Roderick Zerafa, Alison Zerafa Civelli
+**Candidates in this tier (12):**
+Labour: Carmelo Abela, Glenn Bedingfield, Clinton-Domenic Azzopardi-Flores, Jesmond Bonello, Martina Paula Buhagiar, Clyde Caruana, Edward Cassar Delia, James Grech, Amanda Spiteri Grech, Shana Woods, Roderick Zerafa, Alison Zerafa Civelli
 
 *Note: Several Labour figures here (Clyde Caruana — Finance Minister; Carmelo Abela; Alison Zerafa Civelli; Amanda Spiteri Grech) are prominent in their own districts but appear on the D2 list only in a supporting role. Caruana is Finance Minister but primarily contested D8 in 2022; his D2 appearance here is secondary. Carmelo Abela is contesting D3 as his primary. They are listed here because the D2 list is extremely long (16 Labour candidates) and these candidates have no realistic path to a D2 seat.*
 
@@ -208,6 +208,7 @@ Labour: Carmelo Abela, Clinton-Domenic Azzopardi-Flores, Jesmond Bonello, Martin
 | Candidate | Party | EU Group | Ideological Position | Intra-Party Standing | Key Issue Focus | Abortion Stance |
 |---|---|---|---|---|---|---|
 | **Carmelo Abela** | Labour | S&D | Centre-left; old-guard | Former minister; contesting D3 primarily | Social policy; agriculture | Silent |
+| **Glenn Bedingfield** | Labour | S&D | Centre-left | D1 and D2 | Not confirmed | Silent |
 | **Clinton-Domenic Azzopardi-Flores** | Labour | S&D | Centre-left | D2 supplementary listing | Not confirmed | Silent |
 | **Jesmond Bonello** | Labour | S&D | Centre-left | D2 and D8 | Not confirmed | Silent |
 | **Martina Paula Buhagiar** | Labour | S&D | Centre-left | New candidate; D2 and D3 | Not confirmed | Silent |
@@ -226,6 +227,7 @@ Labour: Carmelo Abela, Clinton-Domenic Azzopardi-Flores, Jesmond Bonello, Martin
 | Candidate | Prior Office/Role | Key Documented Achievement | Principle vs Delivery Gap | Rating |
 |---|---|---|---|---|
 | **Carmelo Abela** | Former minister (multiple portfolios); MP since 2008; contesting D3 primarily | Long Labour service; former Agriculture, Home Affairs minister; contesting primarily D3 | Primarily a D3 figure | ⭐⭐⭐ (as D3 — see D3 report) |
+| **Glenn Bedingfield** | D1 and D2 candidate 2026 | No documented record for D2 | D1 primary | ⭐ |
 | **Clyde Caruana** 🏛️ Gov. | Finance Minister (2020–); chief of staff (2020); Mayor of Żabbar (2006–09) | Managed Malta's energy subsidies (€320m/yr); maintained A+ credit rating (Scope Ratings 2026); authored GDP-to-debt strategy | Contested D2 via casual election 2020; re-elected D8 in 2022; now back on D2 supplementary list | ⭐⭐⭐⭐ (as Finance Minister — see D8 report) |
 | **Alison Zerafa Civelli** | MP via 52A gender mechanism (2022–); Bormla Mayor | PM Abela's sister-in-law; Cottonera community figure; Bormla electoral presence | Family connection to PM raises patronage optics | ⭐⭐ |
 | **Amanda Spiteri Grech** | MP via 52A gender mechanism (2022–); D4 | Gender mechanism MP | D4 figure; D2 is supplementary | ⭐ |
@@ -253,6 +255,7 @@ Labour: Carmelo Abela, Clinton-Domenic Azzopardi-Flores, Jesmond Bonello, Martin
 | Candidate | Facebook | Instagram | X / Twitter | Website / Other | Rating |
 |---|---|---|---|---|---|
 | **Carmelo Abela** | Not confirmed | Not confirmed | Not confirmed | Not identified | 📶 Low |
+| **Glenn Bedingfield** | Not identified | Not identified | Not identified | Not identified | 📵 None |
 | **Clyde Caruana** 🏛️ Gov. | Not confirmed | Not confirmed | Not confirmed | Not identified | 📡 Moderate (ministerial) |
 | **Alison Zerafa Civelli** | Not confirmed | Not confirmed | Not confirmed | Not identified | 📶 Low |
 | **All remaining** | Not identified | Not identified | Not identified | Not identified | 📵 None |
@@ -264,6 +267,7 @@ Labour: Carmelo Abela, Clinton-Domenic Azzopardi-Flores, Jesmond Bonello, Martin
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
 | **List-filler** | Carmelo Abela | Labour | ⭐⭐⭐ | 🟢 | 📶 | ✗ (D3 primary) |
+| **List-filler** | Glenn Bedingfield | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Clyde Caruana 🏛️ Gov. | Labour | ⭐⭐⭐⭐ | 🟢 | 📡 | ✗ (D8 primary) |
 | **List-filler** | Alison Zerafa Civelli | Labour | ⭐⭐ | 🟡 | 📶 | ✗ |
 | **List-filler** | Amanda Spiteri Grech | Labour | ⭐ | 🟢 | 📵 | ✗ (D4 primary) |
@@ -311,7 +315,7 @@ Labour: Carmelo Abela, Clinton-Domenic Azzopardi-Flores, Jesmond Bonello, Martin
 
 ---
 
-## TABLE 7 — FULL MASTER SUMMARY (All 22 Candidates, Tiered)
+## TABLE 7 — FULL MASTER SUMMARY (All 23 Candidates, Tiered)
 
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
@@ -327,6 +331,7 @@ Labour: Carmelo Abela, Clinton-Domenic Azzopardi-Flores, Jesmond Bonello, Martin
 | **Second-tier** | Mario Mallia | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
 | **Second-tier** | Paul Salomone | Aħwa Maltin | ⭐ | 🟡 | 📶 | ✗ |
 | **List-filler** | Carmelo Abela | Labour | ⭐⭐⭐ | 🟢 | 📶 | ✗ (D3 primary) |
+| **List-filler** | Glenn Bedingfield | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Clyde Caruana 🏛️ Gov. | Labour | ⭐⭐⭐⭐ | 🟢 | 📡 | ✗ (D8 primary) |
 | **List-filler** | Alison Zerafa Civelli | Labour | ⭐⭐ | 🟡 | 📶 | ✗ |
 | **List-filler** | Amanda Spiteri Grech | Labour | ⭐ | 🟢 | 📵 | ✗ (D4 primary) |
@@ -340,7 +345,7 @@ Labour: Carmelo Abela, Clinton-Domenic Azzopardi-Flores, Jesmond Bonello, Martin
 
 ---
 
-## TABLE 8 — SOCIAL MEDIA QUICK REFERENCE (All 22 Candidates)
+## TABLE 8 — SOCIAL MEDIA QUICK REFERENCE (All 23 Candidates)
 
 | Candidate | Party | Tier | Facebook | Instagram | X / Twitter | Website / Other |
 |---|---|---|---|---|---|---|
@@ -349,6 +354,7 @@ Labour: Carmelo Abela, Clinton-Domenic Azzopardi-Flores, Jesmond Bonello, Martin
 | **Georvin Bugeja** | Labour | Second-tier | Not identified | Not identified | Not identified | Not identified |
 | **Jorge Grech** | Labour | Second-tier | Not identified | Not identified | Not identified | Not identified |
 | **Carmelo Abela** | Labour | List-filler | Not confirmed | Not confirmed | Not confirmed | Not identified |
+| **Glenn Bedingfield** | Labour | List-filler | Not identified | Not identified | Not identified | Not identified |
 | **Clyde Caruana** 🏛️ Gov. | Labour | List-filler | Not confirmed | Not confirmed | Not confirmed | Not identified |
 | **Alison Zerafa Civelli** | Labour | List-filler | Not confirmed | Not confirmed | Not confirmed | Not identified |
 | **Amanda Spiteri Grech** | Labour | List-filler | Not confirmed | Not confirmed | Not confirmed | Not identified |
@@ -371,6 +377,6 @@ Labour: Carmelo Abela, Clinton-Domenic Azzopardi-Flores, Jesmond Bonello, Martin
 
 ---
 
-*Tables compiled 16 May 2026. Data sourced from Malta Independent full nominations list (12 May 2026), MaltaToday, Newsbook, The Shift News, Lovin Malta, parliamentary records, Wikipedia, and official government sources. Electability assessments are editorial judgements — not predictions. District 2 historical vote share: Labour ~65–70%, PN ~28–32% (2013–2022). Expected seat split: 4 Labour / 1 PN. Robert Abela contests D2 and D5 simultaneously — if elected on both, must vacate one seat triggering a casual election.*
+*Tables compiled 16 May 2026. Data sourced from Malta Independent full nominations list (12 May 2026), MaltaToday, Newsbook, The Shift News, Lovin Malta, parliamentary records, Wikipedia, and official government sources. Electability assessments are editorial judgements — not predictions. District 2 historical vote share: Labour ~65–70%, PN ~28–32% (2013–2022). Expected seat split: 4 Labour / 1 PN. Robert Abela contests D2 and D5 simultaneously — if elected on both, must vacate one seat triggering a casual election. Glenn Bedingfield (Labour) also contests D1.*
 
 ---

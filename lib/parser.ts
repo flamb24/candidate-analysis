@@ -300,6 +300,8 @@ function buildCandidates(
         const key = normalizeKey(name);
         const c = getOrCreate(map, key, name, districtNumber, tier);
         c.isGovIncumbent = c.isGovIncumbent || isGovIncumbent;
+        // Party may only be available here for Tier 3 candidates (no Table 1)
+        c.party = stripBold(row["Party"] ?? "") || c.party;
         const electCell = row["Electability"] ?? "";
         const { symbol, label } = parseElectability(electCell);
         c.electability = electCell;

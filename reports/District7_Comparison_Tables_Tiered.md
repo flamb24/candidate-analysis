@@ -3,7 +3,7 @@
 
 > District 7 covers: Mdina, Żebbuġ (Malta), Dingli, Mtarfa, Rabat (Malta), Baħrija and Tal-Virtu.
 >
-> The 19 District 7 candidates are grouped into three tiers.
+> The 17 District 7 candidates are grouped into three tiers.
 >
 > **Rating scales:**
 > - **Track Record:** ⭐ (minimal/none) to ⭐⭐⭐⭐⭐ (exceptional)
@@ -20,7 +20,7 @@
 |---|---|---|
 | **Notable** | Near-certain or likely seat; high profile | 5 candidates |
 | **Second-tier** | Competitive or possible seat | 5 candidates |
-| **List-fillers** | Negligible electability | 9 candidates |
+| **List-fillers** | Negligible electability | 7 candidates |
 
 ---
 
@@ -160,8 +160,6 @@ PN: Charles Azzopardi, Andrew Agius, Paul Mazzola, Anthony Mifsud, Ian Mario Vas
 | **List-filler** | Carmel Cacopardo | ADPD | ⭐⭐⭐⭐ | 🟢 | 📡 | ✗ Structural ceiling (see D10) |
 | **List-filler** | Pierre Schembri-Wismayer | Momentum | ⭐⭐⭐ | 🟢 | 📶 | ✗ Structural ceiling |
 | **List-filler** | Iris Vella | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
-| **List-filler** | Francis Mallia | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
-| **List-filler** | Mario Mallia | ADPD | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Noel Apap | Independent | ⭐ | 🟢 | 📵 | ✗ |
 
 ---
@@ -208,8 +206,6 @@ PN: Charles Azzopardi, Andrew Agius, Paul Mazzola, Anthony Mifsud, Ian Mario Vas
 | **List-filler** | Carmel Cacopardo | ADPD | ⭐⭐⭐⭐ | 🟢 | 📡 | ✗ Structural ceiling |
 | **List-filler** | Pierre Schembri-Wismayer | Momentum | ⭐⭐⭐ | 🟢 | 📶 | ✗ Structural ceiling |
 | **List-filler** | Iris Vella | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
-| **List-filler** | Francis Mallia | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
-| **List-filler** | Mario Mallia | ADPD | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Noel Apap | Independent | ⭐ | 🟢 | 📵 | ✗ |
 
 ---

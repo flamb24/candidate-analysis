@@ -202,10 +202,10 @@ PN: Duncan Borg Myatt, Michael Piccinino, Stefan Caruana
 **Candidates in this tier (6):**
 Labour: Raymond Abela, Eric Plumpton, Shana Woods
 Momentum: Alastair Farrugia
-ADPD: Brian Decelis (Melissa Joan Bagley per Independent — confirmed D4 candidate)
-Aħwa Maltin: Iris Vella
+ADPD: Brian Charles Decelis
+Aħwa Maltin: Giuseppe Aquilina
 
-*Note: The Malta Independent lists D4 Labour as: Abela Raymond, Attard Jonathan, Bonett Chris, Camilleri Byron, De Giovanni Katya, Ellul Andrew (Andy), Fearne Chris, Spiteri Grech Amanda, Plumpton Eric, Woods Shana. Raymond Abela appears here as a list-filler (not to be confused with PM Robert Abela). The ADPD candidate per The Independent is Melissa Joan Bagley.*
+*Note: The Malta Independent lists D4 Labour as: Abela Raymond, Attard Jonathan, Bonett Chris, Camilleri Byron, De Giovanni Katya, Ellul Andrew (Andy), Fearne Chris, Spiteri Grech Amanda, Plumpton Eric, Woods Shana. Raymond Abela appears here as a list-filler (not to be confused with PM Robert Abela). The ADPD D4 candidate is Brian Charles Decelis. The Aħwa Maltin D4 candidate is Giuseppe Aquilina.*
 
 ---
 
@@ -217,8 +217,8 @@ Aħwa Maltin: Iris Vella
 | **Eric Plumpton** | Labour | S&D | Not confirmed; D3 and D4 | Silent |
 | **Shana Woods** | Labour | S&D | Not confirmed | Silent |
 | **Alastair Farrugia** | Momentum | EDP | Good governance; anti-corruption | Pro-choice |
-| **Melissa Joan Bagley** | ADPD | EGP | Environment; planning | Pro-choice |
-| **Iris Vella** | Aħwa Maltin | — | Immigration restriction; identity | Conservative |
+| **Brian Charles Decelis** | ADPD | EGP | Environment; planning | Pro-choice |
+| **Giuseppe Aquilina** | Aħwa Maltin | — | Not confirmed | Silent |
 
 ---
 
@@ -230,8 +230,8 @@ Aħwa Maltin: Iris Vella
 | **Eric Plumpton** | New candidate | ⭐ |
 | **Shana Woods** | New candidate | ⭐ |
 | **Alastair Farrugia** | Momentum D4 and D5 candidate | ⭐ |
-| **Melissa Joan Bagley** | ADPD D4 candidate | ⭐ |
-| **Iris Vella** | Aħwa Maltin organiser | ⭐ |
+| **Brian Charles Decelis** | ADPD D4 candidate | ⭐ |
+| **Giuseppe Aquilina** | Aħwa Maltin D4 candidate | ⭐ |
 
 ---
 
@@ -239,7 +239,7 @@ Aħwa Maltin: Iris Vella
 
 | Candidate | Controversy | Severity |
 |---|---|---|
-| **Iris Vella** | Aħwa Maltin's nativist platform | 🟡 Medium |
+| **Giuseppe Aquilina** | No documented controversy | 🟢 None/Low |
 | **All others** | No documented controversy | 🟢 None/Low |
 
 ---
@@ -252,8 +252,8 @@ Aħwa Maltin: Iris Vella
 | **List-filler** | Eric Plumpton | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Shana Woods | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Alastair Farrugia | Momentum | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
-| **List-filler** | Melissa Joan Bagley | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
-| **List-filler** | Iris Vella | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
+| **List-filler** | Brian Charles Decelis | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
+| **List-filler** | Giuseppe Aquilina | Aħwa Maltin | ⭐ | 🟢 | 📵 | ✗ |
 
 ---
 
@@ -309,8 +309,8 @@ Aħwa Maltin: Iris Vella
 | **List-filler** | Eric Plumpton | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Shana Woods | Labour | ⭐ | 🟢 | 📵 | ✗ |
 | **List-filler** | Alastair Farrugia | Momentum | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
-| **List-filler** | Melissa Joan Bagley | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
-| **List-filler** | Iris Vella | Aħwa Maltin | ⭐ | 🟡 | 📵 | ✗ |
+| **List-filler** | Brian Charles Decelis | ADPD | ⭐ | 🟢 | 📵 | ✗ Structural ceiling |
+| **List-filler** | Giuseppe Aquilina | Aħwa Maltin | ⭐ | 🟢 | 📵 | ✗ |
 
 ---
 
@@ -334,8 +334,8 @@ Aħwa Maltin: Iris Vella
 | **Michael Piccinino** | PN | Second-tier | Not confirmed | Not confirmed | Not confirmed | Not identified |
 | **Stefan Caruana** | PN | Second-tier | Not confirmed | Not confirmed | Not confirmed | Not identified |
 | **Alastair Farrugia** | Momentum | List-filler | Not identified | Not identified | Not identified | Not identified |
-| **Melissa Joan Bagley** | ADPD | List-filler | Not identified | Not identified | Not identified | Not identified |
-| **Iris Vella** | Aħwa Maltin | List-filler | Not identified | Not identified | Not identified | Not identified |
+| **Brian Charles Decelis** | ADPD | List-filler | Not identified | Not identified | Not identified | Not identified |
+| **Giuseppe Aquilina** | Aħwa Maltin | List-filler | Not identified | Not identified | Not identified | Not identified |
 
 *"Not confirmed" = account believed to exist but URL not verified during research. "Not identified" = no public account found.*
 

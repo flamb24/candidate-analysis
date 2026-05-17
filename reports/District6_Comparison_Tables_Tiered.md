@@ -108,7 +108,7 @@ PN: Jerome Caruana Cilia, Rosianne Cutajar (Labour — treated as Notable given 
 # TIER 2 — SECOND-TIER CANDIDATES
 
 **Candidates in this tier (5):**
-Labour: Ramona Attard, Omar Farrugia, Silvio Schembri, Omar Rababah
+Labour: Ramona Attard, Omar Farrugia, Saviour Schembri, Omar Rababah
 PN: Frederick Aquilina, Julian Borg, Annabelle Cilia, George Muscat, George Vital Zammit
 
 ---
@@ -119,7 +119,7 @@ PN: Frederick Aquilina, Julian Borg, Annabelle Cilia, George Muscat, George Vita
 |---|---|---|---|---|---|
 | **Ramona Attard** | Labour | S&D | Centre-left | D6 and D8; social policy | Silent |
 | **Omar Farrugia** | Labour | S&D | Centre-left | D5 and D6; young MP | Local issues | Silent |
-| **Silvio Schembri** | Labour | S&D | Centre-left; digital economy | Former digital economy minister; D6 and D7 | Digital economy; enterprise | Silent |
+| **Saviour Schembri** | Labour | S&D | Centre-left | New candidate 2026; D6 and D7 | Not confirmed | Silent |
 | **Omar Rababah** | Labour | S&D | Centre-left; diversity | First Arab-origin candidate on Labour ticket; D6 and D7; target of racist online abuse; defended by PM Abela and Mario de Marco | Community; diversity; social inclusion | Silent |
 | **Frederick Aquilina** | PN | EPP | Centre-right | Luqa PN minority leader; accountant; contested 2022 | Local government; tax | Silent |
 | **Julian Borg** | PN | EPP | Centre-right | New candidate | Not confirmed | Silent |
@@ -135,7 +135,7 @@ PN: Frederick Aquilina, Julian Borg, Annabelle Cilia, George Muscat, George Vita
 |---|---|---|
 | **Ramona Attard** | MP via 52A (2022–); D6 and D8 | ⭐ |
 | **Omar Farrugia** | MP (2022–); D5 and D6 | ⭐⭐ |
-| **Silvio Schembri** | Former Min. Digital Economy (2017–22); MP | ⭐⭐⭐ |
+| **Saviour Schembri** | New candidate 2026; D6 and D7 | ⭐ |
 | **Omar Rababah** | New candidate 2026; D6 and D7; Arab-Maltese community figure | ⭐ |
 | **Frederick Aquilina** | Luqa PN minority leader; contested 2022; accountant | ⭐⭐ |
 | **Julian Borg** | New candidate | ⭐ |
@@ -149,7 +149,7 @@ PN: Frederick Aquilina, Julian Borg, Annabelle Cilia, George Muscat, George Vita
 
 | Candidate | Controversy | Severity |
 |---|---|---|
-| **Silvio Schembri** | Former Digital Economy minister; digital strategy delivery contested | 🟡 Medium |
+| **Saviour Schembri** | No documented controversy | 🟢 None/Low |
 | **Omar Rababah** | Target of documented online racist and discriminatory abuse following candidacy announcement — not a controversy of his own conduct | 🟢 None/Low |
 | **All others** | No documented controversy | 🟢 None/Low |
 
@@ -159,7 +159,7 @@ PN: Frederick Aquilina, Julian Borg, Annabelle Cilia, George Muscat, George Vita
 
 | Tier | Candidate | Party | Track Record | Controversy | Social Media | Electability |
 |---|---|---|---|---|---|---|
-| **Second-tier** | Silvio Schembri | Labour | ⭐⭐⭐ | 🟡 | 📡 | ✅ Possible (D7 primary) |
+| **Second-tier** | Saviour Schembri | Labour | ⭐ | 🟢 | 📡 | ✗ Unlikely |
 | **Second-tier** | Omar Farrugia | Labour | ⭐⭐ | 🟢 | 📶 | ✅ Possible (D5 primary) |
 | **Second-tier** | Ramona Attard | Labour | ⭐ | 🟢 | 📵 | ✅ Possible |
 | **Second-tier** | Omar Rababah | Labour | ⭐ | 🟢 | 📶 | ✅ Possible (new candidate with public attention) |
@@ -213,7 +213,7 @@ PN: Frederick Aquilina, Julian Borg, Annabelle Cilia, George Muscat, George Vita
 | **Notable** | Malcolm Paul Agius Galea 🏛️ Gov. | Labour | ⭐⭐ | 🟢 | 📶 | ✅✅ Likely |
 | **Notable** | Jerome Caruana Cilia | PN | ⭐⭐ | 🟢 | 📡 | ✅✅ Likely |
 | **Notable** | Rosianne Cutajar | Labour | ⭐⭐ | 🔴 | 📡 | ✅ Competitive |
-| **Second-tier** | Silvio Schembri | Labour | ⭐⭐⭐ | 🟡 | 📡 | ✅ Possible (D7 primary) |
+| **Second-tier** | Saviour Schembri | Labour | ⭐ | 🟢 | 📡 | ✗ Unlikely |
 | **Second-tier** | Omar Farrugia | Labour | ⭐⭐ | 🟢 | 📶 | ✅ Possible |
 | **Second-tier** | Ramona Attard | Labour | ⭐ | 🟢 | 📵 | ✅ Possible |
 | **Second-tier** | Omar Rababah | Labour | ⭐ | 🟢 | 📶 | ✅ Possible |
@@ -235,7 +235,7 @@ PN: Frederick Aquilina, Julian Borg, Annabelle Cilia, George Muscat, George Vita
 | **Ian Borg** 🏛️ Gov. | Labour | Notable | Not confirmed | [Link](https://x.com/deputypmianborg) | [foreign.gov.mt](https://foreign.gov.mt/deputy-prime-minister/) |
 | **Rosianne Cutajar** | Labour | Notable | Not confirmed | Not confirmed | Not identified |
 | **Malcolm Paul Agius Galea** | Labour | Notable | Not confirmed | Not confirmed | Not identified |
-| **Silvio Schembri** | Labour | Second-tier | Not confirmed | Not confirmed | Not identified |
+| **Saviour Schembri** | Labour | Second-tier | Not identified | Not identified | Not identified |
 | **Omar Farrugia** | Labour | Second-tier | Not confirmed | Not confirmed | Not identified |
 | **Ramona Attard** | Labour | Second-tier | Not confirmed | Not confirmed | Not identified |
 | **Omar Rababah** | Labour | Second-tier | Not confirmed | Not confirmed | Not identified |
