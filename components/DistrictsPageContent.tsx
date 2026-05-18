@@ -108,6 +108,15 @@ export default function DistrictsPageContent({ lang }: { lang: Lang }) {
         ))}
       </ol>
 
+      <div className="flex items-center justify-center pt-2 border-t border-border">
+        <Link
+          href={`${prefix}/districts/all`}
+          className="text-sm text-muted hover:text-foreground hover:underline underline-offset-2 transition-colors"
+        >
+          {t.viewAllCandidates} →
+        </Link>
+      </div>
+
     </div>
   );
 }

@@ -72,25 +72,22 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
         <div className="relative grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-x-8 mt-10 lg:mt-14 flex-1">
 
           {/* Headline column */}
-          <div className="lg:col-span-8 flex flex-col justify-between">
-            <div>
-              <h1
-                id="hero-headline"
-                className="font-serif font-medium leading-[0.92] tracking-[-0.025em] text-balance"
-                style={{ fontSize: "clamp(3.25rem, 9vw, 8.25rem)" }}
-              >
-                {t.headlineLine1}
-                <br />
-                {t.headlineLine2Prefix}<span className="font-extrabold">{t.headlineLine2Bold}</span>
-                <br />
-                <span className="font-medium italic text-[var(--muted)]">{t.headlineLine3}</span>
-              </h1>
-              <p className="mt-4 text-2xl sm:text-4xl font-medium tracking-tight text-[var(--muted)]">
-                {t.heroSubline}
-              </p>
-            </div>
-
-            <div className="max-w-[38rem] mt-8 lg:mt-10">
+          <div className="lg:col-span-8 flex flex-col">
+            <h1
+              id="hero-headline"
+              className="font-serif font-medium leading-[0.92] tracking-[-0.025em] text-balance"
+              style={{ fontSize: "clamp(3.25rem, 9vw, 8.25rem)" }}
+            >
+              {t.headlineLine1}
+              <br />
+              {t.headlineLine2Prefix}<span className="font-extrabold">{t.headlineLine2Bold}</span>
+              <br />
+              <span className="font-medium italic text-[var(--muted)]">{t.headlineLine3}</span>
+            </h1>
+            <p className="mt-4 text-2xl sm:text-4xl font-medium tracking-tight text-[var(--muted)]">
+              {t.heroSubline}
+            </p>
+            <div className="max-w-[38rem] mt-5">
               <div className="h-px bg-[var(--border)]" />
               <p className="font-serif text-base lg:text-[17px] leading-[1.5] mt-4 -tracking-[0.005em]">
                 {t.subhead}

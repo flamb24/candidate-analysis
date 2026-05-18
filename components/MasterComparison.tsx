@@ -373,7 +373,7 @@ export default function MasterComparison({
       <p className="flex items-center gap-1.5 text-xs text-muted">
         <Lightbulb size={13} aria-hidden className="shrink-0" />
         <span>
-          <span className="font-medium">Tip:</span> filter by Candidate Public Profile to simplify your research
+          <span className="font-medium">Tip:</span> use Filters → Notable to focus on the candidates most likely to win a seat
         </span>
       </p>
 
