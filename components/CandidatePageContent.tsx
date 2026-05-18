@@ -276,6 +276,10 @@ export default function CandidatePageContent({
       </Section>
 
       <Section title={t.socialMediaSection}>
+        {!candidate.approxReach && !candidate.campaignTone && !candidate.campaignMessage && candidate.socialLinks.length === 0 ? (
+          <p className="text-sm text-muted">{t.noSocialMedia}</p>
+        ) : (
+        <>
         <Field label={t.approxReach} value={candidate.approxReach} />
         <Field label={t.campaignTone} value={candidate.campaignTone} />
         <Field label={t.campaignMessage} value={candidate.campaignMessage} />
@@ -307,6 +311,8 @@ export default function CandidatePageContent({
             </dd>
           </div>
         )}
+        </>
+        )}
       </Section>
 
       {/* ── Bottom nav ─────────────────────────────────────────────────── */}
@@ -316,7 +322,7 @@ export default function CandidatePageContent({
         {otherCandidates.length > 0 && (
           <div className="flex flex-col gap-3">
             <p className="text-xs font-mono uppercase tracking-[0.2em] text-muted">
-              Other candidates in District {districtNum}
+              Other notable candidates in District {districtNum}
             </p>
             <ul className="flex flex-col divide-y divide-border rounded-lg border border-border overflow-hidden">
               {otherCandidates.map((c) => (
