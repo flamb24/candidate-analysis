@@ -142,6 +142,17 @@ export default function HeroSection({ lang = "en" }: { lang?: Lang }) {
               </span>
             </Link>
 
+            {/* ── Find your candidates CTA ────────────────────────── */}
+            <Link
+              href={`${prefix}/districts`}
+              className="group flex items-center justify-between gap-3 rounded-lg border border-[var(--border)] bg-[var(--bg)] px-4 py-3 hover:border-[var(--fg)]/40 hover:bg-[var(--fg)]/[0.03] transition-colors"
+            >
+              <span className="font-serif font-semibold text-sm -tracking-[0.005em]">
+                {t.findYourCandidate}
+              </span>
+              <span aria-hidden className="text-[var(--muted)] group-hover:text-[var(--fg)] transition-colors text-sm">→</span>
+            </Link>
+
             <div className="h-px bg-[var(--border)]" />
 
             <div className="flex flex-col gap-2.5">

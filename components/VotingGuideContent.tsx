@@ -513,7 +513,7 @@ export default function VotingGuideContent() {
         <div className="rounded-lg border border-border bg-muted-bg/40 p-6 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
           <div className="flex flex-col gap-1">
             <p className="font-mono text-[11px] uppercase tracking-[0.25em] text-[var(--cta)]">Ready?</p>
-            <p className="font-bold text-lg tracking-tight">Find your candidate</p>
+            <p className="font-bold text-lg tracking-tight">Find your candidates</p>
             <p className="text-sm text-muted">Browse every candidate in your district — track record, controversies, electability.</p>
           </div>
           <Link

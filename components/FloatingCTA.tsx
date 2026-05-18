@@ -41,10 +41,10 @@ export default function FloatingCTA({
           rounded-2xl sm:rounded-full bg-[var(--cta)] text-white
           px-6 py-4 sm:py-3.5
           font-serif font-bold text-base -tracking-[0.005em]
-          shadow-[0_4px_28px_-4px_var(--cta)]
+          animate-cta-attention
           hover:-translate-y-px hover:shadow-[0_8px_36px_-4px_var(--cta)]
           focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-[var(--cta)]
-          transition-all duration-150
+          transition-[transform] duration-150
         "
       >
         {label}

@@ -17,6 +17,30 @@ import { getCandidateInterviews } from "@/lib/interviews";
 import { getT } from "@/lib/i18n";
 import type { Lang } from "@/lib/i18n";
 
+// Render a summary string that may contain **bold** and [text](url) markdown.
+function InlineSummary({ text }: { text: string }) {
+  const tokens = text.split(/(\*\*[^*]+\*\*|\[[^\]]+\]\([^)]+\))/g);
+  return (
+    <p className="text-sm leading-6 break-words">
+      {tokens.map((token, i) => {
+        if (token.startsWith("**") && token.endsWith("**")) {
+          return <strong key={i} className="font-semibold text-foreground">{token.slice(2, -2)}</strong>;
+        }
+        const link = token.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
+        if (link) {
+          return (
+            <a key={i} href={link[2]} target="_blank" rel="noopener noreferrer"
+               className="text-accent hover:underline break-all">
+              {link[1]}
+            </a>
+          );
+        }
+        return <span key={i}>{token}</span>;
+      })}
+    </p>
+  );
+}
+
 export default function CandidatePageContent({
   districtNum,
   slug,
@@ -156,7 +180,7 @@ export default function CandidatePageContent({
                 <span className="text-xs uppercase tracking-wide text-muted">{t.conflictLabel}</span>
                 <ConflictBadge severity={candidate.conflictOfInterest} />
               </div>
-              <p className="text-sm leading-6">{candidate.businessInterests.conflictSummary}</p>
+              <InlineSummary text={candidate.businessInterests.conflictSummary} />
               {candidate.businessInterests.conflictSources.length > 0 && (
                 <p className="flex flex-wrap gap-x-2 gap-y-1 text-xs">
                   <span className="text-muted">{t.sourcesLabel}</span>
@@ -181,7 +205,7 @@ export default function CandidatePageContent({
                 <span className="text-xs uppercase tracking-wide text-muted">{t.transparencyLabel}</span>
                 <TransparencyBadge rating={candidate.financialTransparency} />
               </div>
-              <p className="text-sm leading-6">{candidate.businessInterests.transparencySummary}</p>
+              <InlineSummary text={candidate.businessInterests.transparencySummary} />
               {candidate.businessInterests.transparencySources.length > 0 && (
                 <p className="flex flex-wrap gap-x-2 gap-y-1 text-xs">
                   <span className="text-muted">{t.sourcesLabel}</span>
